@@ -1,130 +1,133 @@
 ---
 layout: post
 title: Extra Rules
-sidebar:
-  nav: "docs"
 ---
 
-OSR DnD rules compiled and adapted from Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).
+These rules are not mandatory and aim to increase the game’s layers of crunch.
 
-# **How to Play**
+## Heroism and Scars
 
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a D20 and add a number from your character sheet to the result. If the total is 16 or above, your character succeeds what they intended to do. Either way, the referee describes the new situation, and so on.
+After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. 
 
-- [Creating a Character](#creating-a-character)
-- [Stats & Skills](#stats--skills)
-- [Rolling](#rolling)
-- [Combat](#combat)
-- [Inventory & Equipment](#inventory)
-- [Leveling Up](#leveling-up)
+Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that danger (as defined by the referee). You can only have as many scars as your Constitution.
 
-[PDF version & Character Sheet](https://saltygoo.github.io/assets/GLOG_Gooed_Base_v1.pdf)
+## Damage Types
 
-# **Creating a Character**
+Experienced adventurers always have a variety of damage sources. Each type has a special effect on its target when more than 5 damage is inflicted in one attack:
 
-Roll 3D6 six times, halve the results and note them rounded down. These are, in order, your stats: Strength, Dexterity, Constitution, Intelligence, Wisdom and Charisma.
+<ins>Blunt:</ins> the target falls Prone if it is smaller than you.
 
-Your HP is equal to your Constitution.
-Your Movement is equal to your Strength
+<ins>Piercing:</ins> the target takes double damage if Prone or Surprised.
 
-Roll or choose a class. Add the class’s starting equipment and its first template abilities to your character sheet.
+<ins>Slashing:</ins> you can make a free attack against another adjacent target for half damage.
 
-# Stats & Skills
+<ins>Acid:</ins> armor is reduced by 2.<br>
+<ins>Cold:</ins> take 2 dexterity damage.<br>
+<ins>Electric:</ins> acts last next turn.<br>
+<ins>Fire:</ins> cannot heal this turn.<br>
+<ins>Mind:</ins> take 2 intelligence damage.<br>
+<ins>Magical:</ins> ignores armor.<br>
+<ins>Poison:</ins> take 2 constitution damage.
 
-<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting wounded.
+## Stat Damage
 
-<ins>Movement</ins> might be for climbing, jumping, or rolled against a monster’s movement when trying to escape it. Failure means the battle has simply moved to another room.
+Various monsters and class abilities can damage your stats instead of your HP. Here is what happens when one of your stats reaches 0:
 
-<ins>Armor</ins> is the amount of damage you ignore on each attack.
+<ins>Strength:</ins> you are Stunned, yet can talk.<br>
+<ins>Dexterity:</ins> you are Prone and cant stand.<br>
+<ins>Constitution:</ins> you are Dying.<br>
+<ins>Intelligence:</ins> you are Dazed and mute.<br>
+<ins>Wisdom:</ins> you are Confused.<br>
+<ins>Charisma:</ins> you are forgotten. Nobody, even friends, can help you in any way.
 
-A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc) and you can replace your stat with your Skill for any roll that would make sense. You can have as many Skills as your Intelligence.
+## Conditions
 
-# Rolling
+Blinded: Cannot see. You are disadvantaged on your attacks, altertness and Dexterity. Others are advantaged on their attacks.
 
-When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed. 
+Charmed: You cannot attack, hurt or say anything bad to or about the source of the charm. You fail all rolls against it. 
 
-A referee should only call for a roll when both success and failure are interesting. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
+Confused: Each round, you must declare three potential actions that are fully distinct from each other (no shared objects or verbs). Roll 1D3 and do one randomly.
 
-A contested roll is when the referee rolls using the monster’s stats and you have to roll higher.
+Cursed: You cannot benefit from any magic.
 
-Rolling with advantage means you roll twice and choose the best. Disadvantage is the opposite.
+Dazed: You can act OR move.  
 
-# Combat
+Deafened: You cant hear. Your teammates cannot talk to you.
 
-<ins>Turn Order:</ins> Roll Wisdom. If you succeed you act before the monsters. Players and monsters that surprised their enemies have a free turn before the battle starts.
+Dying: See combat.
 
-<ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one action, which can be moving further.
+Fatigued: -1 to all stats. Cumulative.
 
-<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons). The monster will roll Dexterity. You hit if you roll higher. 
+Frightened: You cannot interact with the source of your fear until you have spent a full turn without seeing it.
 
-When you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. 
+Roll a D6: 1, drop whatever you are holding; 2, scream; 3, fall prone; 4, grapple closest ally or object; 5, you are stunned for one turn; 6, run away.
 
-Rolling 20 on attack means do double damage. Rolling 20 on dodge means you get a free attack.
+Grappled: Cannot move.
 
-<ins>Dying:</ins> Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. Each wound reduces your maximum HP by 1, down to 0.
+Invisible: Advantage on attack rolls and stealth. Attacks against you are made with disadvantage.
 
-When you are dying, you must roll Constitution on each of your turns. On a roll of 1, your character dies. On a failure, you gain 1 Wound. On a success, nothing changes. On a roll of 20 or on result of 24 or higher, you stabilize and stop dying. If you reach 10 wounds, you die.
+Petrified: You are stunned. You resist the first 10 damage of each attack.
 
-Up to two allies can roll Intelligence to stabilize you. Expanding bandages gives a bonus of 2 on that roll. Stabilizing does not remove wounds.
+Poisoned: You are disadvantaged on all you do. Poisons, diseases and other substances have other unique effects.
 
-<ins>Healing:</ins> A 1 hour break heals your HP to half its current maximum.
+Prone: You are easier to hit in melee, but harder at range. You cannot attack very well nor move very fast. Standing up takes all your movement for the turn.
 
-A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
+Stunned: You skip your turn and you fail all Strength and Dexterity rolls. Melee attacks automatically hit you, ranged ones have advantage.
 
-Medical care heals all Wounds. Medical care requires to play another character for 1 session and for the wounded character to spend this time in a safe space with healers. 
 
-# Inventory
 
-You have as many inventory slots as twice your strength. Small items like potions and daggers can be stacked in packs of 3. Ammunition, in stacks of 12. Each item above your limit lowers your Dexterity by 1.
+Rare Metals
 
-It takes an action to retrieve an item, unless it is in your first 3 slots.
+A good monster hunter knows which weapon to bring to slay a beast. Different metals have the potential to overcome a beast’s most impervious resistances.
 
-# Equipment
+Adamantium: Nothing is more solid than adamantium. An object hit by adamantium takes double damage, including constructs. An adamantium object is unbreakable.
 
-**Melee Weapons:**
+Cold Iron: A faerie that touches cold iron loses all abilities and resistances for a turn. They can smell it.
 
-<ins>Improvised (wine bottle, chair)</ins>
-1D4 damage, can be throw
+Silver: Silvered weapons ignore all the resistances of undead creatures and creatures that are not in their true form.
 
-<ins>Light (dagger, hatchet)</ins>
-1D6 damage, can be thrown
+Mithral: Is light like cloth. Weapons made of mithral can be used with Dexterity. Armors made of mithral do not penalize Dexterity.
 
-<ins>Medium (sword, axe)</ins>
-1D8 damage, 1D10 with two hands
+Radium: Radium sheds light like a candle. It ignore the resistances of celestial creatures. Will poison mortals over time.
 
-<ins>Heavy (greatsword, greataxe)</ins>
-1D12 damage, needs two hands
+Platinum : Platinum repairs itself. Platinum weapons ignore the resistances of aberrations, as well as their save on kill trait.
 
-<ins>Pole (spear, halberd)</ins>
-1D8 damage, needs two hands,
-can attack from behind other creatures
+Treasures
 
-**Ranged Weapons:**
+In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade.
 
-<ins>Light (darts)</ins>
-1 damage, can attack twice
+Traveling
 
-<ins>Medium (sling)</ins>
-1D4 damage
+Inside a dungeon, any worthwhile action takes 10 minutes. Roll for encounter every 30 minutes. Ask the players to choose odd or even, if they lose, one torch or lantern is depleted.
 
-<ins>Heavy (bow)</ins>
-1D6 damage, needs two hands
+On the world map, crossing a hex takes half a day. Roll for encounter twice per day. Environmental penalties can happen.
 
-<ins>Mechanical (crossbow, musket)</ins>
-1D12 damage, needs two hands,
-must take one action to recharge
 
-**Armor:**
 
-All armor pieces reduce damage by 2, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors. 
 
-# Leveling Up
+Between Adventures
 
-In your adventures you will find treasures. By spending 4 treasures carousing, a character can level up. You gain +2 HP and you can select a new class template (up to 4 total). 
+Leveling up is just one way of gaining new powers. This is where you can convert treasures in character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
 
-Choose a stat. Roll 1D6+1D4. If the result is higher, your stat increase by 1.
+Are you in a city? You can spend a treasure to carouse. Roll on the camp follower table. Make a constitution check, if you fail, roll on the carousing table. You level up if you spent 4 treasures.
 
-After level 4, you get 1 Mastery point instead of any template or bonus.
+You could also spend a treasure to build and furnish a room somewhere, or hire or maintain a follower (up to your charisma).
 
-<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an adjacent ally at 1:1.
+Do you have access to a humanoid? You can spend a treasure to learn a language, a skill from them, or even new attacks.
+
+Have you captured or slain a beast? You could spend a treasure to craft an item with its parts, tame one, or teach it a one word order.
+
+Can you cast spells? You can spend treasures researching new spells by combining words from spells you already know. If you have a fey’s charm, you can be even more creative. 
+
+You have access to an aberration, a demon or a book about them? Be careful, but you could spend a treasure to roll on their mutation tables. Some are even beneficial! 
+
+Can you talk or summon a divine creature, a devil? You can spend treasure to roll on their pact and reward table. You might get a good deal.
+
+Do you have access to a construct or a book about them? You could spend treasures to create one!
+
+Have access to an elemental spirit? You could spend treasures to bind one to you and gain magical powers, or learn how to summon one.
+
+Would you dare to study the undead? You could spend treasures to learn how to create one or even become one.
+
+All these tables are in the monster manual held by the referee and should be negotiated with them.
 
