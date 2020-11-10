@@ -5,7 +5,16 @@ title: Extra Rules
 
 These rules are not mandatory and aim to increase the game’s layers of crunch.
 
-## Heroism and Scars
+- [Heroism & Scars](#heroism--scars)
+- [Damage Types](#damage-types)
+- [Stat Damage](#stat-damage)
+- [Conditions](#conditions)
+- [Rare Metals](#rare-metals)
+- [Treasures](#treasures)
+- [Traveling](#traveling)
+- [Between Adventures](#between-adventures)
+
+## Heroism & Scars
 
 After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. 
 
