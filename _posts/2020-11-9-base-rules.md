@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GLoG Hack - Base Rules
+sidebar:
+  nav: "docs"
 ---
 
 OSR DnD rules compiled and adapted from Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).
