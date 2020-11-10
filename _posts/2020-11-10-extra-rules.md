@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GLoG Hack - Base Rules
+title: Extra Rules
 sidebar:
   nav: "docs"
 ---
