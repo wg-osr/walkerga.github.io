@@ -196,13 +196,13 @@ img {
   cursor: pointer;
   font-family: $cambria;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 48px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkgray;
   font-size: 16px;
 
   @include mobile {
