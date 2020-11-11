@@ -6,7 +6,7 @@ title: Extra Rules
 These rules are not mandatory and aim to increase the game’s layers of crunch.
 
 - [Heroism & Scars](#heroism--scars) (post game character growth)
-- [Damage Types](#damage-types) (damage
+- [Damage Types](#damage-types) (damage combos)
 - [Stat Damage](#stat-damage) 
 - [Conditions](#conditions)
 - [Rare Metals](#rare-metals) (mithril and shit)
