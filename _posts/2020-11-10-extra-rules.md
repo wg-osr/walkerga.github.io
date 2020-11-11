@@ -20,6 +20,8 @@ After a session, note one heroic thing you did. You can add 1 to a Skill that di
 
 Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that specific danger (as defined by the referee). You can only have as many scars as your Constitution.
 
+---
+
 ## Damage Types
 
 Experienced adventurers always bring a variety of weapons with them. Each type has a special effect when more than 5 damage is inflicted in one attack:
@@ -38,6 +40,8 @@ Experienced adventurers always bring a variety of weapons with them. Each type h
 <ins>Magical:</ins> must save to cast spells next turn.<br>
 <ins>Poison:</ins> take 2 constitution damage.
 
+---
+
 ## Stat Damage
 
 Various monsters and spells can damage your stats instead of your HP. Here is what happens when one of your stats reaches 0:
@@ -48,6 +52,8 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 <ins>Intelligence:</ins> you are Dazed and mute.<br>
 <ins>Wisdom:</ins> you are Confused.<br>
 <ins>Charisma:</ins> you are forgotten. Nobody, even friends, can help you in any way.
+
+---
 
 ## Conditions
 
@@ -63,7 +69,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 <ins>Deafened:</ins> You cant hear. Your teammates cannot talk to you.
 
-<ins>Dying:</ins> See [[ combat | base-rules#combat ]].
+<ins>Dying:</ins> See [[ combat | https://saltygoo.github.io/2020/11/09/base-rules/s#combat ]].
 
 <ins>Fatigued:</ins> -1 to all stats. Cumulative.
 
@@ -81,6 +87,8 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 <ins>Stunned:</ins> You skip your turn and you fail all Strength and Dexterity rolls. Melee attacks automatically hit you, ranged ones have advantage.
 
+---
+
 ## Rare Metals
 
 A good monster hunter knows which weapon to bring to slay which beast. Different metals have the potential to overcome a beast’s most impervious resistances.
@@ -97,15 +105,21 @@ A good monster hunter knows which weapon to bring to slay which beast. Different
 
 <ins>Platinum:</ins> Platinum repairs itself. Platinum weapons ignore the resistances of aberrationns, as well as their save to kill ability.
 
+---
+
 ## Treasures
 
 In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things 1:1. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade and leveling up.
+
+---
 
 ## Traveling
 
 Inside a dungeon, any worthwhile action takes 10 minutes. Roll for encounters every 30 minutes. Ask the players to choose odd or even, if they lose, one torch or lantern is depleted.
 
 On the world map, crossing a hex takes half a day. Roll for encounters twice per day. Environmental penalties can happen.
+
+---
 
 ## Between Adventures
 
