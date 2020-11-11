@@ -14,7 +14,7 @@ Magic.
 
 For every Magic User template you have, you gain one extra Spell Dice.
 
-**A:** Identify, School, Spells <br>  
+**A:** Identify, School, Spells
 **B:** Call Familiar <br>
 **C:** Second Sight <br>
 **D:** Arcane Communion <br>
