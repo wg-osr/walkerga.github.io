@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+u/SaltyGoo's quarantine project to compile all his GLoG ressources and monsters. For my players and whoever wants.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My impossible plan : I compiled a list of 9K monsters from the history of DnD and I'm going through them randomly making them GLoG friendly and generate a crazy hex generator from them. Oh and learn GitHub.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+u/SaltyGoo on reddit? is that enough?
