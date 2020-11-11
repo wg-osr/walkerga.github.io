@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classes
-permalink: /c;asses/
+permalink: /classes/
 ---
 
 - The [Figther](/class/fighter)
