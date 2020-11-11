@@ -2,6 +2,7 @@
 layout: post
 title: The Fighter
 ---
+Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pionneers's [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)
 
 <ins>Starting Equipment</ins><br>
 1 weapon of your choice (and ammunition), brigandine, chain mail. 
@@ -31,9 +32,7 @@ You can choose to sacrifice a worn piece of armor to reduce incoming damage by 1
 When you kill a creature or roll max damage, you can make another attack.
 
 ## Tricky
-Whenever you roll a natural 20 on an attack roll, you can deal double damage *and* attempt a free combat maneuver.
-
-Whenever you roll a 19 on a attack roll, you deal regular damage *and* attempt a free combat maneuver.
+Whenever you roll a natural 19 or 20 on an attack roll, you can attempt a combat maneuvre on top of the damage.
 
 ## Outlast
 You can spread the damage you take between your HP, Strength, Dexterity and Constitution as you see fit. 
