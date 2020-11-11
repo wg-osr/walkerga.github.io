@@ -73,7 +73,9 @@ You can pool your SD with other magic users. Catastrophes affect all of you.
 
 ---
 
-# Familiars (Referee Guide)
+*Notes for the Referee*
+
+# Familiars
 
 Familiars usually want to ally themselves with promising young savants with a bright destiny. They want power, indirectly. After bargaining, the hopeful spellcaster makes a intelligence check with the following modifiers.
 
