@@ -11,10 +11,10 @@ Your starting weapon.
 
 For every Fighter template you have, increase your HP by 1.
 
-**A:** Notches, Parry
-**B:** Cleave, Tricky 
-**C:** Outlast, Sentinel 
-**D:** Double Attack
+**A:** Notches, Parry <br>
+**B:** Cleave, Tricky <br>
+**C:** Outlast, Sentinel <br>
+**D:** Double Attack <br>
 
 ## Notches
 Each time you kill a creature, roll a D20 under your total number of kills with that weapon type. If you succeed, you unlock a new ability for that weapon, chosen from the list below, to a maximum of 4. Keep track of your kill totals and special abilities.
