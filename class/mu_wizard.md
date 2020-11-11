@@ -9,7 +9,7 @@ permalink: /class/magic-user/wizard
 The Wizard is a type of [Magic User](/class/magic-user)
 
 <ins>Starting Equipment</ins><br>
-Roll once for each of your starting spells’ school. A spell book. Ink & quill.
+Strange hat, spell book, ink & quill.
 
 <ins>Spell List</ins><br>
 You learn any spell from any schools:
