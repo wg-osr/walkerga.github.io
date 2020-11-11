@@ -8,10 +8,10 @@ permalink: /class/magic-user/wizard
 
 The Wizard is a type of [Magic User](/class/magic-user)
 
-<ins>Starting Equipment</ins>
+<ins>Starting Equipment</ins><br>
 Roll once for each of your starting spells’ school. A spell book. Ink & quill.
 
-<ins>Spell List</ins>
+<ins>Spell List</ins><br>
 You learn any spell from any schools:
 1. Animorphosis 
 1. Apotropaism
@@ -26,10 +26,10 @@ You learn any spell from any schools:
 1. Translocation
 1. Vivimancy
 
-<ins>Perk</ins>
+<ins>Perk</ins><br>
 If you dont like the spell you rolled upon level up, you can reroll it.
 
-<ins>Drawback</ins>
+<ins>Drawback</ins><br>
 None
 
 <ins>Cantrips</ins>
