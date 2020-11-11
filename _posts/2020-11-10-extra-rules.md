@@ -5,8 +5,8 @@ title: Extra Rules
 
 These rules are not mandatory and aim to increase the game’s layers of crunch.
 
-- [Heroism & Scars](#heroism--scars)
-- [Damage Types](#damage-types)
+- [Heroism & Scars](#heroism--scars) (post game character growth)
+- [Damage Types](#damage-types) 
 - [Stat Damage](#stat-damage)
 - [Conditions](#conditions)
 - [Rare Metals](#rare-metals)
@@ -18,29 +18,29 @@ These rules are not mandatory and aim to increase the game’s layers of crunch.
 
 After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. 
 
-Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that danger (as defined by the referee). You can only have as many scars as your Constitution.
+Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that specific danger (as defined by the referee). You can only have as many scars as your Constitution.
 
 ## Damage Types
 
-Experienced adventurers always have a variety of damage sources. Each type has a special effect on its target when more than 5 damage is inflicted in one attack:
+Experienced adventurers always bring a variety of weapons with them. Each type has a special effect when more than 5 damage is inflicted in one attack:
 
 <ins>Blunt:</ins> the target falls Prone if it is smaller than you.
 
-<ins>Piercing:</ins> the target takes double damage if Prone or Surprised.
+<ins>Piercing:</ins> the target takes double damage if Prone or Surprised (at any damage).
 
-<ins>Slashing:</ins> you can make a free attack against another adjacent target for half damage.
+<ins>Slashing:</ins> an adjacent target has to dodge or take half damage.
 
 <ins>Acid:</ins> armor is reduced by 2.<br>
 <ins>Cold:</ins> take 2 dexterity damage.<br>
 <ins>Electric:</ins> acts last next turn.<br>
 <ins>Fire:</ins> cannot heal this turn.<br>
 <ins>Mind:</ins> take 2 intelligence damage.<br>
-<ins>Magical:</ins> ignores armor.<br>
+<ins>Magical:</ins> must save to cast spells next turn.<br>
 <ins>Poison:</ins> take 2 constitution damage.
 
 ## Stat Damage
 
-Various monsters and class abilities can damage your stats instead of your HP. Here is what happens when one of your stats reaches 0:
+Various monsters and spells can damage your stats instead of your HP. Here is what happens when one of your stats reaches 0:
 
 <ins>Strength:</ins> you are Stunned, yet can talk.<br>
 <ins>Dexterity:</ins> you are Prone and cant stand.<br>
@@ -51,7 +51,7 @@ Various monsters and class abilities can damage your stats instead of your HP. H
 
 ## Conditions
 
-<ins>Blinded:</ins> Cannot see. You are disadvantaged on your attacks, altertness and Dexterity. Others are advantaged on their attacks.
+<ins>Blinded:</ins> Cannot see. You are disadvantaged on your attacks and Dexterity. Others are advantaged on their attacks.
 
 <ins>Charmed:</ins> You cannot attack, hurt or say anything bad to or about the source of the charm. You fail all rolls against it. 
 
@@ -59,17 +59,15 @@ Various monsters and class abilities can damage your stats instead of your HP. H
 
 <ins>Cursed:</ins> You cannot benefit from any magic.
 
-<ins>Dazed:</ins> You can act OR move.  
+<ins>Dazed:</ins> You can act OR move on your turn.  
 
 <ins>Deafened:</ins> You cant hear. Your teammates cannot talk to you.
 
-<ins>Dying:</ins> See combat.
+<ins>Dying:</ins> See [[ combat | base-rules#combat ]].
 
 <ins>Fatigued:</ins> -1 to all stats. Cumulative.
 
-<ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it.
-
-<ins>Roll a D6:</ins> 1, drop whatever you are holding; 2, scream; 3, fall prone; 4, grapple closest ally or object; 5, you are stunned for one turn; 6, run away.
+<ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1, drop whatever you are holding; 2, scream; 3, fall prone; 4, grapple closest ally or object; 5, you are stunned for one turn; 6, run away.
 
 <ins>Grappled:</ins> Cannot move.
 
@@ -77,7 +75,7 @@ Various monsters and class abilities can damage your stats instead of your HP. H
 
 <ins>Petrified:</ins> You are stunned. You resist the first 10 damage of each attack.
 
-<ins>Poisoned:</ins> You are disadvantaged on all you do. Poisons, diseases and other substances have other unique effects.
+<ins>Poisoned:</ins> You are disadvantaged in all your actions. Poisons, diseases and other substances have other unique effects depending on the source.
 
 <ins>Prone:</ins> You are easier to hit in melee, but harder at range. You cannot attack very well nor move very fast. Standing up takes all your movement for the turn.
 
@@ -85,7 +83,7 @@ Various monsters and class abilities can damage your stats instead of your HP. H
 
 ## Rare Metals
 
-A good monster hunter knows which weapon to bring to slay a beast. Different metals have the potential to overcome a beast’s most impervious resistances.
+A good monster hunter knows which weapon to bring to slay which beast. Different metals have the potential to overcome a beast’s most impervious resistances.
 
 <ins>Adamantium:</ins> Nothing is more solid than adamantium. An object hit by adamantium takes double damage, including constructs. An adamantium object is unbreakable.
 
@@ -97,25 +95,25 @@ A good monster hunter knows which weapon to bring to slay a beast. Different met
 
 <ins>Radium:</ins> Radium sheds light like a candle. It ignore the resistances of celestial creatures. Will poison mortals over time.
 
-<ins>Platinum:</ins> Platinum repairs itself. Platinum weapons ignore the resistances of aberrations, as well as their save on kill trait.
+<ins>Platinum:</ins> Platinum repairs itself. Platinum weapons ignore the resistances of aberrationns, as well as their save to kill ability.
 
 ## Treasures
 
-In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade.
+In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things 1:1. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade and leveling up.
 
 ## Traveling
 
-Inside a dungeon, any worthwhile action takes 10 minutes. Roll for encounter every 30 minutes. Ask the players to choose odd or even, if they lose, one torch or lantern is depleted.
+Inside a dungeon, any worthwhile action takes 10 minutes. Roll for encounters every 30 minutes. Ask the players to choose odd or even, if they lose, one torch or lantern is depleted.
 
-On the world map, crossing a hex takes half a day. Roll for encounter twice per day. Environmental penalties can happen.
+On the world map, crossing a hex takes half a day. Roll for encounters twice per day. Environmental penalties can happen.
 
 ## Between Adventures
 
 Leveling up is just one way of gaining new powers. This is where you can convert treasures in character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
 
-Are you in a city? You can spend a treasure to **carouse**. Roll on the camp follower table. Make a constitution check, if you fail, roll on the carousing table. You level up if you spent 4 treasures.
+Are you in a city? You can spend a treasure to **carouse**. Roll on the  [Camp Follower Table](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html "Coins and Scrolls"). Make a constitution check, if you fail, roll on the [Carousing Table](https://jrients.blogspot.com/2008/12/party-like-its-999.html "Jeff's Gameblog"). You level up if you spent 4 treasures.
 
-You could also spend a treasure to **build** and furnish a room somewhere, or **hire** or maintain a follower (up to your charisma).
+You could also spend a treasure to **build** and furnish a small room somewhere, or **hire** or maintain a follower (up to your Charisma).
 
 Do you have access to a humanoid? You can spend a treasure to **learn** a language, a skill from them, or even new attacks.
 
@@ -133,4 +131,4 @@ Have access to an elemental spirit? You could spend treasures to **bind** one to
 
 Would you dare to study the undead? You could spend treasures to learn how to **create** one or even become one.
 
-All these tables are in the monster section held by the referee and should be negotiated with them.
+All these tables are in the monster section held by the referee and should be negotiated with them. SoonTM
