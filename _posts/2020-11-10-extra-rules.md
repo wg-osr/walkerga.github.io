@@ -6,13 +6,13 @@ title: Extra Rules
 These rules are not mandatory and aim to increase the game’s layers of crunch.
 
 - [Heroism & Scars](#heroism--scars) (post game character growth)
-- [Damage Types](#damage-types) 
-- [Stat Damage](#stat-damage)
+- [Damage Types](#damage-types) (damage
+- [Stat Damage](#stat-damage) 
 - [Conditions](#conditions)
-- [Rare Metals](#rare-metals)
-- [Treasures](#treasures)
+- [Rare Metals](#rare-metals) (mithril and shit)
+- [Treasures](#treasures) (alternative to xp and money)
 - [Traveling](#traveling)
-- [Between Adventures](#between-adventures)
+- [Between Adventures](#between-adventures) (ways to spend Treasures)
 
 ## Heroism & Scars
 
