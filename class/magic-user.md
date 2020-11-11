@@ -14,10 +14,10 @@ Magic.
 
 For every Magic User template you have, you gain one extra Spell Dice.
 
-**A:** Identify, School, Spells<br>  
-**B:** Call Familiar<br>
-**C:** Second Sight<br>
-**D:** Arcane Communion<br>
+**A:** Identify, School, Spells <br>  
+**B:** Call Familiar <br>
+**C:** Second Sight <br>
+**D:** Arcane Communion <br>
 
 ## Identify
 By licking an object, you can tell whether or not it is magical.
