@@ -18,6 +18,8 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 [PDF version & Character Sheet](https://saltygoo.github.io/assets/GLOG_Gooed_Base_v1.pdf)
 
+---
+
 # **Creating a Character**
 
 Roll 3D6 six times, halve the results and note them rounded down. These are, in order, your stats: Strength, Dexterity, Constitution, Intelligence, Wisdom and Charisma.
@@ -26,6 +28,8 @@ Your HP is equal to your Constitution.
 Your Movement is equal to your Strength
 
 Roll or choose a class. Add the class’s starting equipment and its first template abilities to your character sheet.
+
+---
 
 # Stats & Skills
 
@@ -37,6 +41,8 @@ Roll or choose a class. Add the class’s starting equipment and its first templ
 
 A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc) and you can replace your stat with your Skill for any roll that would make sense. You can have as many Skills as your Intelligence.
 
+---
+
 # Rolling
 
 When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed. 
@@ -46,6 +52,8 @@ A referee should only call for a roll when both success and failure are interest
 A contested roll is when the referee rolls using the monster’s stats and you have to roll higher.
 
 Rolling with advantage means you roll twice and choose the best. Disadvantage is the opposite.
+
+---
 
 # Combat
 
@@ -71,11 +79,15 @@ A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
 
 Medical care heals all Wounds. Medical care requires to play another character for 1 session and for the wounded character to spend this time in a safe space with healers. 
 
+---
+
 # Inventory
 
 You have as many inventory slots as twice your strength. Small items like potions and daggers can be stacked in packs of 3. Ammunition, in stacks of 12. Each item above your limit lowers your Dexterity by 1.
 
 It takes an action to retrieve an item, unless it is in your first 3 slots.
+
+---
 
 # Equipment
 
@@ -115,6 +127,8 @@ must take one action to recharge
 **Armor:**
 
 All armor pieces reduce damage by 2, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors. 
+
+---
 
 # Leveling Up
 
