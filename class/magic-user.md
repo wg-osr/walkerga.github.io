@@ -73,7 +73,8 @@ You can pool your SD with other magic users. Catastrophes affect all of you.
 
 ---
 
-*Notes for the Referee*
+<br>
+*Referee Zone - Not for player*
 
 # Familiars
 
