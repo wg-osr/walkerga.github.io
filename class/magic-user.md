@@ -7,10 +7,10 @@ permalink: /class/magic-user
 *Adapted from Two Goblins in a Trench Coat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/a-conduit-for-poor-decisions-glog.html)*
 
 <ins>Starting Equipment</ins><br>
-A spellbook, a strange hat.
+Depends on your magic school.
 
 <ins>Starting Skills (+5)</ins><br>
-Magic.
+Magic. Your starting weapon (if any).
 
 For every Magic User template you have, you gain one extra Spell Dice.
 
