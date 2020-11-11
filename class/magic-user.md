@@ -69,4 +69,42 @@ Familiars can provide a service once per day. For each service, you owe the fami
 You always see invisible things as a faint lensing of light, and can tell roughly how big they are. By making eye contact with someone, you can tell if they are possessed, undead, protected by divinity, or a spell caster.
 
 ## Arcane Communion
-You can pool your SD with other magic users. Catastrophes affect all of you. 
+You can pool your SD with other magic users. Catastrophes affect all of you.
+
+---
+
+# Familiars (Referee Guide)
+
+Familiars usually want to ally themselves with promising young savants with a bright destiny. They want power, indirectly. After bargaining, the hopeful spellcaster makes a intelligence check with the following modifiers.
+
+- Disadvantage if they are boring, meek, or unambitious.
+- Advantage if they are power-hungry or promise the familiar great things.
+- The character can sacrifice things to appease the familiar. First, they sacrifice as much stuff as they want, then make a wisdom check. Success means that they get a +1 bonus for every treasure and magic item sacrificed this way. Failure means that you have misjudged the familiar’s desires and your sacrifices will count for nothing.
+
+## D8 Familar Goals
+
+1. Exploration of new frontiers (of the mind and/or other planes) and cosmic truth.
+1. Iconoclasm and an end to banal religion.
+1. Magical power to bend the universe.
+1. Political power to rule the world and become a leader of men (preferred: starting a cult, marrying royalty).
+1. Deaths of weaklings and fools.
+1. Carnal pleasure, incomprehensible ecstasy.
+1. Construction of a vast object, built for some distant, undefined purpose.
+1. Destruction of the self through dissolution, dissociative drugs, anomie, and constant exposure to danger.
+
+## D3 Breach of Covenant
+
+1. cursed
+1. random mutation
+1. permanent -1 to an ability score
+
+## D8 Unique Power
+
+1. Can see the future in spilled intestines, quite accurate.
+1. Can teleport the caster (only) to the nearest graveyard.
+1. Can double your current HP, but will fade in D20 hours.
+1. Can create false gold that will disappear in D20 hours
+1. Can create a feast fit for a king
+1. Can make a virgin fall in love with you
+1. Can fetch a named item that has been forgotten by all
+1. No special power, but it will pretend that it has one
