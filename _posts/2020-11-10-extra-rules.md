@@ -16,6 +16,8 @@ These rules are not mandatory and aim to increase the game’s layers of crunch.
 
 [PDF version](https://saltygoo.github.io/assets/GLOG_Gooed_Extra_v1.pdf)
 
+---
+
 ## Heroism & Scars
 
 After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. 
