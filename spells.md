@@ -8,7 +8,7 @@ permalink: /spells/
 
 # Spell Schools 
 ### 1. Animorphosis 
-All iterations of [animal] should be replaced by the same random animal when the spell is first found.
+All iterations of [animal] should be replaced by a specific animal when the spell is first found.
 <ol>
 {% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
