@@ -7,19 +7,16 @@ permalink: /spells/
 ---
 
 # Spell Schools 
-### 1. Animorphosis :)
+### 1. Animorphosis
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
 
-{% capture posts %}
-  {% for post in site.tags.animorphosis %}
-    |{{ post.title }}#{{ post.url }}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}{{ post.title }}</a><br>
+<ol>
+{% for post in site.tags.animorphosis %}
+<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+<li> {{ post.title }} </li>
+</a>
 {% endfor %}
-
+</ol>
  
 ### 2. Apotropaism
 ### 3. Cunning Craft
