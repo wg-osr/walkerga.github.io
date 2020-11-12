@@ -4,9 +4,11 @@ title: Spells
 permalink: /spells/
 ---
 
+---
 
 # Spell Schools 
 ## 1. Animorphosis 
+
 {% for post in site.tags.animorphosis %}
 <h5><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
@@ -14,6 +16,7 @@ permalink: /spells/
       </li>
       </a></h5>
 {% endfor %}
+
 ## 2. Apotropaism
 ## 3. Cunning Craft
 ## 4. Diabolism
