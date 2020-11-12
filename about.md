@@ -8,7 +8,7 @@ My quarantine project to compile all my [GLoG](http://goblinpunch.blogspot.com/2
 
 ### More Information
 
-My impossible plan : I compiled a list of 9K monsters from the history of DnD and I'm going through them randomly making them GLoG friendly and generate a crazy hex generator from them. Oh and learn GitHub.
+My impossible plan: I compiled a list of 9K monsters from the history of DnD and I'm going through them randomly making them GLoG friendly and generate a crazy hex generator from them. Same with spells. Oh and learn GitHub.
 
 ### Contact me
 
