@@ -9,14 +9,7 @@ permalink: /classes/
    - The [Wizard](/class/magic-user/wizard)
 - The [Specialist](/class/specialist)
 
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <hr/>
-  <div class="tags-expo-section">
+<<div class="tags-expo-section">
     {% for tag in site.tags %}
     <h2 id="{{ tag[0] | slugify }}">{{ tag | first }}</h2>
     <ul class="tags-expo-posts">
@@ -31,4 +24,4 @@ permalink: /classes/
     </ul>
     {% endfor %}
   </div>
-</div>
+
