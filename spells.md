@@ -13,14 +13,13 @@ All iterations of [animal] should be replaced by a specific animal specie when t
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
 {% endcapture %}
-<ol>
 {% assign sortedposts = posts | sort: 'title' %}  
 {% for post in sortedposts %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-<li> {{ post.title }} </li>
+ {{ post.title }} 
 </a>
 {% endfor %}
-</ol>
+
  
 ### 2. Apotropaism
 ### 3. Cunning Craft
