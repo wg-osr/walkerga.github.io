@@ -9,7 +9,8 @@ title: Testing v3
   {% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
-{% for post in sortedposts %}
-    {% assign postitems = post | split: '#' %}
-    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+<ol>
+  {% for post in sortedPosts %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ol>
