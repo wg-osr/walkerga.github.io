@@ -9,6 +9,7 @@ permalink: /spells/
 # Spell Schools 
 ### 1. Animorphosis 
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
+
 <ol>
 {% capture posts %}
 {% for post in site.tags.animorphosis %}
