@@ -8,7 +8,7 @@ permalink: /spells/
 
 # Spell Schools 
 ### 1. Animorphosis 
-
+All iterations of [animal] should be replaced by the same random animal when the spell is first found.
 <ol>
 {% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
@@ -59,3 +59,5 @@ permalink: /spells/
 
 <ins>Range Philosophy</ins> : 
 A human moves 30’ in a turn, so all ranges are in 30’ increment to ease calculation when playing without a grid.
+
+***The bolden italic words under a spell description are its spell words. You can mix and match the spell words you know to create new spells.***
