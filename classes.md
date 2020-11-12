@@ -38,4 +38,3 @@ permalink: /classes/
     </ul>
     {% endfor %}
   </div>
-</div>
