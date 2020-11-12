@@ -8,7 +8,11 @@ permalink: /spells/
 ## Spell Schools 
 1. Animorphosis 
 {% for post in site.tags.animorphosis %}
-<h5>{{ post.title }}</h5>
+<h5><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+      </li>
+      </a></h5>
 {% endfor %}
 1. Apotropaism
 1. Cunning Craft
