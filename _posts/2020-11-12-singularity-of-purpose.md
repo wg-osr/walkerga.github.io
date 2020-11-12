@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Singularity of Purpose [ant]
+title: Singularity of Purpose (Ant)
 ---
 
 R: 60’		D: 1 hour
