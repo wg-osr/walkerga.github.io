@@ -4,7 +4,7 @@ tags: spell animorphosis
 title: Cordiceps Apotheosis
 ---
 
-### Fungus animorphosis is named mycomorphosis.
+#### Mycomorphosis.
 
 D: Sigil
 
@@ -14,5 +14,5 @@ You retain your powers and mental statistics but take the physical ones of the n
 
 There is always 1 out of 6 chance that you reincarnate into a fly.
 
-###### Parasite + Apotheosis
+###### Fungus + Apotheosis
 ###### By SaltyGoo
