@@ -12,8 +12,9 @@ permalink: /spells/
 {% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 + {{ post.title }}
-{% endfor %}
 </a>
+{% endfor %}
+
 
 ### 2. Apotropaism
 ### 3. Cunning Craft
