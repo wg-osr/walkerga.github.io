@@ -5,10 +5,10 @@ title: Testing v3
 
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
-  ø{{ post.title }}#{{ post.url }}
+  |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedposts = posts | split: 'ø' | sort %}
+{% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
     <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
