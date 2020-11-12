@@ -10,17 +10,18 @@ permalink: /spells/
 ### 1. Animorphosis
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
 
+<ol>
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
 {% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}  
+{% assign sortedposts = posts | sort: 'title' %}  
 {% for post in sortedposts %}
-      {% assign postitems = post | split: '#' %}
-      <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+<li> {{ post.title }} </li>
+</a>
 {% endfor %}
-                               
+</ol>
+ 
 ### 2. Apotropaism
 ### 3. Cunning Craft
 ### 4. Diabolism
