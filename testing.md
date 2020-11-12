@@ -12,7 +12,7 @@ title: Testing v13
 <ol>
 {% for post in sortedposts %}
 {% assign postitems = post | split: '#' %}
-   <li> <a class="post-title" href="{{ site.baseurl }}{{ post.url }}"></li>
+   <li> <a href={{postitems[1]}}>{{ postitems[0] }}</a></li>
 {% endfor %}
 </ol>
 
