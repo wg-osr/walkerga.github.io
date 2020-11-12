@@ -17,9 +17,7 @@ All iterations of [animal] should be replaced by a specific animal specie when t
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-1. {{ post.title }} 
-</a>
+    <a href={{ postitems[1] }}">{{ postitems[0] }}{{ post.title }}</a><br>
 {% endfor %}
 
  
