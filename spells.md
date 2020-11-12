@@ -10,10 +10,10 @@ permalink: /spells/
 ### 1. Animorphosis :)
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
 
-<ol>
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
 {% endcapture %}
+<ol>
 {% assign sortedposts = posts | sort: 'title' %}  
 {% for post in sortedposts %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
