@@ -17,7 +17,6 @@ permalink: /classes/
         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
         {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
       </a>
       {% endfor %}
