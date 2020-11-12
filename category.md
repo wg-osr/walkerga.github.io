@@ -1,3 +1,4 @@
+// {% for post in site.tags.XXX %} (specific tag)
 
 <div class="tags-expo-section">
     {% for tag in site.tags %}
