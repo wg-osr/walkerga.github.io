@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Animal Allure
+title: The [Animal] Allure
 ---
 
 R: 60’		D: [dice]*10 minutes
