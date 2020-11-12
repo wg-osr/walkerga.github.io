@@ -23,7 +23,7 @@ permalink: /spells/
 
 ### Lexicon
 
-<ins>R<ins> : Range	  <ins>D<ins> : Duration
+<ins>R</ins> : Range	  <ins>D</ins> : Duration
 
 <ins>[dice]</ins> : the number of rolled dices.
 
