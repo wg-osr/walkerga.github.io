@@ -1,8 +1,10 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Formorphosis - Singularity of Purpose
+title: Ant Magic - Singularity of Purpose
 ---
+
+Ant magic is called formorphosis.
 
 R: 60’		D: 1 hour
 
