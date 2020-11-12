@@ -5,7 +5,7 @@ permalink: /spells/
 ---
 
 
-### Spell Schools 
+## Spell Schools 
 1. Animorphosis 
 1. Apotropaism
 1. Cunning Craft
@@ -19,6 +19,7 @@ permalink: /spells/
 1. Translocation
 1. Vivimancy
 
+<br>
 ---
 
 ### Lexicon
