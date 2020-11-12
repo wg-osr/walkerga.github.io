@@ -7,7 +7,7 @@ permalink: /spells/
 ---
   
 # Spell Schools 
-### 1. Animorphosis 8^)
+### 1. Animorphosis
 Magic that relates to becoming like a specific animal. Formorphosis is ant magic. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first found.
 
 <ol>
