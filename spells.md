@@ -11,9 +11,7 @@ permalink: /spells/
 
 {% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }}
-      </li>
+1. {{ post.title }}
 </a>
 {% endfor %}
 
