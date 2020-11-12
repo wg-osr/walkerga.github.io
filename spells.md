@@ -5,8 +5,8 @@ permalink: /spells/
 ---
 
 
-## Spell Schools 
-1. Animorphosis 
+# Spell Schools 
+## 1. Animorphosis 
 {% for post in site.tags.animorphosis %}
 <h5><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
@@ -14,17 +14,17 @@ permalink: /spells/
       </li>
       </a></h5>
 {% endfor %}
-1. Apotropaism
-1. Cunning Craft
-1. Diabolism
-1. Elementalism
-1. Necromancy
-1. Physiurgy
-1. Psychomancy
-1. Rope Tricks
-1. Spiritualism
-1. Translocation
-1. Vivimancy
+## 2. Apotropaism
+## 3. Cunning Craft
+## 4. Diabolism
+## 5. Elementalism
+## 6. Necromancy
+## 7. Physiurgy
+## 8. Psychomancy
+## 9. Rope Tricks
+## 10. Spiritualism
+## 11. Translocation
+## 12. Vivimancy
 
 <br>
 
