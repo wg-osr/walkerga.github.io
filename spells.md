@@ -55,7 +55,7 @@ Magic that relates to becoming like a specific animal. Formorphosis is ant magic
 
 <ins>Sigil</ins> : Your unique symbol. It takes 10 minute to scribe and you can only have one per Magic User level at a time. It is permanent until you cast a sigil spell above your limit. If you do, the oldest sigil fades but is still visible.
 
-<ins>Valuable / Treasure</ins> : Means the spell uses a component worth [valuables or treasures](/2020/11/10/extra-rules/).
+<ins>Valuable / Treasure</ins> : Means the spell uses a component worth [valuables or treasures](/2020/11/10/extra-rules#treasures).
 
 <ins>HD</ins> : Means Hit Dice, the level of the monster, which the Referee knows. The minimum level is 1.
 
@@ -71,4 +71,4 @@ Magic that relates to becoming like a specific animal. Formorphosis is ant magic
 <ins>Range Philosophy</ins> : 
 A human moves 30’ in a turn, so all ranges are in 30’ increment to ease calculation when playing without a grid.
 
-***The bolden italic words under a spell description are its spell words. You can mix and match the spell words you know to create new spells.***
+###### The small words under a spell description are its spell words. You can mix and match the spell words you know to [create new spells](/2020/11/10/extra-rules#between-adventures).
