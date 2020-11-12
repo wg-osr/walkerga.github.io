@@ -9,13 +9,13 @@ permalink: /spells/
 # Spell Schools 
 ### 1. Animorphosis 
 
-<ul>
+<ol>
 {% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
 {% endfor %}
-</ul>
+</ol>
 
 
 ### 2. Apotropaism
