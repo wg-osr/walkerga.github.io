@@ -12,11 +12,13 @@ All iterations of [animal] should be replaced by a specific animal specie when t
 
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
+    |{{ post.title }}#{{ post.url }}
 {% endcapture %}
-{% assign sortedposts = posts | sort: 'title' %}  
+{% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
-<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
- {{ post.title }} 
+    {% assign postitems = post | split: '#' %}
+    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+1. {{ post.title }} 
 </a>
 {% endfor %}
 
