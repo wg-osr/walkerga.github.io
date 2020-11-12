@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing v6
+title: Testing v7
 ---
 
 {% capture posts %}
@@ -9,7 +9,7 @@ title: Testing v6
   {% endfor %}
 {% endcapture %}
 <ol>
-{% for post in site.tags.animorphosis %}
+{% for post in posts %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
