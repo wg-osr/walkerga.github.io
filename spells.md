@@ -10,11 +10,18 @@ permalink: /spells/
 ### 1. Animorphosis
 Magic that relates to becoming like a specific animal. Formorphosis is ant magic. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first found.
 
+{% capture posts %}
+  {% for post in site.tags.animorphosis %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
 <ol>
-{% for post in site.tags.animorphosis %}
-<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-<li> {{ post.title }} </li>
-</a>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
 {% endfor %}
 </ol>
  
