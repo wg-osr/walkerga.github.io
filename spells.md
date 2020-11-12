@@ -10,11 +10,11 @@ permalink: /spells/
 ### 1. Animorphosis 
 
 {% for post in site.tags.animorphosis %}
-<h5><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
         {{ post.title }}
       </li>
-      </a></h5>
+</a>
 {% endfor %}
 
 ### 2. Apotropaism
