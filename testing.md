@@ -8,8 +8,9 @@ title: Testing v7
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
 <ol>
-{% for post in posts %}
+{% for post in sortedposts %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
