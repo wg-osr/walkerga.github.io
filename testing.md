@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing v12
+title: Testing v13
 ---
 
 {% capture posts %}
@@ -15,3 +15,5 @@ title: Testing v12
    <li> <a class="post-title" href="{{ site.baseurl }}{{ post.url }}"></li>
 {% endfor %}
 </ol>
+
+<a href=/2020/11/12/animorph/> Animorph </a>
