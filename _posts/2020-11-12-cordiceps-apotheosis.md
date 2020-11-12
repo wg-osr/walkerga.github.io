@@ -1,10 +1,10 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Fungus Magic - Cordiceps Apotheosis
+title: Cordiceps Apotheosis
 ---
 
-Fungus magic is named mycomorphosis.
+### Fungus animorphosis is named mycomorphosis.
 
 D: Sigil
 
