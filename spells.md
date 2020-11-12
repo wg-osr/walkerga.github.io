@@ -20,6 +20,7 @@ permalink: /spells/
 1. Vivimancy
 
 <br>
+
 ---
 
 ### Lexicon
