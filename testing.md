@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing v7
+title: Testing v8
 ---
 
 {% capture posts %}
