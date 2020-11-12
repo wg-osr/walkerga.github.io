@@ -17,3 +17,4 @@ You grow spinnerets capable of ejecting a 30’ rope like strand of spider web. 
 <ins>Cocoon</ins>. Take 10 minutes to envelope a still object in a silk cocoon.
 
 ###### Silk + Spin
+###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
