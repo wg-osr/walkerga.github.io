@@ -11,3 +11,5 @@ You may charm up to [dice] HD of [animal], the victims enthralled with no save. 
 If you invest 4 dices or more in this spell, the effect becomes permanent and tey become followers.
 
 ###### *[Animal] + Charm*
+
+###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
