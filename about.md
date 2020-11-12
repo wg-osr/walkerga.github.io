@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My quarantine project to compile all his GLoG ressources and monsters. For my players and whoever wants.
+My quarantine project to compile all my GLoG ressources and monsters. For my players and whoever wants.
 
 ### More Information
 
