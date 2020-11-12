@@ -7,8 +7,12 @@ permalink: /spells/
 ---
   
 # Spell Schools 
+
+###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+
+
 ### 1. Animorphosis
-Magic that relates to becoming like a specific animal. Formorphosis is ant magic, mycomorphosis is fungus magic, etc. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first discovered.
+Magic that relates to becoming like a specific animal. Formorphosis is ant magic, mycomorphosis is fungus magic, etc. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first found.
 
 {% capture posts %}
   {% for post in site.tags.animorphosis %}
