@@ -18,8 +18,8 @@ All iterations of [animal] should be replaced by a specific animal specie when t
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-<li>    <a href={{ postitems[1] }}">{{ postitems[0] }}</a></li>
-{% endfor %}
+<a class="post-title" href="{{ postitems[1] }}">{{ postitems[0] }}">
+<li> {{ post.title }} </li>
 </ol>
 
 ### 2. Apotropaism
