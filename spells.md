@@ -5,6 +5,10 @@ permalink: /spells/
 ---
 
 ---
+  
+# Spell Schools 
+### 1. Animorphosis 8^)
+Magic that relates to becoming like a specific animal. Formorphosis is ant magic. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first found.
 
 {% capture posts %}
 {% for post in site.tags.animorphosis %}
@@ -15,15 +19,9 @@ permalink: /spells/
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
     {% unless forloop.first %}
-    <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+    1. <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
     {% endunless %} 
 {% endfor %}
-  
-# Spell Schools 
-### 1. Animorphosis 8^)
-Magic that relates to becoming like a specific animal. Formorphosis is ant magic. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) specie when the spell is first found.
-
-
  
 ### 2. Apotropaism
 ### 3. Cunning Craft
