@@ -4,7 +4,7 @@ tags: spell animorphosis
 title: Cordiceps Apotheosis
 ---
 
-#### Mycomorphosis.
+*Mycomorphosis*
 
 D: Sigil
 
