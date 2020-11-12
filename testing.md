@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing v14
+title: Testing v15
 ---
 
 {% capture posts %}
@@ -12,8 +12,8 @@ title: Testing v14
 <ol>
 {% for post in sortedposts %}
 {% assign postitems = post | split: '#' %}
-   <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
 {% endfor %}
 </ol>
-
-<a href=/2020/11/12/animorph/> Animorph </a>
