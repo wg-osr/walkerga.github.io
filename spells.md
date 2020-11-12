@@ -1,3 +1,9 @@
+---
+layout: page
+title: Spells
+permalink: /spells/
+---
+
 ## Lexicon
 
 **R** : Range	  **D** : Duration
