@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: animorphosis
+tags: spell animorphosis
 title: Animal Allure
 ---
 
