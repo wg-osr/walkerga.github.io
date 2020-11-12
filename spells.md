@@ -7,12 +7,12 @@ permalink: /spells/
 ---
 
 # Spell Schools 
-### 1. Animorphosis :)
+### 1. Animorphosis :(
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
 
 <ol>
-{% assign sortedPosts = site.posts | sort: 'title' %}
-{% for post in sortedPosts.tags.animorphosis %}
+{% assign sortedPosts = post in site.tags.animorphosis | sort: 'title' %}
+{% for post in sortedPosts %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
