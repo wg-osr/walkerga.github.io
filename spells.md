@@ -5,7 +5,7 @@ permalink: /spells/
 ---
 
 
-<ins>Spell Schools<ins> : 
+### Spell Schools 
 1. Animorphosis 
 1. Apotropaism
 1. Cunning Craft
@@ -44,5 +44,5 @@ permalink: /spells/
 - <ins>hours</ins> is for between rests. A game session.
 - <ins>sigil</ins> is permanent, but are capped by the number of Magic User templates.
 
-<ins>Range Philosophy<ins> : 
+<ins>Range Philosophy</ins> : 
 A human moves 30’ in a turn, so all ranges are in 30’ increment to ease calculation when playing without a grid.
