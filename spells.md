@@ -8,7 +8,7 @@ permalink: /spells/
 
 # Spell Schools 
 ### 1. Animorphosis
-All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
+Magic that relates to becoming like a specific animal. Formorphosis is ant magic. All iterations of [animal] should be replaced by a specific [animal](https://www.randomlists.com/random-animals?show_images=true&dup=false&qty=1) specie when the spell is first found.
 
 <ol>
 {% for post in site.tags.animorphosis %}
