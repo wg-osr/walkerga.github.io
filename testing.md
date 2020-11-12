@@ -11,8 +11,8 @@ title: Testing v8
 {% assign sortedposts = posts | split: '|' | sort %}
 <ol>
 {% for post in sortedposts %}
-<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-<li> {{ post.title }} </li>
+{% assign postitems = post | split: '#' %}
+    <a href={{ postitems[1] }}"><li> {{ postitems[0] }} </li>
 </a>
 {% endfor %}
 </ol>
