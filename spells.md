@@ -19,7 +19,7 @@ Magic that relates to becoming like a specific animal. Formorphosis is ant magic
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
     {% unless forloop.first %}
-    1. <a href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
+    1. <a class="post-title" href={{ postitems[1] }}">{{ postitems[0] }}</a><br>
     {% endunless %} 
 {% endfor %}
  
