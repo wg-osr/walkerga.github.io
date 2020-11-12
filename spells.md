@@ -12,6 +12,7 @@ All iterations of [animal] should be replaced by a specific animal specie when t
 
 <ol>
 {% for post in site.tags.animorphosis %}
+{% assign sortedPosts = site.posts | sort: 'title' %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
