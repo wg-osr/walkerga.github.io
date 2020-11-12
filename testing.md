@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing v10
+title: Testing v11
 ---
 
 {% capture posts %}
@@ -12,7 +12,7 @@ title: Testing v10
 <ol>
 {% for post in sortedposts %}
 {% assign postitems = post | split: '#' %}
-   <li> <a href={{ postitems[1] }}"> {{ postitems[0] }} 
+   <li> <a href={{ postitems[1] }}> {{ postitems[0] }} 
 </a></li>
 {% endfor %}
 </ol>
