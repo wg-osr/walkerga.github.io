@@ -11,8 +11,8 @@ permalink: /spells/
 All iterations of [animal] should be replaced by a specific animal specie when the spell is first found.
 
 <ol>
-{% for post in site.tags.animorphosis %}
 {% assign sortedPosts = site.posts | sort: 'title' %}
+{% for post in site.tags.animorphosis %}
 <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
 <li> {{ post.title }} </li>
 </a>
