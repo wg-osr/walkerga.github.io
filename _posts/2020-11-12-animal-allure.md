@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: animorphosis
-title: \[Animal] Allure
+title: \[Animal\] Allure
 ---
 
 R: 60’		D: [dice]*10 minutes
