@@ -4,8 +4,8 @@ title: Testing
 ---
 
 {% capture posts %}
-  {% for post in site.posts %}
-    |{{ post.title }}#{{ post.url }}
+  {% for post in site.tags.animorphosis %}
+  |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
