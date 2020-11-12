@@ -9,11 +9,6 @@ permalink: /classes/
    - The [Wizard](/class/magic-user/wizard)
 - The [Specialist](/class/specialist)
 
-{% comment %}
-=======================
-The purpose of this snippet is to list all your posts posted with a certain tag.
-=======================
-{% endcomment %}
 {% for tag in tags %}
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 	<ul>
@@ -23,7 +18,6 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		 <h3>
 		 <a href="{{ post.url }}">
 		 {{ post.title }}
-		 <small>{{ post.date | date_to_string }}</small>
 		 </a>
 		 {% for tag in post.tags %}
 			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
