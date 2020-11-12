@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My quarantine project to compile all my GLoG ressources and monsters. For my players and whoever wants.
+My quarantine project to compile all my [GLoG](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html). ressources and monsters. For my players and whoever wants.
 
 ### More Information
 
