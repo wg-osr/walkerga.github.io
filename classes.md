@@ -20,7 +20,7 @@ permalink: /classes/
 		 {{ post.title }}
 		 </a>
 		 {% for tag in post.tags %}
-			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+			 <a class="tag" href="/_post/tags/#{{ tag | slugify }}">{{ tag }}</a>
 		 {% endfor %}
 		 </h3>
 		 </li>
