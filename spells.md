@@ -120,6 +120,23 @@ The dangerous manipulation of life and death, usually traded one for one: one li
 </ol>
 
 ## Physiurgy
+Midwives' brews and witch-doctors' remedies.
+
+{% capture posts %}
+  {% for post in site.tags.physiurgy %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Psychomancy
 ## Rope Tricks
 ## Spiritualism
