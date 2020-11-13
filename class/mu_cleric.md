@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Clerci
+title: The Cleric
 permalink: /class/magic-user/cleric
 ---
 
