@@ -6,6 +6,8 @@ permalink: /spells/
 
 ###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
 
+Spells by magic school:
+
 1. [Animorphosis](#animorphosis)
 1. [Apotropaism](#apotropaism)
 1. [Cunning Craft](#cunning-craft)
