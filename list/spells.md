@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /list/spells
 title: All Spells
 ---
 
