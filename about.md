@@ -12,4 +12,4 @@ My impossible plan: I compiled a list of 9K monsters from the history of DnD and
 
 ### Contact me
 
-u/SaltyGoo on reddit?
+u/SaltyGoo on reddit? If you are a creator whose content is here and want me to make it private, tell me!
