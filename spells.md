@@ -71,4 +71,4 @@ Magic that relates to becoming like a specific animal species. Formorphosis is a
 <ins>Range Philosophy</ins> : 
 A human moves 30’ in a turn, so all ranges are in 30’ increment to ease calculation when playing without a grid.
 
-###### The small words under a spell description are its spell words. You can mix and match the spell words you know to [create new spells](/2020/11/10/extra-rules#between-adventures).
+###### The small words under a spell description are its spell words. You can mix and match the spell words you know to [research new spells](/2020/11/10/extra-rules#between-adventures).
