@@ -13,4 +13,4 @@ If another visible creature in range was more sinful than the target, you take [
 
 ###### Smite + Sinner
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [A Blasted Cratered Land](https://crateredland.blogspot.com/2019/01/the-cleric.html)
