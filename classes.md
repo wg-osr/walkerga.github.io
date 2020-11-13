@@ -11,5 +11,5 @@ permalink: /classes/
   - [Elf](/class/magic-user/elf)
   - [Necromancer](/class/magic-user/necromancer)
 - The [Specialist](/class/specialist)
-  - The [Dwarf](/class/specialist/dwarf)
+  - [Dwarf](/class/specialist/dwarf)
 
