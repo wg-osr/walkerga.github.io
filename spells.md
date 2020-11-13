@@ -102,7 +102,7 @@ Dealing with the capricious spirits of the land, which are the building blocks o
 </ol>
 
 ## Mundane Tricks
-The art of enchanting everyday objects in an utilitarian way, usually a rope.
+The art of enchanting everyday objects in an utilitarian way. Include rope tricks, spoon tricks, painter tricks, etc.
 
 {% capture posts %}
   {% for post in site.tags.tricks %}
@@ -174,6 +174,23 @@ Mind tricks which provide temporary benefits.
 </ol>
 
 ## Spiritualism
+The study of magic itself.
+
+{% capture posts %}
+  {% for post in site.tags.spiritualism %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Translocation
 ## Vivimancy
 
