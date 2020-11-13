@@ -18,13 +18,13 @@ You learn any spell from any schools:
 1. [Cunning Craft](/spells#cunning-craft)
 1. [Diabolism](/spells#diabolism)
 1. [Elementalism](/spells#elementalism)
-1. Necromancy
-1. Physiurgy
-1. Psychomancy
-1. Rope Tricks
-1. Spiritualism
-1. Translocation
-1. Vivimancy
+1. [Mundane Tricks](/spells#mundane-tricks)
+1. [Necromancy](/spells#necromancy)
+1. [Physiurgy](/spells#physiurgy)
+1. [Psychomancy](/spells#psychomancy)
+1. [Spiritualism](/spells#spiritualism)
+1. [Translocation](/spells#translocation)
+1. [Vivimancy](/spells#vivimancy)
 
 <ins>Perk</ins><br>
 If you dont like the spell you rolled upon level up, you can reroll it.
