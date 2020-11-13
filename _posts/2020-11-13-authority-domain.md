@@ -8,7 +8,7 @@ title: Authority Domain
 1. [Call for Judgement](/2020/11/12/call-for-judgement)
 1. [Command](/2020/11/13/command)
 1. [Smell Sin](/2020/11/12/smell-sin)
-1. [Smite the Wicked](/2020/11/13/smite-thhe-wicked)
+1. [Smite the Wicked](/2020/11/13/smite-the-wicked)
 
 <ins>Commandments</ins>
 - Punish sinners and criminals. 
