@@ -10,3 +10,4 @@ The last-ditch measure against spells is to have them fall on a preordained, sac
 
 ###### Redirect + Goat
 
+###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
