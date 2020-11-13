@@ -73,7 +73,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 <ins>Deafened:</ins> You cant hear. Your teammates cannot talk to you.
 
-<ins>Dying:</ins> See [combat](https://saltygoo.github.io/2020/11/09/base-rules/).
+<ins>Dying:</ins> See [combat](/2020/11/09/base-rules#combat).
 
 <ins>Fatigued:</ins> -1 to all stats. Cumulative.
 
