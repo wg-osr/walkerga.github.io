@@ -16,7 +16,7 @@ You learn any spell from any schools:
 1. [Animorphosis](/spells#animorphosis)
 1. Apotropaism
 1. Cunning Craft
-1. Diabolism
+1. [Diabolism](/spells#diabolism)
 1. Elementalism
 1. Necromancy
 1. Physiurgy
