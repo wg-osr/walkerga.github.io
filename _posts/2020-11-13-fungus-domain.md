@@ -8,7 +8,7 @@ title: Fungus Domain
 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/)
 1. [Fey Ring](/2020/11/13/fey-ring/)
 1. [Hallucinogenesis](/2020/11/13/hallucinogenesis/)
-1. [Seal of Retribution](/2020/11/12/seal-of-retribution)
+1. [Potpourri](/2020/11/13/potpourri/)
 
 <ins>Commandments</ins>
 - Consume what has served its purpose.
