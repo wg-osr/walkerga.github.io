@@ -26,7 +26,7 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 1. Inflame a murderous rivalry in 3 creatures over an act of ...
 1. Convince a creature to kill innocents.
 
-<ins>Sin</ins>
+Sin
 
 | ---------------- | ---------------- |
 | 1. Wrath  |  5. Sloth  |
