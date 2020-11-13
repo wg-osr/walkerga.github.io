@@ -26,7 +26,7 @@ You can smell/taste craftsmanship within 10’. This may be hampered by other ov
 When you die from poison or disease, you are petrified for a session, then return to life at 1 HP, purified of the malady.
 
 ## Obsession
-Every time you end a session in a civilized location, roll wisdom. On a failure, spend the next session making an object of power related to your story or profession. Then roll 1D4 to see how many [Treasures](/2020/11/10/extra-rules#treasures) you spend doing this (you might go in dept). Describe what you’d like it to be and the GM will describe what it actually is.
+Every time you end a session in a civilized location, roll wisdom. On a failure, spend the next session making an object of power related to your story or profession. Then roll 1D4 to see how many [Treasures](/2020/11/10/extra-rules#treasures) you spend doing this (you might go in debt). Describe what you’d like it to be and the GM will describe what it actually is.
 
 ## Greed
 Gain a +1 bonus to saves for each inventory slot filled with [Treasure](/2020/11/10/extra-rules#treasures) carried beyond the first 4, or filled with any Great Treasure.
