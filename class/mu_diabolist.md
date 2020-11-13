@@ -15,8 +15,9 @@ A black goat. A forked dagger. A capirote. A spell book, a quill, but no ink.
 Any from the [diabolism](/spells#diabolism) school.
 
 <ins>Perk</ins><br>
-You can clear all your [Doom Points](/class/magic-user#spells) by performing a random obligation for a devil (roll 1D8 on both following lists): 
+You can clear all your [Doom Points](/class/magic-user#spells) by performing a random obligation for a devil (roll 1D8 on both the obligation and sin tables): 
 
+**Obligation**
 1. Sacrifice 2 creatures consumed with ...
 1. Corrupt 1 creature into practicing relentless ...
 1. Lure 1 creature infested with another sin into also practicing ...
@@ -26,7 +27,7 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 1. Inflame a murderous rivalry in 3 creatures over an act of ...
 1. Convince a creature to kill innocents.
 
-Sin
+**Sin**
 
 | ---------------- | ---------------- |
 | 1. Wrath  |  5. Sloth  |
