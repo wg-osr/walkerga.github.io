@@ -6,5 +6,6 @@ permalink: /classes/
 
 - The [Fighter](/class/fighter)
 - The [Magic User](/class/magic-user)
-   - The [Wizard](/class/magic-user/wizard)
+   - [Diabolist](/class/magic-user/diabolist)
+   - [Wizard](/class/magic-user/wizard)
 - The [Specialist](/class/specialist)
