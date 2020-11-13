@@ -22,3 +22,5 @@ All iterations of [animal] should be replaced by a specific [animal](https://www
 
 <ins>Cantrip</ins>
 - You can speak to and understand your animal.
+
+###### adapted from [A Blasted, Cratered Land](https://crateredland.blogspot.com/2019/02/cleric-domains-vol-3.html)
