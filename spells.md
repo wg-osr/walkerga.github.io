@@ -30,6 +30,23 @@ Magic that relates to becoming like a specific animal species. Formorphosis is a
 </ol>
  
 ## Apotropaism
+Sturdy wards against curses and evil.
+
+{% capture posts %}
+  {% for post in site.tags.apotropaism %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Cunning Craft
 ## Diabolism
 The binding of angels and devils, creatures that make the laws of this universe.
