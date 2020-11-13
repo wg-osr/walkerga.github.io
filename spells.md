@@ -102,6 +102,23 @@ Dealing with the capricious spirits of the land, which are the building blocks o
 </ol>
 
 ## Necromancy
+The dangerous manipulation of life and death, usually traded one for one: one life for one life, one death for one death.
+
+{% capture posts %}
+  {% for post in site.tags.necromancy %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Physiurgy
 ## Psychomancy
 ## Rope Tricks
