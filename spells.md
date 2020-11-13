@@ -192,7 +192,41 @@ The study of magic itself.
 </ol>
 
 ## Translocation
+The paradox-prone manipulation of space and time.
+
+{% capture posts %}
+  {% for post in site.tags.translocation %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Vivimancy
+The gruesome science of flesh, growth and evolution.
+
+{% capture posts %}
+  {% for post in site.tags.vivimancy %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 
 <br>
 
