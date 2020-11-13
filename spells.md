@@ -48,6 +48,23 @@ Sturdy wards against curses and evil.
 </ol>
 
 ## Cunning Craft
+Old curses and wildlife from druids and witches.
+
+{% capture posts %}
+  {% for post in site.tags.cunning %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
+
 ## Diabolism
 The binding of angels and devils, creatures that make the laws of this universe.
 
