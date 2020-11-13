@@ -4,7 +4,7 @@ title: The Specialist
 permalink: /class/specialist
 ---
 
-*Adapted from Two Goblins in a Trenchcoat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/anything-not-nailed-down-is-legally.html).*
+###### Adapted from Two Goblins in a Trenchcoat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/anything-not-nailed-down-is-legally.html).
 
 <ins>Starting Equipment</ins><br>
 Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
