@@ -28,6 +28,7 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 
 <ins>Sin</ins>
 
+| Command | Description |
 | ------------- | ------------- |
 | 1. Wrath  |  1. Sloth  |
 | 1. Envy  |  1. Pride  |
