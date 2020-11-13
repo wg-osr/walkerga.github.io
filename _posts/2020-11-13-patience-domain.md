@@ -8,7 +8,7 @@ title: Patience Domain
 1. [Aura of Renewal](/2020/11/13/aura-of-renewal)
 1. [Delay](/2020/11/13/delay)
 1. [Indolence](/2020/11/13/indolence)
-1. [Seal of Retribution](/2020/11/12/seal-of-retribution)
+1. [Seal of Retribution](/2020/11/13/seal-of-retribution)
 
 <ins>Commandments</ins>
 - Plan at least one game session or in game day before acting.
