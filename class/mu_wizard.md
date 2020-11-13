@@ -14,7 +14,7 @@ Strange hat, spell book, ink & quill.
 <ins>Spell List</ins><br>
 You learn any spell from any schools:
 1. [Animorphosis](/spells#animorphosis)
-1. Apotropaism
+1. [Apotropaism](/spells#apotropaism)
 1. Cunning Craft
 1. [Diabolism](/spells#diabolism)
 1. Elementalism
