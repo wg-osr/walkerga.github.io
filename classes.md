@@ -9,3 +9,5 @@ permalink: /classes/
   - [Diabolist](/class/magic-user/diabolist)
   - [Wizard](/class/magic-user/wizard)
 - The [Specialist](/class/specialist)
+  - [The Dwarf](/class/specialist/dwarf)
+
