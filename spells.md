@@ -48,7 +48,7 @@ Sturdy wards against curses and evil.
 </ol>
 
 ## Cunning Craft
-Old curses and wildlife from druids and witches.
+Old curses and nature magic from druids and witches.
 
 {% capture posts %}
   {% for post in site.tags.cunning %}
