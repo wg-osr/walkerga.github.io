@@ -3,7 +3,7 @@ layout: post
 title: Extra Rules
 ---
 
-These rules are not mandatory and aim to increase the game’s layers of crunch.
+These rules are optional and give a framework to specific aspects of gameplay.
 
 - [Heroism & Scars](#heroism--scars) (post game character growth)
 - [Damage Types](#damage-types) (damage combos)
