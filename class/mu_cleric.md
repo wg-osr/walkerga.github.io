@@ -6,7 +6,7 @@ permalink: /class/magic-user/cleric
 
 ###### Adapted from A Blasted, Cratered Land's [version](https://crateredland.blogspot.com/2019/01/the-cleric.html)
 
-The Cleric is a type of [Magic User](/class/magic-user). The religion you follow is represented by 3 [Domains]() over which it claims dominion.
+The Cleric is a type of [Magic User](/class/magic-user). The religion you follow is represented by 3 [Domains](#domains) over which it claims dominion.
 
 <ins>Starting Equipment</ins><br>
 A holy book. Ink & quill. Censer.
