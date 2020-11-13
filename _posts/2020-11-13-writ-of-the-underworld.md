@@ -13,4 +13,4 @@ If the [sum] is more than twice the maximum HP of the victim, you can decide whe
 If you invest 4 dices or more in this spell, the effect becomes permanent in the room or area. 
 
 ###### Warrant + Spirit
-###### by SaltyGoo
+###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
