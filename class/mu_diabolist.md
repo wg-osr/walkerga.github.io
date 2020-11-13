@@ -12,7 +12,7 @@ The Diabolist is a type of [Magic User](/class/magic-user)
 A black goat. A forked dagger. A capirote. A spell book, a quill, but no ink.
 
 <ins>Spell List</ins><br>
-Any from the [diabolism school](/spells#diabolism).
+Any from the [diabolism](/spells#diabolism) school.
 
 <ins>Perk</ins><br>
 You can clear all your [Doom Points](/class/magic-user#spells) by performing a random obligation for a devil (roll 1D8 on both following lists): 
