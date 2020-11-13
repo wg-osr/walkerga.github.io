@@ -9,4 +9,4 @@ R: Touch 	D: [dice] days
 A willing creature you touch is cloaked with an illusion that makes them appear to be in their physical prime. The illusion may flicker or fade if the target is struck by strong magic. If you invest 4 [dice] or more into this spell, the duration becomes permanent. If you die under this spell, your soul will be in the possession of a vanity devil.
 
 ###### Illusion + Youth
-###### From [Cons & Scrolls](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)
+###### Adapted from [Coins & Scrolls](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)
