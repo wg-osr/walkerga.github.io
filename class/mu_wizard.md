@@ -4,7 +4,7 @@ title: The Wizard
 permalink: /class/magic-user/wizard
 ---
 
-*Adapted from Coins and Scrolls's [Version](https://coinsandscrolls.blogspot.com/2018/01/osr-orthodox-wizards.html)*
+###### Adapted from Coins and Scrolls's [Version](https://coinsandscrolls.blogspot.com/2018/01/osr-orthodox-wizards.html)
 
 The Wizard is a type of [Magic User](/class/magic-user)
 
