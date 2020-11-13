@@ -4,7 +4,7 @@ title: The Magic User
 permalink: /class/magic-user
 ---
 
-*Adapted from Two Goblins in a Trench Coat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/a-conduit-for-poor-decisions-glog.html)*
+###### Adapted from Two Goblins in a Trench Coat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/a-conduit-for-poor-decisions-glog.html)
 
 <ins>Starting Equipment</ins><br>
 Depends on your magic school.
