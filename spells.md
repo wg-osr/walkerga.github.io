@@ -6,8 +6,6 @@ permalink: /spells/
 
 ###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
 
-For the complete alphabeltical list : [All Spells](/list/spells)
-
 1. [Animorphosis](#animorphosis)
 1. [Apotropaism](#apotropaism)
 1. [Cunning Craft](#cunning-craft)
@@ -20,6 +18,8 @@ For the complete alphabeltical list : [All Spells](/list/spells)
 1. [Spiritualism](#spiritualism)
 1. [Translocation](#translocation)
 1. [Vivimancy](#vivimancy)
+
+For the complete alphabeltical list : [All Spells](/list/spells)
 
 ---
 
