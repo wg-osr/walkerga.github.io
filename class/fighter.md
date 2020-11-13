@@ -4,7 +4,7 @@ title: The Fighter
 permalink: /class/fighter
 ---
 
-*Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pionneers's [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)*
+###### Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pionneers's [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)
 
 <ins>Starting Equipment</ins><br>
 1 weapon of your choice (and ammunition), brigandine, chain mail. 
