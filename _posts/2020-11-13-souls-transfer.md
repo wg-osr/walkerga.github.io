@@ -5,7 +5,11 @@ title: Soul Transfer
 ---
 D: Sigil
 
-First, you must prepare an empty clay jar with a Sigil. By the casting of this spell you traps within the prepared jar a disembodied soul of [dice] HD or less. Souls on their way to the underworld or other final reward may be captured automatically, but free-willed souls such as incorporeal undead are permitted a saving throw. A soul may be freed in exchange for a favor, traded as sorcerous currency, or consumed for temporary power, such as a [dice] bonus to a single roll or [sum] temporary hit points.
+Your soul is placed in a talisman like a pendant or an article of clothing marked by your Sigil, leaving the original body behind in stasis. 
+
+While in the talisman, your consciousness remains active and aware of events nearby, and may possess any [dice] HD body that comes in contact with the talisman, though a save is permitted if the possession is resisted. 
+
+If this new body is slain while occupied by your soul, a saving throw is required for your soul to return to the talisman and avoid becoming trapped in the spirit world. 
 
 ###### soul + transfer
 ###### adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)
