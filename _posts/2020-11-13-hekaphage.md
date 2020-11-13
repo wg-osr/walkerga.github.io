@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell spiritualism
-title: heakaphage
+title: Hekaphage
 ---
 R: 60’	
 
