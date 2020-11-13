@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Silky Tarantella
+title: Venomous Fangs
 ---
 
 *Arachnomorphosis*
