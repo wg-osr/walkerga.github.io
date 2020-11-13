@@ -38,8 +38,8 @@ Magic that relates to becoming like a specific animal species. Formorphosis is a
 ## Psychomancy
 ## Rope Tricks
 ## Spiritualism
-## 11. Translocation
-## 12. Vivimancy
+## Translocation
+## Vivimancy
 
 <br>
 
