@@ -17,7 +17,7 @@ You learn any spell from any schools:
 1. [Apotropaism](/spells#apotropaism)
 1. [Cunning Craft](/spells#cunning-craft)
 1. [Diabolism](/spells#diabolism)
-1. Elementalism
+1. [Elementalism](/spells#elementalism)
 1. Necromancy
 1. Physiurgy
 1. Psychomancy
