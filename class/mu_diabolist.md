@@ -28,12 +28,12 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 
 <ins>Sin</ins>
 
-| Command | Description |
+| Sin |  |
 | ------------- | ------------- |
-| 1. Wrath  |  1. Sloth  |
-| 1. Envy  |  1. Pride  |
-| 1. Gluttony  |  1. Roll Twice  |
-| 1. Greed  |  1. Lust  |
+| 1. Wrath  |  5. Sloth  |
+| 2. Envy  |  6. Pride  |
+| 3. Gluttony  |  7. Roll Twice  |
+| 4. Greed  |  8. Lust  |
 
 
 <ins>Drawback</ins><br>
