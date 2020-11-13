@@ -27,10 +27,11 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 1. Convince a creature to kill innocents.
 
 <ins>Sin</ins>
- | 1. Wrath  |  1. Sloth  |
- | 1. Envy  |  1. Pride  |
- | 1. Gluttony  |  1. Roll Twice  |
- | 1. Greed  |  1. Lust  |
+| ------------- | ------------- |
+| 1. Wrath  |  1. Sloth  |
+| 1. Envy  |  1. Pride  |
+| 1. Gluttony  |  1. Roll Twice  |
+| 1. Greed  |  1. Lust  |
 
 
 <ins>Drawback</ins><br>
