@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell vivimancy
-title: Transcendance
+title: Transcendence
 ---
 D: Sigil
 
