@@ -4,6 +4,7 @@ title: Spells
 permalink: /spells/
 ---
 
+###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
 
 1. [Animorphosis](#animorphosis)
 1. [Apotropaism](#apotropaism)
@@ -51,9 +52,6 @@ A human moves 30’ in a turn, so all ranges are in 30’ increment to ease calc
 ---
   
 # Spell Schools 
-
-###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
-
 
 ## Animorphosis
 Magic that relates to becoming like a specific animal species. Formorphosis is ant magic, mycomorphosis is fungus magic, etc. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) species when the spell is first found.
