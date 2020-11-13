@@ -31,7 +31,7 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 | ---------------- | ---------------- |
 | 1. Wrath  |  5. Sloth  |
 | 2. Envy  |  6. Pride  |
-| 3. Gluttony  |  7. Roll Twice  |
+| 3. Gluttony <spacer size="15"></spacer> |  7. Roll Twice  |
 | 4. Greed  |  8. Lust  |
 
 
