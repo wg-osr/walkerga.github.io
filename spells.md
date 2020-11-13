@@ -11,7 +11,7 @@ permalink: /spells/
 ###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
 
 
-### 1. Animorphosis
+## Animorphosis
 Magic that relates to becoming like a specific animal species. Formorphosis is ant magic, mycomorphosis is fungus magic, etc. All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) species when the spell is first found.
 
 {% capture posts %}
@@ -29,17 +29,17 @@ Magic that relates to becoming like a specific animal species. Formorphosis is a
 {% endfor %}
 </ol>
  
-### 2. Apotropaism
-### 3. Cunning Craft
-### 4. Diabolism
-### 5. Elementalism
-### 6. Necromancy
-### 7. Physiurgy
-### 8. Psychomancy
-### 9. Rope Tricks
-### 10. Spiritualism
-### 11. Translocation
-### 12. Vivimancy
+## Apotropaism
+## Cunning Craft
+## Diabolism
+## Elementalism
+## Necromancy
+## Physiurgy
+## Psychomancy
+## Rope Tricks
+## Spiritualism
+## 11. Translocation
+## 12. Vivimancy
 
 <br>
 
