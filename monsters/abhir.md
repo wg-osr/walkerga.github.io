@@ -53,7 +53,7 @@ The abhir sees in the dark and smells strong warriors.
 
 ## Mutation
 
-Your studies of the aberration has changed you in horrible, gruesome ways: You bear the trapped soul of a defeated warrior. It manifests as a chitinous armor on ...
+Your studies of the aberration has changed you in horrible, gruesome ways: you bear the trapped soul of a defeated warrior. It manifests as a chitinous armor on ...
 
 1. ... your legs. 
 1. ... one of your arms. 
