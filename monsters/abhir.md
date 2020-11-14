@@ -6,11 +6,13 @@ title: Abhir
 
 Imagine slithering darkness. If you could see inside, there’d be a big snake body with horns, hooks and a single eye instead of a head.
 
-It wants the souls of strong warriors to feed its larvae.
+It wants the souls of strong warriors to feed its larvae. <br>
 
 <img src="/images/Abhir.png" alt="Abhir" style="border:5px solid black"> </div>
 
 **Size:** large <br>
 **Stats:** 8 / 9 / 9 / 6 / 7 / 8 <br>
 **Resistances:** weapons, magic, mind
+
+
 
