@@ -1,6 +1,5 @@
 ---
 layout: page
-tags: 
 title: How to Read a Monster Page
 permalink: /monsters/lexicon
 ---
