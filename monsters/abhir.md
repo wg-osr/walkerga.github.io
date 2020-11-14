@@ -13,7 +13,7 @@ It wants the souls of strong warriors to feed its larvae. <br>
 **HD:** 6 <br>
 **Size:** large <br>
 **Stats:** 8 / 9 / 9 / 6 / 7 / 8 <br>
-**Resistances:** weapons, magic, mind
+**Resistances:** weapons, magic, mind <br>
 **Armor:** as chain <br>
 **Damage:** 1D6 <br>
 **Movement:** average <br>
