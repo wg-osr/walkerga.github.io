@@ -10,13 +10,13 @@ permalink: /monsters/lexicon
 
 **Stats:** str / dex / con / int / wis / cha <br>*double for 3D6 system, subtract 5 for 5e-style stat bonus*
 
-**Resistances:** halves damage and gives advantage on saves <br>"weapon" means blunt/pierce/slash damage, "mind" includes things like charm and fear
+**Resistances:** halves damage and gives advantage on saves <br>"weapon" means blunt/pierce/slash damage. "mind" includes things like charm and fear.
 
-**Armor:** damage resistance: leather (2), chain (4), plate (6). Never reduces damage below 1.
+**Armor:** damage resistance: leather (2), chain (4), plate (6). <br>Never reduce damage below 1.
 
-**Damage:** the damage the monster makes across its attacks
+**Damage:** the damage the monster makes across its attacks.
 
-**Movement:** static, slow (0), average (5), fast (10)
+**Movement:** static, slow (0), average (5), fast (10).
 
 **Morale:** coward (flees at first wound), brave (flees at 50% HP), reckless (stays if not alone), mindless (never flees).
 
@@ -30,3 +30,22 @@ Minor abilities that relate more to how the monster lives live darkvision, keen 
 **Attacks:** Each round, a monster can perform a certain number of actions listed. Of course context might call for new ones at the referee's discretion.
 
 <ins>Actual Attack.</ins> A melee attack hits an adjacent target, a melee attack with reach can hit targets behind adjacent ones, a short range means within 1 turn of movement, a ranged attack means far. Damage is listed in the sats above. When an attack has (2x) in it, it means the attack does twice the number of damage dices.
+
+---
+
+## Random Encounter
+Roll if the monster is in the encounter list of a hexcrawl or a dungeon.
+
+1. **Monster:** The number of creatures
+1. **Lair:** In a hexcrawl, where the monster (and its treasures) live. <br>	&nbsp; OR <br>	**Omen:** In a dungeon, the monster is here but the players have a few moments to prepare.
+1. **Spoor:** Recent trace of the monster. Its in the area nearby, if the players want, they can easily find it.
+1. **Tracks:** If the players decide to follow them, roll a D3 on this list to see where they lead.
+1. **Trace:** A sign of the monster's presence in the ecosystem. A good tracker could use these to find tracks.
+
+
+---
+
+## Other Type Specific Tables
+
+
+
