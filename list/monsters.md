@@ -4,17 +4,17 @@ permalink: /list/monsters
 title: All Monsters
 ---
 
-{% capture posts %}
-  {% for post in site.tags.monster %}
-    |{{ post.title }}#{{ post.url }}
+{% capture pages %}
+  {% for page in site.tags.monster %}
+    |{{ page.title }}#{{ page.url }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
+{% assign sortedpages = pages | split: '|' | sort %}
 <ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
+{% for page in sortedpages %}
+{% assign pageitems = page | split: '#' %}
 {% unless forloop.first %}
-  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+  <li> <a href="{{ pageitems[1] }}"> {{ pageitems[0] }}</a></li>
 {% endunless %}
 {% endfor %}
 </ol>
