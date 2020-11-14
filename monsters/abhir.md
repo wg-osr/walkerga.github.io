@@ -41,7 +41,7 @@ The abhir sees in the dark and smells strong warriors.
 ## Random Encounter
 
 1. **Monster:** 1 abhir, 1D6 lesser aberrations.
-1. **Lair:** Floating islands made of melted and broken weapons and armors chained together. <br>	&nbsp; OR <br>	**Omen:** The light lowers and a voice asks: “Are you strong enough?”.
+1. **Lair:** Floating islands made of melted and fused broken weapons. <br>	&nbsp; OR <br>	**Omen:** The light lowers and a voice asks: “Are you strong enough?”.
 1. **Spoor:** A twisted and torn armor. The sound of a battle echoes from it as if it was still happening.
 1. **Tracks:** Dissonant voices hailing some hero’s demise.
 1. **Trace:** A smashed helmet is spit out of the abyss.
