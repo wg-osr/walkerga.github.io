@@ -15,7 +15,7 @@ It wants the souls of strong warriors to feed its larvae. <br>
 **Resistances:** weapons, magic, mind <br>
 **Armor:** as chain <br>
 **Damage:** 1D6 <br>
-**Movement:** average &nbsp; &nbsp; **Morale:** courageous <br>
+**Movement:** average &nbsp; &nbsp; **Morale:** brave <br>
 
 
 
