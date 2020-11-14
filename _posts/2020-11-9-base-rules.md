@@ -126,7 +126,7 @@ must take one action to recharge
 
 **Armor:**
 
-All armor pieces reduce damage by 2, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors. 
+All armor pieces reduce damage by 2, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors. Damage cannot be reduced below 1.
 
 ---
 
