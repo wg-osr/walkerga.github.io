@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /list/monster-aberration
+permalink: /list/monsters-aberration
 title: All Aberrations
 ---
 
