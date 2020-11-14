@@ -30,7 +30,7 @@ The abhir sees in the dark and smells strong warriors.
 
 <ins>Cleave.</ins> The abhir makes a a melee attack against two adjacent targets.
 
-<ins>Ensnare.</ins> The abhir attempts to grapple a target with its tail, dealing damage and restraining it. The target takes damage each turn while grappled. Only one creature can be grappled at a time.
+<ins>Ensnare.</ins> The abhir attempts to grapple a target with its tail, dealing damage and restraining it. The target takes constitution damage each turn while grappled. Only one creature can be grappled at a time.
 
 <ins>Rise and Dive.</ins> The abhir rises on its tail, dives to a nearby point and makes a melee attack. On a hit, the target drops what it holds.
 
