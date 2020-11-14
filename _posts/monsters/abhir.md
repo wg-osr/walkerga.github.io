@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: monster aberration boss
+permalink: /monsters/abhir
 title: Abhir
 ---
 
