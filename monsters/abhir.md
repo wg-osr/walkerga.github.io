@@ -10,13 +10,12 @@ It wants the souls of strong warriors to feed its larvae. <br>
 
 <img src="/images/Abhir.png" alt="Abhir" style="border:5px solid black">
 
-**HD:** 6   **Size:** large <br>
+**HD:** 6  &nbsp; &nbsp;  **Size:** large <br>
 **Stats:** 8 / 9 / 9 / 6 / 7 / 8 <br>
 **Resistances:** weapons, magic, mind <br>
 **Armor:** as chain <br>
 **Damage:** 1D6 <br>
-**Movement:** average <br>
-**Morale:** courageous <br>
+**Movement:** average &nbsp; &nbsp; **Morale:** courageous <br>
 
 
 
