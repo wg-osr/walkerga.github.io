@@ -4,14 +4,21 @@ title: How to Read a Monster Page
 permalink: /monsters/lexicon
 ---
 
-**HD:** Hit Dice, roll as many D8s to calculate the monster's hit points (HP). <br>
-**Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger) <br>
-**Stats:** str / dex / con / int / wis / cha, double for 3d6 system, subtract 5 for 5e stat bonus <br>
-**Resistances:** halves damage and advantage on saves, "weapon" means blunt/pierce/slash damage, mind includes things like charm and fear <br>
-**Armor:** damage resistance: leather (2), chain (4), plate (6). Never reduces damage below 1.<br>
-**Damage:** the damage the monster makes across its attacks <br>
-**Movement:** static, slow (0), average (5), fast (10) <br>
-**Morale:** coward (flees at first wound), brave (flees at 50% HP), reckless (stays one turn after 50% HP), mindless (never flees).  <br>
+**HD:** Hit Dice, roll as many D8s to calculate the monster's hit points (HP).
+
+**Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger)
+
+**Stats:** str / dex / con / int / wis / cha, double for 3d6 system, subtract 5 for 5e stat bonus
+
+**Resistances:** halves damage and advantage on saves, "weapon" means blunt/pierce/slash damage, mind includes things like charm and fear
+
+**Armor:** damage resistance: leather (2), chain (4), plate (6). Never reduces damage below 1.
+
+**Damage:** the damage the monster makes across its attacks
+
+**Movement:** static, slow (0), average (5), fast (10)
+
+**Morale:** coward (flees at first wound), brave (flees at 50% HP), reckless (stays one turn after 50% HP), mindless (never flees).
 
 **Spellcasting:** *Monster spells do not match the players' spell list, but are named in a way for the referee to be able to interpret their effect as they see fit. The goal is to speed things up: teleporting and resurrecting might be dangerous endeavours for PCs, but pretty straightforward for monsters who can do it innately.
 Monsters rarely spend more than 3 spell dices on a single spell, and they have as many spell dices as their HD* 
