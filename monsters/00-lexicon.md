@@ -8,7 +8,7 @@ permalink: /monsters/lexicon
 
 **Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger)
 
-**Stats:** str / dex / con / int / wis / cha <br>*double for 3d6 system, subtract 5 for 5e-style stat bonus*
+**Stats:** str / dex / con / int / wis / cha <br>*double for 3D6 system, subtract 5 for 5e-style stat bonus*
 
 **Resistances:** halves damage and gives advantage on saves <br>"weapon" means blunt/pierce/slash damage, "mind" includes things like charm and fear
 
