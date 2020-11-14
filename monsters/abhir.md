@@ -18,6 +18,6 @@ It wants the souls of strong warriors to feed its larvae. <br>
 
 The abhir sees in the dark and smells strong warriors. 
 
-**Spellcasting:** *Charm Person(at will). Levitate, Invisibility Purge, Teleport, Major Image.*
+**Spellcasting:** *Charm Person (at will). Levitate, Invisibility Purge, Teleport, Major Image.*
 
 
