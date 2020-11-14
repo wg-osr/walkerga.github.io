@@ -24,4 +24,4 @@ Minor abilities that relate more to how the monster lives live darkvision, keen 
 **Attacks:** Each round, a monster can perform a certain number of actions listed. Of course context might call for new ones at the referee's discretion.
 
 <ins>Actual Attack.</ins> A melee attack hits an adjacent target, a melee attack with reach can hit targets behind others, a short range means within 1 turn of movement, a long range means a lot.
-Damage is listed abobe. When an attack has (2x) in it, it means the attack does twice the number of damage dices.
+Damage is listed abobe. When an attack has (2x), etc in it, it means the attack does twice the number of damage dices.
