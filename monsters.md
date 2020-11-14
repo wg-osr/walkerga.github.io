@@ -6,8 +6,8 @@ permalink: /monsters
 
 The slow, methodical conversion of more than 9000 monsters from DnD history to the GLoG.
 
-[How to read a monster stat block](/monsters/lexicon)
-[All monsters](/list/monster-aberration)
+[How to read a monster stat block](/monsters/lexicon)<br>
+[All monsters](/list/monsters)
 
 ## By Monster Type
 I classify monsters in 8 thematic categories with some mechanical common thread, because I love when players can learn:
