@@ -47,6 +47,19 @@ The abhir sees in the dark and smells strong warriors.
 1. **Trace:** A smashed helmet is spit out of the abyss.
 1. **Trace:** Ominous writings of someone looking for a hero.
 
+---
 
+## Mutation
+
+You bear the trapped soul of a defeated warrior. It manifests as a chitinous armor on ...
+
+1. ... your legs. 
+1. ... one of your arms. 
+1. ... your hand, which counts as a one-handed weapon of your choice.
+1. ... your chest.
+1. ... your face.
+1. roll again. You know the spell word *Weapon* and gain one spell dice.
+
+That specific body part is immune to fire and counts as armored. You cannot wear equipment on this body part.
 
 
