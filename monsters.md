@@ -19,4 +19,4 @@ The alien weirdness of aberrations makes them all resistant to mind attacks. As 
 
 Each aberration has a mutation table for when players want to try to harness their eldritch power.
 
-[Aberration List](/list/monster-aberration)
+[Aberration List](/list/monsters-aberration)
