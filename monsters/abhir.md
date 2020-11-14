@@ -9,5 +9,6 @@ Imagine slithering darkness. If you could see inside, there’d be a big snake b
 It wants the souls of strong warriors to feed its larvae.
 
 **Size:** large <br>
-**Stats:** 8 / 9 / 9 / 6 / 7 / 8 <br>
-**Resistances:** weapons, magic, pierce, mind
+**Stats:** 8 / 9 / 9     6 / 7 / 8 <br>
+**Resistances:** weapons, magic, mind
+
