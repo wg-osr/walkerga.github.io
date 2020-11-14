@@ -2,6 +2,7 @@
 layout: page
 tags: 
 title: How to Read a Monster Page
+permalink: /monsters/lexicon
 ---
 
 **HD:** Hit Dice, roll as many D8s to calculate the monster's hit points (HP). <br>
