@@ -37,7 +37,7 @@ Minor abilities that relate more to how the monster lives live darkvision, keen 
 Roll if the monster is in the encounter list of a hexcrawl or a dungeon.
 
 1. **Monster:** The number of creatures
-1. **Lair:** In a hexcrawl, where the monster (and its treasures) live. <br>	&nbsp; OR <br>	**Omen:** In a dungeon, the monster is here but the players have a few moments to prepare.
+1. **Lair:** In a hexcrawl, where the monster (and its treasures) live. There is 50% chance the monster is currently away. <br>	&nbsp; OR <br>	**Omen:** In a dungeon, the monster is here but the players have a few moments to prepare.
 1. **Spoor:** Recent trace of the monster. Its in the area nearby, if the players want, they can easily find it.
 1. **Tracks:** If the players decide to follow them, roll a D3 on this list to see where they lead.
 1. **Trace:** A sign of the monster's presence in the ecosystem. A good tracker could use these to find tracks.
@@ -47,5 +47,5 @@ Roll if the monster is in the encounter list of a hexcrawl or a dungeon.
 
 ## Other Type Specific Tables
 
-
-
+**Aberrations**
+<ins>Mutation Table.</ins> Use this to illustrate the impact the aberration has on its environment. Its also the sometimes beneficial consequence of the [Researching Eldritch Knowledge](/2020/11/10/extra-rules#between-adventures) carousing activity.
