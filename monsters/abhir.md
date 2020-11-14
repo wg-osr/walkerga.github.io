@@ -10,6 +10,8 @@ It wants the souls of strong warriors to feed its larvae. <br>
 
 <img src="/images/Abhir.png" alt="Abhir" style="border:5px solid black">
 
+Aberration
+
 **HD:** 6  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 8 / 7 / 9 / 6 / 7 / 8 <br>
 **Resistances:** weapons, magic, mind <br>
 **Armor:** as chain <br>
@@ -51,7 +53,7 @@ The abhir sees in the dark and smells strong warriors.
 
 ## Mutation
 
-You bear the trapped soul of a defeated warrior. It manifests as a chitinous armor on ...
+Your studies of the aberration has changed you in horrible, gruesome ways: You bear the trapped soul of a defeated warrior. It manifests as a chitinous armor on ...
 
 1. ... your legs. 
 1. ... one of your arms. 
