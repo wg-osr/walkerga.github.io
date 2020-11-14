@@ -16,6 +16,8 @@ It wants the souls of strong warriors to feed its larvae. <br>
 **Damage:** 1D6 <br>
 **Movement:** average &nbsp; &nbsp; **Morale:** brave <br>
 
+The abhir sees in the dark and smells strong warriors. 
 
+**Spellcasting:** *Charm Person, Comprehend Language (at will). Levitate, Invisibility Purge (2/day). Teleport, Major Image (1/day).*
 
 
