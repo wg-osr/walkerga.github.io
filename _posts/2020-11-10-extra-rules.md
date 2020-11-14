@@ -139,7 +139,7 @@ Have you captured or slain a beast? You could spend a treasure to **craft** an i
 
 Can you cast spells? You can spend treasures **researching** new spells by combining words from spells you already know. If you have a fey’s charm, you can be even more creative. 
 
-You have access to an aberration, a demon or a book about them? Be careful, but you could spend a treasure to roll on their **mutation** tables. Some are even beneficial! 
+You have access to an aberration, a demon or a book about them? Be careful, but you could spend a treasure to **research eldritch knowledge** and roll on their mutation tables. Some are even beneficial! 
 
 Can you talk or summon a divine creature, a devil? You can spend treasure to roll on their **pact** and reward table. You might get a good deal.
 
