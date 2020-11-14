@@ -26,7 +26,7 @@ The abhir sees in the dark and smells strong warriors.
 
 **Attacks:** Each round, the abhir can perform two of these actions:
 
-<ins>Cleave.</ins> The abhir makesa a melee attack against two adjacent targets.
+<ins>Cleave.</ins> The abhir makes a a melee attack against two adjacent targets.
 
 <ins>Rise and Dive.</ins> The abhir rises on its tail, dives to a nearby point and makes a melee attack. On a hit, the target drops what it holds.
 
