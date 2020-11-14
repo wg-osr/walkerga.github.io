@@ -48,4 +48,5 @@ Roll if the monster is in the encounter list of a hexcrawl or a dungeon.
 ## Other Type Specific Tables
 
 **Aberrations**
+
 <ins>Mutation Table.</ins> Use this to illustrate the impact the aberration has on its environment. Its also the sometimes beneficial consequence of the [Researching Eldritch Knowledge](/2020/11/10/extra-rules#between-adventures) carousing activity.
