@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 tags: monster aberration boss
 title: Abhir
 ---
