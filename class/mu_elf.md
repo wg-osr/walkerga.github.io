@@ -6,7 +6,7 @@ permalink: /class/magic-user/elf
 
 ###### Adapted from Coins and Scrolls's [Version](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)
 
-The Elf is a type of [Magic User](/class/magic-user)
+The Elf is a type of [Magic User](/class/magic-user). To take templates as an elf, you must be an elf.
 
 <ins>Starting Equipment</ins><br>
 A bow and 12 arrows. A piece of jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html).
