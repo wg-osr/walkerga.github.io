@@ -10,4 +10,4 @@ It wants the souls of strong warriors to feed its larvae.
 
 **Size:** large <br>
 **Stats:** 8 / 9 / 9 / 6 / 7 / 8 <br>
-**Resistances:** blunt, charm, confusion, fear, pierce, slash, magic, mind
+**Resistances:** weapons, magic, pierce, mind
