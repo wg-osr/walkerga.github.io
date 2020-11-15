@@ -40,12 +40,12 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 ## Random Encounter
 
-1. **Monster:** 1 adarna bird.
-1. **Lair:** A human-sized magnificent lyre-shaped nest made of woven gold flowers. Coins and shiny, delicate trinkets are set in a perfect circle in the nest’s opening. Passing through the opening cleans as if taking a perfumed bath, but the next time a trespasser sleeps, they will dream of the adarna song, only waking up 1D6 days later. <br>	&nbsp; OR <br>	**Omen:** You hear a heartbreakingly beautiful bird song, your eyes starts to grow heavy. See *soothing song* ability.
-1. **Spoor:** One broken iridescent feather only visible to creatures with more than 5 intelligence.
-1. **Tracks:** Two joyful notes resonate far in a random direction.
-1. **Trace:** A person (D4 1:Artist, 2:Noble, 3:Child, 4:Ettercap) arrives with legends of the bird. They are escorted by a (D4 1:Veteran Game Hunter, 2:Local Guide, 3:Oneirologist, 4:Pet).
-1. **Trace:** A person petrified while napping. A small stain of dried guano on their forehead.
+1. **Monster:** 1 aerial servant.
+1. **Lair:** The floating throne of a local spirit (1: Fey, 2: Elemental, 3: Petty God, 4: Wizard). 25% chance that the lord is here. 75% chance it is slumbering. <br>	&nbsp; OR <br>	**Omen:** The wind shifts and howls.
+1. **Spoor:** A summoner, asphyxiated.
+1. **Tracks:** The rumors of interpreted in the movement of the clouds.
+1. **Trace:** [rumor] A person has been strangled by the wind.
+1. **Trace:** Clouds drifting into the ether.
 
 <br>
 
@@ -53,42 +53,37 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 ## What the Monster Wants
 
-Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul. 
-
-1. Decorate the place with fresh flowers, only for them to die before the task is complete.
-1. To be captured by an impossibly good person.
-1. Transition through all the colors.
-1. Clean the area completely.
-1. Freeze in time a person at its beauty peak.
-1. Sing a duet that matches its beauty.
-
+1. Kill its summoner, and everybody in its way.
+1. Capture a (1) lover, (2) slave, (3) rival, (4) apprentice for its summoner.
+1. Move geological features to shift the direction of the winds.
+1. Clear a path for the upcoming visit of a petty god in 1D6 (1) days, (2) months, (3) years, (4) centuries.
+1. Retrieve a specific breeze to serve to a god’s banquet.
+1. Kill all intruders, but secretly desires the release of death. 
 
 <br>
 
 ---
 
-## Salvaging the Body
+## Binding the Elemental
 
-A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
+You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
-Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
+1. ... your lungs are crushed, giving you a permanent level of fatigue.
+1. ... you are transported into the ether.
+1. ... all air elementals suddenly knows your exact location. 
+1. ... you can see the ethereal border.
+1. ... you hover.
+1. ... the spell word *Capture*.
 
-<span class="alchemy">**Adarna Guano.** Petrifies a sleeping creature upon contact with their bare skin.</span>
+If you roll a catastrophe, the elemental is released.
 
+## Conjuring an Aerial Servant
 
-<br>
+If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 4 Spell Dices:
 
----
+**Conjure Aerial Servant**
+R: 20’ D: [dice] days
 
-## Totem Table
-
-In local cultures the adarna bird is a symbol of ...
-
-1. Beauty
-1. Moral Worth
-1. Goodness
-1. Superficiality
-1. Perfection
-1. Sacred 
+The summon has one task only: retrieve the person or object you want dead or alive after which it is banished back to the plane of air. It is bound to complete this task as fast as possible, but will try to kill you along the way if it doesn’t slow it down.
 
 
