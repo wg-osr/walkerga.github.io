@@ -14,6 +14,7 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 
 1D4 of them are empty. The rest is occupied by the feature you rolled. To get your feature, roll twice on the table below: once for the adjectice, once for the feature. Note the two hasards and creatures that inhabit your area.
 
+<br>
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
 
