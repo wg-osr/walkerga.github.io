@@ -4,7 +4,7 @@ permalink: /list/jungle
 title: Jungle Biome
 ---
 
-Each time your roll on the astral hex table, you fill 2D4 adjacent hexes on the map with jungle.
+Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the map with jungle.
 <br>
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
