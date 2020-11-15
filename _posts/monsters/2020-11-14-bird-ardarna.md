@@ -23,7 +23,7 @@ All plants and objects surrounding a dying adarna bird are changed as if they ha
 
 **Attacks:** Each round, the adarna bird can perform one of these actions:
 
-<ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1d4+1 minutes), after which, the adarna bird changes color and all must make a new intelligence check to see it.
+<ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1D4+1 minutes), after which, the adarna bird changes color and all must make a new intelligence check to see it.
 
 <br>
 
