@@ -17,4 +17,4 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
 
-1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Battle-worn...</span>  <span class="c">arena.</span> <span class="d">Mob betting against you.</span> 
+1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Calcified weapons ...</span>  <span class="c">strata.</span> <span class="d">Sharp, cutting surfaces.</span> 
