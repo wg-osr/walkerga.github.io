@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /list/underdark
-title: Undedark Biome
+title: Underdark Biome
 ---
 
 Go directly to [underdark hexes](#underdark-hex)
@@ -13,7 +13,7 @@ Go directly to [underdark hexes](#underdark-hex)
 
 ## Underdark Hex
 
-Roll 1D4, this is, in number of hexes, the size of the area where your feature is located. If you roll a 1, that 1-hex area is above the previous one; if you roll a 3, that 3-hexes area is below the previous one.
+Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, the size of the area where your feature is located. An underdark hex-crawl map is vertical, the top of the grid representing the surface.
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
 
