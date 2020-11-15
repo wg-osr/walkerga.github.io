@@ -20,4 +20,4 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 
 1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Shattered...</span>  <span class="c">war debris.</span> <span class="d">Rain of blades.</span>
 1. <span class="a">[Abishai, Blue](/monsters/abishai-blue)</span> <span class="b">Overcharged, crackling...</span>  <span class="c">vault.</span> <span class="d">Force barrier.</span> 
-
+1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Decaying ...</span>  <span class="c">god head.</span> <span class="d">Cloning tone.</span> 
