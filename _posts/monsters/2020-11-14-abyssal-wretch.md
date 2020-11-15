@@ -10,9 +10,12 @@ title: Abyssal Wretch
 ###### Adapted from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf)
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
+
 <br>
 
 ---
+
+<br>
 
 Aberration
 
