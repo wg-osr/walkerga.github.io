@@ -62,7 +62,7 @@ Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly
 ## Random Encounter
 
 1. **Monster:** 2D6 abyssal wretches & 0-1 hulk.
-1. **Lair:** A pentagram with flesh tumors surrounding it and incantation to summon a [sibriex](/monster/sibriex). <br>	&nbsp; OR <br>	**Omen:** A pained shriek ending in a gargle and rattling noises, close-by.
+1. **Lair:** A pentagram with flesh tumors surrounding it and incantation to summon a [sibriex](/monsters/sibriex). <br>	&nbsp; OR <br>	**Omen:** A pained shriek ending in a gargle and rattling noises, close-by.
 1. **Spoor:** Walls tainted with freshly grown flesh tumors.
 1. **Tracks:** Distant moans, shrieks and gargles.
 1. **Trace:** Writings from a person obsessed with a dark summoning.
