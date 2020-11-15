@@ -30,9 +30,17 @@ Celestials trade in the souls that fuel the gods. Each of them have the power to
 
 [Divine List](/list/monsters-celestial)
 
+### Elementals
+Pure sentient matter.
+
+As such, they are resistant to all types of damage. Clever adventurers have found ways to negate this power by exploiting their physically: grounding air, freezing water, drenching fire, etc.
+
+The goals of elementals are pretty straightforward in general, if a bit alien in their scale. Their what-the-monster-wants table illustrate that. Binging the raw power of an elemental to you is one of the very few ways an indivitual can get [Spell Dices](https://saltygoo.github.io/class/magic-user#spells) outside of the magic user class. Its dangerous, and a binding table is provided to know the side effects. Finally, all elementals can be summoned. A variation of the [Conjure](https://saltygoo.github.io/2020/11/12/conjure/) spell unique to the elemental type is included in each monster sheet.
+
+[Elemental List](/list/monsters-elemental)
 
 ### Fairies
-Are they the origin of magic or a consequence of magic? Fairies are from the dreamworld and some say they are the manifestations of emotions and imaginations.
+Are they the origin of magic or a consequence of magic? If elementals are pure matter, fairies are pure emotion.
 
 Their magical nature makes them resistant to mundane weapons and spells, but cold iron has a terrible effect on them: they become powerless.
 
