@@ -19,7 +19,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 
 ## Underdark Hex
 
-Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, the size of the area where your feature is located. To get your feature, roll twice on the table below: once for the adjectice, once for the feature. Note the two hasards and creatures that inhabit your area. An underdark hex-crawl map is vertical,with  the top of the grid representing the surface.
+Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, the size of the area where your feature is located. To get your feature, roll twice on the table below: once for the adjective, once for the feature. Note the two hasards and creatures that inhabit your area. An underdark hex-crawl map is vertical,with  the top of the grid representing the surface.
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
 
