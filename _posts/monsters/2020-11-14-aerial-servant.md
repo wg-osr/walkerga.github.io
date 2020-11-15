@@ -43,7 +43,7 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 1. **Monster:** 1 aerial servant.
 1. **Lair:** The floating throne of a local spirit (1: Fey, 2: Elemental, 3: Petty God, 4: Wizard). 25% chance that the lord is here. 75% chance it is slumbering. <br>	&nbsp; OR <br>	**Omen:** The wind shifts and howls.
 1. **Spoor:** A summoner, asphyxiated.
-1. **Tracks:** The rumors of interpreted in the movement of the clouds.
+1. **Tracks:** Interpreted in the movement of the clouds.
 1. **Trace:** [rumor] A person has been strangled by the wind.
 1. **Trace:** Clouds drifting into the ether.
 
