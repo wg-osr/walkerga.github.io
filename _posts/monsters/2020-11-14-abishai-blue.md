@@ -5,18 +5,15 @@ permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
 
-*Archmage-hunting major devil.*
+Celestial: *Archmage-hunting greater devil.*
 
 ###### Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
 When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods.
+
 <br>
-
----
-
-Celestial
 
 **HD:** 6  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 7 / 8 / 11 / 11 / 9  <br>
 **Immunities:** curses, electricity <br>
