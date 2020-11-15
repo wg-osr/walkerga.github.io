@@ -61,7 +61,7 @@ Rolling with advantage means you roll twice and choose the best. Disadvantage is
 
 <ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one action, which can be moving further.
 
-<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons). The monster will roll Dexterity. You hit if you roll higher. 
+<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons). The monster will roll Dexterity. You hit if you roll higher. Alternatively, if you want less rolls, the number to beat is 10 plus the monster's dexterity.
 
 When you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. 
 
