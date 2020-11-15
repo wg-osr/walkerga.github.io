@@ -77,5 +77,5 @@ Your studies of the aberration has changed you in horrible, gruesome ways: tumor
 
 ---
 
-Play as a [mutant](https://saltygoo.github.io/class/fighter/mutant) too! 
+## Play as a [mutant](https://saltygoo.github.io/class/fighter/mutant) too! 
 
