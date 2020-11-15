@@ -4,7 +4,7 @@ title: Hex Table
 permalink: /hex
 ---
 
-To generate a Hex, choose a biom or roll 1D12:
+To generate a Hex, choose a biome or roll 1D12:
 
 1. [Arctic](/list/arctic)
 1. [Desert](/list/desert)
