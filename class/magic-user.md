@@ -82,7 +82,9 @@ You can pool your SD with other magic users. Catastrophes affect all of you.
 
 Between adventures you can spend time and money on research. By spending [treasures](/2020/11/10/extra-rules#treasures) you can combine two Spell Words to create a new spell. Spell Words are listed under each spell and more can be obtained during your adventures. You basically deconstruct spells in part to assemble a new one.
 
-For example, if you know the spells *Bloodlust* (Blood + Lust) and *Rockspeech* (Rock + Speech), you can create a new spell named *Bloodspeech* or *Blood to Stone* or *Charm Rock*. As you can see, the words can be replaced by synonyms or expressions with similar meaning. Once your new name is chosen, spend a treasure and roll Intelligence, on a success, the spell is created and the Referee will design the effect. You can add 1 on your roll for each previously failed attempt with the same word combo.
+For example, if you know the spells *Bloodlust* (Blood + Lust) and *Rockspeech* (Rock + Speech), you can create a new spell named *Bloodspeech* or *Blood to Stone* or *Charm Rock*. As you can see, the words can be replaced by synonyms or expressions with similar meaning. 
+
+Once your new name is chosen, spend a treasure and roll Intelligence. On a success, the spell is created and the Referee will design its effect. You can add 1 on your roll for each previously failed attempt with the same word combo.
 
 Note that you can make a new spell with the same word: *Bloodlust* could become *Charm Blood* or *Bloody Desire* etc.
 
