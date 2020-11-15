@@ -13,6 +13,8 @@ Imagine a humanoid covered in blue scales, with the head, wings and tail of a dr
 
 When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods.
 
+---
+
 Celestial
 
 **HD:** 6  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 7 / 8 / 11 / 11 / 9  <br>
