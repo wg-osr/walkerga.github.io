@@ -28,4 +28,4 @@ Their divine nature makes them resistant to everything, except radium.
 
 Celestials trade in the souls that fuel the gods. Each of them have the power to make pacts with mortals, which all involve a quest, a reward and the soul of the mortal in case of a failure to comply. Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion.
 
-[Celestial List](/list/monsters-celstial)
+[Celestial List](/list/monsters-celestial)
