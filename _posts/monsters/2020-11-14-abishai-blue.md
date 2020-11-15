@@ -12,6 +12,7 @@ title: Abishai, Blue
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
 When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods.
+<br>
 
 ---
 
@@ -68,7 +69,7 @@ Evil celestials give the reward and the quest at the same time, then try to make
 1. One blue horn that absorbs electricity like the [Fourth Ward](https://saltygoo.github.io/2020/11/13/the-ten-wards/).
 1. Access to a well equipped wizard lab hidden in a permanent lightning storm in the astral sea.
 
-Quest:
+**Quest:**
 
 1. You must discover a spell powerful enough to destroy an army. Ensure you are the only one to know it.
 1. You must kill an archmage who knows too much.
