@@ -9,7 +9,7 @@ title: Bird, Adarna
 
 ###### Fey. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
 
-Imagine an Iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now. 
+Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now. 
 
 **HD:** 0  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 2 / 6 / 4 / 1 / 7 / 8 <br>
 **Resistances:** weapons, magic <br>
@@ -17,7 +17,7 @@ Imagine an Iridescent bird of unreal beauty. Seeing it makes you want to cry. In
 **Damage:** 0 <br>
 **Movement:** slow, fly fast &nbsp; &nbsp; **Morale:** coward <br>
 
-All plants and objects surrounding a dying adarna bird are changed as if they had spent a year in a dusty, sunless attic.
+All plants and objects near a dying adarna bird are changed as if they had spent a year in a dusty, sunless attic.
 
 **Unfathomable Beauty:** Creatures must succeed an intelligence check to see the adarna bird. 
 
