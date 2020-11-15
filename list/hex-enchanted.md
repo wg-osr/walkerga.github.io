@@ -4,7 +4,7 @@ permalink: /list/enchanted
 title: Enchanted Dream
 ---
 
-This table replaces the Adjective roll of the biome you rolled. Roll an additionnal time on this table to complete the hasard.
+This table replaces the Adjective roll of the biome you rolled. Roll the part 2 of the hasard separately.
 
 <br>
 
