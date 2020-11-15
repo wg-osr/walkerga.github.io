@@ -10,7 +10,7 @@ Go directly to [underdark hexes](#underdark-hex)
 
 To get your entrance, roll twice on the table below: once for the gateway, once for the feature. Note the numbers, you can start un underdark hex map with the same roll.
 
-&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Gaeway**</span> **Feature**
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Gateway**</span> **Feature**
 1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Pit with bladed edges.</span> <span class="b">Sounds of sword fighting.</span> 
 
 <br>
