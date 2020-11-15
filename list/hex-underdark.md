@@ -11,6 +11,8 @@ Go directly to [underdark hexes](#underdark-hex)
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="dd">**Entrance**</span>
 1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="d">Pit with jagged, blade-like edges. Sounds of sword fighting.</span>
 
+---
+
 ## Underdark Hex
 
 Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, the size of the area where your feature is located. An underdark hex-crawl map is vertical, the top of the grid representing the surface.
