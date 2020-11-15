@@ -69,7 +69,7 @@ You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one
 1. ... your weight is halved, you have disadvantage on strength checks. 
 1. ... you are under a permanent feather-fall.
 1. ... you hover.
-1. ... the spell word travel. 
+1. ... the spell word *Travel*. 
 
 If you roll a catastrophe, the elemental is released.
 
