@@ -13,3 +13,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Abyssal Wretch](/monsters/abyssal-wretch)</span> <span class="e"> ... with fleshy veins.</span> <span class="d">Mutation radiations.</span> 
 1. <span class="a">[Aerial Servant](/monsters/aerial-servant)</span> <span class="e">Flying ...</span> <span class="d">Floating platforms.</span> 
 1. <span class="a">[Airwalker](/monsters/airwalker)</span> <span class="e">... in the sky.</span> <span class="d">Floating portals.</span> 
+1. <span class="a">[Amber Prowler](/monsters/amber-prowler)</span> <span class="e">... with a prison for wizards.</span> <span class="d">Arcane sentries.</span> 
