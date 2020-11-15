@@ -81,7 +81,7 @@ If you roll a catastrophe, the elemental is released.
 
 If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 4 Spell Dices:
 
-**Conjure Aerial Servant**
+**Conjure Aerial Servant** <br>
 R: 20’ D: [dice] days
 
 The summon has one task only: retrieve the person or object you want dead or alive after which it is banished back to the plane of air. It is bound to complete this task as fast as possible, but will try to kill you along the way if it doesn’t slow it down.
