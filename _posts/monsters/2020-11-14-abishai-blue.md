@@ -26,7 +26,7 @@ Celestial
 
 The blue abishai is a very powerful magic user and can be considered to know other spells for most occasions.
 
-The abishai can see in the dark and speak telepathically. Its weapon is made of (platinum)(2020/11/10/extra-rules#rare-metal). 
+The abishai can see in the dark and speak telepathically. Its weapon is made of [platinum](https://saltygoo.github.io/2020/11/10/extra-rules#rare-metal). 
 
 **Attacks:** Each round, the abishai can perform one of these actions:
 
@@ -62,8 +62,8 @@ Evil celestials give the reward and the quest at the same time, then try to make
 1. An orb which creates an arc of electricity between it and any magic nearby.
 1. A grimoire with 3 random spells.
 1. You grow blue dragon scales with gives you protection like leather armor.
-1. A blue [Imp](/monsters/imp) follower.
-1. One blue horn that absorbs electricity like the [Fourth Ward](2020/11/13/the-ten-wards/).
+1. A blue [Imp](/imp) follower.
+1. One blue horn that absorbs electricity like the [Fourth Ward](https://saltygoo.github.io/2020/11/13/the-ten-wards/).
 1. Access to a well equipped wizard lab hidden in a permanent lightning storm in the astral sea.
 
 Quest:
