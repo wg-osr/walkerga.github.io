@@ -17,6 +17,4 @@ Roll 1D4, this is, in number of hexes, the size of the area where your feature i
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span>  <span class="dd">**Hazard**</span>
 
-<ol>
-  <li><span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Battle-worn...</span>  <span class="c">arena.</span> <span class="d">Mob betting against you.</span></li>
-</ol>
+1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Battle-worn...</span>  <span class="c">arena.</span> <span class="d">Mob betting against you.</span>
