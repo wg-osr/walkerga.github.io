@@ -24,7 +24,7 @@ Anti-magic zones and dispel effects paralyze the prowler.
 
 The amber prowler is designed like a big cat and can jump 30’ easily. It also has advantage on climbing checks.
 
-When the amber prowler dies, amber shards can be salvaged for a value of 1D6 [valuables](https://saltygoo.github.io/2020/11/10/extra-rules/).
+When the amber prowler dies, amber shards can be salvaged for a value of 1D6 [valuables](https://saltygoo.github.io/2020/11/10/extra-rules#treasures).
 
 **Attacks:** Each round, the prowler can perform one of these actions:
 
