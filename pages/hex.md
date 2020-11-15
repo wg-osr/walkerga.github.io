@@ -19,8 +19,8 @@ To generate a Hex, choose a biom or roll 1D12:
 1. Repeat previous
 1. Special (D6)
     1. Reroll with D10, its [Corrupted by Chaos](/list/chaos)
-    1. Reroll with D10, its [Cursed](/list/cursed)
-    1. Reroll with D10, its [Holy](/list/holy)
+    1. Reroll with D10, its [Cursed by the Dead](/list/cursed)
+    1. Reroll with D10, its [Holy or Unholy](/list/holy)
     1. Reroll with D10, its [Enchanted by the fey](/list/enchanted)
-    1. Reroll with D10, its [Magical](/list/magical)
+    1. Reroll with D10, its [Magicaly altered](/list/magical)
     1. Reroll with D10, its [Elemental](/list/elemental)
