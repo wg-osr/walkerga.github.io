@@ -23,13 +23,15 @@ For every Mutant template you have, roll a new mutation (from the [aberration](/
 You (and any creature) can only have as many scars and mutations as their Constitution score. Scars can be mutated over, but not mutations. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
 
 ## Reactive Mutation
-You dont have to wait to the end of the session to gain [new scars](https://saltygoo.github.io/2020/11/10/extra-rules#heroism--scars) from your exploits. Instead, once per game, you can immediately react to any brush with death and roll on the [D500 mutation table](https://drive.google.com/file/d/185tK3h6lHMyenp_vZMd1jvFfVjq5MSz2/view). Add that mutation to your scar list: you now have advantage against that specific danger as defined by the Referee.
+You dont have to wait to the end of the session to gain [new scars](https://saltygoo.github.io/2020/11/10/extra-rules#heroism--scars) from your exploits. Instead, once per game, you can immediately react to any brush with death and roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html). Add that mutation to your scar list: you now have advantage against that specific danger as defined by the Referee.
 
 ## Regeneration
-You can spend your turn gruesomely regenerating. You heal 1D6 wounds and HP. If you do, roll on the [D500 mutation table](https://drive.google.com/file/d/185tK3h6lHMyenp_vZMd1jvFfVjq5MSz2/view).
+You can spend your turn gruesomely regenerating. You heal 1D6 wounds and HP. If you do, roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
 
 ## Evolution
 When you gain a new mutation, you can choose to replace an existing one instead.
 
 ## Gift of Flesh
 You can touch a willing creature and use your regeneration ability on it. Remember they are affected by the Font of Flesh ability.
+
+> **About using Coins & Scrolls's Mutation Table with SaltyGoo's GLoG.** Halve all stats and HP gains and losses.
