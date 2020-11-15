@@ -36,4 +36,4 @@ You can touch a willing creature and use your regeneration ability on it. Rememb
 
 ---
 
-> **About using Coins & Scrolls's Mutation Table with SaltyGoo's GLoG.** Halve all stats and HP gains and losses.
+##### ***About using Coins & Scrolls's Mutation Table with SaltyGoo's GLoG.** Halve all stats and HP gains and losses.*
