@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /list/arctic
 title: Arctic Biome
 ---
