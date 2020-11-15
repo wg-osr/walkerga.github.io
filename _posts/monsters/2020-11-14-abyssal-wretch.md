@@ -11,8 +11,6 @@ Aberration: *Terminally mutated humanoid.*
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
 
-<br>
-
 **HD:** 1  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 4 / 4 / 5 / 2 / 4 / 2   <br>
 **Resistances:** mind <br>
 **Armor:** none <br>
