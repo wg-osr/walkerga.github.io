@@ -34,4 +34,6 @@ When you gain a new mutation, you can choose to replace an existing one instead.
 ## Gift of Flesh
 You can touch a willing creature and use your regeneration ability on it. Remember they are affected by the Font of Flesh ability.
 
+---
+
 > **About using Coins & Scrolls's Mutation Table with SaltyGoo's GLoG.** Halve all stats and HP gains and losses.
