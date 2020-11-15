@@ -9,7 +9,7 @@ Go directly to [underdark hexes](#underdark-hex)
 ## Surface Entrance
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="dd">**Entrance**</span>
-1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="d">Razor-sharp pit. Sounds of sword fighting.</span>
+1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="d">Pit with jagged, blade-like edges. Sounds of sword fighting.</span>
 
 ## Underdark Hex
 
