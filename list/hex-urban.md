@@ -8,5 +8,5 @@ title: Urban Biome
 1. [](/monsters/name)
 ----
 
-**Monster &Tab; Feature Adjective &Tab; Feature &Tab; Hazard**
-1. [Abhir](/monsters/abhir) &Tab; Demonic &Tab; Arena &Tab; Grasping Walls.
+**Monster** <pre> **Feature Adjective** <pre> **Feature** <pre> **Hazard**
+1. [Abhir](/monsters/abhir) <pre> Demonic <pre> Arena <pre> Grasping Walls.
