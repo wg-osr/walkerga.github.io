@@ -75,3 +75,7 @@ Your studies of the aberration has changed you in horrible, gruesome ways: tumor
 1. ... your face and it blocks one of your eyes.
 1. Reroll. You know the [spell word](https://saltygoo.github.io/class/magic-user#spell-words) *Flesh* and gain one spell dice.
 
+---
+
+Play as a [mutant](https://saltygoo.github.io/class/fighter/mutant) too! 
+
