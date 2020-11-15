@@ -4,6 +4,8 @@ permalink: /list/underdark
 title: Undedark Biome
 ---
 
+Go directly to [underdark hexes](#underdark-hex)
+
 ## Surface Entrance
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="d">**Entrance**</span>
