@@ -26,7 +26,7 @@ Celestial
 
 The blue abishai is a very powerful magic user and can be considered to know other spells for most occasions.
 
-The abishai can see in the dark and speak telepathically. Its weapon is made of [platinum](https://saltygoo.github.io/2020/11/10/extra-rules#rare-metal). 
+The abishai can see in the dark and speak telepathically. Its weapon is made of [platinum](https://saltygoo.github.io/2020/11/10/extra-rules#rare-metals). 
 
 **Attacks:** Each round, the abishai can perform one of these actions:
 
