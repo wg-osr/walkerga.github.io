@@ -137,11 +137,11 @@ Do you have access to a humanoid? You can spend a treasure to **learn** a langua
 
 Have you captured or slain a beast? You could spend a treasure to **craft** an item with its parts, **tame** one, or teach it a new one-word order.
 
-Can you cast spells? You can spend treasures **researching** new spells by combining words from spells you already know. If you have a fey’s charm, you can be even more creative. 
+Can you cast spells? You can spend treasures **researching new spells** by combining [spell word](https://saltygoo.github.io/class/magic-user#spell-words) from spells you already know. If you have a fey’s charm, you can be even more creative. 
 
 You have access to an aberration, a demon or a book about them? Be careful, but you could spend a treasure to **research eldritch knowledge** and roll on their mutation tables. Some are even beneficial! 
 
-Can you talk or summon a divine creature, a devil? You can spend treasure to roll on their **pact** and reward table. You might get a good deal.
+Can you talk or summon a celestial creature, a devil? You can spend treasure to roll on their **pact** and reward table. You might get a good deal.
 
 Do you have access to a construct or a book about them? You could spend treasures to **create** one!
 
