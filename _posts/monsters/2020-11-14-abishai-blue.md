@@ -37,7 +37,7 @@ The abishai can see in the dark and speak telepathically. Its weapon is made of 
 
 <ins>Kris.</ins> The abishai makes one melee attack (x) and casts a spell.
 
-<ins>Summon Celestial (recharge 2/6).</ins> The abishai summons 1D4 HD of celestials, which appear in 1D4 turns.
+<ins>Summon Celestial</ins> (recharge 2/6). The abishai summons 1D4 HD of celestials, which appear in 1D4 turns.
 
 <br>
 
