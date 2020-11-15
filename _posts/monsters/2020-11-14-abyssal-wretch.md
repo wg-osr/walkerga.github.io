@@ -5,9 +5,9 @@ permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
 
-Aberration: *Terminally mutated humanoid.* 
+*Terminally mutated humanoid.* 
 
-###### Adapted from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf)
+###### Aberration. Adapted from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf)
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
 
