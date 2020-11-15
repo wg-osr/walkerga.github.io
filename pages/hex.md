@@ -16,7 +16,7 @@ To generate a Hex, choose a biom or roll 1D12:
 1. [Swamp](/list/swamp)
 1. [Urban](/list/urban)
 1. [Sea](/list/sea)
-1. Repeat previous
+1. [Underdark Gate](/list/underdark)
 1. Special (D6)
     1. Reroll with D10, its [Corrupted by Chaos](/list/chaos)
     1. Reroll with D10, its [Cursed by the Dead](/list/cursed)
