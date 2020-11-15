@@ -1,38 +1,34 @@
 ---
 layout: post
-tags: monster elemental fauna
-permalink: /monsters/aerial-servant
-title: Aerial Servant
+tags: monster elemental faction
+permalink: /monsters/airwalker
+title: Airwalker
 ---
 
-*Air elemental specialized in abductions.*
+*Elemental guide to the plane of air.*
 
-###### Elemental. Adapted from [AD&D 2e](http://adnd.geoshitties.installgentoo.com/mm/elekaase.html)
+###### Elemental. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
 
-Imagine a nearly invisible, legless humanoid made of sparkling blue smoke. They are most often bound to a mission to capture a prey when met, but would love to kill their summoner even more. 
+Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls.
 
-When free, they serve as messengers  between gods.
-
-**HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 10 / 10 / 7 / 3 / 5 / 3 <br>
-**Immunities:** electricity, grapple, petrification, sleep <br>
+**HD:** 1  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 6 / 8 / 6 / 6 / 7 / 6 <br>
+**Immunities:** electricity<br>
 **Resistances:** damage <br>
 **Armor:** none <br>
-**Damage:** 1D8 <br>
-**Movement:** fly fast &nbsp; &nbsp; **Morale:** brave <br>
+**Damage:** 1D4 <br>
+**Movement:** fly fast &nbsp; &nbsp; **Morale:** coward <br>
 
-The aerial servant loses all resistances if it is prone or cant move.
+The airwalker loses all resistances if it is prone or cant move.
 
-As a gaseous creature, it can fit into any hole. It always knows the exact location of its target if it is clearly identified.
+**Attacks:** Each round, the airwalker can perform one of these actions:
 
-**Attacks:** Each round, the aerial servant can perform two of these actions:
+<ins>Plane Shift</ins>. The airwalker and every creature touching it or a creature touching it are transported to the plane of air.
 
-<ins>Crush</ins>. The aerial servant makes a melee attack (x).
+<ins>Punch</ins>.  The airwalker makes one melee attack (x). 
 
-<ins>Ethereal Shift</ins>. The servant shifts between the ethereal and physical worlds. It is visible in either, but cant affect or be affected by anything in the plane it isn’t. 
+<ins>Unshackle</ins>. The airwalker attempts to grapple an adjacent target. If it succeeds, the target is under the effect of levitate.
 
-<ins>Smother</ins>. The servant attempts to grapple an adjacent target. If grappled, a creature cannot breathe. Only one creature can be grappled at a time.
-
-<ins>Wind Blast</ins>. The servant pushes a creature with strong winds. If the target fails a strength save, it is blown nearby, falls prone, and takes damage (x) on impact.
+<ins>Whirl</ins>.   The airwalker moves an adjacent thing somewhere nearby. 
 
 <br>
 
@@ -40,12 +36,12 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 ## Random Encounter
 
-1. **Monster:** 1 aerial servant.
-1. **Lair:** The floating throne of a local spirit (1: Fey, 2: Elemental, 3: Petty God, 4: Wizard). 25% chance that the lord is here. 75% chance it is slumbering. <br>	&nbsp; OR <br>	**Omen:** The wind shifts and howls.
-1. **Spoor:** A summoner, asphyxiated.
-1. **Tracks:** Interpreted in the movement of the clouds.
-1. **Trace:** [rumor] A person has been strangled by the wind.
-1. **Trace:** Clouds drifting into the ether.
+1. **Monster:** 1D6 airwalkers & 25% 1 traveling humanoid.
+1. **Lair:** A giants floating pole with 1D12 swirling wind-chimes pointing at ever-shifting planar locations. <br>	&nbsp; OR <br>	**Omen:** The sound of a portal opening and a gust of wind.
+1. **Spoor:** The spark of a portal closing and one final gust sweeping the area.
+1. **Tracks:**  Eerie yet joyful wind chime noises.
+1. **Trace:** [rumor] People in the area seem to routinely get things from the plane of air.
+1. **Trace:** A *monk*, training to become one with the winds.
 
 <br>
 
@@ -53,12 +49,12 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 ## What the Monster Wants
 
-1. Kill its summoner, and everybody in its way.
-1. Capture a (1) lover, (2) slave, (3) rival, (4) apprentice for its summoner.
-1. Move geological features to shift the direction of the winds.
-1. Clear a path for the upcoming visit of a petty god in 1D6 (1) days, (2) months, (3) years, (4) centuries.
-1. Retrieve a specific breeze to serve to a god’s banquet.
-1. Kill all intruders, but secretly desires the release of death. 
+1. Find a truly free soul and guide them to the endless skies of the plane of air.
+1. Perform the 5 acts of the deadly alizee sky waltz. They are missing a dancer.
+1. Steal fun things to throw away down the bottomless skies of the plane of air.
+1. To race with you. They might train you if you win (giving you the punch attack).
+1. Deliver safely an old monk somewhere close-by, they just happen to have teleported in the wrong location.
+1. Warn of a grave danger. They assume everybody can fly. 
 
 <br>
 
@@ -68,20 +64,20 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
-1. ... your lungs are crushed, giving you a permanent level of fatigue.
-1. ... you are transported into the ether.
-1. ... all air elementals suddenly knows your exact location. 
-1. ... you can see the ethereal border.
+1. ... you plane-shift to a random location in the plane of air.
+1. ... you are under a permanent levitation spell. 
+1. ... your weight is halved, you have disadvantage on strength checks. 
+1. ... you are under a permanent feather-fall.
 1. ... you hover.
-1. ... the spell word *Capture*.
+1. ... the spell word travel. 
 
 If you roll a catastrophe, the elemental is released.
 
-## Conjuring an Aerial Servant
+## Conjuring an Airwalker
 
-If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 4 Spell Dices:
+If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 1 Spell Dices:
 
 **Conjure Aerial Servant** <br>
-R: 20’ D: [dice] days
+R: self 
 
-The summon has one task only: retrieve the person or object you want dead or alive after which it is banished back to the plane of air. It is bound to complete this task as fast as possible, but will try to kill you along the way if it doesn’t slow it down.
+When casting the spell the caster must join hands with up to [dice] people. The airwalker will then ask each participant why they seek access to the plane of air. If the motive is anything beyond personal freedom, the person must succeed a charisma check to successfully lie to the elemental. If everybody passes the check, the airwalker planeshifts the group to the location of their choice in the plane of air.
