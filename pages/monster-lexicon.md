@@ -4,7 +4,7 @@ title: How to Read a Monster Page
 permalink: /monsters/lexicon
 ---
 
-**HD:** Hit Dice, roll as many D8s to calculate the monster's hit points (HP).
+**HD:** Hit Dice, roll as many D8s to calculate the monster's hit points (HP). +X means add to HP.
 
 **Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger)
 
