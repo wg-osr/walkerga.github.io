@@ -5,9 +5,9 @@ permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
 
-Celestial: *Archmage-hunting greater devil.*
+*Archmage-hunting greater devil.*
 
-###### Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
+###### Celestial. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
