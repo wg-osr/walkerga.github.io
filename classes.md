@@ -14,9 +14,9 @@ permalink: /classes/
 
 ### Monster Classes
 
-Fighters
-- The [Mutant](/class/fi-mutant)
-Magic Users
-- The [Elf](/class/magic-user/elf)
-Specialists
-- The [Dwarf](/class/specialist/dwarf)
+- Fighters
+  - The [Mutant](/class/fi-mutant)
+- Magic Users
+  - The [Elf](/class/magic-user/elf)
+- Specialists
+  - The [Dwarf](/class/specialist/dwarf)
