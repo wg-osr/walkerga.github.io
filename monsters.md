@@ -21,6 +21,16 @@ Each aberration has a mutation table for when players want to try to harness the
 
 [Aberration List](/list/monsters-aberration)
 
+
+### Construct
+Animated machines.
+
+Their lack of bodily functions makes them immune to such things as poison, diseases and sleep. They can be considered as objects for the purpose of spells and abilities and are vulnerable to anti-magic zones.
+
+Being articifial creatures, each construct monster sheet has guidelines for its construction.
+
+[Construct List](/list/monsters-construct)
+
 ### Divine
 Entities that enforce the laws of the gods. Angels and the lawful devils of DnD are celestials.
 
