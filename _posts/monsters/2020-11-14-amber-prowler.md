@@ -11,7 +11,7 @@ title: Amber Prowler
 
 Imagine a stylized lion or tiger sculpted out of amber. Its semi translucent body casts an orange shadow.
 
-**HD:** 5  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 9 / 7 / 9 / 2 / 5 / 1  <br>
+**HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 9 / 7 / 9 / 2 / 5 / 1  <br>
 **Immunities:** blindness, fatigue, fear, poison, sleep <br>
 **Resistances:** fire, magic <br>
 **Armor:** as plate <br>
@@ -53,7 +53,7 @@ When the amber prowler dies, amber shards can be salvaged for a value of 1D6 [va
 
 ## Creation Table
 
-Creating an amber prowler takes 5 Spell Dices and the equivalent of 5 treasures in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating an amber prowler takes 4 Spell Dices and the equivalent of 4 treasures in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
 
 1. Behaves like a domestic cat.
 1. Behaves like a feral tiger.
