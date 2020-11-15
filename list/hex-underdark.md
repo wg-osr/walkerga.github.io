@@ -7,7 +7,7 @@ title: Undedark Biome
 ## Surface Entrance
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="d">**Entrance**</span>
-1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="d">Pit with sharp, jagged edges. Sounds of sword fights can be hear coming from it.</span>
+1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="d">Razor-sharp pit. Sounds of sword fighting.</span>
 
 ## Underdark Hex
 
