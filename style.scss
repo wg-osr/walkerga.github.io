@@ -294,3 +294,8 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// SaltyGoo added for hex tables
+
+.a { display: inline-block; width: 30%; }
+.b { display: inline-block; width: 20%; }
