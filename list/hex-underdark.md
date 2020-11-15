@@ -15,6 +15,6 @@ Go directly to [underdark hexes](#underdark-hex)
 
 Roll 1D4, this is, in number of hexes, the size of the area where your feature is located. If you roll a 1, that 1-hex area is above the previous one; if you roll a 3, that 3-hexes area is below the previous one.
 
-&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span>  <span class="dd">**Hazard**</span>
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
 
-1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Battle-worn...</span>  <span class="c">arena.</span> <span class="d">Mob betting against you.</span>
+1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Battle-worn...</span>  <span class="c">arena.</span> Mob betting against you.
