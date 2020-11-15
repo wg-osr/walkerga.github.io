@@ -8,6 +8,6 @@ This table replaces the Adjective roll of the biome you rolled. Roll an addition
 
 <br>
 
-&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**Hazard/**</span> **/Hazard**
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="bb">**Hazard/**</span> **/Hazard**
 
-1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Song...</span>  <span class="c">Mesmerizing ...</span> <span class="d">orchid.</span>
+1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Song...</span>  <span class="b">Mesmerizing ...</span> <span class="d">orchid.</span>
