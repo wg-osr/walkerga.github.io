@@ -10,6 +10,8 @@ permalink: /monsters/lexicon
 
 **Stats:** str / dex / con / int / wis / cha <br>*double for 3D6 system, subtract 5 for 5e-style stat bonus*
 
+**Immunities:** ignore damage and effects.
+
 **Resistances:** halves damage and gives advantage on saves <br>"weapon" means blunt/pierce/slash damage. "mind" includes things like charm and fear.
 
 **Armor:** damage resistance: leather (2), chain (4), plate (6). <br>Never reduce damage below 1.
@@ -29,7 +31,7 @@ Minor abilities that relate more to how the monster lives live darkvision, keen 
 
 **Attacks:** Each round, a monster can perform a certain number of actions listed. Of course context might call for new ones at the referee's discretion.
 
-<ins>Actual Attack.</ins> A melee attack hits an adjacent target, a melee attack with reach can hit targets behind adjacent ones, a short range means within 1 turn of movement, a ranged attack means far. Damage is listed in the sats above. When an attack has (2x) in it, it means the attack does twice the number of damage dices.
+<ins>Actual Attack.</ins> A melee attack hits an adjacent target, a melee attack with reach can hit targets behind adjacent ones, a short range means within 1 turn of movement, a ranged attack means far. Damage (x) is listed in the sats above. When an attack has (2x) in it, it means the attack does twice the number of damage dices. <ins>Recharge 2/6.</ins> means that the creature has a 2/6 chance each round to be able to use the ability again.
 
 ---
 
@@ -50,3 +52,7 @@ Roll if the monster is in the encounter list of a hexcrawl or a dungeon.
 **Aberrations**
 
 <ins>Mutation Table.</ins> Use this to illustrate the impact the aberration has on its environment. Its also the sometimes beneficial consequence of the [Researching Eldritch Knowledge](/2020/11/10/extra-rules#between-adventures) carousing activity.
+
+**Celestial**
+
+<ins>Quest/Reward Table.</ins> Use the quest table to know the celestial's intent. Roll both to make a pact for the [Make a Pact](/2020/11/10/extra-rules#between-adventures) carousing activity and other negotiations.
