@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /list/urban
-title: Arctic Biome
+title: Urban Biome
 ---
 
 ----
