@@ -7,7 +7,7 @@ title: Abishai, Blue
 
 *Archmage-hunting greater devil.*
 
-###### Celestial. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
+###### Divine Creature. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
