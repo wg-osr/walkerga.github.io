@@ -12,7 +12,7 @@ Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2
 <ins>Starting Skills (+5)</ins><br>
 Forgotten.
 
-For every Mutant template you have, roll a new mutation (from the [aberration](/list/monsters-aberration) list.
+For every Mutant template you have, roll a new mutation (from the [aberration](/list/monsters-aberration) list).
 
 **A:** Font of Flesh, Reactive Mutation<br>
 **B:** Regeneration<br
