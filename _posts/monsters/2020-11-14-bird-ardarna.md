@@ -60,7 +60,7 @@ Evil celestials give the reward and the quest at the same time, then try to make
 
 ## Salvaging the Body
 
-A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word chromatic.
+A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
 
 Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
 
