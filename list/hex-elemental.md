@@ -12,3 +12,4 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
 1. <span class="a">[Abishai, Blue](/monsters/abishai-blue)</span> <span class="e">Metal ... striken by divine lightning.</span> <span class="d">Power drainage.</span> 
+1. <span class="a">[Aerial Servant](/monsters/aerial-servant)</span> <span class="e">Flying ..., court of a sky lord.</span> <span class="d">Party split by wind.</span> 
