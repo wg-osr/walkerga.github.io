@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hex generator
+title: Hex Table
 permalink: /hex
 ---
 
