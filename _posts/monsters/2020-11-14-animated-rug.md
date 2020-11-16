@@ -5,7 +5,7 @@ permalink: /monsters/animated-rug
 title: Animated Object, Rug of Smothering
 ---
 
-*Sentient rug trap*
+*Sentient rug trap.*
 
 ###### Construct. Adapted from [the Monster Manual (5e)](https://5e.tools/book.html#mm)
 
