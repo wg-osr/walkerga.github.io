@@ -12,3 +12,4 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Abishai, Blue](/monsters/abishai-blue)</span> <span class="b">Archmage's...</span>  <span class="c">vault.</span> <span class="d">Electric force wall.</span> 
 1. <span class="a">[Abyssal Wretch](/monsters/abyssal-wretch)</span> <span class="b">Corrupted ...</span>  <span class="c">cult.</span> <span class="d">NPC turning feral mutant.</span> 
 1. <span class="a">[Amber Prowler](/monsters/amber-prowler)</span> <span class="b">Scrying ...</span>  <span class="c">observatory.</span> <span class="d">Arcane sentries</span> 
+1. <span class="a">[Animated Rug](/monsters/animated-rug)</span> <span class="b">Magical ...</span>  <span class="c">bazaar.</span> <span class="d">Crawling alleys.</span> 
