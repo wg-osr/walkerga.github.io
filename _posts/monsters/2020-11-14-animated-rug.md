@@ -43,7 +43,7 @@ The rug of smothering is indistinguishable from a normal rug. Anti-magic zones a
 
 ## Creation Table
 
-Creating a rug of smothering takes 2 spell dices or a level 2 spell slot and a carpet worth 2 treasures. Roll 1D6 to know the result. Add 1 to your roll for each extra spell dice or extra level of spell slot spent.
+Creating a rug of smothering takes 2 spell dices and a carpet worth 2 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures). Roll 1D6 to know the result. Add 1 to your roll for each extra spell dice spent.
 
 1. Its a normal rug.
 1. It is hostile.
