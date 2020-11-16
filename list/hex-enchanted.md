@@ -14,3 +14,4 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Amber Prowler](/monsters/amber-prowler)</span> <span class="b">Amber ...</span> <span class="b">Tracking ...</span> <span class="d">cages.</span>
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Song...</span> <span class="b">Mesmerizing ...</span> <span class="d">orchid.</span>
 1. <span class="a">[Animated Rug](/monsters/animated-rug)</span> <span class="b">Furnished ...</span> <span class="b">Shrinking ...</span> <span class="d">door.</span>
+1. <span class="a">[Animus](/monsters/animus)</span>  <span class="e">Bitter, bitter ...</span> <span class="d">Karmic time loop.</span> 
