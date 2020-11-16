@@ -12,6 +12,15 @@ The slow, methodical conversion of more than 9000 monsters from DnD history to t
 ## By Monster Type
 I classify monsters in 8 thematic categories with some mechanical common thread, because I love when players can learn:
 
+[Aberrations](#aberrations)
+[Beasts](#beasts)
+[Constructs](#constructs)
+[Divine](#divine)
+[Elementals](#elementals)
+[Fairies](#fairies)
+[Humanoids](#humanoids)
+
+
 ### Aberrations
 Eldritch horrors and mutants. The chaotic demons of DnD are aberrations.
 
@@ -21,7 +30,6 @@ Each aberration has a mutation table for when players want to try to harness the
 
 [Aberration List](/list/monsters-aberration)
 
-
 ### Beasts
 Animals and plants. 
 
@@ -29,7 +37,7 @@ Beast are the most common creatures. From goat, to mushroom, to dragon, they are
 
 [Beast List](/list/monsters-beast)
 
-### Construct
+### Constructs
 Animated machines.
 
 Their lack of bodily functions makes them immune to such things as poison, diseases and sleep. They can be considered as objects for the purpose of spells and abilities and are vulnerable to anti-magic zones.
