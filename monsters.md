@@ -64,3 +64,11 @@ Their magical nature makes them resistant to mundane weapons and spells, but col
 Each fey is fairly individualistic, and has a what-the-monster-wants table to know their fickle goal. All fairies can also help magic-users create new spell, and the way to do so is described in the monster's sheet.
 
 [Fey List](/list/monsters-fey)
+
+### Humanoids
+Humanoids are similar to beasts, with the notable distinction they have cultures and society.
+
+Each humanoid monster sheet includes a loot table and a culture table to be able to generate a variety of unique cultures with immediate tension in your world. Also each humanoid comes with a monster class, if players want to play as one of them.
+
+[Humanoid List](/list/monsters-humanoid)
+
