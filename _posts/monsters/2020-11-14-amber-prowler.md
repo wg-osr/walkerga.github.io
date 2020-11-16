@@ -53,7 +53,7 @@ When the amber prowler dies, amber shards can be salvaged for a value of 1D6 [va
 
 ## Creation Table
 
-Creating an amber prowler takes 4 Spell Dices and the equivalent of 4 treasures in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating an amber prowler takes 4 Spell Dices and the equivalent of 4 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
 
 1. Behaves like a domestic cat.
 1. Behaves like a feral tiger.
