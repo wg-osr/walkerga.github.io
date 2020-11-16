@@ -22,6 +22,13 @@ Each aberration has a mutation table for when players want to try to harness the
 [Aberration List](/list/monsters-aberration)
 
 
+### Beasts
+Animals and plants. 
+
+Beast are the most common creatures. From goat, to mushroom, to dragon, they are the basis of most ecosystems. Each monster sheet provides a guide for salvaging their body and a table for what they represent in local cultures.
+
+[Beast List](/list/monsters-beast)
+
 ### Construct
 Animated machines.
 
