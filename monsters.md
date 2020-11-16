@@ -12,14 +12,13 @@ The slow, methodical conversion of more than 9000 monsters from DnD history to t
 ## By Monster Type
 I classify monsters in 8 thematic categories with some mechanical common thread, because I love when players can learn:
 
-[Aberrations](#aberrations)
-[Beasts](#beasts)
-[Constructs](#constructs)
-[Divine](#divine)
-[Elementals](#elementals)
-[Fairies](#fairies)
-[Humanoids](#humanoids)
-
+[Aberrations](#aberrations) <br>
+[Beasts](#beasts) <br>
+[Constructs](#constructs) <br>
+[Divine](#divine) <br>
+[Elementals](#elementals) <br>
+[Fairies](#fairies) <br>
+[Humanoids](#humanoids) <br>
 
 ### Aberrations
 Eldritch horrors and mutants. The chaotic demons of DnD are aberrations.
