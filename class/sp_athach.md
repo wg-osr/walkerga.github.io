@@ -33,7 +33,7 @@ As a baby primeval giant, you are starting to attune to the power that flows thr
 - <ins>Your tantrums create shockwaves!</ins> You can attempt to shove anybody in the area from any range.
 
 ## Feed the Laylines
-If you plant a thing along a layline and come back to it after a long rest, you get rewarded:
+If you plant a thing along a layline and come back to it after a day, you get rewarded:
 
 - <ins>A Seed</ins>. The plant has fully grown.
 - <ins>A Ration</ins>. 2 HD of local beasts or a swarm of local vermins were attracted to the location. You can give them a 3 word command which they will follow to the best of their ability and without taking reckless risks.
