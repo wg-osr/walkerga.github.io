@@ -13,3 +13,4 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Aziza](/monsters/aziza)</span> <span class="b">Fruity...</span>  <span class="c">termite mounds.</span> <span class="d">Sticky sap.</span>
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Sulfurous...</span>  <span class="c">mud.</span> <span class="d">Corrosive puddles.</span>
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Rare...</span>  <span class="c">orchid.</span> <span class="d">Sleep-disease mosquitoes.</span>
+1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">waterfall.</span> <span class="d">Rotten tree bridge.</span>
