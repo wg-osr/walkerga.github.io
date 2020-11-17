@@ -14,3 +14,4 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Amber Prowler](/monsters/amber-prowler)</span> <span class="b">Scrying ...</span>  <span class="c">observatory.</span> <span class="d">Arcane sentries</span> 
 1. <span class="a">[Animated Rug](/monsters/animated-rug)</span> <span class="b">Magical ...</span>  <span class="c">bazaar.</span> <span class="d">Crawling alleys.</span> 
 1. <span class="a">[Animus](/monsters/animus)</span> <span class="b">Abandonned ...</span>  <span class="c">manor.</span> <span class="d">Incriminating murder.</span> 
+1. <span class="a">[Barbazu](/monsters/barbazu)</span> <span class="b">Infernal ...</span>  <span class="c">barracks.</span> <span class="d">Barbwire.</span> 
