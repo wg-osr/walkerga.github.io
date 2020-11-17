@@ -14,7 +14,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Abhir](/monsters/abhir)</span> <span class="b">Pit with bladed edges.</span> <span class="b">Sounds of sword fighting.</span> 
 1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Windy, humid slit.</span> <span class="b">Save vs fear to enter.</span> 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified giant snake.</span> <span class="b">Hot steam.</span> 
-1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Behind a waterfall.</span> <span class="b">thousands of sleeping bats.</span> 
+1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Behind a waterfall.</span> <span class="b">Thousands of sleeping bats.</span> 
 
 <br>
 
