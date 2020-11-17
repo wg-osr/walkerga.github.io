@@ -28,9 +28,9 @@ You are affraid of creatures bigger than you. Save when you see one.
 ## Awaken the Laylines
 As a baby primeval giant, you are starting to attune to the power that flows through the land. Any room or area you cross has 1/6 chance of being crossed by a layline of power (note them!). The zone must be on the ground floor or below. While you are on a layline, the following effects are activated:
 
-- Magic overflows: Everyobody's [Spell Dices](https://saltygoo.github.io/class/magic-user#spells) are recovered on a roll of 1, 2, 3, or 4.
-- Life is abundant: Everybody's death rolls are made with advantage.
-- Your tantrums create shockwaves! You can attempt to shove anybody in the area from any range.
+- <ins>Magic overflows:</ins> Everyobody's [Spell Dices](https://saltygoo.github.io/class/magic-user#spells) are recovered on a roll of 1, 2, 3, or 4.
+- <ins>Life is abundant:</ins> Everybody's death rolls are made with advantage.
+- <ins>Your tantrums create shockwaves!</ins> You can attempt to shove anybody in the area from any range.
 
 ## Feed the Laylines
 If you plant a thing along a layline and come back to it after a long rest, you get rewarded:
