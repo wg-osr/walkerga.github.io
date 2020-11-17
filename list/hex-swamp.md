@@ -11,3 +11,4 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 
 1. <span class="a">[Aqraseth](/monsters/aqraseth)</span> <span class="b">Lush...</span>  <span class="c">mangrove.</span> <span class="d">Flash flood.</span>
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Sulfurous...</span>  <span class="c">steam vents.</span> <span class="d">Toxic fumes.</span>
+1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">hole.</span> <span class="d">Rotten tree bridge.</span>
