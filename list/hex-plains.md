@@ -11,3 +11,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 
 1. <span class="a">[Airwalker](/monsters/airwalker)</span> <span class="b">Wind-swept...</span>  <span class="c">monastery.</span> <span class="d">Violent winds.</span>
 1. <span class="a">[Athach](/monsters/athach)</span> <span class="b">Colossal...</span>  <span class="c">menhir.</span> <span class="d">Fissure bursting with power.</span>
+1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Sulfurous...</span>  <span class="c">steam vents.</span> <span class="d">Corrosive puddles.</span>
