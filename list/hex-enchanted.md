@@ -17,4 +17,4 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Aziza](/monsters/aziza)</span>  <span class="b">Fruit ...</span> <span class="b">Addictive ...</span> <span class="d"> fruit.</span>
 1. <span class="a">[Basilisk](/monsters/basilisk)</span>  <span class="b">Statue ...</span> <span class="b">Petrifying ...</span> <span class="d"> statues.</span>
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Song...</span> <span class="b">Mesmerizing ...</span> <span class="d">orchid.</span>
-
+1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">... in a snow globe.</span> <span class="b">Freezing ...</span> <span class="d">snowflake.</span>
