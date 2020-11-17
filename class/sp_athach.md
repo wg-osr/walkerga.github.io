@@ -4,9 +4,7 @@ title: The Three-Armed Giant Baby
 permalink: /class/specialist/athach
 ---
 
-###### By SaltyGoo. Monster cla
-
-This is a monster class for the [Athach](https://saltygoo.github.io/monsters/athach) A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
+###### By SaltyGoo. This is a monster class for the [Athach](https://saltygoo.github.io/monsters/athach). A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
 
 <ins>Starting Equipment</ins><br>
 Iron pacifier, pelt blanket, giant rattle (hammer). 
@@ -19,7 +17,7 @@ For every Three-Armed Giant Baby template you have, increase your HP by 2.
 **A:** Three-Armed, Giant Baby<br>
 **B:** Awaken the Laylines<br>
 **C:** Feel the Laylines<br>
-**D:** Liver of the Delver<br>
+**D:** Feed the Laylines<br>
 
 ## Three-Armed
 You have three arms. Doing different things at the same time with each is clumsy.
@@ -42,8 +40,8 @@ During Hexcrawl you have advantage on encounters.
 ## Feed the Laylines
 If you plant one seed, vegetable or fruit on a layline and come back to it after a long rest, roll 1D6:
 
-1. The plant has grown to adult size.
-1. The plant has grown to adult and bears Cold Iron fruits.
+1. The plant has fully grown.
+1. The plant has fully grown and bears Cold Iron fruits.
 1. The area collapsed
 1. 2 HD of local beasts were attracted to the location, you can give them a 2 word command.
 1. A swarm of local vermin were attracted to the location, you can give it a 2 word command.
