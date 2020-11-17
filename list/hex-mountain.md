@@ -13,3 +13,4 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Arassas](/monsters/arassas)</span> <span class="b">Frozen...</span>  <span class="c">crags.</span> <span class="d">Crumbling ice bridge.</span>
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Sulfurous...</span>  <span class="c">steam vents.</span> <span class="d">Toxic fumes.</span>
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">waterfall.</span> <span class="d">Narrow cornice.</span>
+1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-capped...</span>  <span class="c">glacier.</span> <span class="d">Blizzard.</span>
