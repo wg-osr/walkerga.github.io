@@ -8,7 +8,9 @@ permalink: /monsters/lexicon
 
 **Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger)
 
-**Stats:** str / dex / con / int / wis / cha <br>*double for 3D6 system, subtract 5 for 5e-style stat bonus*
+**Stats:** str / dex / con / int / wis / cha <br>
+If a number is in brackets, it means something (probably wearing armor) alters it.<br>
+*double for 3D6 system, subtract 5 for 5e-style stat bonus*
 
 **Immunities:** ignore damage and effects.
 
