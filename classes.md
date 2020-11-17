@@ -20,3 +20,4 @@ permalink: /classes/
   - The [Elf](/class/magic-user/elf)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
+  - The [Three-Armed Giant Baby](/class/specialist/athach) (Athach)
