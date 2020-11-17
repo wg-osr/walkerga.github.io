@@ -44,8 +44,6 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 ## What the Monster Wants
 
-Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul. 
-
 1. Decorate the place with fresh flowers, only for them to die before the task is complete.
 1. To be captured by an impossibly good person.
 1. Transition through all the colors.
