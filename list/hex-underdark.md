@@ -15,6 +15,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Windy, humid slit.</span> <span class="b">Save vs fear to enter.</span> 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified giant snake.</span> <span class="b">Hot steam.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Behind a waterfall.</span> <span class="b">Thousands of sleeping bats.</span> 
+1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Ice cave.</span> <span class="b">Blocked by snow.</span> 
 
 <br>
 
@@ -30,3 +31,4 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Flesh growth ...</span>  <span class="c">knots.</span> <span class="d">Whispering winds of paranoia.</span> 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified ...</span>  <span class="c">mud.</span> <span class="d">Corrosive puddles.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Dark ...</span>  <span class="c">tunnels.</span> <span class="d">Narrow cornice.</span> 
+1. <span class="a">[Bat. Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-covered ...</span>  <span class="c">ice wall.</span> <span class="d">Blocked by snow.</span> 
