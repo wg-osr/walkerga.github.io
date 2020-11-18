@@ -13,4 +13,4 @@ Each time your roll on the desert hex table, you fill 3D4 adjacent hexes on the 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Salt...</span>  <span class="c">dried lake.</span> <span class="d">Corrosive sulfur.</span>
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">canyon.</span> <span class="d">Dangerous cliff.</span>
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Acacia...</span>  <span class="c">rivulet.</span> <span class="d">Poisonous poppy.</span>
-
+1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="b">Desolated...</span>  <span class="c">battlesite.</span> <span class="d">Deafening winds.</span>
