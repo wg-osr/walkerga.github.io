@@ -16,6 +16,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified giant snake.</span> <span class="b">Hot steam.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Behind a waterfall.</span> <span class="b">Thousands of sleeping bats.</span> 
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Ice cave.</span> <span class="b">Blocked by snow.</span> 
+1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Irridescent crawlspace.</span> <span class="b">Eerie cricket noises.</span> 
 
 <br>
 
@@ -32,3 +33,4 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified ...</span>  <span class="c">mud.</span> <span class="d">Corrosive puddles.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Dark ...</span>  <span class="c">tunnels.</span> <span class="d">Narrow cornice.</span> 
 1. <span class="a">[Bat. Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-covered ...</span>  <span class="c">ice wall.</span> <span class="d">Blocked by snow.</span> 
+1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Dank ...</span>  <span class="c">nests.</span> <span class="d">Noise-sensing spore bombs.</span> 
