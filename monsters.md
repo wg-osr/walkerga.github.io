@@ -19,6 +19,7 @@ I classify monsters in 8 thematic categories with some mechanical common thread,
 [Elementals](#elementals) <br>
 [Fairies](#fairies) <br>
 [Humanoids](#humanoids) <br>
+[Undeads](#undeads) <br>
 
 ### Aberrations
 Eldritch horrors and mutants. The chaotic demons of DnD are aberrations.
@@ -79,3 +80,11 @@ Each humanoid monster sheet includes a loot table and a culture table to be able
 
 [Humanoid List](/list/monsters-humanoid)
 
+### Undeads
+Creatures that were once alive.
+
+As such, they do not need to breathe. Most undeads have many resitances and immunities, the most common being from being ethereal like ghosts, or from being mindless constructs, like skeletons.
+
+Each undead has a table to determine their goals, and, for those who would risk it, a variation of the [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/) or [Lichcraft](https://saltygoo.github.io/2020/11/13/lichcraft/) spells unique to the undead type you want to create or summon. Alternatively, for certain intelligent undeads, the rules on how to become one are included.
+
+[Undead List](/list/monsters-undead)
