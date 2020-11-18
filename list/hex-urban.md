@@ -16,3 +16,4 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Animus](/monsters/animus)</span> <span class="b">Abandonned ...</span>  <span class="c">manor.</span> <span class="d">Incriminating murder.</span> 
 1. <span class="a">[Barbazu](/monsters/barbazu)</span> <span class="b">Infernal ...</span>  <span class="c">barracks.</span> <span class="d">Barbwire.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Underground...</span>  <span class="c">tunnels.</span> <span class="d">Sinkhole.</span>
+1. <span class="a">[Bat, Ahool](/monsters/bat)</span> <span class="b">Gothic...</span>  <span class="c">belltower.</span> <span class="d">Thick fog.</span>
