@@ -24,3 +24,4 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Abyssal Wretch](/monsters/abyssal-wretch)</span> <span class="b">Fleshy ...</span>  <span class="c">world fragment.</span> <span class="d">Chaotic evil wind.</span> 
 1. <span class="a">[Aerial Servant](/monsters/aerial-servant)</span> <span class="b">Cloud ...</span>  <span class="c">storm.</span> <span class="d">Zero visibility cloud.</span> 
 1. <span class="a">[Airwalker](/monsters/airwalker)</span> <span class="b">Drifting ...</span>  <span class="c">blue crystals.</span> <span class="d">Floating portals.</span> 
+1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Furry ...</span>  <span class="c">nests.</span> <span class="d">Choking spores.</span> 
