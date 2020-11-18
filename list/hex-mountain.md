@@ -15,3 +15,4 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">waterfall.</span> <span class="d">Narrow cornice.</span>
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-capped...</span>  <span class="c">glacier.</span> <span class="d">Blizzard.</span>
 1. <span class="a">[Bear](/monsters/bear)</span> <span class="b">Fresh...</span>  <span class="c">rapids.</span> <span class="d">Treacherous river.</span>
+1. <span class="a">[Bear, Cave](/monsters/bear-cave)</span> <span class="b">Vast...</span>  <span class="c">pines.</span> <span class="d">Surprisingly deep snow.</span>
