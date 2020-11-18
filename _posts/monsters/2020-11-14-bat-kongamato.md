@@ -14,7 +14,7 @@ Dark red and with thick leathery wings, the kongamato smells of swamp water. Its
 **HD:** 2  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 6 / 8 / 6 / 1 / 6 / 4  <br>
 **Armor:** none <br>
 **Damage:** 1D4 <br>
-**Movement:** average, fly fast &nbsp; &nbsp; **Morale:** coward <br>
+**Movement:** average, fly fast, swim average &nbsp; &nbsp; **Morale:** coward <br>
 
 Bats have a very keen hearing, allowing them to easily spot their preys and predators in the dark.
 
