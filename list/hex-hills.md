@@ -14,3 +14,4 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">waterfall.</span> <span class="d">Narrow cornice.</span>
 1. <span class="a">[Bat, Ahool](/monsters/bat-ahool)</span> <span class="b">Gnarly...</span>  <span class="c">trees.</span> <span class="d">Dried out tree bridge.</span>
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Riverside...</span>  <span class="c">willows.</span> <span class="d">Sticky willows.</span>
+1. <span class="a">[Bear](/monsters/bear)</span> <span class="b">Fisher...</span>  <span class="c">rapids.</span> <span class="d">Treacherous river.</span>
