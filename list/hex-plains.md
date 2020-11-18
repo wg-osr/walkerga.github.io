@@ -14,3 +14,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Sulfurous...</span>  <span class="c">steam vents.</span> <span class="d">Corrosive puddles.</span>
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Carvernous...</span>  <span class="c">hole.</span> <span class="d">Sinkhole.</span>
 1. <span class="a">[Bat, Kongamato](/monsters/bat-kongamato)</span> <span class="b">Flooding...</span>  <span class="c">river.</span> <span class="d">Eye Rot disease moss.</span>
+1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Riverside...</span>  <span class="c">willow.</span> <span class="d">Sticky willows.</span>
