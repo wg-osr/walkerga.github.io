@@ -7,7 +7,7 @@ title: Bear, Polar
 
 *Bigger bear adapted to cold climates.*
 
-###### Beast. Adapted from [the MonsterManual (5e)](https://5e.tools/book.html#mm)
+###### Beast. Adapted from [the Monster Manual (5e)](https://5e.tools/book.html#mm)
 
 **HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 10 / 5 / 8 / 1 / 6 / 3  <br>
 **Resistances:** cold <br>
@@ -48,7 +48,7 @@ Polar bear fur is very prized for warm winter clothing, blankets and camouflage.
 
 ## Totem Table
 
-In local cultures the bat is a symbol of ...
+In local cultures, it is a symbol of ...
 
 1. Strength
 1. Patience
