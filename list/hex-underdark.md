@@ -32,5 +32,5 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Flesh growth ...</span>  <span class="c">knots.</span> <span class="d">Whispering winds of paranoia.</span> 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified ...</span>  <span class="c">mud.</span> <span class="d">Corrosive puddles.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Dark ...</span>  <span class="c">tunnels.</span> <span class="d">Narrow cornice.</span> 
-1. <span class="a">[Bat. Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-covered ...</span>  <span class="c">ice wall.</span> <span class="d">Blocked by snow.</span> 
+1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Snow-covered ...</span>  <span class="c">ice wall.</span> <span class="d">Blocked by snow.</span> 
 1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Dank ...</span>  <span class="c">nests.</span> <span class="d">Noise-sensing spore bombs.</span> 
