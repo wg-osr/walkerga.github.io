@@ -13,3 +13,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Animated Rug](/monsters/animated-rug)</span> <span class="e"> ... frozen in time.</span> <span class="d">Everything triggers an alarm.</span> 
 1. <span class="a">[Animus](/monsters/animus)</span> <span class="e"> ... in a time loop.</span> <span class="d">Karmic time loop divine punishment.</span> 
 1. <span class="a">[Barbazu](/monsters/barbazu)</span> <span class="e"> ... of the divine legion.</span> <span class="d">Crucified sinners. Cant die yet.</span> 
+1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="e"> ... to the underworld.</span> <span class="d">Procession of souls.</span> 
