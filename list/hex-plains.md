@@ -16,3 +16,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Bat, Kongamato](/monsters/bat-kongamato)</span> <span class="b">Flooding...</span>  <span class="c">river.</span> <span class="d">Eye Rot disease moss.</span>
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Riverside...</span>  <span class="c">willow.</span> <span class="d">Sticky willows.</span>
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="b">Desolated...</span>  <span class="c">battlesite.</span> <span class="d">Ghosts reenacting a battle.</span>
+1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Bushy...</span>  <span class="c">mud bath.</span> <span class="d">Mud pool.</span>
