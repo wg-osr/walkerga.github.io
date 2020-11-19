@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /list/underwater
+permalink: /list/undersea
 title: Underwater Biome
 ---
 
