@@ -18,7 +18,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Ice cave.</span> <span class="b">Blocked by snow.</span> 
 1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Irridescent crawlspace.</span> <span class="b">Eerie cricket noises.</span> 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Tepid mud crack.</span> <span class="b">Flooded by mud.</span> 
-1. <span class="a">[Brain-bat](/monsters/bain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">"We are your friends" says a voice in your head.</span> 
+1. <span class="a">[Brain-bat](/monsters/bain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">"Come!" - voice in your head.</span> 
 
 <br>
 
