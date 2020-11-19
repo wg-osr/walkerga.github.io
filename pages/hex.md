@@ -26,5 +26,5 @@ To generate a Hex, choose a biome or roll 1D12:
     1. Reroll with D10, its [Elemental](/list/elemental)
 
 ### Other
-[Undersea](/list/undersea)
-[Astral Plane](/list/astral)
+- [Undersea](/list/undersea)
+- [Astral Plane](/list/astral)
