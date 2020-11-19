@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /list/underwater
+title: Underwater Biome
+---
+
+Each time your roll on the sea hex table, you fill 2D6 adjacent hexes on the map with water.
+<br>
+
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="bb">**Adjective ...**</span> <span class="cc">**feature.**</span> **Hazard**
+
+1. <span class="a">[Brain-bat](/monsters/brain-bat)</span> <span class="b">Weird...</span>  <span class="c">pyramids.</span> <span class="d">Ancient defense turret.</span>
+
