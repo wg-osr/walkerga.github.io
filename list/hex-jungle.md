@@ -18,3 +18,4 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Vine-strangled...</span>  <span class="c">canopy.</span> <span class="d">No light reaches the ground.</span>
 1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Vibrating ...</span>  <span class="c">mushrooms.</span> <span class="d">Noise-sensing spore bombs.</span> 
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Rare...</span>  <span class="c">orchid.</span> <span class="d">Sleep-disease mosquitoes.</span>
+1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
