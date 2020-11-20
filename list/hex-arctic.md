@@ -17,3 +17,4 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Bear, Polar](/monsters/bear-polar)</span> <span class="b">Snow-covered...</span>  <span class="c">ice-cap.</span> <span class="d">Blindingly white snow.</span>
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="b">Desolated...</span>  <span class="c">battlesite.</span> <span class="d">Spooky winds.</span>
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine...</span>  <span class="c">thicket.</span> <span class="d">Snow falling from trees.</span>
+1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle...</span>  <span class="c">hovel.</span> <span class="d">Yak herd.</span>
