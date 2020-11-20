@@ -18,3 +18,4 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Bear, Cave](/monsters/bear-cave)</span> <span class="b">Snowy...</span>  <span class="c">pines.</span> <span class="d">Surprisingly deep snow.</span>
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Humid...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine...</span>  <span class="c">thicket.</span> <span class="d">Low fog.</span>
+1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle...</span>  <span class="c">pastures.</span> <span class="d">Sheep herd.</span>
