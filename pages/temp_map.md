@@ -4,4 +4,4 @@ title: Petits Animaux 2
 permalink: /map
 ---
 
-<img src="/images/images/pa-carte1.png" alt="Bonjour">
+<img src="/images/pa-carte1.png" alt="Bonjour">
