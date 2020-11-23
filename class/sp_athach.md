@@ -4,7 +4,8 @@ title: The Three-Armed Giant Baby
 permalink: /class/specialist/athach
 ---
 
-###### By SaltyGoo. This is a monster class for the [Athach](https://saltygoo.github.io/monsters/athach). A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
+<span class="alchemy"> *This was initially a monster class for the [Athach](https://saltygoo.github.io/monsters/athach). In [gaelic folklore](https://what-when-how.com/celtic-mythology-and-folklore/fachan-athach-to-fergus-feargus-celtic-mythology-and-folklore/), the athach was thugish giant with one leg and three arms waving flails made of apple. Its strange appearance was linked to the fear of druid curses. In DnD, it was boringly adapted as a three-armed hill giant. Since I want my monster adaptations to be retrocompatible with old modules, I decided to go for a middle ground between generic and weird by pushing the druidic aspect. Finaly, since I dont want my players to play huge monsters, I flavored this class as a human adult-sized baby giant. — SaltyGoo* </span>
+
 
 <ins>Starting Equipment</ins><br>
 Iron pacifier, pelt blanket, giant rattle (mace). 
