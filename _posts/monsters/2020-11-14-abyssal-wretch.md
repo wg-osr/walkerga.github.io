@@ -7,7 +7,7 @@ title: Abyssal Wretch
 
 *Terminally mutated humanoid. Aberration* 
 
-<span class="alchemy"> *Abyssal wretches, from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf), bring to DnD the trope of the demon—infected mutant-zombies which have been popular in Sci-Fi video games at least since Doom. I wanted to make them different than undead zombies by giving them extreme regeneration. I added the hulk variant as an homage to my favourite spin on the mutant-zombie trope: Halo's [Flood Carrier](https://halo.fandom.com/wiki/Flood_Carrier_Form). — SaltyGoo* </span>
+<span class="alchemy"> *Abyssal wretches from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf) bring to DnD the trope of the demon—infected mutant-zombies which have been popular in Sci-Fi video games at least since Doom. I wanted to make them different than undead zombies by giving them extreme regeneration. I added the hulk variant as an homage to my favourite spin on the mutant-zombie trope: Halo's [Flood Carrier](https://halo.fandom.com/wiki/Flood_Carrier_Form). — SaltyGoo* </span>
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
 
