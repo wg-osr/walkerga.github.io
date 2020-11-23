@@ -6,10 +6,10 @@ permalink: /class/fighter/cacus
 
 ###### By SaltyGoo. This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
 
-Wow, look at you sunbathing naked on that rock, oblivious to the world's worries. Who would blame you: you are taller than any human, more cunning and more beautiful. Up to this day, you've been charming and stealing your way through life, herding your sheeps on the mountains, winning sports competition.
+*Wow, look at you sunbathing naked on that rock, oblivious to the world's worries. Who would blame you: you are taller than any human, more cunning and more beautiful. Up to this day, you've been charming and stealing your way through life, herding your sheeps on the mountains, winning sports competition.*
 
 <ins>Starting Equipment</ins><br>
-Shepherd staff. Loincloth.
+Shepherd staff, loincloth, sheep.
 
 <ins>Starting Skills (+5)</ins><br>
 Wrestling, herding, your starting weapon.
