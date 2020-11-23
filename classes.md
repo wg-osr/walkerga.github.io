@@ -16,8 +16,9 @@ permalink: /classes/
 
 - Fighters-types
   - The [Mutant](/class/fighter/mutant)
+  - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
 - Magic Users
   - The [Elf](/class/magic-user/elf)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
-  - The [Three-Armed Giant Baby](/class/specialist/athach) (Athach)
+  - The [Three-Armed Giant Baby](/class/specialist/athach) (monster class for the Athach)
