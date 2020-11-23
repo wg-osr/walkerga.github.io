@@ -12,7 +12,7 @@ Iron pacifier, pelt blanket, giant rattle (mace).
 <ins>Starting Skills (+5)</ins><br>
 Screaming, your starting weapon.
 
-For every Three-Armed Giant Baby template you have, increase your HP by 2 and you grow 1'.
+For every Three-Armed Giant Baby template you have, increase your HP by 1 and you grow 1'.
 
 **A:** Three-Armed, Giant Baby<br>
 **B:** Awaken the Laylines<br>
