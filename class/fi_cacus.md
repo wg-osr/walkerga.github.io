@@ -4,7 +4,7 @@ title: The Oiled-up Muscle Giant
 permalink: /class/fighter/cacus
 ---
 
-###### By SaltyGoo. A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
+###### By SaltyGoo.
 
 <span class="alchemy"> This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster. </span>
 
