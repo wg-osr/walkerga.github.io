@@ -5,9 +5,9 @@ permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
 
-*Archmage-hunting greater devil.*
+*Archmage-hunting greater devil. Divine*
 
-###### Divine Creature. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf)
+<span class="alchemy"> *I love devils, I'd even say they are my favourite type of monsters to run. I was always confused with how DnD cosmology had devils that plotted against the gods, good aligned celestial served the gods and that evil gods were served by ... random evil monsters ? I prefer my gods to be asswholes trying to maintain the status quo with arbitrary rules and devils to be the ones who punish those who disobey. Being creature of order, each devl has a clear behaviour they punbish. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf) — SaltyGoo* </span>
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
