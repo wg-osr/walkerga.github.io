@@ -6,7 +6,7 @@ permalink: /class/fighter/cacus
 
 ###### By SaltyGoo.
 
-<span class="alchemy"> This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster. </span>
+<span class="alchemy"> *This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster.* </span>
 
 <ins>Starting Equipment</ins><br>
 Shepherd staff, loincloth, sheep.
