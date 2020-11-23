@@ -5,9 +5,9 @@ permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
 
-*Terminally mutated humanoid.* 
+*Terminally mutated humanoid. Aberration* 
 
-###### Aberration. Adapted from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf)
+<span class="alchemy"> *Abyssal wretches, from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf), bring to DnD the trope of the demon—infected mutant-zombies which have been popular in Sci-Fi video games at least since Doom. I wanted to make them different than undead zombies by giving them extreme regeneration. I added the hulk variant as an homage to my favourite spin on the mutant-zombie trope: Halo's [Flood Carrier](https://halo.fandom.com/wiki/Flood_Carrier_Form). — SaltyGoo* </span>
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
 
@@ -19,7 +19,7 @@ Imagine a humanoid so mutated and corrupted that it looks like its constantly me
 
 **Aberration:** To kill an aberration, one must succeed on a save vs. fear. On a failure, it survives with 1 HP.
 
-**Regrowing:** The abyssal wretch heals all its hit points at the beginning of its turn if its not dead.
+**New Limbs:** The abyssal wretch heals all its hit points at the beginning of its turn if its not dead.
 
 **Attacks:** Each round, the abyssal wretch can make a claw (x) or a bite (x) attack.
 
