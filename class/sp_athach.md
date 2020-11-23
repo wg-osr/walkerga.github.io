@@ -8,12 +8,12 @@ permalink: /class/specialist/athach
 
 
 <ins>Starting Equipment</ins><br>
-Iron pacifier, pelt blanket, giant rattle (mace). 
+Pelt blanket, giant rattle (mace). 
 
 <ins>Starting Skills (+5)</ins><br>
 Screaming, your starting weapon.
 
-For every Three-Armed Giant Baby template you have, increase your HP by 1 and you grow 1'.
+For every Three-Armed Giant Baby template you have, you grow 1' and you increase your HP by 1.
 
 **A:** Three-Armed, Giant Baby<br>
 **B:** Awaken the Laylines<br>
@@ -42,5 +42,5 @@ If you plant a thing along a layline and come back to it after a day, you get re
 - <ins>A Weapon and a Fruit</ins>. 3/4 chances to have rusted/rotten away. Those who dont fuse, becoming heavy [cold iron](https://saltygoo.github.io/2020/11/10/extra-rules/#rare-metals) fruits which you can throw (1D6 damage).
 
 ## Not a Baby
-You are now large, at least 10' tall and nearly as wide. You cant squeeze in tight spaces but your inventory size is doubled. You have advantage on combat maneuvres and can carry two handed weapons in one hand.
+You are now large, at least 10' tall and nearly as wide. You can still squeeze in 5'x5' corridors, but nut much smaller. Your inventory size is doubled. You have advantage on combat maneuvres and can carry two handed weapons with one hand.
 
