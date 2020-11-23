@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Oiled-up Muscle Giant
-permalink: /class/specialist/cacus
+permalink: /class/fighter/cacus
 ---
 
 ###### By SaltyGoo. This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). A monster class must be the first class you take. Ask your referee if the monster exists in their world, or you could just have met one in one of your previous adventures.
