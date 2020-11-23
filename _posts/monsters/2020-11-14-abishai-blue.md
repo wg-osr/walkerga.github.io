@@ -60,7 +60,7 @@ Evil celestials give the reward and the quest at the same time, then try to make
 1. An orb which creates an arc of electricity between it and any magic nearby.
 1. A grimoire with 3 random spells.
 1. You grow blue dragon scales with gives you protection like leather armor.
-1. A blue [Imp](/imp) follower.
+1. A blue [Imp](/monsters/imp) follower.
 1. One blue horn that absorbs electricity like the [Fourth Ward](https://saltygoo.github.io/2020/11/13/the-ten-wards/).
 1. Access to a well equipped wizard lab hidden in a permanent lightning storm in the astral sea.
 
