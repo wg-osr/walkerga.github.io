@@ -111,12 +111,6 @@ A good monster hunter knows which weapon to bring to slay which beast. Different
 
 ---
 
-## Treasures
-
-In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things 1:1. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade and leveling up.
-
----
-
 ## Traveling
 
 Inside a dungeon, any worthwhile action takes 10 minutes. Roll for encounters every 30 minutes. Ask the players to choose odd or even, if they lose, one torch or lantern is depleted.
@@ -125,15 +119,23 @@ On the world map, crossing a hex takes half a day. Roll for encounters twice per
 
 ---
 
+## Treasures
+
+In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things 1:1. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade and leveling up.
+
+---
+
 ## Between Adventures
 
 Leveling up is just one way of gaining new powers. This is where you can convert treasures in character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
 
-Are you in a city? You can spend a treasure to **carouse**. Roll on the  [Camp Follower Table](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html "Coins and Scrolls"). Make a constitution check, if you fail, roll on the [Carousing Table](https://jrients.blogspot.com/2008/12/party-like-its-999.html "Jeff's Gameblog"). You level up if you spent 4 treasures.
+Spend Treasures to **carouse**! <br>
+You will attract new (non-combatant) [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html "Coins and Scrolls"), but there is a risk you end up partying a [bit too harde](https://jrients.blogspot.com/2008/12/party-like-its-999.html "Jeff's Gameblog") if you fail a constitution roll. If 4 treasures are spent this way, **you level up!**
 
-You could also spend a treasure to **build** and furnish a small room somewhere, or **hire** or maintain a follower (up to your Charisma).
+Spend Treasures to **build a base**!<br>
+1 Treasure can build a basic 30'30' room, and one valuable can be traded for 1 piece of standard furniture.
 
-Do you have access to a humanoid? You can spend a treasure to **learn** a language, a skill from them, or even new attacks.
+Spend Treasures to learn new skills**
 
 Have you captured or slain a beast? You could spend a treasure to **craft** an item with its parts, **tame** one, or teach it a new one-word order.
 
