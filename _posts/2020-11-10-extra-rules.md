@@ -135,20 +135,38 @@ You will attract new (non-combatant) [followers](https://coinsandscrolls.blogspo
 Spend Treasures to **build a base**!<br>
 1 Treasure can build a basic 30'30' room, and one valuable can be traded for 1 piece of standard furniture.
 
-Spend Treasures to learn new skills**
+Spend Treasures to **learn new skills**!<br>
+As long as you can find somebody who is an expert in them. Spend 1 Treasure to learn a new skill (+4) or improve a skill you already know (+2). You can do that once per skill between each adventure. Alternatively, you can spend 2 Treasures to learn a new attack from a creature you can train with. Ask the referee.
 
-Have you captured or slain a beast? You could spend a treasure to **craft** an item with its parts, **tame** one, or teach it a new one-word order.
+Spend Treasures ot **hire new hirelings**!<br>
+By default you have the choice between a specialist who can sneak and climb, or a fighter who comes equiped with armor and weapons. They have 0 hit points, 5 in all stats and are not suicidal. Each location can have more class options depending on the culture, at the referee's disctretion. Hireling spellcasters know 1 spell. Hiring somebody costs 1 treasure, and they expect to be paid 1 treasure per adventure.
 
-Can you cast spells? You can spend treasures **researching new spells** by combining [spell word](https://saltygoo.github.io/class/magic-user#spell-words) from spells you already know. If you have a fey’s charm, you can be even more creative. 
+<ins>Are you a magic user?</ins><br>
+Spend Treasures to **research new spells**!<br>
+1 Treasure spent in research allows to copy one spell from a scroll or spell book into your own spell book. Buying a spell scroll also costs 1 treasure.<br>
+2 Treasures spent in research allow to create news spells by combining spells using [spell word](https://saltygoo.github.io/class/magic-user#spell-words).
 
-You have access to an aberration, a demon or a book about them? Be careful, but you could spend a treasure to **research eldritch knowledge** and roll on their mutation tables. Some are even beneficial! 
+<ins>Do you have access to the dead body of a beast, or other raw materials?</ins><br>
+Spend Treasures to **craft**!<br>
+Ask the referee what makes sense to do with the materials, but dont be afraid to give ideas. If 4 Treasures are spent crafting an object, it will be magical.
 
-Can you talk or summon a celestial creature, a devil? You can spend treasure to roll on their **pact** and reward table. You might get a good deal.
+<ins>Do you have access to a living beast?</ins><br>
+Spend Treasures to **tame it**!<br>
+1 Treasure makes the creature friendly to 1 person. 1 Treasure teaches it a one-word order.
 
-Do you have access to a construct or a book about them? You could spend treasures to **create** one!
+<ins>Do you have access to forbidden eldritch knowledge?</ins><br>
+Spend a Treasure to **research eldritch knowledge** and roll on their mutation tables. Some are even beneficial! Each Treasure gives you advantage on that roll.
 
-Have access to an elemental spirit? You could spend treasures to **bind** one to you and gain magical powers, or learn how to **summon** one.
+<ins>Can you talk with a devil or celestial?</ins><br>
+Spend a Treasure to **negotiate a pact**: you'll get a gift and a quest. Each Treasure allows you to choose between more options for your gift and quest.
 
-Would you dare to study the undead? You could spend treasures to learn how to **create** one or even become one.
+<ins>Do you have a manual about constructs? or access to a real speciment?</ins><br>
+Spend Treasures to **build one**. 1 treasure equals 1 HD of construct.
+
+<ins>Have you captured an elemental spirit?</ins><br>
+Spend a Treasure to **bind it to you**: you'll get the power to cast more spells, at a price. Each treasure gives you advantage when rolling the price.
+
+<ins>Have you access to necromantic tomes?</ins><br>
+You could spend treasures to **become undead**.
 
 All these tables are in the monster section held by the referee and should be negotiated with them. SoonTM
