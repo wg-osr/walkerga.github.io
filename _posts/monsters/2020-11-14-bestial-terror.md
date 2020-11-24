@@ -7,7 +7,7 @@ title: Bestial Terror
 
 *Centaur ghost riders of doom. Undead.*
 
-<span class="alchemy"> *Originally named the bestial beast by its creator [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium), the bestial terror is basically a spectral centaur. On top of the spectral trample, I added typical centaur attacks: it was realy important for me that the beasts were able to drag mortals to the underworld. — SaltyGoo* </span>
+<span class="alchemy"> *Originally named the bestial beast by its creator [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium), the bestial terror is basically a spectral centaur. On top of the spectral trample, I added typical centaur attacks: it was really important for me that the specters were able to drag mortals to the underworld with their pikes. — SaltyGoo* </span>
 
 Imagine the ghost of a centaur wearing a terrifying faceless spiked helm. Whenever its hooves hit the floor, it echoes like thunder and black smoke rises from the ground.
 
