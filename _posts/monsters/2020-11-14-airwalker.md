@@ -7,7 +7,7 @@ title: Airwalker
 
 *Elemental guide to the plane of air. Elemental.*
 
-<span class="alchemy"> *I think the airwalker is an orginal creation of Richard J. Leblanc Jr in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo* </span>
+<span class="alchemy"> *I think the airwalker is an orginal creation of  [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo* </span>
 
 Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls.
 
