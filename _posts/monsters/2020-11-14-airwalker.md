@@ -5,9 +5,9 @@ permalink: /monsters/airwalker
 title: Airwalker
 ---
 
-*Elemental guide to the plane of air.*
+*Elemental guide to the plane of air. Elemental.*
 
-###### Elemental. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
+<span class="alchemy"> *I think the airwalker is an orginal creation of Richard J. Leblanc Jr in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo* </span>
 
 Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls.
 
@@ -24,11 +24,11 @@ The airwalker loses all resistances if it is prone or cant move.
 
 <ins>Plane Shift</ins>. The airwalker and every creature touching it or a creature touching it are transported to the plane of air.
 
-<ins>Punch</ins>.  The airwalker makes one melee attack (x). 
+<ins>Punch</ins>. The airwalker makes one melee attack (x). 
 
 <ins>Unshackle</ins>. The airwalker attempts to grapple an adjacent target. If it succeeds, the target is under the effect of levitate.
 
-<ins>Whirl</ins>.   The airwalker moves an adjacent thing somewhere nearby. 
+<ins>Whirl</ins>. The airwalker moves an adjacent thing somewhere nearby. 
 
 <br>
 
