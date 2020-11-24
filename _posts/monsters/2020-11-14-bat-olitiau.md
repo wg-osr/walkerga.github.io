@@ -7,7 +7,7 @@ title: Bat, Olitiau
 
 *Poisonous clawed bat. Beast.*
 
-<span class="alchemy"> *The olitiau is a cryptid from Cameroon described as a giant toothy bat. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) gave it a smaller size (rare!) and made it a disease carrier. Maybe its because I'm writing this in the middle of a pandemic, but I like that disease become a real threat in DnD. — SaltyGoo* </span>
+<span class="alchemy"> *The olitiau is a cryptid from Cameroon described as a giant toothy bat. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) gave it a smaller size (rare!) and made it a disease carrier. Maybe its because I'm writing this in the middle of a pandemic, but I like that diseases become a real threat in DnD. — SaltyGoo* </span>
 
 The olitiau has dirty white fur and ochre suede-like wings. It's a nocturnal predator.
 
