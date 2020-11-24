@@ -7,7 +7,7 @@ title: Amber Prowler
 
 *Mage-hunting apparatus. Construct.*
 
-<span class="alchemy"> *I encountered two diferent iterations of the amber golem in DnD: the amber statues in the Amber Temple in Curse of Strahdt which are reflavored stone golems, and the monster found in the [Mystara Monster Manual](http://www.mojobob.com/roleplay/monstrousmanual/g/golemys1.html) from 2e upon which this adaptation is based. I gave a new name to this version, since it is the least generic one fo the two: it was designed to hunt mages, and, contrary to the image we have of golems, its very fast. — SaltyGoo* </span>
+<span class="alchemy"> *I encountered two diferent iterations of the amber golem in DnD: the amber statues in the Amber Temple in Curse of Strahd which are reflavored stone golems, and the monster found in the [Mystara Monster Manual](http://www.mojobob.com/roleplay/monstrousmanual/g/golemys1.html) from 2e upon which this adaptation is based. I gave a new name to this version, since it is the least generic one fo the two: it was designed to hunt mages, and, contrary to the image we have of golems, its very fast. — SaltyGoo* </span>
 
 Imagine a stylized lion or tiger sculpted out of amber. Its semi translucent body casts an orange shadow.
 
