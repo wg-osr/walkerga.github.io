@@ -5,9 +5,9 @@ permalink: /monsters/beetle-giant-flayer
 title: Beetle, Giant Flayer
 ---
 
-*Brain sucking giant flea.*
+*Brain sucking giant flea. Beast.*
 
-###### Beast. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
+<span class="alchemy"> *The giant flayer beetle is an orginal creation of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/2012/08/new-oebx1e-monster-giant-flayer-beetle.html). When adapting it to the glog, I made them slightly less sturdy but a bit more reliable: the original was only threatening when rolling a critical hit, this one does intelligence damage. — SaltyGoo* </span>
 
 Imagine a cat-sized flea with a green iridescent exoskeleton. A long probe coils from its mouth.
 
