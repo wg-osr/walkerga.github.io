@@ -5,9 +5,9 @@ permalink: /monsters/bird-adarna
 title: Bird, Adarna
 ---
 
-*Elusive magical bird of beauty.*
+*Elusive magical bird of beauty. Fey.*
 
-###### Fey. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
+<span class="alchemy"> *The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo* </span>
 
 Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now. 
 
@@ -17,7 +17,7 @@ Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In
 **Damage:** 0 <br>
 **Movement:** slow, fly fast &nbsp; &nbsp; **Morale:** coward <br>
 
-All plants and objects near a dying adarna bird are changed as if they had spent a year in a dusty, sunless attic.
+All plants and objects near a dying adarna bird are changed as if they had spent a year in a dusty, sunless attic. Adarna bird’s guano petrifies sleeping creatures upon contact.
 
 **Unfathomable Beauty:** Creatures must succeed an intelligence check to see the adarna bird. 
 
