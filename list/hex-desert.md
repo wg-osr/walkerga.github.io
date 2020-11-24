@@ -15,3 +15,4 @@ Each time your roll on the desert hex table, you fill 3D4 adjacent hexes on the 
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Acacia...</span>  <span class="c">rivulet.</span> <span class="d">Poisonous poppy.</span>
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="b">Desolated...</span>  <span class="c">battlesite.</span> <span class="d">Deafening winds.</span>
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Marble...</span>  <span class="c">stadium.</span> <span class="d">Goat herd.</span>
+1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Aloe...</span>  <span class="c">hacienda.</span> <span class="d">Poisonous cacti.</span>
