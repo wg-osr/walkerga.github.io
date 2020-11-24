@@ -5,9 +5,9 @@ permalink: /monsters/bear-polar
 title: Bear, Polar
 ---
 
-<span class="alchemy"> *Iconic fauna. The [MonsterManual (5e)](https://5e.tools/book.html#mm) version is simply a buffed bear with a swim speed and I simply added a cold resistance. — SaltyGoo* </span>
+*Bigger bear adapted to cold climates. Beast.*
 
-###### Beast. Adapted from [the Monster Manual (5e)](https://5e.tools/book.html#mm)
+<span class="alchemy"> *Iconic fauna. The [MonsterManual (5e)](https://5e.tools/book.html#mm) version is simply a buffed bear with a swim speed and I simply added a cold resistance. — SaltyGoo* </span>
 
 **HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 10 / 5 / 8 / 1 / 6 / 3  <br>
 **Resistances:** cold <br>
