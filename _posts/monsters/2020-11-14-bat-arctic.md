@@ -7,7 +7,7 @@ title: Bat, Arctic
 
 *Fluffy white bats with freezing venom.*
 
-<span class="alchemy"> *Arctic bat seem to be an original creation of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved the idea of idea of the freezing venom. — SaltyGoo* </span>
+<span class="alchemy"> *Arctic bat seem to be an original creation of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved the idea of the freezing venom. — SaltyGoo* </span>
 
 Arctic bats are white and fluffy, which gives them excellent camouflage in snow. They are carnivores.
 
