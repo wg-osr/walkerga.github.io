@@ -5,9 +5,9 @@ permalink: /monsters/bat-kongamato
 title: Bat, Kongamato
 ---
 
-*Amphibious, diseased death bats.*
+*Amphibious, diseased death bats. Beast.*
 
-###### Beast. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
+<span class="alchemy"> *The kongamato is a cryptid from Zambia described as a giant pterodactyl whose name means "boat-turner". [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) chooses to make it a bat and makes it a carrier of diseases. I like that. Dungeon and dragon needs much more diseases. — SaltyGoo* </span>
 
 Dark red and with thick leathery wings, the kongamato smells of swamp water. Its amphibious nature explains its name, which means “boat toppler” in the local tongue.
 
