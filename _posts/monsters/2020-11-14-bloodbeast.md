@@ -5,9 +5,9 @@ permalink: /monsters/bloodbeast
 title: Bloodbeast
 ---
 
-*Giant spider leech.*
+*Giant spider leech. Beast.*
 
-###### Beast. Adapted from [the Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium)
+<span class="alchemy"> *The bloodbeast and the bloodgill are orginal creations of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/2012/11/new-oebx1e-monster-bloodgill_20.html) originaly for his* Starmaster* sci-fi game. It's weird and I love the idea of being sucked dry by a swarm of bipedal tadpoles. — SaltyGoo* </span>
 
 Imagine a sand colored leech as long as a horse. It stands high on six long insectoid legs. Its head is framed by vestigal gills.
 
