@@ -7,7 +7,7 @@ title: Aerial Servant
 
 *Sentient giant floating hands specialized in abductions. Elemental.*
 
-<span class="alchemy"> *Elementals can be so boring design wise. As printed in the [AD&D 2e Monster Manual](http://adnd.geoshitties.installgentoo.com/mm/elekaase.html), the aerial servant is simply a buffed-up air elemental with the added abilities of the invisible stalker, which is incidently a type of air elemental. Even its appearance is identical to the air elemental's. What I did here was remove the most glaring overlaps with the stalker and focused on the abduction aspect. Also I gave it an appearance that matches its low intelligence and its fonction as a servant. — SaltyGoo* </span>
+<span class="alchemy"> *Elementals can be so boring design-wise. As printed in the [AD&D 2e Monster Manual](http://adnd.geoshitties.installgentoo.com/mm/elekaase.html), the aerial servant is simply a buffed-up air elemental with the added abilities of the invisible stalker, which is incidently a type of air elemental. Even its appearance is identical to the air elemental's. What I did here was remove the most glaring overlaps with the stalker and focused on the abduction aspect. Also I gave it an appearance that matches its low intelligence and its fonction as a servant. Not everything needs to be humanoid! — SaltyGoo* </span>
 
 Imagine a floating hand made of smoke and wind. Its movement are precise yet forcefull. It is very expressive. They are most often bound to gods, wizards or fey princesses, and resentfully do their bidding. 
 
