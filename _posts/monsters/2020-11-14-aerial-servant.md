@@ -30,7 +30,7 @@ As a gaseous creature, it can fit into any hole. It always knows the exact locat
 
 <ins>Smother</ins>. The servant attempts to grapple an adjacent target. If grappled, a creature cannot breathe. Only one creature can be grappled at a time.
 
-<ins>Push</ins>. The servant pushes a creature. If the target fails a strength save, it is blown nearby, falls prone, and takes damage (x) on impact.
+<ins>Push</ins>. The servant pushes a creature. If the target fails a strength save, it is blown away nearby, falls prone, and takes damage (x) on impact.
 
 <br>
 
