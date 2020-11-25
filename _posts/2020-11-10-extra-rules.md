@@ -56,7 +56,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 <ins>Dexterity:</ins> you are Prone and cant stand.<br>
 <ins>Constitution:</ins> you are Dying.<br>
 <ins>Intelligence:</ins> you are Dazed and mute.<br>
-<ins>Wisdom:</ins> you are Confused.<br>
+<ins>Wisdom:</ins> you are mad, you become a hostile NPC.<br>
 <ins>Charisma:</ins> you are forgotten. Nobody, even friends, can help you in any way.
 
 ---
