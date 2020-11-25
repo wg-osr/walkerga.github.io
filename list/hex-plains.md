@@ -18,3 +18,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="b">Desolated...</span>  <span class="c">battlesite.</span> <span class="d">Ghosts reenacting a battle.</span>
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Bushy...</span>  <span class="c">mud bath.</span> <span class="d">Mud pool.</span>
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle...</span>  <span class="c">hovel.</span> <span class="d">Sheep herd.</span>
+1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated...</span>  <span class="c">tavern.</span> <span class="d">Poisonous thorns.</span>
