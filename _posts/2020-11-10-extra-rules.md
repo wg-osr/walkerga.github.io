@@ -20,6 +20,8 @@ These rules are optional and give a framework to specific aspects of gameplay.
 
 ## Heroism & Scars
 
+###### Inspired by Arnold K's [Legendarium](https://goblinpunch.blogspot.com/2020/04/the-legendarium-diagetic-advancement.html)
+
 After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. 
 
 Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that specific danger (as defined by the referee). You can only have as many scars as your Constitution.
