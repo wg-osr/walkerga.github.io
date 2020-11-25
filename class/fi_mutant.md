@@ -29,7 +29,7 @@ You dont have to wait to the end of the session to gain [new scars](https://salt
 You can spend your turn gruesomely regenerating. You heal 1D6 wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 ## Evolution
-When you gain a new mutation, you can choose to replace an existing one instead.
+When you gain a new mutation, you can choose to replace an existing one instead. If you do, you lose 1 point of wisdom until next game.
 
 ## Gift of Flesh
 You can touch a willing creature and use your regeneration ability on it. Remember they are affected by the Font of Flesh ability.
