@@ -18,3 +18,4 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine tree...</span>  <span class="c">islet.</span> <span class="d">Tall reed.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated...</span>  <span class="c">tavern.</span> <span class="d">Poisonous thorns.</span>
+1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="b">Farmer...</span>  <span class="c">huts.</span> <span class="d">Rusty traps.</span>
