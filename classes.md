@@ -21,4 +21,5 @@ permalink: /classes/
   - The [Elf](/class/magic-user/elf)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
+  - The [Pigfolk](/class/specialist/pigfolk) (monster class for the calytaur)
   - The [Three-Armed Giant Baby](/class/specialist/athach) (monster class for the Athach)
