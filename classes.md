@@ -19,8 +19,8 @@ permalink: /classes/
   - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
 - Magic Users
   - The [Elf](/class/magic-user/elf)
-  - The [Tiefling](/class/magic-user/tiefling)
+  - The [Tiefling](/class/magic-user/tiefling) (monster class for the Cambion)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
-  - The [Pigfolk](/class/specialist/pigfolk) (monster class for the calytaur)
+  - The [Pigfolk](/class/specialist/pigfolk) (monster class for the Calytaur)
   - The [Three-Armed Giant Baby](/class/specialist/athach) (monster class for the Athach)
