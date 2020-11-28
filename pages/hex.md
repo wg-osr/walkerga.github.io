@@ -22,7 +22,7 @@ To generate a Hex, choose a biome or roll 1D12:
     1. Reroll with D10, its [Cursed by the Dead](/list/cursed)
     1. Reroll with D10, its [Holy or Unholy](/list/holy)
     1. Reroll with D10, its [Enchanted by the fey](/list/enchanted)
-    1. Reroll with D10, its [Magicaly altered](/list/magical)
+    1. Reroll with D10, its [Magically altered](/list/magical)
     1. Reroll with D10, its [Elemental](/list/elemental)
 
 ### Other
