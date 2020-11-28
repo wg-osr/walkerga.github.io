@@ -19,6 +19,7 @@ permalink: /classes/
   - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
 - Magic Users
   - The [Elf](/class/magic-user/elf)
+  - The [Tiefling](/class/magic-user/tiefling)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
   - The [Pigfolk](/class/specialist/pigfolk) (monster class for the calytaur)
