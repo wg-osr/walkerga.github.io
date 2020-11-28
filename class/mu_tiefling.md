@@ -33,7 +33,7 @@ Any time you would roll for a new spell when you level up, you can roll 1D6 on t
 1. You have minions in one settlement of your choice. Each time you spend time carousing there, you can recruit one fanatical hireling for free. If nearby, they can sacrifice themselves to protect you from 1D8 points of damage. For each subsequent time you roll this perk, you can either add a settlement to your cult, increase the number of free hirelings in one settlement, or increase the damage prevented by a minion's sacrifice by one dice size.
 
 <ins>Drawback</ins><br>
-You have horns, vestigal wings and a tail: you cannot wear armors and helmets that are not custom made. Reactions toward you by God-fearing creatures can only be hatred. Roll charisma to have somebody fear you instead.
+You have horns, vestigal wings and a tail: you cannot wear armors and helmets that are not custom made. Reactions toward you by God-fearing creatures is always hatred. Roll charisma to have somebody fear you instead.
 
 <ins>Cantrips</ins>
 - You can speak backward, a language only understood by exorcists and divine creatures.
