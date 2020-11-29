@@ -18,7 +18,7 @@ Imagine a floating hand made of smoke and wind. Its movement are precise yet for
 **Damage:** 1D8 <br>
 **Movement:** fly fast &nbsp; &nbsp; **Morale:** brave <br>
 
-The aerial servant loses all resistances if it is prone or cant move.
+The aerial servant takes 1D4 damage on each of its turns if it is prone or cant move.
 
 As a gaseous creature, it can fit into any hole. It always knows the exact location of its target if it is clearly identified.
 
