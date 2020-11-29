@@ -18,7 +18,7 @@ Imagine a translucent and luminous humanoid dressed in scarves and dancing in th
 **Damage:** 1D4 <br>
 **Movement:** fly fast &nbsp; &nbsp; **Morale:** coward <br>
 
-The airwalker loses all resistances if it is prone or cant move.
+The airwalker takes 1D4 damage on each of its turns if it is prone or cant move.
 
 **Attacks:** Each round, the airwalker can perform one of these actions:
 
