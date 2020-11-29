@@ -15,3 +15,10 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 1. <span class="a">[Aerial Servant](/monsters/aerial-servant)</span> <span class="e">Flying ..., court of a sky lord.</span> <span class="d">Party split by wind.</span> 
 1. <span class="a">[Airwalker](/monsters/airwalker)</span> <span class="e">Spinning ...</span> <span class="d">Flying portals.</span> 
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="e"> ... in a blizzard. </span> <span class="d">Blizzard.</span> 
+
+## Water
+
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
+
+1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> ... made of objects thrown at sea.</span> <span class="d">Structural collapse.</span> 
+
