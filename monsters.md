@@ -58,7 +58,7 @@ Celestials trade in the souls that fuel the gods. Each of them have the power to
 ### Elementals
 Pure sentient matter.
 
-As such, they are resistant to all types of damage. Clever adventurers have found ways to negate this power by exploiting their physiciality: grounding air, freezing water, drenching fire, etc.
+As such, they are resistant to all types of damage, however, they will take damage every round they are not in contact with their element.
 
 The goals of elementals are pretty straightforward in general, if a bit alien in their scale. Their what-the-monster-wants table illustrate that. Binging the raw power of an elemental to you is one of the very few ways an indivitual can get [Spell Dices](https://saltygoo.github.io/class/magic-user#spells) outside of the magic user class. Its dangerous, and a binding table is provided to know the side effects. Finally, all elementals can be summoned. A variation of the [Conjure](https://saltygoo.github.io/2020/11/12/conjure/) spell unique to the elemental type is included in each monster sheet.
 
