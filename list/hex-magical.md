@@ -17,3 +17,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Animated Rug](/monsters/animated-rug)</span> <span class="e">Walking ...</span> <span class="d">Living, petty door.</span> 
 1. <span class="a">[Animus](/monsters/animus)</span> <span class="e">... trapped in a time loop.</span> <span class="d">30-min time loop.</span> 
 1. <span class="a">[Cambion](/monsters/cambion)</span> <span class="e"> Dark Lord's ...</span> <span class="d">Brimstone rain.</span> 
+1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> Fountain of the ...</span> <span class="d">Water of amnesia.</span> 
