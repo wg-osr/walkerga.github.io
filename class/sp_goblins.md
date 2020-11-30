@@ -20,6 +20,8 @@ For every Goblins template you have, increase your HP by 2.
 **D:** +1 Goblin Boss, Many Scrappy Things<br>
 
 ## Many Goblins
+Goblins can see and smell 20' in the dark.
+
 Your HP represents how many goblins are alive. Single target save-or-die effects make you lose 1 HP instead of killing you. The rest affects you normally. If you are reduced to 0 HP, the goblins become strewn about the place, wounded and moaning, miserable and unable to help anyone until healed. 
 
 Because goblins eat trash, you only eat as much rations as one humanoid.
