@@ -11,7 +11,7 @@ title: Bird, Giant Pelican
 
 Imagine a cart-sized sea bird with a long pouch-beak.
 
-**HD:** 3  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 4 / 4 / 1 / 6 / 4 <br>
+**HD:** 4  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 4 / 4 / 1 / 6 / 4 <br>
 **Armor:** none <br>
 **Damage:** 1D4 <br>
 **Movement:** average, fly fast &nbsp; &nbsp; **Morale:** coward <br>
@@ -20,7 +20,7 @@ Pelicans have a very good sense of sight.
 
 **Attacks:** Each round, the pelican can perform one of these actions:
 
-<ins>Swallow</ins>. The pelican makes an attempt to grapple a target. On a success, the target is stuck in its beak pouch. While there, it cannot use any weapon bigger than a dagger. 
+<ins>Swallow</ins>. The pelican makes an attempt to grapple a target. On a success, the target t is stuck in its beak pouch. While there, it cannot use any weapon bigger than a dagger. 
 
 <ins>Subdue</ins>. The pelican squishes its beak pouch on its chest to crush whatever is inside (x). If it the creature is attempting to hold its breath, it must make a save or lose as much constitution.
 
