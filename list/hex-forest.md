@@ -14,5 +14,6 @@ Each time your roll on the forest hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Bat, Ahool](/monsters/bat-ahool)</span> <span class="b">Foggy...</span>  <span class="c">vale.</span> <span class="d">Thick fog.</span>
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Willow...</span>  <span class="c">pond.</span> <span class="d">Sticky willows.</span>
 1. <span class="a">[Bear](/monsters/bear)</span> <span class="b">Fisher...</span>  <span class="c">rapids.</span> <span class="d">Treacherous river.</span>
+1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Quiet...</span>  <span class="c">woods.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine...</span>  <span class="c">clearing.</span> <span class="d">Dead leaves up to the knee.</span>
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="b">Pigfolk...</span>  <span class="c">huts.</span> <span class="d">Rusty bear-trap.</span>
