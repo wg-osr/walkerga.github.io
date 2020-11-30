@@ -20,4 +20,4 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine ...</span>  <span class="c">thicket.</span> <span class="d">Snow falling from trees.</span>
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle ...</span>  <span class="c">hovel.</span> <span class="d">Yak herd.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated ...</span>  <span class="c">tavern.</span> <span class="d">Slippery slope.</span>
-1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trao.</span>
+1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
