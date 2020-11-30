@@ -19,7 +19,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Irridescent crawlspace.</span> <span class="b">Eerie cricket noises.</span> 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Tepid mud crack.</span> <span class="b">Flooded by mud.</span> 
 1. <span class="a">[Brain-bat](/monsters/brain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">Friendly voice in your head.</span> 
-1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming.</span> 
+1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 
 <br>
 
