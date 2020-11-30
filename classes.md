@@ -22,5 +22,6 @@ permalink: /classes/
   - The [Tiefling](/class/magic-user/tiefling) (monster class for the Cambion)
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
+  - The [Goblins](/class/specialist/many-goblins)
   - The [Pigfolk](/class/specialist/pigfolk) (monster class for the Calytaur)
   - The [Three-Armed Giant Baby](/class/specialist/athach) (monster class for the Athach)
