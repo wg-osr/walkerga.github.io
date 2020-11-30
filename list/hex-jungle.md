@@ -20,3 +20,4 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Noisy...</span>  <span class="c">jungle.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Rare...</span>  <span class="c">orchid.</span> <span class="d">Sleep-disease mosquitoes.</span>
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
+1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
