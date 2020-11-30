@@ -34,6 +34,6 @@ One goblin in the swarm has earned a name. Once per encounter, for one round, th
 If you die, each goblin boss survives as a hireling, until you find more goblins and recombine into many goblins.
 
 ## Many Scrappy Things
-You always have one scrappy [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) that only you can use. However, its different every time you enter a new room, have en encounter, or rest. Its worthless.
+You always have one scrappy [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) accessible that only you can use. However, its different every time you enter a new room, have an encounter, or rest. Its worthless.
 
 
