@@ -17,6 +17,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Barbazu](/monsters/barbazu)</span> <span class="b">Infernal ...</span>  <span class="c">barracks.</span> <span class="d">Barbwire.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Underground ...</span>  <span class="c">tunnels.</span> <span class="d">Sinkhole.</span>
 1. <span class="a">[Bat, Ahool](/monsters/bat)</span> <span class="b">Gothic ...</span>  <span class="c">belltower.</span> <span class="d">Thick fog.</span>
+1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">High...</span>  <span class="c">roofs.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Shepherd ...</span>  <span class="c">stadium.</span> <span class="d">Cattle herd.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Edge-of-town ...</span>  <span class="c">tavern.</span> <span class="d">Getting lost.</span>
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="b">Filthy ...</span>  <span class="c">slaughterhouses.</span> <span class="d">Nauseating smell.</span>
