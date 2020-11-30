@@ -4,7 +4,7 @@ title: The Goblins
 permalink: /class/specialist/many-goblins
 ---
 
-###### Edited from Coins and Scrolls's [https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html)
+###### Edited from Coins and Scrolls's [version](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html)
 
 <ins>Starting Equipment</ins><br>
 Many shanks, many filthy rags, fleas, one [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)
