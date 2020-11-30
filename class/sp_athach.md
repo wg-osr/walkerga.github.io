@@ -41,5 +41,5 @@ If you plant a thing along a layline and come back to it after a day, you get re
 - <ins>A Weapon and a Fruit</ins>. 3/4 chances to have rusted/rotten away. Those who dont fuse, becoming heavy [cold iron](https://saltygoo.github.io/2020/11/10/extra-rules/#rare-metals) fruits which you can throw (1D6 damage).
 
 ## Not a Baby
-You are now large, at least 10' tall and nearly as wide. You can still squeeze in 5'x5' corridors, but nut much smaller. Your inventory size is doubled. You have advantage on combat maneuvres and can carry two handed weapons with one hand.
+You are now large, at least 10' tall and nearly as wide. You can still squeeze in 5'x5' corridors, but not much smaller. Your inventory size is doubled. You have advantage on combat maneuvres and can carry two handed weapons with one hand.
 
