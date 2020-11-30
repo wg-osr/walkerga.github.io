@@ -24,7 +24,7 @@ Your HP represents how many goblins are alive. Single target save-or-die effects
 
 Because goblins eat trash, you only eat as much rations as one humanoid.
 
-You can carry only as many different objects as your intelligence without losing them. However you can stack as many of items of the same type as your HP. You must have as many of an item as your HP to be able to use them (all your goblins need to be wearing a hammer for you to be able to attack with a hammer).
+You can carry only as many different objects as your intelligence without losing them. However you can stack items of the same type in stacks as big as your HP. You must have as many of an item as your HP to be able to use them (all your goblins need to be wearing a hammer for you to be able to attack with a hammer).
 
 When performing basic unskilled labour, like digging a trench or carrying buckets, you count as as many people as your HP, but you give up after 1 hour. You can occupy a space as big as 10 square feet.
 
@@ -34,6 +34,6 @@ One goblin in the swarm has earned a name. Once per encounter, for one round, th
 If you die, each goblin boss survives as a hireling, until you find more goblins and recombine into many goblins.
 
 ## Many Scrappy Things
-You always have one scrappy [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) that only you can use. However, you must reroll it every time you enter a new room, have en encounter, or rest. Its worthless.
+You always have one scrappy [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) that only you can use. However, its different every time you enter a new room, have en encounter, or rest. Its worthless.
 
 
