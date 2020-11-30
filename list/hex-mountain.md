@@ -19,3 +19,4 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Cliffside ...</span>  <span class="c">trees.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle ...</span>  <span class="c">pastures.</span> <span class="d">Sheep herd.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated ...</span>  <span class="c">tavern.</span> <span class="d">Steep slope.</span>
+1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">tunnels.</span> <span class="d">Pit trap.</span>
