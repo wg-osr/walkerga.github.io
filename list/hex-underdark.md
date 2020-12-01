@@ -41,4 +41,4 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud ...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span> 
 1. <span class="a">[Brain-bat](/monsters/brain-bat)</span> <span class="b">Astral ...</span>  <span class="c">cones.</span> <span class="d">Darkness becomes oblivion.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
-1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">Whispers of madness.</span>
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
