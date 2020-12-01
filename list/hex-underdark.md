@@ -20,6 +20,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Tepid mud crack.</span> <span class="b">Flooded by mud.</span> 
 1. <span class="a">[Brain-bat](/monsters/brain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">Friendly voice in your head.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
 <br>
 
@@ -40,3 +41,4 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud ...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span> 
 1. <span class="a">[Brain-bat](/monsters/brain-bat)</span> <span class="b">Astral ...</span>  <span class="c">cones.</span> <span class="d">Darkness becomes oblivion.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">Whispers of madness.</span>
