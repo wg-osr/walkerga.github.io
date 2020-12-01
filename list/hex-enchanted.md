@@ -20,4 +20,5 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Song ...</span> <span class="b">Mesmerizing ...</span> <span class="d">orchid.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Tavern of the ...</span> <span class="b">Drunken ...</span> <span class="d">ghosts.</span>
 1. <span class="a">[Cat](/monsters/cat)</span> <span class="b">Wool ...</span> <span class="b">Cat ...</span> <span class="d">smile.</span>
+1. <span class="a">[Cat, Cactus](/monsters/cat-cactus)</span> <span class="b">Cactus ...</span> <span class="b">Needle ...</span> <span class="d">tumbleweed.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">... of barnacled trinkets.</span> <span class="b">Clingy ...</span> <span class="d">fountain.</span>
