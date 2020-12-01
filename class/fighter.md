@@ -28,7 +28,7 @@ Each time you kill a creature, roll a D20 under your total number of kills with 
 - Special Attack<br>
 
 ## Parry
-You can choose to sacrifice a worn piece of armor to reduce incoming damage by 1D6. You can choose to sacrifice a held shield to reduce damage by 1D12. You can use this ability once per combat.
+You can choose to sacrifice a held weapon or a worn piece of armor to reduce incoming damage by 1D6. You can choose to sacrifice a held shield to reduce damage by 1D12. You can use this ability once per combat.
 
 ## Cleave
 When you kill a creature or roll max damage, you can make another attack.
