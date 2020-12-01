@@ -24,7 +24,7 @@ Cats are stealthy and have a very keen sense of sight and smell allowing them to
 
 <ins>Quill Spray.</ins> The cactus cat sprays a short cone with quills. Creatures who fail to dodge take damage (x) and must make a save vs poison or be poisoned with cactus fever.
 
-<span class:"alchemy">**Cactus Fever.** Save or be poisoned, save again each 10 minutes to cure. While poisoned, you are a drunken mess: each player names a different emotion and rolls a D20, the referee alters your actions in a dramatic way according to the emotion with the highest roll. Roll a new emotion every 10 minutes.</span>
+<span class="alchemy"> **Cactus Fever.** Save or be poisoned, save again each 10 minutes to cure. While poisoned, you are a drunken mess: each player names a different emotion and rolls a D20, the referee alters your actions in a dramatic way according to the emotion with the highest roll. Roll a new emotion every 10 minutes.</span>
 
 <br>
 
