@@ -19,4 +19,4 @@ title: Community Domain
 - Betrayal.
 
 <ins>Cantrip</ins>
-- If you touch a person, you can make a save in it stead.
+- You can feel the emotions of some willing person you know.
