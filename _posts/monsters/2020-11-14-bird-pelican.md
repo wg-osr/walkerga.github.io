@@ -47,7 +47,7 @@ Pelicans have a very good sense of sight.
 
 ## Salvaging the Body
 
-There's not much to salvage from a pelican beyond the meet. A single giant pelican is worth rations for 2 days.
+There's not much to salvage from a pelican beyond the meat. A single giant pelican is worth rations for 2 days.
 
 ---
 
