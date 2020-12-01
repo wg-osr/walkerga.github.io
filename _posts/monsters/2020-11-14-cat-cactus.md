@@ -7,7 +7,7 @@ title: Cat, Cactus
 
 *Desert cat with hallucinogenic quills. Beast.*
 
-<span class="alchemy"> *The cactus cat is an cryptid from the South-Western United-State. In the myth, it gets drunk and violent on fermented cactus sap. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)’s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) makes gives it hallucinogenic quills. I say why not both? — SaltyGoo* </span>
+<span class="alchemy"> *The cactus cat is an cryptid from the South-Western United-State. In the myth, it gets drunk and violent on fermented cactus sap. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)’s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) gives it hallucinogenic quills. I say why not both? — SaltyGoo* </span>
 
 Imagine a greenish gray bobcat with quills on its back. It stares at you in a drunken torpor.
 
