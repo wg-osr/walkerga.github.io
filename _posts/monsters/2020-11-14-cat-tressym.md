@@ -7,7 +7,7 @@ title: Cat, Tressym
 
 *A flying wizard pet cat. Beast.*
 
-<span class="alchemy"> *Why make a monster stat block for a cat? Because being attacked by a swarm of cats is an experience I want my players to live. — SaltyGoo* </span>
+<span class="alchemy"> *The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its perfectly servicable and enchanting familiar.  — SaltyGoo* </span>
 
 A housecat with wings.
 
