@@ -7,7 +7,7 @@ title: Cat, Tressym
 
 *A flying wizard pet cat. Beast.*
 
-<span class="alchemy"> *The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its perfectly servicable and enchanting familiar.  — SaltyGoo* </span>
+<span class="alchemy"> *The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its a perfectly servicable and enchanting familiar.  — SaltyGoo* </span>
 
 A housecat with wings.
 
