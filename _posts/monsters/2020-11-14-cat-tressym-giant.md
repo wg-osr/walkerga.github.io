@@ -7,7 +7,7 @@ title: Cat, Tressym, Giant
 
 *A puma with wings, with the fur diversity of a house cat. Beast.*
 
-<span class="alchemy"> *The giant tressym doesn't exist in DnD under that name, but is found as the Jana-nimr, or Greater Winged Cat, in the [Al-Qadim Bestiary](http://adnd.geoshitties.installgentoo.com/mm/catwinge.html). Interestingly, they speak! — SaltyGoo* </span>
+<span class="alchemy"> *The giant tressym doesn't exist in DnD under that name, but is found as the Jana-nimr, or Greater Winged Cat, in the [Al-Qadim Bestiary](http://adnd.geoshitties.installgentoo.com/mm/catwinge.html). Interestingly, they speak! I gave them two separate monster pages because one is a pet, and the other is a puma. — SaltyGoo* </span>
 
 **HD:** 1  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:**7 / 7 / 5 / 3 / 7 / 3  <br>
 **Armor:** none <br>
