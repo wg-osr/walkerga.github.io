@@ -7,7 +7,7 @@ title: Cat, Tressym
 
 *A flying wizard pet cat. Beast.*
 
-<span class="alchemy"> *The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its a perfectly servicable and enchanting familiar.  — SaltyGoo* </span>
+<span class="alchemy"> *The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its a perfectly servicable and enchanting familiar. There is another 2e monster that is that is virtually identical, the Jana-qitat, found in the [Al-Qadim bestiary](http://adnd.geoshitties.installgentoo.com/mm/catwinge.html), with less magical powers but a [giant version](https://saltygoo.github.io/monsters/cat-tressym-giant). — SaltyGoo* </span>
 
 A housecat with wings.
 
