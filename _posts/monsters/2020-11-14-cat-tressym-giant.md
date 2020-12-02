@@ -14,7 +14,7 @@ title: Cat, Tressym, Giant
 **Damage:** 1D4 <br>
 **Movement:** fast, climb average, fly fast &nbsp; &nbsp; **Morale:** coward <br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionnaly tressym can smell illusions and poison as well as talk the language of cats.
+Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionnaly giant tressyms can smell illusions and poison as well as talk the language of sphinxes.
 
 **Attacks:** Each round, the terssym can perform one of these actions:
 
