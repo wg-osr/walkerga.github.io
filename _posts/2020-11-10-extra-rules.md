@@ -45,7 +45,7 @@ For those who want to do more with the elements, you can sacrifice a damage dice
 - <ins>Magical:</ins> must save to a cast spells next round.
 - <ins>Poison:</ins> is poisoned for a round.
 
-<span class="alchemy>*Margh the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but the monster is immune to cold. Instead, he sacrifes the D8. On a hit, the monster's feet are frozen to the ground for a round.*</span>
+<span class="alchemy">*Margh the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but the monster is immune to cold. Instead, he sacrifes the D8. On a hit, the monster's feet are frozen to the ground for a round.*</span>
 
 ###### **Design Note:** Armor can be very hard to overcome in this GLoG hack. I wanted to represented the tried an true medieval tactic of pushing armored on the floor and stabbing them to death to be a viable way to that. Also, sneak attack is now linked to piercing damage and cleave to slashing. As for the elemental damages, they aim to provide tactical options for a well coordinated team.
 
