@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Necromancer
-permalink: /class/magic-user/Translocalist
+permalink: /class/magic-user/translocalist
 ---
 
 ###### Adapted from Coins & Scrolls's [Geometer](https://coinsandscrolls.blogspot.com/2019/10/osr-class-geometer-wizard.html)
