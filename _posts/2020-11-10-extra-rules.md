@@ -14,8 +14,6 @@ These rules are optional and give a framework to specific aspects of gameplay.
 - [Traveling](#traveling)
 - [Between Adventures](#between-adventures) (ways to spend Treasures)
 
-[PDF version](https://saltygoo.github.io/assets/GLOG_Gooed_Extra_v1.pdf)
-
 ---
 
 ## Heroism & Scars
@@ -66,35 +64,35 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 ## Conditions
 
-<ins>Blinded:</ins> Cannot see. You are disadvantaged on your attacks and Dexterity. Others are advantaged on their attacks.
+<ins>Blinded:</ins> You cant see or make ranged attacks. You need to roll 20 or above to hit with a melee attack, enemies need 10 or more to hit you.
 
 <ins>Charmed:</ins> You cannot attack, hurt or say anything bad to or about the source of the charm. You fail all rolls against it. 
 
-<ins>Confused:</ins> Each round, you must declare three potential actions that are fully distinct from each other (no shared objects or verbs). Roll 1D3 and do one randomly.
+<ins>Confused:</ins> Roll a D6. You must spend your turn interacting with: 1) the player on your right; 2) the player on your left; 3) yourself; 4) the closest monster; 5) the environment; 6) oblivion.
 
 <ins>Cursed:</ins> You cannot benefit from any magic.
 
 <ins>Dazed:</ins> You can act OR move on your turn.  
 
-<ins>Deafened:</ins> You cant hear. Your teammates cannot talk to you.
+<ins>Deafened:</ins> You cant hear. Your teammates cannot talk to you or about you.
 
 <ins>Dying:</ins> See [combat](/2020/11/09/base-rules#combat).
 
 <ins>Fatigued:</ins> -1 to all stats. Cumulative.
 
-<ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1, drop whatever you are holding; 2, scream; 3, fall prone; 4, grapple closest ally or object; 5, you are stunned for one turn; 6, run away.
+<ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop whatever you are holding; 2) scream; 3) fall prone; 4) grapple closest ally or object; 5) you are stunned for one turn; 6) run away.
 
 <ins>Grappled:</ins> Cannot move.
 
-<ins>Invisible:</ins> Advantage on attack rolls and stealth. Attacks against you are made with disadvantage.
+<ins>Invisible:</ins> Others need to roll 20 or higher to hit you, you need to roll 10 or higher to hit them.
 
 <ins>Petrified:</ins> You are stunned. You resist the first 10 damage of each attack.
 
-<ins>Poisoned:</ins> You are disadvantaged in all your actions. Poisons, diseases and other substances have other unique effects depending on the source.
+<ins>Poisoned:</ins> You are disadvantaged in all your actions. Specific poisons have unique additional effects too (ask the referee).
 
-<ins>Prone:</ins> You are easier to hit in melee, but harder at range. You cannot attack very well nor move very fast. Standing up takes all your movement for the turn.
+<ins>Prone:</ins> Others only need to roll 10 or above to hit you in melee, but 20 or above to hit you at range. You need 20 or above to hit in melee. Your speed stat is reduced to 0. Standing up takes all your movement for the turn.
 
-<ins>Stunned:</ins> You skip your turn and you fail all Strength and Dexterity rolls. Melee attacks automatically hit you, ranged ones have advantage.
+<ins>Stunned:</ins> You skip your turn and you fail all saves. Attacks hit you on a 10 or higher.
 
 ---
 
