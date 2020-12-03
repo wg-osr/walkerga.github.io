@@ -45,7 +45,7 @@ For those who want to do more with the elements, you can sacrifice a damage dice
 - <ins>Magical:</ins> must save to a cast spells next round.
 - <ins>Poison:</ins> is poisoned for a round.
 
-Examples: Margh casts a spell inflicting 2D6 damage to a goblin. Instead, she sacrifices a D6. The goblin takes 1D6 damage and she can attack another goblin for 1D6 damage. Boo has a sword of frost inflicting 1D8 damage, but the monster is immune to the damage. Instead, he sacrifes de D8. On a hit, the monster's feet are frozen to the ground.
+Examples: *Margh the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but the monster is immune to cold. Instead, he sacrifes the D8. On a hit, the monster's feet are frozen to the ground for a round.*
 
 ---
 
