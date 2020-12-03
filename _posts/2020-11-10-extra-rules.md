@@ -32,17 +32,20 @@ These rules are optional and give a framework to specific aspects of gameplay.
 ## Damage Types
 
 For those who want to do more with their melee weapons:
-- <ins>Blunt:</ins> You can reduce your damage dice by 1 size (1D6>1D4 etc) and attempt to shove as part of your attack.
+- <ins>Blunt:</ins> You can reduce your damage dice by 1 size (1D8>1D6>1D4 etc) and attempt to shove as part of your attack.
 - <ins>Piercing:</ins> A *prone* or *suprised* target takes double damage.
 - <ins>Slashing:</ins> When you roll max damage, you can make another attack.
 
-<ins>Acid:</ins> armor is reduced by 2.<br>
-<ins>Cold:</ins> take 2 dexterity damage.<br>
-<ins>Electric:</ins> acts last next turn.<br>
-<ins>Fire:</ins> cannot heal this turn.<br>
-<ins>Mind:</ins> take 2 intelligence damage.<br>
-<ins>Magical:</ins> must save to cast spells next turn.<br>
-<ins>Poison:</ins> take 2 constitution damage.
+For those who want to do more with the elements, you can sacrifice a damage dice to have a powerful on-hit effect instead:
+- <ins>Acid:</ins> negate target's armor for a round.
+- <ins>Cold:</ins> prevent movement for a round.
+- <ins>Electric:</ins> attack a nearby target for the sacrificed dice's damage.
+- <ins>Fire:</ins> inflict 1 damage per round untill snuffed.
+- <ins>Mind:</ins> target acts last on its next turn.
+- <ins>Magical:</ins> must save to a cast spells next round.
+- <ins>Poison:</ins> is poisoned for a round.
+
+Examples: Margh casts a spell inflicting 2D6 damage to a goblin. Instead, she sacrifices a D6. The goblin takes 1D6 damage and she can attack another goblin for 1D6 damage. Boo has a sword of frost inflicting 1D8 damage, but the monster is immune to the damage. Instead, he sacrifes de D8. On a hit, the monster's feet are frozen to the ground.
 
 ---
 
