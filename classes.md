@@ -10,6 +10,7 @@ permalink: /classes/
   - [Cleric](/class/magic-user/cleric)
   - [Diabolist](/class/magic-user/diabolist)
   - [Necromancer](/class/magic-user/necromancer)
+  - [Translocalist](/class/magic-user/translocalist)
 - The [Specialist](/class/specialist)
 
 ### Monster Classes
