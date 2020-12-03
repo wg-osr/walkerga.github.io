@@ -98,7 +98,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 ## Rare Metals
 
-A good monster hunter knows which weapon to bring to slay which beast. Different metals have the potential to overcome a beast’s most impervious resistances.
+All fairies, elementals, ghosts and devils resist damage, these metals give tools for fighters to overcome that. Adamantium and Platinum are very useful for fighters because they dont get destroyed when they use their [parry](https://saltygoo.github.io/class/fighter#parry) ability.
 
 <ins>Adamantium:</ins> Nothing is more solid than adamantium. An object hit by adamantium takes double damage, including constructs. An adamantium object is unbreakable.
 
@@ -108,9 +108,9 @@ A good monster hunter knows which weapon to bring to slay which beast. Different
 
 <ins>Mithral:</ins> Is light like cloth. Weapons made of mithral can be used with Dexterity. Armors made of mithral do not penalize Dexterity.
 
-<ins>Radium:</ins> Radium sheds light like a candle. It ignore the resistances of celestial creatures. Will poison mortals over time.
+<ins>Radium:</ins> Radium sheds light like a candle and inflicts 1D4 extra poison damage. It ignore the resistances of celestial creatures. After each adventure carrying radium, save or gain a mutation.
 
-<ins>Platinum:</ins> Platinum repairs itself. Platinum weapons ignore the resistances of aberrationns, as well as their save to kill ability.
+<ins>Platinum:</ins> Platinum repairs itself in 1 hour. Platinum weapons ignore the resistances of aberrations, as well as their save to kill ability.
 
 ---
 
@@ -124,7 +124,7 @@ On the world map, crossing a hex takes half a day. Roll for encounters twice per
 
 ## Treasures
 
-In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy things 1:1. Treasures can be traded to buy expensive things. Great Treasures are unique and worth 4 treasures. None of these have any utility besides trade and leveling up.
+In a dungeon, you can find Valuables, Treasures, and Great Treasures. Each take 1 inventory slot. Valuables can be traded to buy mundane things 1:1. Treasures can be traded to buy expensive things or 4 mundane things. Great Treasures are unique and worth 4 treasures. Also, they can be used in many ways between adventures.
 
 ---
 
