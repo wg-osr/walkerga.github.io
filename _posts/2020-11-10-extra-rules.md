@@ -5,7 +5,7 @@ title: Extra Rules
 
 These rules are optional and give a framework to specific aspects of gameplay.
 
-- [Heroism & Scars](#heroism--scars) (post game character growth)
+- [Heroism & Scars](#heroism--scars) (post game session character growth)
 - [Damage Types](#damage-types) (damage combos)
 - [Stat Damage](#stat-damage) 
 - [Conditions](#conditions)
@@ -25,19 +25,16 @@ These rules are optional and give a framework to specific aspects of gameplay.
 <ins>Heroism.</ins> After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. You can only know as many skills as your Intelligence. You can replace old skills as you get new ones.
 
 
-<ins>Scars.</ins> Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that specific danger (as defined by the referee). You can only have as many scars as your Constitution.
+<ins>Scars.</ins> Also, after a session, note one brush with death you’ve had. You now have a scar and advantage against that specific danger (as defined by the referee). You can only have as many scars and mutations as your Constitution.  You can replace old scars as you get new ones, but not mutations.
 
 ---
 
 ## Damage Types
 
-Experienced adventurers always bring a variety of weapons with them. Each type has a special effect when more than 5 damage is inflicted in one attack:
-
-<ins>Blunt:</ins> the target falls Prone if it is smaller than you.
-
-<ins>Piercing:</ins> the target takes double damage if Prone or Surprised (at any damage).
-
-<ins>Slashing:</ins> an adjacent target has to dodge or take half damage.
+For those who want to do more with their melee weapons:
+- <ins>Blunt:</ins> You can reduce your damage dice by 1 size (1D6>1D4 etc) and attempt to shove as part of your attack.
+- <ins>Piercing:</ins> A *prone* or *suprised* target takes double damage.
+- <ins>Slashing:</ins> When you roll max damage, you can make another attack.
 
 <ins>Acid:</ins> armor is reduced by 2.<br>
 <ins>Cold:</ins> take 2 dexterity damage.<br>
