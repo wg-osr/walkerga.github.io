@@ -20,7 +20,7 @@ For every Pigfolk template you have, you get more fat (it takes one inventory sl
 **D:** Stubbornness<br>
 
 ## Bulk I
-For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [treasure] spent carousing can give you more fat if you want.
+For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [Treasure](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
 
 ## Pig Nose I
 You can smell/taste surrounding edible things. This may be hampered by other overwhelming odors and this does not detect diseases and natural poisons.
