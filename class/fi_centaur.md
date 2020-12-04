@@ -34,7 +34,7 @@ You and your rider can take a hit for one another. You also take your turn at th
 You and your team can travel twice as fast through arctic, desert and plains hexes. Once per travel day, you can choose to not roll for encounter in these hexes.
 
 ## Charge
-If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflicts an extra 1D6 damage and you can use your movement score instead of your strength for your attack roll.
+If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflict an extra 1D6 damage and you can use your movement score instead of your strength for your attack roll.
 
 ## Hooves II
 You can make your hooves attack on top of another attack each round.
