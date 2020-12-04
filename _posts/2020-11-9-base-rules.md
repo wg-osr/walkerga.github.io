@@ -57,7 +57,7 @@ Rolling with advantage means you roll twice and choose the best. Disadvantage is
 
 # Combat
 
-<ins>Turn Order:</ins> Roll Wisdom. If you succeed you act before the monsters. Players and monsters that surprised their enemies have a free turn before the battle starts.
+<ins>Turn Order:</ins> In order of Wisdom.
 
 <ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one action, which can be moving further.
 
