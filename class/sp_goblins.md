@@ -4,7 +4,7 @@ title: The Goblins
 permalink: /class/specialist/many-goblins
 ---
 
-<span class="alchemy"> *Edited from Coins and Scrolls's amazing [class](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html). I simplified a bit, merged it with the goblin race (as I dont use races outside of classes). Its a wacky class that can act multiple times in the first turn of battle but is very limited by inventory. — SaltyGoo* </span>
+<span class="alchemy"> *Edited from Coins and Scrolls's amazing [class](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html). I simplified a bit, merged it with the goblin race (as I dont use races outside of classes). It's a wacky, very survivable class that can act multiple times in the first turn of battle but is very limited by inventory. — SaltyGoo* </span>
 
 <ins>Starting Equipment</ins><br>
 Many shanks, many filthy rags, fleas, one [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)
