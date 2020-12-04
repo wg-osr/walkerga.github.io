@@ -1,0 +1,39 @@
+---
+layout: page
+title: The Centaur
+permalink: /class/fighter/centaur
+---
+
+###### by SaltyGoo
+
+<ins>Starting Equipment</ins><br>
+Bow, 12 arrows, a rabbit snare
+
+<ins>Starting Skills (+5)</ins><br>
+Starting Weapon, Outdoors
+
+For every Centaur template you have, increase your HP and Speed by 1.
+
+**A:** Half-Horse, Hooves I<br>
+**B:** Ride or Die, Star Map<br>
+**C:** Charge<br>
+**D:** Hooves II<br>
+
+## Half-Horse
+- You have as many extra inventory slots as your Strength. A rider takes 5 inventory slots. 
+- You do not add your movement score to climbing and crawling rolls.
+
+## Hooves I
+You can attack with your hooves, inflicting 1D6 damage and allowing you to attempt to shove.
+
+## Ride or Die
+You and your rider can take a hit for one another. You also take your turn at the same time, using the best initiative.
+
+## Star Map
+You and your team can travel twice as fast through arctic, desert and plains hexes. Once per travel day, you can choose to not roll for encounter in these hexes.
+
+## Charge
+If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflicts an extra 1D6 damage and you can use your movement score instead of your strength for your attack roll.
+
+## Hooves II
+You can make your hooves attack on top of another attack each round.
