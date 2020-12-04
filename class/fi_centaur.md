@@ -37,7 +37,7 @@ You and your team can travel twice as fast through arctic, desert and plains hex
 If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflict an extra 1D6 damage and you can use your Movement score instead of your strength for your attack roll.
 
 ## Mentor of Heroes
-When you gain a skill for your [heroic deeds](https://saltygoo.github.io/2020/11/10/extra-rules/#heroism--scars), one of your teammates can also add 1 to the same skill if they want.
+When you gain a skill point for your [heroic deeds](https://saltygoo.github.io/2020/11/10/extra-rules/#heroism--scars), one of your teammates can also add 1 point to the same skill if they want.
 
 ## Hooves II
 You can make your Hooves attack on top of another attack each round.
