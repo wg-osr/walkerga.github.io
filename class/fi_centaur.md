@@ -4,7 +4,7 @@ title: The Centaur
 permalink: /class/fighter/centaur
 ---
 
-###### by SaltyGoo
+<span class="alchemy"> *This was initially a monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur) but seems like it could be used for an actual horse. Its a good fighting class, and it becomes very absurd if you multiclass into a specialist (wall-climbing horse-person!). — SaltyGoo* </span>
 
 <ins>Starting Equipment</ins><br>
 Bow, 12 arrows, a rabbit snare
@@ -21,7 +21,7 @@ For every Centaur template you have, increase your HP and Speed by 1.
 
 ## Half-Horse
 - You have as many extra inventory slots as your Strength. A rider takes 5 inventory slots. 
-- You do not add your movement score to climbing and crawling rolls.
+- You do not add your movement score to climbing crawling, swimming rolls.
 
 ## Hooves I
 You can attack with your hooves, inflicting 1D6 damage and allowing you to attempt to shove.
