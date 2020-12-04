@@ -21,7 +21,7 @@ For every Centaur template you have, increase your HP and Movement by 1.
 
 ## Half-Horse
 - You have as many extra inventory slots as your Strength. A rider takes 5 inventory slots. 
-- You do not add your movement score to climbing crawling, swimming rolls.
+- You do not add your movement score to climbing, crawling, and swimming rolls.
 - You do not fit in crawl spaces.
 
 ## Hooves I
