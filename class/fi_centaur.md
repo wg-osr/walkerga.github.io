@@ -12,7 +12,7 @@ Bow, 12 arrows, a rabbit snare
 <ins>Starting Skills (+5)</ins><br>
 Starting Weapon, Outdoors
 
-For every Centaur template you have, increase your HP and Speed by 1.
+For every Centaur template you have, increase your HP and Movement by 1.
 
 **A:** Half-Horse, Hooves I<br>
 **B:** Ride or Die, Star Map<br>
@@ -34,7 +34,7 @@ You and your rider can take a hit for one another. You also take your turn at th
 You and your team can travel twice as fast through arctic, desert and plains hexes. Once per travel day, you can choose to not roll for encounter in these hexes.
 
 ## Charge
-If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflict an extra 1D6 damage and you can use your movement score instead of your strength for your attack roll.
+If you use all your movement running towards a creature, you and your rider's next melee attack against it this turn inflict an extra 1D6 damage and you can use your Movement score instead of your strength for your attack roll.
 
 ## Hooves II
-You can make your hooves attack on top of another attack each round.
+You can make your Hooves attack on top of another attack each round.
