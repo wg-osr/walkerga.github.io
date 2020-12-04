@@ -26,7 +26,7 @@ For each inventory slot you have taken by fat, increase your maximum HP by 1. Wh
 You can smell/taste surrounding edible things. This may be hampered by other overwhelming odors and this does not detect diseases and natural poisons.
 
 ## Bulk II
-You can use the number of inventory slots you have taken by fat instead of your strenght score.
+You can use the number of inventory slots you have taken by fat instead of your strength score.
 
 ## Iron Stomach
 If you are poisoned, you can burn one inventory slot of fat to recover from it.
