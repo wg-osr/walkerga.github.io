@@ -33,12 +33,13 @@ For those who want to do more with their melee weapons:
 - <ins>Blunt:</ins> You can reduce your damage dice by 1 size (1D8>1D6>1D4 etc) and attempt to shove as part of your attack.
 - <ins>Piercing:</ins> A *prone* or *suprised* target takes double damage.
 - <ins>Slashing:</ins> When you roll max damage, you can make another attack.
+Physical damage type is rarely fixed, a sword can often do either
 
 For those who want to do more with the elements, you can sacrifice a damage dice to have a powerful on-hit effect instead:
 - <ins>Acid:</ins> negate target's armor for a round.
 - <ins>Cold:</ins> prevent movement for a round.
 - <ins>Electric:</ins> attack a nearby target for the sacrificed dice's damage.
-- <ins>Fire:</ins> inflict 1 damage per round untill snuffed.
+- <ins>Fire:</ins> target flammable piece of clothing or small object will be destroyed next round unless snuffed.
 - <ins>Mind:</ins> target acts last on its next turn.
 - <ins>Magical:</ins> must save to a cast spells next round.
 - <ins>Poison:</ins> is poisoned for a round.
