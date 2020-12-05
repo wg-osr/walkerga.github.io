@@ -24,5 +24,6 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="b">Mud...</span>  <span class="c">huts.</span> <span class="d">Rusty traps.</span>
 1. <span class="a">[Cat, Sabertooth](/monsters/cat-sabertooth)</span> <span class="b">Sinuous ...</span>  <span class="c">plateau.</span> <span class="d">Narrow pass.</span>
 1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="b">Clear-sky ...</span>  <span class="c">mesa.</span> <span class="d">Cliff.</span>
+1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Humid ...</span>  <span class="c">cracks.</span> <span class="d">Rotting tree bridge.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Forlorn ...</span>  <span class="c">ruins.</span> <span class="d">No life grows.</span>
