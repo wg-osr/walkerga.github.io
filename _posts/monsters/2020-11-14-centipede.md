@@ -7,7 +7,7 @@ title: Centipede
 
 *Centipedes are venomous worm-like arachnids withs a lot of legs. Beast.*
 
-<span class="alchemy"> *Why make a monster stat block for a cat? Because being attacked by a swarm of cats is an experience I want my players to live. — SaltyGoo* </span>
+<span class="alchemy"> *Nature's own aberration. I made them appropriately deadly with their venom. I thought it was interesting to have a monster that doesn't attack your HP. — SaltyGoo* </span>
 
 **HD:** 0  &nbsp; &nbsp;  **Size:** tiny &nbsp; &nbsp; **Stats:** 1 / 3 / 4 / 1 / 6 / 4  <br>
 **Armor:** none <br>
@@ -73,6 +73,8 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 Centipedes are a delicacy in certain circles, you need as many giant centipedes as there are players to make a day's ration. Collecting their venom is also a possiblity.
 
 <span class="alchemy">**Centipede Venom.** Save or be poisoned, save again each day to cure. Lose 1D4 points of constitution.</span>
+
+<br>
 
 ---
 
