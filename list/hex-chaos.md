@@ -13,3 +13,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Abyssal Wretch](/monsters/abyssal-wretch)</span> <span class="e"> Tumorous ...</span> <span class="d">Mutation radiations.</span> 
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="e"> Trampled ...</span> <span class="d">Demon stampede incoming.</span> 
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="e"> Manure ...</span> <span class="d">Explosive demon cows.</span> 
+1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="e"> Mold ...</span> <span class="d">Unbreathable spore cloud.</span> 
