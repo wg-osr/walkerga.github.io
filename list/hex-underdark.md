@@ -20,7 +20,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Tepid mud crack.</span> <span class="b">Flooded by mud.</span> 
 1. <span class="a">[Brain-Bat](/monsters/brain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">Friendly voice in your head.</span> 
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Narrow, warm crack.</span> <span class="b">Mossy.</span> 
-1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Through the roots of an old tree.</span> <span class="b">Grasping roots.</span> 
+1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Through old rotting roots.</span> <span class="b">Grasping roots.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Melting ice wall.</span> <span class="b">Freezing temperature.</span> 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Sulfur vent.</span> <span class="b">Scalding hot.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
