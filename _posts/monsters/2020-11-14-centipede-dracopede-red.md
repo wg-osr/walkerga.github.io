@@ -17,7 +17,7 @@ Imagine a bright-red centipede as long as a dog. It eats burnt organic matter.
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Dracopedes cant see well but detects movement within 30’. The green dracopede is well camouflaged in plants.
+Dracopedes cant see well but detects movement within 30’.
 
 **Attacks:** Each round, the dracopede can perform one of these actions:
 
