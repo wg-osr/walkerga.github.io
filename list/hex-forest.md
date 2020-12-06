@@ -18,4 +18,5 @@ Each time your roll on the forest hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Boar](/monsters/boar)</span> <span class="b">Pine...</span>  <span class="c">clearing.</span> <span class="d">Dead leaves up to the knee.</span>
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="b">Pigfolk...</span>  <span class="c">huts.</span> <span class="d">Rusty bear-trap.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Humid ...</span>  <span class="c">underbush.</span> <span class="d">Slippery dead leaves.</span>
+1. <span class="a">[Centi., Draco Green](/monsters/centipede-dracopede-green)</span> <span class="b">Dead leaves ...</span>  <span class="c">mound.</span> <span class="d">Poisonous sticky mushroom</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
