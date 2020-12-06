@@ -17,6 +17,12 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="e"> ... in a blizzard. </span> <span class="d">Blizzard.</span> 
 1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="e"> ... on a floating rock. </span> <span class="d">Floating rocks.</span> 
 
+## Fire
+
+&nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
+
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Coal ...</span> <span class="d">Scalding orchids.</span> 
+
 ## Water
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
