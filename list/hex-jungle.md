@@ -24,4 +24,5 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Dark ...</span>  <span class="c">roots.</span> <span class="d">Root ladder. </span>
 1. <span class="a">[Centi., Draco Green](/monsters/centipede-dracopede-green)</span> <span class="b">Vine-choked ...</span>  <span class="c">rubber tree.</span> <span class="d">Sticky vines.</span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Ashen ...</span>  <span class="c">volcano.</span> <span class="d">Hot ember.</span>
+1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Dark ...</span>  <span class="c">vines.</span> <span class="d">Hollow tree tunnel.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
