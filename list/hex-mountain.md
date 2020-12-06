@@ -21,5 +21,5 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated ...</span>  <span class="c">tavern.</span> <span class="d">Steep slope.</span>
 1. <span class="a">[Cat, Sabertooth](/monsters/cat-sabertooth)</span> <span class="b">Sinuous ...</span>  <span class="c">plateau.</span> <span class="d">Narrow pass.</span>
 1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="b">Clear-sky ...</span>  <span class="c">mesa.</span> <span class="d">Cliff.</span>
-1. <span class="a">[Centipede, Dracopede, Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice ...</span>  <span class="c">pits.</span> <span class="d">Sharp icicles</span>
+1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice ...</span>  <span class="c">pits.</span> <span class="d">Sharp icicles</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">tunnels.</span> <span class="d">Pit trap.</span>
