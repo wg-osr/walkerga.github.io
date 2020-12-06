@@ -23,6 +23,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Through old rotting roots.</span> <span class="b">Grasping roots.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Melting ice wall.</span> <span class="b">Freezing temperature.</span> 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Sulfur vent.</span> <span class="b">Scalding hot.</span> 
+1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Abandoned mineshaft.</span> <span class="b">A gong waits to be rang.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
