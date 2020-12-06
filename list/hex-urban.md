@@ -25,6 +25,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Cat](/monsters/cat)</span> <span class="b">Cat ...</span>  <span class="c">lounge.</span> <span class="d">Rooftop pathway.</span>
 1. <span class="a">[Cat, Tressym](/monsters/cat-tressym)</span> <span class="b">Pet ...</span>  <span class="c">gutters.</span> <span class="d">Wizard studying you.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Mossy ...</span>  <span class="c">manholes.</span> <span class="d">Rotting planks.</span>
+1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Maze-like ...</span>  <span class="c">galeries.</span> <span class="d">Fragile scaffolding.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Trash ...</span>  <span class="c">mound.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">Seashell ...</span>  <span class="c">fountain.</span> <span class="d">Runaway lovers.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Witch-King's ...</span>  <span class="c">ruin.</span> <span class="d">The crows are spies of the king.</span>
