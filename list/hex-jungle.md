@@ -21,6 +21,7 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Rare...</span>  <span class="c">orchid.</span> <span class="d">Sleep-disease mosquitoes.</span>
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Rotten ...</span>  <span class="c">mounds.</span> <span class="d">Slippery rotten leaves.</span>
+1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Dark ...</span>  <span class="c">roots.</span> <span class="d">Root ladder. </span>
 1. <span class="a">[Centi., Draco Green](/monsters/centipede-dracopede-green)</span> <span class="b">Vine-choked ...</span>  <span class="c">rubber tree.</span> <span class="d">Sticky vines.</span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Ashen ...</span>  <span class="c">volcano.</span> <span class="d">Hot ember.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
