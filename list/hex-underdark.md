@@ -44,5 +44,6 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Brain-Bat](/monsters/brain-bat)</span> <span class="b">Astral ...</span>  <span class="c">cones.</span> <span class="d">Darkness becomes oblivion.</span> 
 1. <span class="a">[Centipede](/monsters/centipedet)</span> <span class="b">Humid ...</span>  <span class="c">cracks.</span> <span class="d">Slippery wet floor.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice ...</span>  <span class="c">ice.</span> <span class="d">Sharp icicles</span>
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Scalding ...</span>  <span class="c">slits.</span> <span class="d">Lava pit</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
