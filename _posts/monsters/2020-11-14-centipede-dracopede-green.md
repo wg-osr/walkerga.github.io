@@ -17,7 +17,7 @@ Imagine a centipede as long as a dog, with brown legs and a moss covered green s
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Dracopedes cant see well but detects movement within 30’. The blue dracopede is well camouflaged in icy environment.
+Dracopedes cant see well but detects movement within 30’. The green dracopede is well camouflaged in plants.
 
 **Attacks:** Each round, the dracopede can perform one of these actions:
 
