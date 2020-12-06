@@ -23,7 +23,7 @@ Dracopedes cant see well but detects movement within 30’. The blue dracopede i
 
 <ins>Bite.</ins> The dracopede makes one melee attack (x).
 
-<ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by one-handed weapons.
+<ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by missile weapons and one-handed melee weapons.
 
 <ins>Freezing Spray (recharge 2/6).</ins> The dracopede spits a liquid that freezes very quickly in a 10’ cone. Those who fail their dodge take cold damage (2x) and are stuck to the floor.
 
