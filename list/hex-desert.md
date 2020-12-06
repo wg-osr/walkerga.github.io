@@ -23,4 +23,5 @@ Each time your roll on the desert hex table, you fill 3D4 adjacent hexes on the 
 1. <span class="a">[Centaur](/monsters/centaur)</span> <span class="b">Palm ...</span>  <span class="c">oasis.</span> <span class="d">Heat stroke.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Peeling ...</span>  <span class="c">crack.</span> <span class="d">Narrow, dark cracks.</span>
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Deadly ...</span>  <span class="c">rubbles.</span> <span class="d">Loose stones. </span>
+1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Outback ...</span>  <span class="c">pastures.</span> <span class="d">Horse stampede.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
