@@ -20,4 +20,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Cat](/monsters/cat)</span> <span class="e"> Cat infested ...</span> <span class="d">Familiar summoning.</span>
 1. <span class="a">[Cat, Tressym](/monsters/cat-tressym)</span> <span class="e"> Excentric ...</span> <span class="d">Levitating furniture.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="e"> Frozen ...</span> <span class="d">Extreme cold.</span> 
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Burning ...</span> <span class="d">Extreme heat.</span> 
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> Fountain of the ...</span> <span class="d">Water of amnesia.</span> 
