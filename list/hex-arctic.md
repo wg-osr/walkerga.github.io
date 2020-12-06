@@ -22,5 +22,5 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated ...</span>  <span class="c">tavern.</span> <span class="d">Slippery slope.</span>
 1. <span class="a">[Cat, Sabertooth](/monsters/cat-sabertooth)</span> <span class="b">Sinuous ...</span>  <span class="c">canyon.</span> <span class="d">Narrow passage.</span>
 1. <span class="a">[Centaur](/monsters/centaur)</span> <span class="b">Lichen ...</span>  <span class="c">taiga.</span> <span class="d">Beast stampede.</span>
-1. <span class="a">[Centipede, Dracopede, Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Icicle ...</span>  <span class="c">caves.</span> <span class="d">Sharp icicles</span>
+1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Icicle ...</span>  <span class="c">caves.</span> <span class="d">Sharp icicles</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
