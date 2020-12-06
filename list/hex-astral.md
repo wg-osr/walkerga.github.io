@@ -28,3 +28,4 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Rocky ...</span>  <span class="c">asteroid.</span> <span class="d">Rock shower.</span>
 1. <span class="a">[Brain-Bat](/monsters/brain-bat)</span> <span class="b">Abandoned ...</span>  <span class="c">colony.</span> <span class="d">Drifting ship on collision course.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Frozen ...</span>  <span class="c">iceberg.</span> <span class="d">Freezing gas.</span> 
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Burning ...</span>  <span class="c">ember.</span> <span class="d">Scalding gas.</span> 
