@@ -14,3 +14,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Bestial Terror](/monsters/bestial-terror)</span> <span class="e"> Trampled ...</span> <span class="d">Demon stampede incoming.</span> 
 1. <span class="a">[Calytaur](/monsters/calytaur)</span> <span class="e"> Manure ...</span> <span class="d">Explosive demon cows.</span> 
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="e"> Mold ...</span> <span class="d">Unbreathable spore cloud.</span> 
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Firerot ...</span> <span class="d">Firerot.</span> 
