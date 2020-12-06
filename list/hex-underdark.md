@@ -15,11 +15,12 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Abysmal](/monsters/abysmal)</span> <span class="b">Windy, humid slit.</span> <span class="b">Save vs fear to enter.</span> 
 1. <span class="a">[Basilisk](/monsters/basilisk)</span> <span class="b">Petrified giant snake.</span> <span class="b">Hot steam.</span> 
 1. <span class="a">[Bat](/monsters/bat)</span> <span class="b">Behind a waterfall.</span> <span class="b">Thousands of sleeping bats.</span> 
-1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Ice cave.</span> <span class="b">Blocked by snow.</span> 
+1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="b">Snow cave.</span> <span class="b">Blocked by snow.</span> 
 1. <span class="a">[Beetle, Giant Flayer](/monsters/beetle-giant-flayer)</span> <span class="b">Irridescent crawlspace.</span> <span class="b">Eerie cricket noises.</span> 
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Tepid mud crack.</span> <span class="b">Flooded by mud.</span> 
 1. <span class="a">[Brain-Bat](/monsters/brain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">Friendly voice in your head.</span> 
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Narrow, warm crack.</span> <span class="b">Mossy.</span> 
+1. <span class="a">[Centipede, Dracopede, Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Melting ice wall.</span> <span class="b">Freezing temperature.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
