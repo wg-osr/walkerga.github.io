@@ -21,6 +21,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Brain-Bat](/monsters/brain-bat)</span> <span class="b">Crashed astral ship.</span> <span class="b">Friendly voice in your head.</span> 
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Narrow, warm crack.</span> <span class="b">Mossy.</span> 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Melting ice wall.</span> <span class="b">Freezing temperature.</span> 
+1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Sulfur vent.</span> <span class="b">Scalding hot.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
