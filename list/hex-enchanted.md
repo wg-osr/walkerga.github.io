@@ -25,5 +25,5 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="b">Giant acacia ...</span> <span class="b">Sky-high ...</span> <span class="d">acacia.</span>
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice-flower ...</span> <span class="b">Freezing ...</span> <span class="d">orchids.</span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Flame-rose ...</span> <span class="b">Scalding ...</span> <span class="d">roses.</span>
-1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Vast ...</span>  <span class="b">Stampeding ...</span> <span class="d">grass.</span>
+1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Vast plains of ...</span>  <span class="b">Stampeding ...</span> <span class="d">grass.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">... of barnacled trinkets.</span> <span class="b">Clingy ...</span> <span class="d">fountain.</span>
