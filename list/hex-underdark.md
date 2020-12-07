@@ -24,6 +24,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Melting ice wall.</span> <span class="b">Freezing temperature.</span> 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Sulfur vent.</span> <span class="b">Scalding hot.</span> 
 1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Abandoned mineshaft.</span> <span class="b">A gong waits to be rang.</span> 
+1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="b">Through a giant worm.</span> <span class="b">Deep under water.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
@@ -50,5 +51,6 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice ...</span>  <span class="c">ice.</span> <span class="d">Sharp icicles</span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Scalding ...</span>  <span class="c">slits.</span> <span class="d">Lava pit</span>
 1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Narrow ...</span>  <span class="c">fault line.</span> <span class="d">Sound-triggered collapse.</span>
+1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="b">Silent ...</span>  <span class="c">sea.</span> <span class="d">Singing crystals of fear.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
