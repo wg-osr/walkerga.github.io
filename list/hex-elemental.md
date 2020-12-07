@@ -27,5 +27,6 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
+1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="e"> ... sunken in black water.</span> <span class="d">Zero visibility.</span> 
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> ... made of objects thrown at sea.</span> <span class="d">Structural collapse.</span> 
 
