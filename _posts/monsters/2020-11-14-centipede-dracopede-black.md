@@ -17,7 +17,7 @@ Imagine a spiked, armored centipede as long as a dog, and as black as ebony. It 
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Dracopedes cant see well but detects movement within 30’.
+Dracopedes cant see well but detects nearby movement.
 
 **Attacks:** Each round, the dracopede can perform one of these actions:
 
