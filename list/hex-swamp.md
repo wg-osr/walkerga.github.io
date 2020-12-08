@@ -23,4 +23,5 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Rotten ...</span>  <span class="c">ferns.</span> <span class="d">Sticky rotten patches.</span>
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Deadly ...</span>  <span class="c">roots.</span> <span class="d">Root cages. </span>
 1. <span class="a">[Centi., Draco Green](/monsters/centipede-dracopede-green)</span> <span class="b">Fern ...</span>  <span class="c">nests.</span> <span class="d">Poisonous gas mushrooms.</span>
+1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Brine ...</span>  <span class="c">puddles.</span> <span class="d">Salt corrosion.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
