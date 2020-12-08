@@ -14,7 +14,7 @@ title: Centipede
 **Damage:** 0 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** coward <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects movement within 10’.
+Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects adjacent movement.
 
 **Attacks:** Each round, the centipede can bite (x). On a hit, the target must save against poison or be poisoned and take 1 point of constitution damage.
 
@@ -32,7 +32,7 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects movement within 10’.
+Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects adjacent movement.
 
 **Attacks:** Each round, the centipede swarm can make a bites melee attack inflicting constitution damage (x) with an attack bonus equal to its HP. On a hit, the target must save or be poisoned.
 
@@ -47,7 +47,7 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 **Damage:** 1 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** coward <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects movement within 30’.
+Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement.
 
 **Attacks:** Each round, the centipede can bite (x). On a hit, the target must save against poison or be poisoned and take 1D4 points of constitution damage.
 
