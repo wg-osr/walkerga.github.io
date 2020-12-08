@@ -80,7 +80,7 @@ Centipedes are a delicacy in certain circles, you need as many giant centipedes 
 
 ## Totem Table
 
-In local cultures the bat is a symbol of ...
+In local cultures this beast is a symbol of ...
 
 1. Death
 1. Cicle of life
