@@ -25,7 +25,7 @@ Dracopedes cant see well but detects nearby movement.
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by missile weapons and one-handed melee weapons.
 
-<ins>Poison Spray (recharge 2/6).</ins> The dracopede spits poison in a 10’ cone. Those who fail to dodge are poisoned for 1 minute.
+<ins>Poison Spray (recharge 2/6).</ins> The dracopede spits poison in a short cone. Those who fail to dodge are poisoned for 1 minute.
 
 <br>
 
