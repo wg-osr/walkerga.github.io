@@ -32,12 +32,12 @@ Crabs can climb on any surfaces, including upside down, and can breath underwate
 
 ## Random Encounter
 
-1. **Monster:** 1D4 crab swarms or 1D4 giant crabs.
-1. **Lair:** Sharp, sea-eroded rocks full of holes and varech. <br>	&nbsp; OR <br>	**Omen:** Chitinous clicks.
-1. **Spoor:** A carcass, completely eaten and cleaned.
+1. **Monster:** 2D6 braincrabs.
+1. **Lair:** A mound of moldy, rotting skulls. <br>	&nbsp; OR <br>	**Omen:** A skull rolls in the room.
+1. **Spoor:** A headless skeleton, intact.
 1. **Tracks:** Sideways insectoid tracks.
-1. **Trace:** A pincer. 
-1. **Trace:** A seagull (or other beast) eating a crab.
+1. **Trace:** A skull. 
+1. **Trace:** Multiple scattered jaws.
 
 <br>
 
@@ -45,7 +45,9 @@ Crabs can climb on any surfaces, including upside down, and can breath underwate
 
 ## Salvaging the Body
 
-Crabs are delicious. You need as many crabs as there are players, or one giant crab to make a day's ration.
+If you are careful to extract the venom glands, the braincrab is as edible as a normal crab. You need as many crabs as there are players to make a day's ration. Many underdark and sea dwelling creatures have learned to coat their weapons in their juices.
+
+<span class="alchemy"> **Braincrab Juice.** Save or be stunned 1D4 rounds. </span>
 
 <br>
 
@@ -55,9 +57,11 @@ Crabs are delicious. You need as many crabs as there are players, or one giant c
 
 In local cultures this beast is a symbol of ...
 
-1. Music
-1. Posturing
+1. Memory
 1. Cancer
-1. Armors
-1. Love
+1. Headache
+1. Alzheimer
+1. Ghosts
 1. Sacred 
+
+
