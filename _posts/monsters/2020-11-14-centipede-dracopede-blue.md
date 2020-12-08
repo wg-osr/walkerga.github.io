@@ -17,7 +17,7 @@ Imagine a centipede as long as a dog, with stone gray legs and a snow covered bl
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Dracopedes cant see well but detects movement within 30’. The blue dracopede is well camouflaged in icy environment.
+Dracopedes cant see well but detects nearby movement. The blue dracopede is well camouflaged in icy environment.
 
 **Attacks:** Each round, the dracopede can perform one of these actions:
 
@@ -25,7 +25,7 @@ Dracopedes cant see well but detects movement within 30’. The blue dracopede i
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by missile weapons and one-handed melee weapons.
 
-<ins>Freezing Spray (recharge 2/6).</ins> The dracopede spits a liquid that freezes very quickly in a 10’ cone. Those who fail their dodge take cold damage (2x) and are stuck to the floor.
+<ins>Freezing Spray (recharge 2/6).</ins> The dracopede spits a liquid that freezes very quickly short cone. Those who fail their dodge take cold damage (2x) and are stuck to the floor.
 
 The sprayed ground becomes spiky and slippery.If a creature would fall, it takes damage (x). This attack has no effect in temperatures above the freezing point.
 
