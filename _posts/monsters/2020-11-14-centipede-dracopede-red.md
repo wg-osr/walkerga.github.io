@@ -17,7 +17,7 @@ Imagine a bright-red centipede as long as a dog. It eats burnt organic matter.
 **Damage:** 1D4 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** brave <br>
 
-Dracopedes cant see well but detects movement within 30’.
+Dracopedes cant see well but detects nearby movement.
 
 **Attacks:** Each round, the dracopede can perform one of these actions:
 
@@ -25,7 +25,7 @@ Dracopedes cant see well but detects movement within 30’.
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by missile weapons and one-handed melee weapons.
 
-<ins>Flammable Spray (recharge 2/6).</ins> The dracopede spits flammable acid in a 10’ cone. Those who fail their dodge take fire damage (x). And again (x) every turn until the sticky liquid is removed.
+<ins>Flammable Spray (recharge 2/6).</ins> The dracopede spits flammable acid in a short cone. Those who fail their dodge take acid damage (x). And fire damage (x) every turn until the sticky liquid is removed.
 
 This attack has no effect in cool temperatures.
 
