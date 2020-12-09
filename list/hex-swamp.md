@@ -25,4 +25,5 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Centi., Draco Green](/monsters/centipede-dracopede-green)</span> <span class="b">Fern ...</span>  <span class="c">nests.</span> <span class="d">Poisonous gas mushrooms.</span>
 1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Brine ...</span>  <span class="c">puddles.</span> <span class="d">Salt corrosion.</span>
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Skull ...</span>  <span class="c">pools.</span> <span class="d">Deep pools.</span>
+1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
