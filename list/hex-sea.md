@@ -13,7 +13,6 @@ Each time your roll on the sea hex table, you fill 4D6 adjacent hexes on the map
 1. <span class="a">[Bear, Polar](/monsters/bear-polar)</span> <span class="b">Cold ...</span>  <span class="c">iceberg.</span> <span class="d">Iceberg collision.</span>
 1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Noisy ...</span>  <span class="c">bird colony.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Bird, Giant Pelican](/monsters/pelican)</span> <span class="b">Jagged ...</span>  <span class="c">cliff.</span> <span class="d">Giant waves.</span>
-1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Heroes' ...</span>  <span class="c">sanctuary.</span> <span class="d">Two war fleets in uneasy truce.</span>
 1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Shallow ...</span>  <span class="c">sand banks.</span> <span class="d">Razor barnacles.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">Lovers' ...</span>  <span class="c">rock.</span> <span class="d">Trinket toll.</span>
