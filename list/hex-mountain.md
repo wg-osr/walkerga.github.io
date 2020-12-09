@@ -25,4 +25,5 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Scalding ...</span>  <span class="c">chimneys.</span> <span class="d">Lava pit.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Cyclops](/monsters/cyclops)</span> <span class="b">Ancient ...</span>  <span class="c">boulder.</span> <span class="d">Cyclopean wall.</span>
+1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Cavernous ...</span>  <span class="c">tribelands.</span> <span class="d">Deafening thunder</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">tunnels.</span> <span class="d">Pit trap.</span>
