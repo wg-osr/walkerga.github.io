@@ -1,8 +1,14 @@
 ---
 layout: post
 permalink: /list/monsters-aberration
-title: All Aberrations
+title: Aberrations
 ---
+
+Eldritch horrors and mutants. The chaotic demons of DnD are aberrations.
+
+<ins>Common Traits:</ins> Resistance to mind effects. Save vs fear to kill.
+
+<ins>Tables:</ins> Random Encounter + Mutation (effect of studying them).
 
 {% capture posts %}
   {% for post in site.tags.aberration %}
