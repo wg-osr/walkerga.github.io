@@ -16,3 +16,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="e"> Mold ...</span> <span class="d">Unbreathable spore cloud.</span> 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Firerot ...</span> <span class="d">Firerot.</span> 
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="e">... covered in black ooze.</span> <span class="d">Whispers of fear.</span> 
+1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e">Wicked ... of doom.</span> <span class="d">Mass suicide.</span> 
