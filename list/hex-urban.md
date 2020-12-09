@@ -28,6 +28,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Maze-like ...</span>  <span class="c">galeries.</span> <span class="d">Fragile scaffolding.</span>
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Beheading ...</span>  <span class="c">pools.</span> <span class="d">Skull idol.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Wicked ...</span>  <span class="c">idols.</span> <span class="d">Fanatical crowd.</span>
+1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Rocky ...</span>  <span class="c">wurm kennels.</span> <span class="d">Rampaging wurm.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Trash ...</span>  <span class="c">mound.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">Seashell ...</span>  <span class="c">fountain.</span> <span class="d">Runaway lovers.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Witch-King's ...</span>  <span class="c">ruin.</span> <span class="d">The crows are spies of the king.</span>
