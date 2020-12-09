@@ -24,7 +24,7 @@ Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs
 
 <ins>Javelin</ins>. The cyclopskin makes one ranged attack (x).
 
-<ins>Aggressive Rush.</ins> The cyclopskin moves its full movement towards a target and makes a melee attack (2x). The cyclopskin is blinded for the turn.
+<ins>Aggressive Rush.</ins> The cyclopskin moves its full movement towards a target and makes a melee attack (2x). The cyclopskin is blinded for the rest of the round.
 <br>
 
 ---
