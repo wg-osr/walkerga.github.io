@@ -27,5 +27,6 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Humid ...</span>  <span class="c">cracks.</span> <span class="d">Rotting tree bridge.</span>
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Shady ...</span>  <span class="c">rivulet.</span> <span class="d">Loose stones. </span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Lava ...</span>  <span class="c">vent.</span> <span class="d">Lava pit.</span>
+1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Forlorn ...</span>  <span class="c">ruins.</span> <span class="d">No life grows.</span>
