@@ -1,8 +1,10 @@
 ---
 layout: post
 permalink: /list/monsters-celestial
-title: All Divine Creatures
+title: Divine Creatures
 ---
+
+
 
 {% capture posts %}
   {% for post in site.tags.celestial %}
