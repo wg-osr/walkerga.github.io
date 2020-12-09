@@ -1,8 +1,16 @@
 ---
 layout: post
 permalink: /list/monsters-construct
-title: All Constructs
+title: Constructs
 ---
+
+Machines and animated objects.
+
+<ins>Common Traits</ins>: Immunity to poison, diseases or sleep. Weakness to anti-magic. Considered an object.
+
+<ins>Encounter Table</ins>. Roll every 30 minute in a dungeon or in every hex during hexcrawl.
+
+<ins>Contruction Table</ins>. Provide instruction for the [Build One](https://saltygoo.github.io/2020/11/10/extra-rules/#between-adventures) carousing activity. Roll for malfunctions.
 
 {% capture posts %}
   {% for post in site.tags.construct %}
