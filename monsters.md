@@ -12,13 +12,13 @@ The slow, methodical conversion of more than 9000 monsters from DnD history to t
 ## By Monster Type
 I classify monsters in 8 thematic categories with some mechanical common thread, because I love when players can learn:
 
-[Aberrations](/list/monsters-aberration) (Mutants and Aliens)<br>
-[Beasts](/list/monsters-beast) (Animals and Plants)<br>
-[Constructs](/list/monsters-construct) (Machines) <br>
-[Divine](/list/monsters-celestial) (Angels and Devils) <br>
-[Elementals](/list/monsters-elemental) (Air, Earth, Fire and Water) <br>
-[Fairies](/list/monsters-fey) (Magical tricksters) <br>
-[Humanoids](/list/monsters-humanoid) (People) <br>
-[Undeads](/list/monsters-undead)(Other monsters brought back to life)
+[Aberrations](/list/monsters-aberration) — Mutants and Aliens<br>
+[Beasts](/list/monsters-beast) — Animals and Plants<br>
+[Constructs](/list/monsters-construct) — Machines <br>
+[Divine](/list/monsters-celestial) — Angels and Devils <br>
+[Elementals](/list/monsters-elemental) — Air, Earth, Fire and Water <br>
+[Fairies](/list/monsters-fey) — Magical tricksters <br>
+[Humanoids](/list/monsters-humanoid) — People <br>
+[Undeads](/list/monsters-undead) —  Other monsters brought back to life
 
-[NPC Classes](/list/monsters-classes) <br> (When you want your bear to be a wizard too)
+[NPC Classes](/list/monsters-classes) —  When you want your bear to be a wizard too
