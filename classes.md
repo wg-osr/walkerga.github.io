@@ -16,6 +16,7 @@ permalink: /classes/
 
 - Fighters-types
   - The [Centaur](/class/fighter/centaur)
+  - The [Cyclopskin](/class/fighter/cyclopskin)
   - The [Mutant](/class/fighter/mutant)
   - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
 - Magic Users
