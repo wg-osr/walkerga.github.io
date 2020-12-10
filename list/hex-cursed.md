@@ -16,4 +16,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="e">Rotten, sinking ...</span> <span class="d">Deep, swallowing mold floor.</span> 
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="e">... made of thousands of skulls.</span> <span class="d">Skull avalanche.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e">Necromancer's ...</span> <span class="d">The dead come back as zombies.</span> 
+1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span>  <span class="e"> Dead wood ...</span> <span class="d">Grasping roots.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="e">Ruined ... of the Old Kingdom.</span> <span class="d">The dead come back as specters.</span> 
