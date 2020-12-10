@@ -26,4 +26,5 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="b">Ice-flower ...</span> <span class="b">Freezing ...</span> <span class="d">orchids.</span>
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Flame-rose ...</span> <span class="b">Scalding ...</span> <span class="d">roses.</span>
 1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Vast plains of ...</span>  <span class="b">Stampeding ...</span> <span class="d">grass.</span>
+1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Speaking ...</span>  <span class="b">Grasping ...</span> <span class="d">roots.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">... of barnacled trinkets.</span> <span class="b">Clingy ...</span> <span class="d">fountain.</span>
