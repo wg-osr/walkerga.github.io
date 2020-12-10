@@ -32,4 +32,4 @@ You can reroll your damage rolls and choose the best result. If you do, your are
 You can reduce the damage of an incoming attack by 1D6. If you do, you are blinded until the end of your next turn.
 
 ## Evil Eye
-You can force a spellcaster you can see to make a save or fail to cast a spell. If you do, your are blinded to all things that are not your the caster until your next turn.
+You can force a spellcaster you can see to make a save or fail to cast a spell. If you do, your are blinded to all things that are not the caster until your next turn.
