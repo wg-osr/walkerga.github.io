@@ -80,3 +80,10 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 1. They see all other humanoids as rivals.
 1. Their leader is a mountain sized cyclops.
 1. They are led by a beholder.
+
+
+<br>
+
+---
+
+## Play as a [Cyclopskin](/class/fighter/cyclopskin)!
