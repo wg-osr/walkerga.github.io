@@ -17,3 +17,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Firerot ...</span> <span class="d">Firerot.</span> 
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="e">... covered in black ooze.</span> <span class="d">Whispers of fear.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e">Wicked ... of doom.</span> <span class="d">Mass suicide.</span> 
+1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span>  <span class="e"> ... of human flesh.</span> <span class="d">Grasping hands.</span> 
