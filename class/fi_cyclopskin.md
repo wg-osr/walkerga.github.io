@@ -20,7 +20,7 @@ For every Cyclopskin template you have, increase your HP by 1.
 **D:** Hooves II<br>
 
 ## One-Eyed
-You have disadvantage on attacks against far away targets. (Targets you can't reach in melee this turn)
+You have disadvantage on attacks against faraway targets. (Targets you can't reach in melee this turn)
 
 ## Boulder Throw
 In your hands, big, improvised weapons inflict 1D12 damage when thrown.
