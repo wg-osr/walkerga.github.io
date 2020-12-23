@@ -1,3 +1,9 @@
+---
+layout: page
+title: Coastline NPCs
+permalink: /BGX/NPC/Coast
+---
+
 ## Pallonia, Contemplating Nun
 She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. Her nun habits are weathered and too big for her.
 
