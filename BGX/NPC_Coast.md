@@ -15,7 +15,7 @@ She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. H
 
 <ins>Hates</ins> - Mundane questions, petty questions, selfish questions.
 
-<ins>Quirk</ins> - She *always* sees things on a bigger scale than you. She never stops contemplating the waves.
+<ins>Quirk</ins> - She *always* thinks on a broader scale than you. She never stops contemplating the waves.
 
 <ins>Stats</ins> - As a *Diviner*.
 
