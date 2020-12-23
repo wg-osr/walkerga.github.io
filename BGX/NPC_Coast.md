@@ -9,7 +9,7 @@ She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. H
 
 *"I know why you're here. It's the same reason everyone else comes to see me, and you shall get the same answer..."*
 
-<ins>The Problem** - There are much bigger, cosmic forces at play than local conflicts between bandits and merchants, and nobody is acting on them. The children of a god is roaming the area, bringing chaos in its wake and nervousness in the heaven!
+<ins>The Problem</ins> - There are much bigger, cosmic forces at play than local conflicts between bandits and merchants, and nobody is acting on them. The children of a god is roaming the area, bringing chaos in its wake and nervousness in the heaven!
 
 <ins>Wants</ins> - Acknowledgement of the cosmic disturbance, or alternatively be left alone.
 
