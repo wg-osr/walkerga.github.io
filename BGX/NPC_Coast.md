@@ -15,10 +15,10 @@ She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. H
 
 <ins>Hates</ins> - Mundane questions, petty questions, selfish questions.
 
-<ins>Quirk</ins> - She *always* thinks on a broader scale than you. She never stops contemplating the waves.
+<ins>Quirk</ins> - She thinks on a broader scale than you. She never stops contemplating the waves.
 
 <ins>Stats</ins> - As a *Diviner*.
 
-*Note: I often find players get obsessed with what is directly in front of them. I use NPCs like that to remind them of the scale of the world. Use Pallonia as a tool to inform the players on how close they are to resolving the intrigue of **Sarevok**, **Imoen** and **Irenicus**.*
+*Note: Use Pallonia as a tool to inform the players on how close they are to resolving the intrigue of **Sarevok**, **Imoen** and **Irenicus**.*
 
 ---
