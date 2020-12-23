@@ -5,7 +5,7 @@ permalink: /BGX/NPC/Coast
 ---
 
 # Pallonia, Contemplating Nun
-She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. Her nun habits are weathered and too big for her.
+She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. Her nun habits are weathered and too big for her. She sees the future.
 
 *"I know why you're here. It's the same reason everyone else comes to see me, and you shall get the same answer..."*
 
