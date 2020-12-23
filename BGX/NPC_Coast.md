@@ -13,9 +13,9 @@ She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. H
 
 <ins>Wants</ins> - Acknowledgement of the cosmic disturbance, or alternatively be left alone.
 
-<ins>Hates</ins> - Mundane questions, petty questions, selfish questions. Who cares about harvest seasons, gambling and iron crises?
+<ins>Hates</ins> - Mundane questions, petty questions, selfish questions.
 
-<ins>Quirk</ins> - She *always* sees things on a bigger scale than you. She never stops contemplating the waves. If you meet her at different locations, you have no idea how she got there.
+<ins>Quirk</ins> - She *always* sees things on a bigger scale than you. She never stops contemplating the waves.
 
 <ins>Stats</ins> - As a *Diviner*.
 
