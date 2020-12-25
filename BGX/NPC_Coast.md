@@ -22,8 +22,6 @@ permalink: /BGX/NPC/Coast
 
 <span class="NPC"> **Shoal, Blackmailed Nereid**<br><br>She jumps out of a wave, brine made naked flesh, with hair like waterfall and tears like foam.<br><br>*"Please to help me, will you? I am alone on this desolate dry-land and who knows what lurks in these woods."*</span>
 
-<span class="alchemy"> 
-
 <ins>The Problem</ins> - There are much bigger, cosmic forces at play than local conflicts between bandits and merchants, and nobody is acting on them. The children of a god is roaming the area, bringing chaos in its wake and nervousness in the heaven!
 
 <ins>Wants</ins> -- Acknowledgement of the cosmic disturbance, or alternatively be left alone.
