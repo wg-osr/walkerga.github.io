@@ -4,7 +4,7 @@ title: The Coastline
 permalink: /BGX/NPC/Coast
 ---
 
-#NPC
+# NPCs
 
 <img src="/images/NPC_Coast.png" alt="Coast NPC">
 
