@@ -10,13 +10,13 @@ permalink: /BGX/NPC/Coast
 
 <span class="NPC"> **Pallonia, Contemplating Nun**<br><br>She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. Her nun habits are weathered and too big for her. She sees the future.<br><br>*"I know why you're here. It's the same reason everyone else comes to see me, and you shall get the same answer..."*</span>
 
-- **The Problem** -- There are much bigger, cosmic forces at play than local conflicts between bandits and merchants, and nobody is acting on them. The children of a god is roaming the area, bringing chaos in its wake and nervousness in the heaven!
+- **The Problem** -- There are much bigger, cosmic forces at play than local conflicts between bandits and merchants, and nobody is acting on them. The children of a god is roaming the area, bringing chaos in its wake and nervousness in Heaven!
 
 - **Wants** -- Acknowledgement of the cosmic disturbance, or alternatively be left alone.
 
 - **Hates** -- Mundane questions, petty questions, selfish questions.
 
-- **Quirk** -- She thinks on a broader scale than you. She never stops contemplating the waves.
+- **Quirk** -- Thinks on a broader scale than you. Never stops contemplating the waves.
 
 - **Stats** -- As a *Diviner*.
 
