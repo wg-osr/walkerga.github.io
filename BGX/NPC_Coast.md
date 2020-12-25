@@ -6,6 +6,7 @@ permalink: /BGX/NPC/Coast
 
 <img src="/images/NPC_Coast.png" alt="Coast NPC">
 
+---
 
 <span class="alchemy"> **Pallonia, Contemplating Nun**<br>She's sitting on a rock, contemplating the waves. Thin, long teeth, blue eyes. Her nun habits are weathered and too big for her. She sees the future.<br><br>*"I know why you're here. It's the same reason everyone else comes to see me, and you shall get the same answer..."*</span>
 
