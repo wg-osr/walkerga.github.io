@@ -13,9 +13,9 @@ permalink: /BGX/NPC/Coast
 
 - <ins>Wants</ins> -- Acknowledgement of the cosmic disturbance, or alternatively be left alone.
 
--<ins>Hates</ins> -- Mundane questions, petty questions, selfish questions.
+- <ins>Hates</ins> -- Mundane questions, petty questions, selfish questions.
 
--<ins>Quirk</ins> -- She thinks on a broader scale than you. She never stops contemplating the waves.
+- <ins>Quirk</ins> -- She thinks on a broader scale than you. She never stops contemplating the waves.
 
 - <ins>Stats</ins> -- As a *Diviner*.
 
