@@ -87,4 +87,4 @@ exclude:
 
 # Dropdown Render
 # markdown: Kramdown
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
