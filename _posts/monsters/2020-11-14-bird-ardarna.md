@@ -65,9 +65,9 @@ Collecting adarna bird guano is hard, but the substance is also powerful and pre
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>D6 Symbolism</summary>
-  
+
 In local cultures the adarna bird is a symbol of ...
 
 1. Beauty
