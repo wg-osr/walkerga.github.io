@@ -27,12 +27,10 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 ---
 
-<br>
-
-### Random Encounter
+<br> 
 
 <details>
-<summary>Roll a D6</summary>
+<summary>Random Encounter</summary>
 
   
 1. **Monster:** 1 adarna bird.
@@ -44,10 +42,8 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 </details>
 
-### What the Monster Wants
-
 <details>
-<summary>Roll a D6</summary>
+<summary>D6 What the Monster Wants </summary>
 
 1. Decorate the place with fresh flowers, only for them to die before the task is complete.
 1. To be captured by an impossibly good person.
@@ -58,10 +54,9 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 </details>
 
-### Salvaging the Body
-
 <details>
-
+<summary>Salvaging the Body</summary>
+  
 A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
 
 Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
@@ -70,10 +65,8 @@ Collecting adarna bird guano is hard, but the substance is also powerful and pre
 
 </details>
 
-### Totem Table
-
 <details>
-<summary>Roll a D6</summary>
+<summary>D6 Symbolism</summary>
   
 In local cultures the adarna bird is a symbol of ...
 
@@ -91,6 +84,6 @@ In local cultures the adarna bird is a symbol of ...
 <details>
 <summary>DM Notes</summary>
   
-<span class="alchemy"> *The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo* </span>
+*The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo*
 
 </details>
