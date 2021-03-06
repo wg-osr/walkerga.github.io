@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 # Dropdown Render
-markdown: CommonMark
+markdown: Kramdown
