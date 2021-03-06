@@ -87,3 +87,5 @@ exclude:
 
 # Dropdown Render
 markdown: Kramdown
+kramdown:
+  parse_block_html: true
