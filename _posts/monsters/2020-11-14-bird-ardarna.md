@@ -29,10 +29,9 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 <br> 
 
-<details>
+<details markdown="1">
 <summary>Random Encounter</summary>
 
-  
 1. **Monster:** 1 adarna bird.
 1. **Lair:** A human-sized magnificent lyre-shaped nest made of woven gold flowers. Coins and shiny, delicate trinkets are set in a perfect circle in the nest’s opening. Passing through the opening cleans as if taking a perfumed bath, but the next time a trespasser sleeps, they will dream of the adarna song, only waking up 1D6 days later. <br>	&nbsp; OR <br>	**Omen:** You hear a heartbreakingly beautiful bird song, your eyes starts to grow heavy. See *soothing song* ability.
 1. **Spoor:** One broken iridescent feather only visible to creatures with more than 5 intelligence.
@@ -42,7 +41,7 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>D6 What the Monster Wants </summary>
 
 1. Decorate the place with fresh flowers, only for them to die before the task is complete.
@@ -54,7 +53,7 @@ All plants and objects near a dying adarna bird are changed as if they had spent
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Salvaging the Body</summary>
   
 A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
@@ -66,7 +65,7 @@ Collecting adarna bird guano is hard, but the substance is also powerful and pre
 </details>
 
 <details markdown="1">
-<summary>**D6 Symbolism**</summary>
+<summary>D6 Symbolism</summary>
 
 In local cultures the adarna bird is a symbol of ...
 
@@ -81,7 +80,7 @@ In local cultures the adarna bird is a symbol of ...
 
 <br>
 
-<details>
+<details markdown="1">
 <summary>DM Notes</summary>
   
 *The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo*
