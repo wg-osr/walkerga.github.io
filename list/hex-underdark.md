@@ -27,7 +27,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="b">Through a giant worm.</span> <span class="b">Deep under water.</span> 
 1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Saltwater pool.</span> <span class="b">Razor barnacles.</span> 
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Under a mass grave.</span> <span class="b">Blocked by a wall of skulls.</span> 
-1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">The mouth of a statue.</span> <span class="b">A sacrifice needs to be performed.</span> 
+1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">The mouth of a statue.</span> <span class="b">Sacrifice required.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">In a magma pool.</span> <span class="b">Half flooded in magma.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
