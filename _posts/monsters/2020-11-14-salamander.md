@@ -15,20 +15,33 @@ Fiery lizard people. A fire elemental.
 **Movement:** average <br>
 **Morale:** brave <br>
 
-**Elemental (Fire):**
+**Elemental (Fire)**
 - resists damage, immune to fire
 - recover 2 HP per round when in flames
 - loses 1 HP per round when out of flames
 - contact with it causes 1 fire damage/round
 - has the same properties as fire
 
-**Attacks (1/round):**
+**Attacks (1/round)**
 
 <ins>Skewer</ins>. The salamander makes a melee attack with reach (1D6 +1 fire damage).
 
 <ins>Scalding Tongue</ins>. The salamander makes a grappling attack with reach, burning its target (1D4) and dragging it to itself.
 
-<br>
+<span class="alchemy">
+  
+## **Sorcerer: Flamedancer**
+**Non-Combat Magic:**
+Pyromancy, Dancing
+
+**Attacks (1/round)**
+<ins>Spellcasting</ins>. *Ignite, Flame Fence, Smoke Illusion*
+
+<ins>Scalding Fan</ins>. The sorcerer makes a ranged attack (1D6) which ignites flamable objects.
+
+</span>
+
+  <br>
 
 ---
 
