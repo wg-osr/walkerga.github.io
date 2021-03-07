@@ -22,6 +22,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Coal ...</span> <span class="d">Scalding orchids.</span> 
+1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> Crater ...</span> <span class="d">Lava bubbles.</span> 
 
 ## Water
 
