@@ -28,6 +28,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Saltwater pool.</span> <span class="b">Razor barnacles.</span> 
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Under a mass grave.</span> <span class="b">Blocked by a wall of skulls.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">The mouth of a statue.</span> <span class="b">Sacrifice required.</span> 
+1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Underwater tunnel.</span> <span class="b">Behind a waterfall.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">In a magma pool.</span> <span class="b">Half flooded in magma.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
@@ -59,6 +60,7 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Crab](/monsters/crab)</span> <span class="b">Saltwater ...</span>  <span class="c">pools.</span> <span class="d">Coarse salt.</span>
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Entombed ...</span>  <span class="c">ossuary.</span> <span class="d">Bone avalanche.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">seal.</span> <span class="d">Cult idol.</span>
+1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Submerged ...</span>  <span class="c">waterfall.</span> <span class="d">Flooding.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma ...</span>  <span class="c">baths.</span> <span class="d">Melting ground.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
