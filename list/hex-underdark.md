@@ -60,5 +60,5 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Crab, Braincrab](/monsters/crab-braincrab)</span> <span class="b">Entombed ...</span>  <span class="c">ossuary.</span> <span class="d">Bone avalanche.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">seal.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
-1. <span class="a">[Wraith](/monsters/salamander)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
-1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Magma ...</span>  <span class="c">baths.</span> <span class="d">Melting ground.</span>
+1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma ...</span>  <span class="c">baths.</span> <span class="d">Melting ground.</span> 
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
