@@ -31,3 +31,4 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Burning ...</span>  <span class="c">ember.</span> <span class="d">Scalding gas.</span> 
 1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Hollow ...</span>  <span class="c">asteroid.</span> <span class="d">Hypnotizing holes.</span>
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="b">Upside-down ...</span>  <span class="c">spires.</span> <span class="d">Deep-space fear radiations.</span>
+1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Water-plane...</span>  <span class="c">gateway.</span> <span class="d">Giant bubbles.</span>
