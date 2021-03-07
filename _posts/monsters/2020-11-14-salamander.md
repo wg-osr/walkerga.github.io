@@ -18,7 +18,7 @@ Fiery lizard people. A fire elemental.
 **Elemental (Fire)**
 - resists damage, immune to fire
 - recover 2 HP per round when in flames
-- loses 1 HP per round when out of flames
+- loses 1 HP per round without fuel
 - contact with it causes 1 fire damage/round
 - has the same properties as fire
 
@@ -28,20 +28,7 @@ Fiery lizard people. A fire elemental.
 
 <ins>Scalding Tongue</ins>. The salamander makes a grappling attack with reach, burning its target (1D4) and dragging it to itself.
 
-<span class="alchemy">
-  
-## **Sorcerer: Flamedancer**
-**Non-Combat Magic:**
-Pyromancy, Dancing
-
-**Attacks (1/round)**
-<ins>Spellcasting</ins>. *Ignite, Flame Fence, Smoke Illusion*
-
-<ins>Scalding Fan</ins>. The sorcerer makes a ranged attack (1D6) which ignites flamable objects.
-
-</span>
-
-  <br>
+<br>
 
 ---
 
@@ -50,57 +37,54 @@ Pyromancy, Dancing
 <details markdown="1">
 <summary>Random Encounter</summary>
 
-1. **Monster:** 1 adarna bird.
-1. **Lair:** A human-sized magnificent lyre-shaped nest made of woven gold flowers. Coins and shiny, delicate trinkets are set in a perfect circle in the nest’s opening. Passing through the opening cleans as if taking a perfumed bath, but the next time a trespasser sleeps, they will dream of the adarna song, only waking up 1D6 days later. <br>	&nbsp; OR <br>	**Omen:** You hear a heartbreakingly beautiful bird song, your eyes starts to grow heavy. See *soothing song* ability.
-1. **Spoor:** One broken iridescent feather only visible to creatures with more than 5 intelligence.
-1. **Tracks:** Two joyful notes resonate far in a random direction.
-1. **Trace:** A person (D4 1:Artist, 2:Noble, 3:Child, 4:Ettercap) arrives with legends of the bird. They are escorted by a (D4 1:Veteran Game Hunter, 2:Local Guide, 3:Oneirologist, 4:Pet).
-1. **Trace:** A person petrified while napping. A small stain of dried guano on their forehead.
+1. **Monster:** 1D6 salamanders and ...
+    1. nothing
+    2. 1 flame dancer (sorcerer)
+    3. 1 soldier
+    4. 1 fire elemental
+1. **Lair:** A magma bathhouse with bubble art. <br>	&nbsp; OR <br>	**Omen:** The sound of wet steps and the smell of old cooking oil.
+1. **Spoor:** A puddle of boiling oil.
+1. **Tracks:** Oily trail and burnt ground.
+1. **Trace:** A pile of solidified magma.
+1. **Trace:** A symbol in Ignan burned into stone.
 
 </details>
 
 <details markdown="1">
 <summary>D6 What the Monster Wants </summary>
 
-1. Decorate the place with fresh flowers, only for them to die before the task is complete.
-1. To be captured by an impossibly good person.
-1. Transition through all the colors.
-1. Clean the area completely.
-1. Freeze in time a person at its beauty peak.
-1. Sing a duet that matches its beauty.
+1. Just relax, take a hot bath, you know.
+1. Take control of a rare mineral only valuable in other planes.
+1. Capture slaves for the efreet.
+1. Party in this exotic locale.
+1. Collect gifts for the Shah.
+1. Prepare for the invasion.
 
 </details>
 
 <details markdown="1">
-<summary>Salvaging the Body</summary>
+<summary>Binding the Elemental</summary>
   
-A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
+You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
-Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
+1. ... your blood burns whent in contact with air. You take 1 extra damage from attacks.
+1. ... your eyes become like obsidian. Fire hypnotises you.
+1. ... you are always hot and sweating. You need an extra ration of water per day.
+1. ... our hands are scalding hot.
+1. ... magma is like water to you.
+1. ... the spell word *flammable*. 
 
-<span class="alchemy">**Adarna Guano.** Petrifies a sleeping creature upon contact with their bare skin.</span>
+If you roll a catastrophe, the elemental is released.
 
 </details>
 
 <details markdown="1">
-<summary>D6 Symbolism</summary>
+<summary>Conjuring the Elemental</summary>
 
-In local cultures the adarna bird is a symbol of ...
+If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 2 Spell Dices:
 
-1. Beauty
-1. Moral Worth
-1. Goodness
-1. Superficiality
-1. Perfection
-1. Sacred 
+**Conjure Salamander** <br>
+R: 30' 
 
-</details>
-
-<br>
-
-<details markdown="1">
-<summary>DM Notes</summary>
-  
-*The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo*
-
+The spell is identical to the normal conjure spell, except that you can add treasures as offerings to the Shah to improve the spell. Each treasure either adds 2 salamanders or increase the duration by 24 hours. If you bring the salamander to their death (in an suicidal fight for example), the Shah will be offended and never trade with you again.
 </details>
