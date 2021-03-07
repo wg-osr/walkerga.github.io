@@ -19,13 +19,14 @@ Fiery lizard people. A fire elemental.
 - resists damage, immune to fire
 - recover 2 HP per round when in flames
 - loses 1 HP per round when out of flames
+- contact with it causes 1 fire damage/round
+- has the same properties as fire
 
-**Special Abilities:**
+**Attacks (1/round):**
 
+<ins>Skewer</ins>. The salamander makes a melee attack with reach (1D6 +1 fire damage).
 
-**Attacks:** Each round, the adarna bird can perform one of these actions:
-
-<ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1D4+1 minutes), after which, the adarna bird changes color and all must make a new intelligence check to see it.
+<ins>Scalding Tongue</ins>. The salamander makes a grappling attack with reach, burning its target (1D4) and dragging it to itself.
 
 <br>
 
