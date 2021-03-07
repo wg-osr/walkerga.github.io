@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster element faction
+tags: monster elemental faction
 permalink: /monsters/salamander
 title: Salamander
 ---
