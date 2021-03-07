@@ -22,4 +22,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Centi., Draco Blue](/monsters/centipede-dracopede-blue)</span> <span class="e"> Frozen ...</span> <span class="d">Extreme cold.</span> 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Burning ...</span> <span class="d">Extreme heat.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e"> ... sealing an Old One.</span> <span class="d">Mind control whispers.</span> 
+1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> ... furnace.</span> <span class="d">Black smoke.</span> 
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> Fountain of the ...</span> <span class="d">Water of amnesia.</span> 
