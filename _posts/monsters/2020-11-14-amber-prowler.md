@@ -15,8 +15,6 @@ Imagine a stylized lion or tiger sculpted out of amber. Its semi translucent bod
 **Movement:** fast <br>
 **Morale:** brave <br>
 
-**Spellcasting:** *Locate Creature*
-
 As a construct, the Amber Prowler can be considered an object. It is *immune to fatigue, fear, poison and diseases*. However, anti-magic zones and *dispel effects paralyze it*. Additionally, the Amber Prowler is *resistant to fire and magic* and, since it is designed like a big cat, it can easily *jump 30'* and *climb* most surfaces.
 
 When it dies, it crumbles and leaves behind 1D6 [valuable](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) chunks of amber.
