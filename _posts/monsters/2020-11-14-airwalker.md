@@ -5,22 +5,19 @@ permalink: /monsters/airwalker
 title: Airwalker
 ---
 
-*Elemental guide to the plane of air. Elemental.*
-
-<span class="alchemy"> *I think the airwalker is an orginal creation of  [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo* </span>
+Elemental guide to the plane of air. An air elemental.
 
 Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls.
 
-**HD:** 1  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 6 / 8 / 6 / 6 / 7 / 6 <br>
-**Immunities:** electricity<br>
-**Resistances:** damage <br>
-**Armor:** none <br>
-**Damage:** 1D4 <br>
-**Movement:** fly fast &nbsp; &nbsp; **Morale:** coward <br>
+**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
+**Size:** small <br>
+**Stats:** agile and wise <br>
+**Movement:** fly fast <br>
+**Morale:** coward <br>
 
-The airwalker takes 1D4 damage on each of its turns if it is prone or cant move.
+As elemental air, the airwalker *resists all damage* and is *immune to electricity*. It *recovers 1 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
 
-**Attacks:** Each round, the airwalker can perform one of these actions:
+**Attacks (1/round)**
 
 <ins>Plane Shift</ins>. The airwalker and every creature touching it or a creature touching it are transported to the plane of air.
 
@@ -34,7 +31,10 @@ The airwalker takes 1D4 damage on each of its turns if it is prone or cant move.
 
 ---
 
-## Random Encounter
+<br> 
+
+<details markdown="1">
+<summary>Random Encounter</summary>
 
 1. **Monster:** 1D6 airwalkers & 25% 1 traveling humanoid.
 1. **Lair:** A giants floating pole with 1D12 swirling wind-chimes pointing at ever-shifting planar locations. <br>	&nbsp; OR <br>	**Omen:** The sound of a portal opening and a gust of wind.
@@ -42,12 +42,10 @@ The airwalker takes 1D4 damage on each of its turns if it is prone or cant move.
 1. **Tracks:**  Eerie yet joyful wind chime noises.
 1. **Trace:** [rumor] People in the area seem to routinely get things from the plane of air.
 1. **Trace:** A *monk*, training to become one with the winds.
+</details>
 
-<br>
-
----
-
-## What the Monster Wants
+<details markdown="1">
+<summary>D6 What the Monster Wants</summary>
 
 1. Find a truly free soul and guide them to the endless skies of the plane of air.
 1. Perform the 5 acts of the deadly alizee sky waltz. They are missing a dancer.
@@ -55,12 +53,10 @@ The airwalker takes 1D4 damage on each of its turns if it is prone or cant move.
 1. To race with you. They might train you if you win (giving you the punch attack).
 1. Deliver safely an old monk somewhere close-by, they just happen to have teleported in the wrong location.
 1. Warn of a grave danger. They assume everybody can fly. 
+</details>
 
-<br>
-
----
-
-## Binding the Elemental
+<details markdown="1">
+<summary>Binding the Elemental</summary>
 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
@@ -72,8 +68,10 @@ You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one
 1. ... the spell word *Travel*. 
 
 If you roll a catastrophe, the elemental is released.
+</details>
 
-## Conjuring an Airwalker
+<details markdown="1">
+<summary>Conjuring the Elemental</summary>
 
 If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 1 Spell Dices:
 
@@ -81,3 +79,11 @@ If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/),
 R: self 
 
 When casting the spell the caster must join hands with up to [dice] people. The airwalker will then ask each participant why they seek access to the plane of air. If the motive is anything beyond personal freedom, the person must succeed a charisma check to successfully lie to the elemental. If everybody passes the check, the airwalker planeshifts the group to the location of their choice in the plane of air.
+</details>
+
+<br> 
+
+<details markdown="1">
+<summary>DM Notes</summary>
+I think the airwalker is an orginal creation of  [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo
+</details>
