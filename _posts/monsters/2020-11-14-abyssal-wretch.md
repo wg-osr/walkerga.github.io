@@ -5,23 +5,21 @@ permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
 
-*Terminally mutated humanoid. Aberration* 
-
-<span class="alchemy"> *Abyssal wretches from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf) bring to DnD the trope of the demon-infected mutant-zombies which have been popular in Sci-Fi video games since at least Doom. I wanted to make them different than undead zombies by giving them extreme regeneration. I added the hulk variant as an homage to my favourite spin on the mutant-zombie trope: Halo's [Flood Carrier](https://halo.fandom.com/wiki/Flood_Carrier_Form). — SaltyGoo* </span>
+Terminally mutated humanoid. An aberration.
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
 
-**HD:** 1  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 4 / 4 / 5 / 2 / 4 / 2   <br>
-**Resistances:** mind <br>
-**Armor:** none <br>
-**Damage:** 1D4 <br>
-**Movement:** slow &nbsp; &nbsp; **Morale:** mindless <br>
+**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
+**Size:** medium <br>
+**Stats:** meek <br>
+**Movement:** slow <br>
+**Morale:** mindless <br>
 
-**Aberration:** To kill an aberration, one must succeed on a save vs. fear. On a failure, it survives with 1 HP.
+As an aberration, the Abyssal Wretch *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to heal all its hit points at the beginning of its turn if its not dead.
 
-**New Limbs:** The abyssal wretch heals all its hit points at the beginning of its turn if its not dead.
+**Attacks (1/round)**
 
-**Attacks:** Each round, the abyssal wretch can make a claw (x) or a bite (x) attack.
+<ins>Bite and Claws.</ins> The wretch makes a melee attack (1D4).
 
 <br>
 
@@ -29,29 +27,30 @@ Imagine a humanoid so mutated and corrupted that it looks like its constantly me
 
 # Abyssal Hulk
 
-*Walking exploding tumor.*
+Walking exploding tumor
 
 Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly legs.
 
-**HD:** 1 +15  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 4 / 1 / 5 / 2 / 4 / 2   <br>
-**Resistances:** mind <br>
-**Armor:** none <br>
-**Damage:** 1D4 <br>
-**Movement:** slow &nbsp; &nbsp; **Morale:** mindless <br>
+**HD:** 1 +15HP  &nbsp;  **Armor:** none <br>
+**Size:** large>
+**Stats:** meek
+**Movement:** slow <br>
+**Morale:** mindless <br>
 
-**Aberration:** To kill an aberration, one must succeed on a save vs. fear. On a failure, it survives with 1 HP.
+As an aberration, the Abyssal Hulk *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to heal all its hit points at the beginning of its turn if its not dead.
 
-**Regrowing:** The abyssal hulk heals all its hit points at the beginning of its turn if its not dead.
+**Attacks (1/round)**
 
-**Attacks:** Each round, the abyssal hulk can make a the following attack:
-
-<ins>Explode</ins>: The hulk falls prone. At the beginning of its next turn, it dies, inflicting (10x) damage to all creatures and object nearby, or half to those who manage to dodge.
+<ins>Explode</ins>: The hulk falls prone. At the beginning of its next turn, it dies, inflicting (6D4) damage to all creatures and object nearby, or half to those who manage to dodge.
 
 <br>
 
 ---
 
-## Random Encounter
+<br> 
+
+<details markdown="1">
+<summary>Random Encounter</summary>
 
 1. **Monster:** 2D6 abyssal wretches & 0-1 hulk.
 1. **Lair:** A pentagram with flesh tumors surrounding it and incantation to summon a [sibriex](/monsters/sibriex). <br>	&nbsp; OR <br>	**Omen:** A pained shriek ending in a gargle and rattling noises, close-by.
@@ -59,12 +58,10 @@ Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly
 1. **Tracks:** Distant moans, shrieks and gargles.
 1. **Trace:** Writings from a person obsessed with a dark summoning.
 1. **Trace:** An aggressive, mutated vermin.
+</details>
 
-<br>
-
----
-
-## Mutation
+<details markdown="1">
+<summary>D6 Mutations</summary>
 
 Your studies of the aberration has changed you in horrible, gruesome ways: tumors constantly grow and fall off ...
 
@@ -74,8 +71,13 @@ Your studies of the aberration has changed you in horrible, gruesome ways: tumor
 1. ... your chest. Gain 1D4 temporary hit points every time you rest.
 1. ... your face and it blocks one of your eyes.
 1. Reroll. You know the [spell word](https://saltygoo.github.io/class/magic-user#spell-words) *Flesh* and gain one spell dice.
+</details>
 
----
+<br> 
 
-## Play as a [mutant](https://saltygoo.github.io/class/fighter/mutant) too! 
+**ay as a [mutant](https://saltygoo.github.io/class/fighter/mutant) too!**
 
+<details markdown="1">
+<summary>DM Notes</summary>
+Abyssal wretches from [Mordenkainen's Tome of Foes](https://5e.tools/book.html#mtf) bring to DnD the trope of the demon-infected mutant-zombies which have been popular in Sci-Fi video games since at least Doom. I wanted to make them different than undead zombies by giving them extreme regeneration. I added the hulk variant as an homage to my favourite spin on the mutant-zombie trope: Halo's [Flood Carrier](https://halo.fandom.com/wiki/Flood_Carrier_Form). — SaltyGoo
+</details>
