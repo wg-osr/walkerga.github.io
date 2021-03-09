@@ -17,14 +17,7 @@ When a magic user creates a spell that is too powerful, a blue abishai comes dow
 **Movement:** average, fly fast <br>
 **Morale:** brave <br>
 
-**Celestial**
-- resists everything
-- is immune to curses
-
-**Special**
-- is immune to electricity
-- sees in the dark
-- telepathy
+As a celestial being, the Abishai *resists everything* and is *immune to curses*. Additionnally, the Blue Abishai is *immune to electricity*, can *see in the dark*, and communicates through *telepathy*.
 
 **Non-Combat Magic** <br>
 Evokation, Divination, Conjuration, Electromancy
