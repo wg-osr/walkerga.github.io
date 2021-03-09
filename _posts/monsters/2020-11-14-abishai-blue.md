@@ -20,6 +20,7 @@ When a magic user creates a spell that is too powerful, a blue abishai comes dow
 **Celestial**
 - resists everything
 - is immune to curses
+
 **Special**
 - immune to electricity
 - sees in the dark
