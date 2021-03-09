@@ -43,6 +43,8 @@ Evokation, Divination, Conjuration, Electromancy
 
 ---
 
+<br>
+
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1 blue abishai.
