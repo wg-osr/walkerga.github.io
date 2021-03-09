@@ -22,7 +22,7 @@ As elemental air, the aerial servant *resists all damage* and is *immune to elec
 
 As a gaseous creature, the aerial servant *cant be petrified or grappled* and can *fit into any hole*. Additionally, it always *knows the exact location of creatures* the true name it knows.
 
-**Attacks (2)**
+**Attacks (2/round)**
 
 <ins>Crush</ins>. The aerial servant makes a melee attack (1D8).
 
