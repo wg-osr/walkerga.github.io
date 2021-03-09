@@ -22,7 +22,7 @@ When a magic user creates a spell that is too powerful, a blue abishai comes dow
 - is immune to curses
 
 **Special**
-- immune to electricity
+- is immune to electricity
 - sees in the dark
 - telepathy
 
