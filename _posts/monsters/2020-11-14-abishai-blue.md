@@ -30,6 +30,7 @@ When a magic user creates a spell that is too powerful, a blue abishai comes dow
 Evokation, Divination, Conjuration, Electromancy
 
 **Attacks (1/round)**
+
 <ins>Bite.</ins> The abishai makes one melee attack (1D6) which inflicts additional lightning damage (1D6).
 
 <ins>Platinum Kris.</ins> The abishai makes one melee attack (1D6) and casts a spell.
