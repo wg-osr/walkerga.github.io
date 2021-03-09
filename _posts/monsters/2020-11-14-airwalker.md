@@ -21,7 +21,7 @@ As elemental air, the airwalker *resists all damage* and is *immune to electrici
 
 <ins>Plane Shift</ins>. The airwalker and every creature touching it or a creature touching it are transported to the plane of air.
 
-<ins>Punch</ins>. The airwalker makes one melee attack (x). 
+<ins>Punch</ins>. The airwalker makes one melee attack (1D4). 
 
 <ins>Unshackle</ins>. The airwalker attempts to grapple an adjacent target. If it succeeds, the target is under the effect of levitate.
 
