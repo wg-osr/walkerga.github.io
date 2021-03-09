@@ -17,7 +17,7 @@ Imagine a floating hand made of smoke and wind. Its movement are precise yet for
 
 As elemental air, the aerial servant *resists all damage* and is *immune to electricity*. It *recovers 4 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
 
-As a gaseous creature, the aerial servant *cant be petrified or grappled* and can *fit into any hole*. Additionally, it always *knows the exact location of creatures* the true name it knows.
+As a gaseous creature, the aerial servant *cant be petrified or grappled* and can *fit into any hole*. Additionally, it always *knows the exact location of creatures* it knows the true name of.
 
 **Attacks (2/round)**
 
