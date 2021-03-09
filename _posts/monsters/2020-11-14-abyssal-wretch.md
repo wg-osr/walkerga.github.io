@@ -32,8 +32,8 @@ Walking exploding tumor
 Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly legs.
 
 **HD:** 1 +15HP  &nbsp;  **Armor:** none <br>
-**Size:** large>
-**Stats:** meek
+**Size:** large <br>
+**Stats:** meek <br>
 **Movement:** slow <br>
 **Morale:** mindless <br>
 
