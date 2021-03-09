@@ -15,7 +15,7 @@ Imagine a humanoid so mutated and corrupted that it looks like its constantly me
 **Movement:** slow <br>
 **Morale:** mindless <br>
 
-As an aberration, the Abyssal Wretch *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to heal all its hit points at the beginning of its turn if its not dead.
+As an aberration, the Abyssal Wretch *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if its not dead.
 
 **Attacks (1/round)**
 
@@ -37,7 +37,7 @@ Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly
 **Movement:** slow <br>
 **Morale:** mindless <br>
 
-As an aberration, the Abyssal Hulk *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to heal all its hit points at the beginning of its turn if its not dead.
+As an aberration, the Abyssal Hulk *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if its not dead.
 
 **Attacks (1/round)**
 
