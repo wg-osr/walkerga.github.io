@@ -5,32 +5,35 @@ permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
 
-*Archmage-hunting greater devil. Divine*
-
-<span class="alchemy"> *I love devils, I'd even say they are my favourite type of monsters to run. I was always confused with how DnD cosmology had devils that plotted against the gods, good aligned celestials serving the gods and evil gods that were served by ... random evil monsters ? I prefer my gods to be assholes trying to maintain the status quo with arbitrary rules and devils to be the ones who punish those who disobey. Being creatures of order, each devil has a clear behaviour they punish. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf) — SaltyGoo* </span>
+Archmage-hunting greater devil. A celestial.
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
 
 When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods.
 
-**HD:** 6  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 7 / 8 / 11 / 11 / 9  <br>
-**Immunities:** curses, electricity <br>
-**Resistances:** all <br>
-**Armor:** as chain <br>
-**Damage:** 1D6 <br>
-**Movement:** average, fly fast &nbsp; &nbsp; **Morale:** brave <br>
+**HD:** 6  &nbsp; &nbsp;  **Armor:** as chain <br>
+**Size:** medium <br>
+**Stats:** elite,  <br>
+**Movement:** average, fly fast <br>
+**Morale:** brave <br>
 
-**Spellcasting:** *Teleport, Force Cage, Capture Spell, Chain Lightning, Disguise Self, Charm Person & Detect Magic.*
+**Celestial**
+- resists everything
+- is immune to curses
+**Special**
+- immune to electricity
+- sees in the dark
+- telepathy
 
-The blue abishai is a very powerful magic user and can be considered to know other spells for most occasions.
+**Non-Combat Magic** <br>
+Evokation, Divination, Conjuration, Electromancy
 
-The abishai can see in the dark and speak telepathically. Its weapon is made of [platinum](https://saltygoo.github.io/2020/11/10/extra-rules#rare-metals). 
+**Attacks (1/round)**
+<ins>Bite.</ins> The abishai makes one melee attack (1D6) which inflicts additional lightning damage (1D6).
 
-**Attacks:** Each round, the abishai can perform one of these actions:
+<ins>Platinum Kris.</ins> The abishai makes one melee attack (1D6) and casts a spell.
 
-<ins>Bite.</ins> The abishai makes one melee attack (x) which inflicts additional lightning damage (x).
-
-<ins>Kris.</ins> The abishai makes one melee attack (x) and casts a spell.
+<ins>Spellcasting (6).</ins> *Teleport, Force Cage, Capture Spell, Chain Lightning, Disguise Self, Charm Person & Detect Magic.*
 
 <ins>Summon Celestial</ins> (recharge 2/6). The abishai summons 1D4 HD of celestials, which appear in 1D4 turns.
 
@@ -38,21 +41,18 @@ The abishai can see in the dark and speak telepathically. Its weapon is made of 
 
 ---
 
-## Random Encounter
-
+<details markdown="1">
+<summary>Random Encounter</summary>
 1. **Monster:** 1 blue abishai.
 1. **Lair:** An arcane vault, sealed in lightning and containing a hoard of arcane lore. <br>	&nbsp; OR <br>	**Omen:** A tear in space crackles with electricity.
 1. **Spoor:** The content of a wizard’s study, scattered and crackling with lightning.
 1. **Tracks:** The air crackling with arcane energy.
 1. **Trace:**  [Rumor] A local wizard has disappeared, hit by lightning.
 1. **Trace:** A mysterious semi-hidden orb, inert. Actually scries the mind of magic users.
+</details>
 
-<br>
-
----
-
-## Celestial Pact
-
+<details markdown="1">
+<summary>Celestial Pact</summary>
 Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul. 
 
 **Reward:**
@@ -72,3 +72,13 @@ Evil celestials give the reward and the quest at the same time, then try to make
 1. You must kill the apprentice of an ancient dragon.
 1. You must enslave a wizard.
 1. You must steal a legendary artifact.
+</details>
+
+<br>
+
+<details markdown="1">
+<summary>DM Notes</summary>
+I love devils, I'd even say they are my favourite type of monsters to run. I was always confused with how DnD cosmology had devils that plotted against the gods, good aligned celestials serving the gods and evil gods that were served by ... random evil monsters ? I prefer my gods to be assholes trying to maintain the status quo with arbitrary rules and devils to be the ones who punish those who disobey. Being creatures of order, each devil has a clear behaviour they punish. Adapted from [Mordenkainen's Tome of Foe](https://5e.tools/book.html#mtf) — SaltyGoo
+</details>
+
+
