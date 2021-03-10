@@ -11,7 +11,7 @@ Imagine a floating hand made of smoke and wind. Its movement are precise yet for
 
 **HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** large <br>
-**Stats:** strong, agile, dumb and inpersonal <br>
+**Stats:** strong, agile, dumb and impersonal <br>
 **Movement:** fly fast <br>
 **Morale:** brave <br>
 
