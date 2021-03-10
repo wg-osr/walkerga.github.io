@@ -44,7 +44,8 @@ The Boltforager can smell rotting corpses from a mile away.
 <details markdown="1">
 <summary>Salvaging the body</summary>
 
-The boltforager's beak and bony ridge make a solid, easy to carve material. The dust covering it is full of worm eggs and can be of interest to those interested in biological warfare. Its meat is edible, but must be thoroughly cleansed of the parasites. </details>
+The boltforager's beak and bony ridge make a solid, easy to carve material. The dust covering it is full of worm eggs and can be of interest to those interested in biological warfare. Its meat is edible, but must be thoroughly cleansed of the parasites.
+</details>
 
 <details markdown="1">
 <summary>D6 Symbolism</summary>
