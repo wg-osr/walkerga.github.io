@@ -27,3 +27,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Verdant ...</span>  <span class="c">pastures.</span> <span class="d">Dying horse.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
