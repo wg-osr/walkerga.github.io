@@ -39,7 +39,7 @@ Fiery lizard people. A fire elemental.
 
 1. **Monster:** 1D6 salamanders and ...
     1. nothing
-    2. 1 flame dancer (sorcerer)
+    2. 1 sorcerer
     3. 1 soldier
     4. 1 fire elemental
 1. **Lair:** A magma bathhouse with bubble art. <br>	&nbsp; OR <br>	**Omen:** The sound of wet steps and the smell of old cooking oil.
