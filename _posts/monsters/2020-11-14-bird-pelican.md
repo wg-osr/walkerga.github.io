@@ -11,7 +11,7 @@ title: Bird, Giant Pelican
 
 Imagine a cart-sized sea bird with a long pouch-beak.
 
-**HD:** 4  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 7 / 4 / 4 / 1 / 6 / 4 <br>
+**HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 7 / 4 / 4 / 1 / 6 / 4 <br>
 **Armor:** none <br>
 **Damage:** 1D4 <br>
 **Movement:** average, fly fast &nbsp; &nbsp; **Morale:** coward <br>
