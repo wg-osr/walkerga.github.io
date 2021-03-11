@@ -18,6 +18,7 @@ permalink: /classes/
   - The [Centaur](/class/fighter/centaur)
   - The [Cyclopskin](/class/fighter/cyclopskin)
   - The [Mutant](/class/fighter/mutant)
+  - The [Ogre](/class/fighter/ogre)
   - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
 - Magic Users
   - The [Elf](/class/magic-user/elf)
