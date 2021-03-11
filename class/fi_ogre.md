@@ -32,4 +32,4 @@ You can replace your melee damage rolls with the number of skill slots you have 
 Once per encounter, you can give a one-word command to a creature that is smaller than you. The creature can choose to fall prone instead of obeying the order.
 
 ## Strength of Food
-You take half damage from the last thing you ate and you have advantage on your rolls to destroy it if it was an object.
+You take half damage from the last thing you ate and you have advantage on your rolls to destroy it if it was an object. If it was a magic item, you gain its powers.
