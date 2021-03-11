@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ogre
-permalink: /class/fighter/Ogre
+permalink: /class/fighter/ogre
 ---
 
 <span class="alchemy"> *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big bully. — SaltyGoo* </span>
