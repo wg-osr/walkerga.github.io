@@ -17,7 +17,7 @@ For every Ogre template you have, you get more fat (it takes one inventory slot)
 **A:** Bulk, Ogremouth<br>
 **B:** Smash<br>
 **C:** Bully<br>
-**D:** Font of Shine, Spitfire<br>
+**D:** Food = Strength<br>
 
 ## Bulk
 For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each Treasure spent carousing can give you more fat if you want.
