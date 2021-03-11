@@ -17,7 +17,7 @@ For every Cyclopskin template you have, increase your HP by 1.
 **A:** One-Eyed, Boulder Throw<br>
 **B:** Blind Fury<br>
 **C:** Glaring Weakness<br>
-**D:** Hooves II<br>
+**D:** Evil Eye<br>
 
 ## One-Eyed
 You have disadvantage on attacks against faraway targets. (Targets you can't reach in melee this turn)
