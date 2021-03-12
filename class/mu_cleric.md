@@ -15,7 +15,7 @@ A holy book. Ink & quill. Censer.
 The spells listed in each of your religion's Domains.
 
 <ins>Perk</ins><br>
-Each Domain has a list of Commandments. As long as you follow these Commandments, you dont need SD to cast a spell. Instead, for each Commandment you follow while casting, add 1 SD to the spell, up to your number of Magic User templates.
+Each Domain has 2 Commandments. For each Commandment you follow while casting a spell, you can add or substract 1 to your dice roll.
 
 <ins>Drawback</ins><br>
 Each Domain has a Sin. If you commit it, gain 1 Doom Point and you cant cast spells for as many hours as you have Doom Points.
