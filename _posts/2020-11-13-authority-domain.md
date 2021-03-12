@@ -13,7 +13,6 @@ title: Authority Domain
 <ins>Commandments</ins>
 - Punish sinners and criminals. 
 - Convert nonbelievers.
-- Spread the rule of law.
 
 <ins>Sin</ins>
 - Break the law.
