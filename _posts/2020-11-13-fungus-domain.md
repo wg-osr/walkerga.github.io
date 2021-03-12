@@ -11,8 +11,7 @@ title: Fungus Domain
 1. [Potpourri](/2020/11/13/potpourri/)
 
 <ins>Commandments</ins>
-- Consume what has served its purpose.
-- Recycle what is discarded.
+- Recycle what has served its purpose.
 - Spread fungi everywhere.
 
 <ins>Sin</ins>
