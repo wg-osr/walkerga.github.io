@@ -13,7 +13,6 @@ title: Powers from Beyond Domain
 <ins>Commandments</ins>
 - Evolve beyond what nature intended.
 - Life is nothing, act on a cosmic scale. 
-- Summon aberrant forces to the world.
 
 <ins>Sin</ins>
 - Communicate your intent.
