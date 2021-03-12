@@ -15,7 +15,6 @@ All iterations of [animal] should be replaced by a specific [animal](https://www
 <ins>Commandments</ins>
 - Act as your animal does in its ecosystem.
 - Protect your animal and its environment.
-- Promote the societal virtues your animal embodies.
 
 <ins>Sin</ins>
 - Kill your animal or destroy its environment.
