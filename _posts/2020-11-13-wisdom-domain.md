@@ -13,7 +13,6 @@ title: Wisdom Domain
 <ins>Commandments</ins>
 - Gain multiple sources of information before making a decision.
 - Quench passion in yourself and others.
-- Achieve consensus.
 
 <ins>Sin</ins>
 - Misguide.
