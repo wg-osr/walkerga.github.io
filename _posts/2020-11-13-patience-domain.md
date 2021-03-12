@@ -12,7 +12,6 @@ title: Patience Domain
 
 <ins>Commandments</ins>
 - Plan at least one game session or in game day before acting.
-- Reward the one who acts last
 - Punish the one who acts first
 
 <ins>Sin</ins>
