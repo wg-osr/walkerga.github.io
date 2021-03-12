@@ -11,7 +11,6 @@ title: Community Domain
 1. [Salvation](/2020/11/13/salvation/)
 
 <ins>Commandments</ins>
-- For the greater good.
 - End conflicts within groups.
 - Grow your group.
 
