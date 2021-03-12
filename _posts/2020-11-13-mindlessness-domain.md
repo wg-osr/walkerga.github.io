@@ -13,7 +13,6 @@ title: Mindlessness Domain
 <ins>Commandments</ins>
 - Do what you’ve already done.
 - Ignore context. 
-- Take things at face value.
 
 <ins>Sin</ins>
 - Question truth.
