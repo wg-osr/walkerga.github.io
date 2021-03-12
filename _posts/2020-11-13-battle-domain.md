@@ -13,7 +13,6 @@ title: Battle Domain
 <ins>Commandments</ins>
 - Openly confront your enemies
 - Fight against the odds
-- Fight in a war
 
 <ins>Sin</ins>
 - Run away.
