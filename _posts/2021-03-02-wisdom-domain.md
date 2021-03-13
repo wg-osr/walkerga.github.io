@@ -4,6 +4,9 @@ tags: domain
 title: Wisdom Domain
 ---
 
+<ins>Starting Item</ins>
+A book full of wise sayings
+
 <ins>Spell List</ins>
 1. [Astral Projection](/2020/11/13/astral-projection/)
 1. [Doom Foretold](/2020/11/13/doom-foretold/)
