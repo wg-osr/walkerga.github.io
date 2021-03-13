@@ -7,40 +7,32 @@ permalink: /class/fighter
 ###### Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pionneers's [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)
 
 <ins>Starting Equipment</ins><br>
-1 weapon of your choice (and ammunition), brigandine, chain mail. 
+Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
 
 <ins>Starting Skills (+5)</ins><br>
-Your starting weapon.
+Your choice of Imperial Infantry, Imperial Navy, Celebrity Bodyguard, or Caravan Life.
 
 For every Fighter template you have, increase your HP by 1.
 
-**A:** Notches, Parry <br>
-**B:** Cleave, Tricky <br>
-**C:** Outlast, Sentinel <br>
+**A:** Weapon Training, Parry <br>
+**B:** Tricky <br>
+**C:** Outlast <br>
 **D:** Double Attack <br>
 
-## Notches
-Each time you kill a creature, roll a D20 under your total number of kills with that weapon type. If you succeed, you unlock a new ability for that weapon, chosen from the list below, to a maximum of 4. Keep track of your kill totals and special abilities.
-
-- +1 Damage<br>
-- +1 Critical Range<br>
-- Passive Weapon Ability<br>
-- Special Attack<br>
+## Weapon Training
+Your weapons have different effects depending on the type of damage you would inflict with them:
+- <ins>Blunt:</ins> You can reduce your damage dice by 1 size (1D8>1D6>1D4 etc) and attempt to shove as part of your attack.
+- <ins>Piercing:</ins> A prone or suprised target takes double damage.
+- <ins>Slashing:</ins> When you roll max damage, you can make another attack.
 
 ## Parry
-You can choose to sacrifice a held weapon or a worn piece of armor to reduce incoming damage by 1D6. You can choose to sacrifice a held shield to reduce damage by 1D12. You can use this ability once per combat.
-
-## Cleave
-When you kill a creature or roll max damage, you can make another attack.
+You can choose to sacrifice a held weapon or a worn piece of armor to reduce incoming damage by 1D6. If the piece of armor was a shield, reduce damage by 1D12 instead. You can use this ability once per encounter.
 
 ## Tricky
 Whenever you roll a natural 19 or 20 on an attack roll, you can attempt a combat maneuvre on top of the damage.
 
 ## Outlast
-You can spread the damage you take between your HP, Strength, Dexterity and Constitution as you see fit. 
-
-## Sentinel
-Once per round, you can make an attack against a creature leaving your melee range.
+Instead of taking a Wound, you can take 1 DEX damage.
 
 ## Double Attack
 You can attack twice in each round.
