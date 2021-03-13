@@ -11,6 +11,9 @@ The Diabolist is a type of [Magic User](/class/magic-user)
 <ins>Starting Equipment</ins><br>
 A black goat. A forked dagger. A capirote. A spell book, a quill, but no ink.
 
+<ins>Starting Skills</ins><br>
+Your choice of Secret Cultist, Lazy Student, or Corrupted Courtesan.
+
 <ins>Spell List</ins><br>
 Any from the [diabolism](/spells#diabolism) school.
 
