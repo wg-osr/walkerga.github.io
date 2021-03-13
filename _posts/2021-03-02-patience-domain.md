@@ -4,7 +4,7 @@ tags: domain
 title: Patience Domain
 ---
 
-<ins>Starting Item</ins>
+<ins>Starting Item</ins> <br>
 A folding stool.
 
 <ins>Spell List</ins>
