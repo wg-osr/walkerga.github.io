@@ -11,7 +11,7 @@ The [Fighter](/class/fighter)
   - The [Cyclops](/class/fighter/cyclopskin)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
-  - The [Oiled-Up Muscle Giant](/class/fighter/cacus)
+  - The [Cacus/Bodybuilder](/class/fighter/cacus)
 </details>
 - The [Magic User](/class/magic-user)
   - [Wizard](/class/magic-user/wizard)
