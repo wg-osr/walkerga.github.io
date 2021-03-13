@@ -9,7 +9,7 @@ permalink: /class/magic-user/necromancer
 The Necromancer is a type of [Magic User](/class/magic-user)
 
 <ins>Starting Equipment</ins><br>
-A Black Spellbook, Ink and Quill, Shovel, Forbidden Ingredients.
+A Black Spellbook, Ink and Quill, Shovel.
 
 <ins>Starting Skills</ins><br>
 Your choice of Spiritualism, Archaeology, or Medicine.
@@ -21,7 +21,7 @@ Any from the [necromancy](/spells#necromancy) school.
 You can cause dying creatures you touch to reroll any death rolls they attempt. If a creature rolls a 20 because of that, it permanently loses 1 HP.
 
 <ins>Drawback</ins><br>
-You require a forbidden ritual ingredient to cast your spells. If you are discovered, you will be executed.
+If you are discovered by religious authority, you will be executed. You cannot benefit from cleric spells.
 
 <ins>Cantrips</ins>
 - You can interrogate the spirit of a creature who died after the last dawn. It will answer 3 different questions, only one answer will make sense.
