@@ -12,7 +12,7 @@ To take dwarf templates, you must be a dwarf.
 leather armor, axe, rough iron shield. 
 
 <ins>Starting Skills (+5)</ins><br>
-Your starting weapon, your trade (roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)).
+Axes, and your trade (roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)).
 
 For every Dwarf template you have, increase the number of [armor pieces](/2020/11/09/base-rules#equipment) you can wear by 1.
 
