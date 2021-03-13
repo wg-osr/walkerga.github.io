@@ -4,6 +4,9 @@ tags: domain
 title: Patience Domain
 ---
 
+<ins>Starting Item</ins>
+A folding stool.
+
 <ins>Spell List</ins>
 1. [Aura of Renewal](/2020/11/13/aura-of-renewal)
 1. [Delay](/2020/11/13/delay)
