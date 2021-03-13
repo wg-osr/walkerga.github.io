@@ -11,6 +11,9 @@ The Wizard is a type of [Magic User](/class/magic-user)
 <ins>Starting Equipment</ins><br>
 Strange hat, spell book, ink & quill.
 
+<ins>Starting Skills</ins><br>
+Your choice of State Academy, Forbidden Studies, Charlatan or Alchemy.
+
 <ins>Spell List</ins><br>
 You learn any spell from any schools:
 1. [Animorphosis](/spells#animorphosis)
