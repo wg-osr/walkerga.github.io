@@ -10,7 +10,7 @@ The Tiefling is a type of [Magic User](/class/magic-user).
 Edgy black leather Armor, Trident, Spell Book, Blood Quill.
 
 <ins>Starting Skills</ins><br>
-Your choice of Child of the Devil, Resourcefull Urchin, Dark Commander.
+Your choice of Child of the Devil, Resourcefull Urchin, or Dark Commander.
 
 <ins>Spell List</ins><br>
 Roll on this list when you level up:
