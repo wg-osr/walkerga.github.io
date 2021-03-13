@@ -9,7 +9,10 @@ permalink: /class/magic-user/elf
 The Elf is a type of [Magic User](/class/magic-user). To take elf templates, you must be an elf.
 
 <ins>Starting Equipment</ins><br>
-A bow and 12 arrows. A piece of jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html).
+A Bow and 12 Arrows, a Piece of Jewelry Doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), a Butterfly Pet.
+
+<ins>Starting Skills</ins><br>
+Archery, and your choice of Fairy Politics, Magical Gardenning or The-Time-Before-Humans.
 
 <ins>Spell List</ins><br>
 Roll on this list when you level up:
