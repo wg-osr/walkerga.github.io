@@ -9,7 +9,10 @@ permalink: /class/magic-user/cleric
 The Cleric is a type of [Magic User](/class/magic-user). The religion you follow is represented by 3 [Domains](#domains) over which it claims dominion.
 
 <ins>Starting Equipment</ins><br>
-A holy book. Ink & quill. Censer.
+Depends on the domains.
+
+<ins>Starting Skills</ins><br>
+Your choice of Scribe, Inquisitor or Preacher, and your choice of one of your god's domains.
 
 <ins>Spell List</ins><br>
 The spells listed in each of your religion's Domains.
