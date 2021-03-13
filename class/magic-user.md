@@ -10,7 +10,7 @@ permalink: /class/magic-user
 Depends on your magic school.
 
 <ins>Starting Skills (+5)</ins><br>
-Magic. Your starting weapon (if any).
+Depends on your magic school.
 
 For every Magic User template you have, you gain one extra Spell Dice.
 
@@ -23,7 +23,7 @@ For every Magic User template you have, you gain one extra Spell Dice.
 By licking an object, you can tell whether or not it is magical.
 
 ## School
-[Wizard](/class/magic-user/wizard), [Cleric](/class/magic-user/cleric), [Diabolist](/class/magic-user/diabolist), [Elf](/class/magic-user/elf),  [Necromancer](/class/magic-user/necromancer), 
+[Wizard](/class/magic-user/wizard), [Cleric](/class/magic-user/cleric), [Diabolist](/class/magic-user/diabolist), [Elf](/class/magic-user/elf),  [Necromancer](/class/magic-user/necromancer), [Tiefling](/class/magic-user/tiefling).
 
 <ins>Spell List</ins><br>
 Every School has a list of spells associated with it. You roll randomly in it each time you take a Magic User template. You must quest to gain other spells.
@@ -57,7 +57,7 @@ You may call to a familiar, a magical spirit. The familiar will appear in 1D20 h
 
 Once a familiar has agreed to work with you, it can be summoned to your side. But familiars are fickle. Whenever you attempt to summon your familiar, make a charisma check. Success means that the familiar arrives immediately. Otherwise it arrives in 1D20 hours. If you have annoyed your familiar, you automatically fail this test, while familiars that are extremely pleased will always arrive promptly. 
 
-Familiars can provide a service once per day. For each service, you owe the familiar one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you. You are not required to call a familiar.
+Familiars can *provide a service once per day*. For each service, you owe the familiar one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you. You are not required to call a familiar.
 
 <ins>Familiar Services</ins><br>
 - Detect Magic (for free, ask nicely).
@@ -91,9 +91,9 @@ Note that you can make a new spell with the same word: *Bloodlust* could become 
 ---
 
 <br>
-*Referee Zone - Not for player*
 
-# Familiars
+<details markdown="1">
+<summary>DM Notes</summary> 
 
 Familiars usually want to ally themselves with promising young savants with a bright destiny. They want power, indirectly. After bargaining, the hopeful spellcaster makes a intelligence check with the following modifiers.
 
@@ -128,3 +128,4 @@ Familiars usually want to ally themselves with promising young savants with a br
 1. Can make a virgin fall in love with you
 1. Can fetch a named item that has been forgotten by all
 1. No special power, but it will pretend that it has one
+</details>
