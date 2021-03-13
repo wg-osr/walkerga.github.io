@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 
-- The [Fighter](/class/fighter)
+The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
   - The [Centaur/Horse](/class/fighter/centaur)
