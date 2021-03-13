@@ -4,7 +4,7 @@ tags: domain
 title: Wisdom Domain
 ---
 
-<ins>Starting Item</ins>
+<ins>Starting Item</ins> <br>
 A book full of wise sayings
 
 <ins>Spell List</ins>
