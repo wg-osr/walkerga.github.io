@@ -4,6 +4,9 @@ tags: domain
 title: Fungus Domain
 ---
 
+<ins>Starting Item</ins> <br>
+6 dried fungi.
+
 <ins>Spell List</ins>
 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/)
 1. [Fey Ring](/2020/11/13/fey-ring/)
