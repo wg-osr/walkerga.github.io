@@ -4,6 +4,9 @@ tags: domain
 title: Mindlessness Domain
 ---
 
+<ins>Starting Item</ins> <br>
+A hammer.
+
 <ins>Spell List</ins>
 1. [Pinky Knot](/2020/11/13/pinky-knot/)
 1. [Poppy's Milk](/2020/11/13/poppys-milk/)
