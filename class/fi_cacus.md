@@ -10,10 +10,10 @@ permalink: /class/fighter/cacus
 </details>
 
 <ins>Starting Equipment</ins><br>
-Shepherd staff, loincloth, sheep.
+Shepherd staff, Loincloth, Sheep.
 
 <ins>Starting Skills (+5)</ins><br>
-Wrestling, and your choice of Herding, Mythology and Modeling
+Wrestling, and your choice of Herding, Mythology or Modeling
 
 For every Oiled-up Muscle Giant template you have, increase your wrestling skill by 1.
 
