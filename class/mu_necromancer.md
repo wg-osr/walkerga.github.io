@@ -9,7 +9,10 @@ permalink: /class/magic-user/necromancer
 The Necromancer is a type of [Magic User](/class/magic-user)
 
 <ins>Starting Equipment</ins><br>
-A black spellbook, ink and quill, shovel, forbidden ingredients.
+A Black Spellbook, Ink and Quill, Shovel, Forbidden Ingredients.
+
+<ins>Starting Skills</ins><br>
+Your choice of Spiritualism, Archaeology, or Medicine.
 
 <ins>Spell List</ins><br>
 Any from the [necromancy](/spells#necromancy) school.
