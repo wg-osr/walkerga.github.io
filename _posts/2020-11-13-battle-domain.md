@@ -4,6 +4,9 @@ tags: domain
 title: Battle Domain
 ---
 
+<ins>Starting Item</ins> <br>
+A weapon of your choice.
+
 <ins>Spell List</ins>
 1. [Bloodlust](/2020/11/13/bloodlust)
 1. [Blood Scabbard](/2020/11/13/blood-scabbard)
