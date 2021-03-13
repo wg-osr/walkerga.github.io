@@ -4,6 +4,9 @@ tags: domain
 title: Authority Domain
 ---
 
+<ins>Starting Item</ins> <br>
+The Book of God.
+
 <ins>Spell List</ins>
 1. [Call for Judgement](/2020/11/12/call-for-judgement)
 1. [Command](/2020/11/13/command)
