@@ -4,7 +4,10 @@ title: Ogre
 permalink: /class/fighter/ogre
 ---
 
-<span class="alchemy"> *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. — SaltyGoo* </span>
+<details markdown="1">
+<summary>Design Notes</summary> 
+*This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. — SaltyGoo*
+</details>
 
 <ins>Starting Equipment</ins><br>
 A Club, 2 Rations and a Big Pot.
