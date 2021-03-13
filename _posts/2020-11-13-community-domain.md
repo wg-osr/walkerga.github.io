@@ -4,6 +4,9 @@ tags: domain
 title: Community Domain
 ---
 
+<ins>Starting Item</ins> <br>
+A bottle of wine.
+
 <ins>Spell List</ins>
 1. [Circle of Protection](/2020/11/12/circle-of-protection/)
 1. [Last Oath](/2020/11/13/last-oath/)
