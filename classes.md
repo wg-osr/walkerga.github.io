@@ -5,6 +5,14 @@ permalink: /classes/
 ---
 
 - The [Fighter](/class/fighter)
+- <details markdown="1">
+-  <summary>Fighter-Type Classes</summary>
+  - The [Centaur](/class/fighter/centaur)
+  - The [Cyclopskin](/class/fighter/cyclopskin)
+  - The [Mutant](/class/fighter/mutant)
+  - The [Ogre](/class/fighter/ogre)
+  - The [Oiled-Up Muscle Giant](/class/fighter/cacus)
+</details>
 - The [Magic User](/class/magic-user)
   - [Wizard](/class/magic-user/wizard)
   - [Cleric](/class/magic-user/cleric)
@@ -15,11 +23,7 @@ permalink: /classes/
 ### Monster Classes
 
 - Fighters-types
-  - The [Centaur](/class/fighter/centaur)
-  - The [Cyclopskin](/class/fighter/cyclopskin)
-  - The [Mutant](/class/fighter/mutant)
-  - The [Ogre](/class/fighter/ogre)
-  - The [Oiled-Up Muscle Giant](/class/fighter/cacus) (monster class for the Cacus)
+
 - Magic Users
   - The [Elf](/class/magic-user/elf)
   - The [Tiefling](/class/magic-user/tiefling)
