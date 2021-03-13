@@ -6,7 +6,7 @@ title: Animal Domain
 
 All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) species when the domain is chosen.
 
-<ins>Starting Item</ins>
+<ins>Starting Item</ins> <br>
 A mask of your animal.
 
 <ins>Spell List</ins>
