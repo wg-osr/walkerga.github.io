@@ -13,6 +13,7 @@ The [Fighter](/class/fighter)
   - The [Ogre](/class/fighter/ogre)
   - The [Cacus/Bodybuilder](/class/fighter/cacus)
 </details>
+
 The [Magic User](/class/magic-user)
 <details markdown="1">
   <summary>Magic User Subclasses</summary>
@@ -25,6 +26,7 @@ The [Magic User](/class/magic-user)
   - The [Elf](/class/magic-user/elf)
   - The [Tiefling](/class/magic-user/tiefling)
 </details>
+
 The [Specialist](/class/specialist)
 <details markdown="1">
   <summary>Specialist-Type Classes</summary>
