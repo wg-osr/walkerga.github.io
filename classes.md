@@ -13,20 +13,23 @@ The [Fighter](/class/fighter)
   - The [Ogre](/class/fighter/ogre)
   - The [Cacus/Bodybuilder](/class/fighter/cacus)
 </details>
-- The [Magic User](/class/magic-user)
+The [Magic User](/class/magic-user)
+<details markdown="1">
+  <summary>Magic User Subclasses</summary>
   - [Wizard](/class/magic-user/wizard)
   - [Cleric](/class/magic-user/cleric)
   - [Diabolist](/class/magic-user/diabolist)
   - [Necromancer](/class/magic-user/necromancer)
-- The [Specialist](/class/specialist)
+  - The [Elf](/class/magic-user/elf)
+  - The [Tiefling](/class/magic-user/tiefling)
+ The [Specialist](/class/specialist)
 
 ### Monster Classes
 
 - Fighters-types
 
 - Magic Users
-  - The [Elf](/class/magic-user/elf)
-  - The [Tiefling](/class/magic-user/tiefling)
+
 - Specialists-types
   - The [Dwarf](/class/specialist/dwarf)
   - The [Goblins](/class/specialist/many-goblins)
