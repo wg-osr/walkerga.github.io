@@ -6,6 +6,9 @@ title: Animal Domain
 
 All iterations of [animal] should be replaced by a specific [animal](https://www.generatormix.com/random-animal-generator) species when the domain is chosen.
 
+<ins>Starting Item</ins>
+A mask of your animal.
+
 <ins>Spell List</ins>
 1. [Animorph](/2020/11/12/animorph)
 1. [Bestow [Animal] Aspect](/2020/11/12/bestow-aspect)
