@@ -16,22 +16,20 @@ The [Fighter](/class/fighter)
 The [Magic User](/class/magic-user)
 <details markdown="1">
   <summary>Magic User Subclasses</summary>
+  - **Spellcasting Classes**
   - [Wizard](/class/magic-user/wizard)
   - [Cleric](/class/magic-user/cleric)
   - [Diabolist](/class/magic-user/diabolist)
   - [Necromancer](/class/magic-user/necromancer)
+  - **Monster Classes**
   - The [Elf](/class/magic-user/elf)
   - The [Tiefling](/class/magic-user/tiefling)
- The [Specialist](/class/specialist)
-
-### Monster Classes
-
-- Fighters-types
-
-- Magic Users
-
-- Specialists-types
+</details>
+The [Specialist](/class/specialist)
+<details markdown="1">
+  <summary>Specialist-Type Classes</summary>
   - The [Dwarf](/class/specialist/dwarf)
   - The [Goblins](/class/specialist/many-goblins)
   - The [Pigfolk](/class/specialist/pigfolk)
-  - The [Three-Armed Giant Baby](/class/specialist/athach) (monster class for the Athach)
+  - The [Three-Armed Giant Baby](/class/specialist/athach)
+</details>
