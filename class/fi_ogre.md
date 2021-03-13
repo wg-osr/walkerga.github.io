@@ -4,29 +4,32 @@ title: Ogre
 permalink: /class/fighter/ogre
 ---
 
-<span class="alchemy"> *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big bully. — SaltyGoo* </span>
+<span class="alchemy"> *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. — SaltyGoo* </span>
 
 <ins>Starting Equipment</ins><br>
-Club, 1 ration.
+A Club, 2 Rations and a Big Pot.
 
 <ins>Starting Skills (+5)</ins><br>
-Smashing.
+Smashing and your choice of Food, Goblins or Bullying.
 
-For every Ogre template you have, you get more fat (it takes one skill slot), you grow 1’ .
+For every Ogre template you have, you get more fat (it takes one inventory slot), and you grow 1’ .
 
-**A:** Belly, Mouth<br>
+**A:** Big, Bulk, Belly<br>
 **B:** Smash<br>
 **C:** Bully<br>
 **D:** Strength of Food<br>
 
-## Belly
-For each skill slot you have taken by fat, increase your maximum HP by 2. When in town between adventures, each Treasure spent carousing can give you more fat if you want.
+## Big
+All objects of the same type in your inventory can be stacked in packs of three, even if they are not small (*three swords take 1 inventory slot*).
 
-## Mouth
+## Bulk
+For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, you can spend a Treasure carousing to gain more fat if you want.
+
+## Belly
 You can eat any object bigger than a chicken and softer than metal as a ration. If you dont eat the equivalent of two rations per day, you lose 1 layer of fat.
 
 ## Smash
-You can replace your melee damage rolls with the number of skill slots you have taken by fat.
+You can replace your melee damage rolls with the number of inventory slots you have taken by fat.
 
 ## Bully
 Once per encounter, you can give a one-word command to a creature that is smaller than you. The creature can choose to fall prone instead of obeying the order.
