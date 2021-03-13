@@ -5,9 +5,9 @@ permalink: /classes/
 ---
 
 - The [Fighter](/class/fighter)
-<details markdown="1">
--  <summary>Fighter-Type Classes</summary>
-  - The [Centaur](/class/fighter/centaur)
+  <details markdown="1">
+  <summary>Fighter-Type Classes</summary>
+  - The [Centaur/Horse](/class/fighter/centaur)
   - The [Cyclopskin](/class/fighter/cyclopskin)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
