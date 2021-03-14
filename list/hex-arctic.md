@@ -28,3 +28,4 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Cavernous ...</span>  <span class="c">tribelands.</span> <span class="d">Deafening thunder</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
+1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns ringing.</span>
