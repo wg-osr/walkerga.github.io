@@ -61,9 +61,9 @@ Vyderac Seekers detect heat, and are attracted to mammal body temperature.
 
 **Attacks (1/round)**
 
-<ins>Pheromone Spray.</ins> The Vyderac sprays a cone of fine yellow powder on one or two adjacent targets. If they fail to dodge, they are covered in Vyderac pheromones which cause urticaria.
+<ins>Pheromone Spray.</ins> The Vyderac sprays a cone of fine yellow powder on one or two adjacent targets. If they fail to dodge, they are covered in Vyderac pheromones which cause urticaria. 1D4 swarms of Vyderacs will arrive in 1D6 hours.
 
-<span class="alchemy"> **Vyderac Itch**. Poison. A creature with the itch must save each round until they succeed three times or are washed, during which time they cannot focus on any task that extends beyond 1 turn. If they fail three times, they have scratched themselves until they bled and the poison has entered their body. In 10 minutes, they will be completely paralyzed until they are cured.</span>
+<span class="alchemy"> **Vyderac Pheromones**. Contact poison. So itchy a sprayed target must save each round until they succeed three times or are washed, during which time they cannot focus on any task that extends beyond 1 turn. If they fail three times, they have scratched themselves until they bled and the poison has entered their body. In 10 minutes, they will be completely paralyzed until they are cured.</span>
 
 
 
