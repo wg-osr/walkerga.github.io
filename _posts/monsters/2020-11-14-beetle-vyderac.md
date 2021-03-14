@@ -51,13 +51,13 @@ In a swarm, Vyderacs are immune to being grappled or attacked by single target s
 
 Imagine a cat-sized deep red scarab with atrophied elytra and protruding, oversized abdomen and eyes. It zips quickly and loudly across the sky.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as leather <br>
+**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** small <br>
-**Stats:** agile, but weak in the rest <br>
+**Stats:** agile, but weak otherwise <br>
 **Movement:** slow, fly fast<br>
 **Morale:** coward <br>
 
-Vyderac Seekers detect heat, and recognize and are attracted to mammal body temperature.
+Vyderac Seekers detect heat, and are attracted to mammal body temperature.
 
 **Attacks (1/round)**
 
