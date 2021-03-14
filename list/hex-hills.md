@@ -33,5 +33,6 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Dark ...</span>  <span class="c">battle-site.</span> <span class="d">Thorny bushes.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
-1. 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Forlorn ...</span>  <span class="c">ruins.</span> <span class="d">No life grows.</span>
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Forlorn ...</span>  <span class="c">ruins.</span> <span class="d">No life grows.</span>
+1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns.</span>
 
