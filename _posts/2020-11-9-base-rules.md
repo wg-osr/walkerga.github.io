@@ -164,6 +164,6 @@ Choose a stat, increase it by 1 (up to 10).
 
 After level 4, you get 1 Mastery point instead of any template or bonus.
 
-<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an adjacent ally at 1:1.
+<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an adjacent ally at a rate of 1 point for 1 point.
 
 
