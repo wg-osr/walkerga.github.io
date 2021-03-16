@@ -43,7 +43,7 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 <ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can hav.
 
-<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#combat).
+<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#dying--healing).
 
 <ins>Movement</ins> might be for climbing, jumping, or rolled against a monster’s movement when trying to escape it. When trying to escape, failure means the battle has simply moved to another location.
 
@@ -69,7 +69,7 @@ When the referee tells you to roll one stat (Strength, when climbing a cliff for
 
 A referee should only call for a roll when both success and failure have interesting consequences. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
-A contested roll is when the referee rolls using the monster’s stats and you have to roll higher.
+A contested roll is when the referee rolls using the monster’s stats and you have to roll higher. As in the Movement example above.
 
 Rolling with advantage means you roll twice and choose the best. Disadvantage is the opposite.
 
@@ -99,7 +99,7 @@ When you are dying, you must roll Constitution on each of your turns.
 - On a success, nothing changes. 
 - On a roll of 20 or on result of 24 or higher, you stabilize and stop dying.
 
-Up to two allies can roll Intelligence to stabilize you. Expanding bandages gives a bonus of 2 on that roll. Stabilizing does not remove wounds.
+Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives a bonus of 2 on that roll. Stabilizing does not remove wounds.
 
 <ins>Healing:</ins> A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
 
