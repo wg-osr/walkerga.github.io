@@ -15,6 +15,7 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Bat, Ahool](/monsters/bat-ahool)</span> <span class="b">Gnarly...</span>  <span class="c">thicket.</span> <span class="d">Thick fog.</span>
 1. <span class="a">[Bat, Kongamato](/monsters/bat-kongamato)</span> <span class="b">Krusty...</span>  <span class="c">willows.</span> <span class="d">Eye Rot disease moss.</span>
 1. <span class="a">[Bat, Olitiau](/monsters/bat-olitiau)</span> <span class="b">Vine-strangled...</span>  <span class="c">sandbank.</span> <span class="d">Sticky willows.</span>
+1. <span class="a">[Beetle, Vyderac](/monsters/beetle-vyderac)</span> <span class="b">Blood-red...</span>  <span class="c">reed.</span> <span class="d">A vyderac seeker.</span>
 1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Bushy...</span>  <span class="c">trees.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Bird, Boltforager](/monsters/bird-boltforager)</span> <span class="b">Orange...</span>  <span class="c">underbush.</span> <span class="d">Rotting food.</span>
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
