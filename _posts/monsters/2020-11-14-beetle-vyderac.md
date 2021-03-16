@@ -99,7 +99,7 @@ Imagine a semi-transluscent, foot-long lumpy worm with sharp teeth all around it
 **Movement:** slow <br>
 **Morale:** mindless <br>
 
-Vyderac Maggots detect heat, and are attracted to mammal body temperature.
+Vyderac Maggots are immune to acid, detect heat, and are attracted to mammal body temperature.
 
 **Attacks (1/round)**
 
@@ -117,14 +117,13 @@ Vyderac Maggots detect heat, and are attracted to mammal body temperature.
 **Movement:** slow<br>
 **Morale:** mindless <br>
 
-Vyderac Maggots detect heat, and are attracted to mammal body temperature.
+Vyderac Maggots are immune to acid, detect heat, and are attracted to mammal body temperature.
 
 In a swarm, Vyderacs are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
 <ins>Acidic Bites.</ins> The Vyderac Swarm makes a melee attack with reach using its HP as its attack stat (1D4). The target can choose to lose a non-magical item to the acid instead of taking damage.
-
 
 ---
 
@@ -142,4 +141,47 @@ The Vyderac Queen is immune to acid. At the beginning of each combat round, a sw
 
 **Attacks (1/round)**
 
-<ins>Acidic BiLe (Recharde 1D4).</ins> The Vyderac Queen
+<ins>Acidic Bile (Recharge 1/4).</ins> The Vyderac Queen cover a large area with acidic bile, inflicting damage (3D6) to each creature and object in range. A saving throw halves the damage, and sacrificing an item does the same. This attack releases a huge quantity of Vyderac Pheromones, and attracks 1D4 Vyderac Swarms which will arrive in 1D4 rounds.
+
+<ins>Selfdestruction.</ins> The Vyderac Queen bloats herself in a grotesque way, releasing an acrid, acidic smell. On her next turn, she'll explode and die, inflicting 4D6 damage to all creatures in a large area. A saving throw halves the damage. One of the surviving maggots will become a new queen in a month.
+<br>
+
+---
+
+<br> 
+
+<details markdown="1">
+<summary>Random Encounter</summary>
+
+1. **Monster:** 1 Vyderac Seeker.
+1. **Lair:** A Vyderac Queen. <br>	&nbsp; OR <br>	**Omen:** The buzzing of a giant fly.
+1. **Spoor:** The area is covered in sprays of Vyderac pheromones.
+1. **Tracks:** Blood drips.
+1. **Trace:** A lone Vyderac.
+1. **Trace:** The melted and dried mush of an animal drained of its blood and bones.
+</details>
+
+<details markdown="1">
+<summary>Salvaging the body</summary>
+
+The elitrae of the Vyderac can be used to make a beautiful blood-red dye. The pheromone powder sack of a seeker can be used to attract swarms at your own risk. It also is a powerfull skin irritant. If you are lucky, the acid sacks of Vyderacs, Maggots and Queens can be salvaged into doses of acid.</details>
+
+<details markdown="1">
+<summary>D6 Symbolism</summary>
+In local cultures the aqraseth is a symbol of ...
+
+1. Motherhood
+1. Drunkedness
+1. Dancing
+1. Teamwork
+1. Blood
+1. Sacred 
+</details>
+
+<br>
+
+<details markdown="1">
+<summary>Credits</summary>
+Vyderacs are a creation of [Jacob Hurst, Evan Peterson, and Donnie Garcia](https://shop.swordfishislands.com/) found in [Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/). The creatures are not statted in the book, so I made my own version. — SaltyGoo
+</details>
+
