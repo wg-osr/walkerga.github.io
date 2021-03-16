@@ -31,12 +31,17 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 # Stats & Skills
 
-<ins>Strength</ins> represents your physical prowess. It affects the number of things you can carry and your melee attacks. <br>
-<ins>Dexterity</ins> represents your balance, precision and reflexes. It affects your ranged attacks and your chances to dodge attacks.<br>
-<ins>Constitution</ins> represents your health. It affects your durability and the number of scars you can bear.<br>
-<ins>Intelligence</ins> represents your knowledge and capacity to learn. It affects the number of skills you can have.<br>
-<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects your combat order.<br>
-<ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can hav.<br>
+<ins>Strength</ins> represents your physical prowess. It affects the number of things you can carry and your melee attacks.
+
+<ins>Dexterity</ins> represents your balance, precision and reflexes. It affects your ranged attacks and your chances to dodge attacks.
+
+<ins>Constitution</ins> represents your health. It affects your durability and the number of scars you can bear.
+
+<ins>Intelligence</ins> represents your knowledge and capacity to learn. It affects the number of skills you can have.
+
+<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects your combat order.
+
+<ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can hav.
 
 <ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#combat).
 
