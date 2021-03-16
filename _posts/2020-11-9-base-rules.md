@@ -68,9 +68,13 @@ Rolling 20 on attack means do double damage. Rolling 20 on dodge means you get a
 
 # Dying & Healing
 
-Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. Each wound reduces your maximum HP by 1, down to 0.
+Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. If you reach 10 wounds, you die. Each wound reduces your maximum HP by 1, down to 0, until they are healed.
 
-When you are dying, you must roll Constitution on each of your turns. On a roll of 1, your character dies. On a failure, you gain 1 Wound. On a success, nothing changes. On a roll of 20 or on result of 24 or higher, you stabilize and stop dying. If you reach 10 wounds, you die.
+When you are dying, you must roll Constitution on each of your turns.
+- On a roll of 1, your character dies. 
+- On a failure, you gain 1 Wound. 
+- On a success, nothing changes. 
+- On a roll of 20 or on result of 24 or higher, you stabilize and stop dying.
 
 Up to two allies can roll Intelligence to stabilize you. Expanding bandages gives a bonus of 2 on that roll. Stabilizing does not remove wounds.
 
