@@ -44,7 +44,8 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 <details markdown="1">
 <summary>Example</summary>
-Beau is running away from a troll. He rolls his movement and the referee rolls the troll's movement. Beau gets 17 and the troll gets 13, this means beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.</details>
+Beau is running away from a troll. He rolls his movement and the referee rolls the troll's movement. Beau gets 17 and the troll gets 13, this means beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.
+</details>
 
 <ins>Armor</ins> is the amount of damage you ignore on each attack, to a minimum of 1.
 
@@ -52,7 +53,8 @@ A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc). Whe
 
 <details markdown="1">
 <summary>Example</summary>
-Beau has 3 points of Charisma and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and beau adds 5 to his roll instead of 3.</details>
+Beau has 3 points of Charisma and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and beau adds 5 to his roll instead of 3.
+</details>
 
 ---
 
@@ -158,4 +160,5 @@ Choose a stat, increase it by 1 (up to 10).
 After level 4, you get 1 Mastery point instead of any template or bonus.
 
 <ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an adjacent ally at 1:1.
+
 
