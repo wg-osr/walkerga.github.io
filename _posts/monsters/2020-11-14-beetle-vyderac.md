@@ -141,7 +141,7 @@ The Vyderac Queen is immune to acid. At the beginning of each combat round, a sw
 
 **Attacks (1/round)**
 
-<ins>Acidic Bile (Recharge 1/4).</ins> The Vyderac Queen cover a large area with acidic bile, inflicting damage (3D6) to each creature and object in range. A saving throw halves the damage, and sacrificing an item does the same. This attack releases a huge quantity of Vyderac Pheromones, and attracks 1D4 Vyderac Swarms which will arrive in 1D4 rounds.
+<ins>Acidic Bile (Recharge 1/4).</ins> The Vyderac Queen covers a large area with acidic bile, inflicting damage (3D6) to each creature and object in range. A saving throw halves the damage, and sacrificing an item does the same. This attack releases a huge quantity of Vyderac Pheromones, and attracks 1D4 Vyderac Swarms which will arrive in 1D4 rounds.
 
 <ins>Selfdestruction.</ins> The Vyderac Queen bloats herself in a grotesque way, releasing an acrid, acidic smell. On her next turn, she'll explode and die, inflicting 4D6 damage to all creatures in a large area. A saving throw halves the damage. One of the surviving maggots will become a new queen in a month.
 <br>
