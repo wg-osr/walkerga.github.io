@@ -13,6 +13,7 @@ Simply, the referee describes a situation, and you tell what your character woul
 - [Stats & Skills](#stats--skills)
 - [Rolling](#rolling)
 - [Combat](#combat)
+- [Dying & Healing](#dying--healing)
 - [Inventory & Equipment](#inventory)
 - [Leveling Up](#leveling-up)
 
@@ -30,13 +31,28 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 # Stats & Skills
 
-<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#Combat).
+<ins>Strength</ins> represents your physical prowess. It affects the number of things you can carry and your melee attacks. <br>
+<ins>Dexterity</ins> represents your balance, precision and reflexes. It affects your ranged attacks and your chances to dodge attacks.<br>
+<ins>Constitution</ins> represents your health. It affects your durability and the number of scars you can bear.<br>
+<ins>Intelligence</ins> represents your knowledge and capacity to learn. It affects the number of skills you can have.<br>
+<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects your combat order.<br>
+<ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can hav.<br>
+
+<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#combat).
 
 <ins>Movement</ins> might be for climbing, jumping, or rolled against a monster’s movement when trying to escape it. When trying to escape, failure means the battle has simply moved to another location.
+
+<details markdown="1">
+<summary>Example</summary>
+Beau is running away from a troll. He rolls his movement and the referee rolls the troll's movement. Beau gets 17 and the troll gets 13, this means beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.</details>
 
 <ins>Armor</ins> is the amount of damage you ignore on each attack, to a minimum of 1.
 
 A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Intelligence.
+
+<details markdown="1">
+<summary>Example</summary>
+Beau has 3 points of Charisma and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and beau adds 5 to his roll instead of 3.</details>
 
 ---
 
@@ -44,7 +60,7 @@ A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc). Whe
 
 When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed. 
 
-A referee should only call for a roll when both success and failure are interesting. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
+A referee should only call for a roll when both success and failure have interesting consequences. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
 A contested roll is when the referee rolls using the monster’s stats and you have to roll higher.
 
