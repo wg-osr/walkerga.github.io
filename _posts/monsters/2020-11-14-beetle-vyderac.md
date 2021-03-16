@@ -164,7 +164,8 @@ The Vyderac Queen is immune to acid. At the beginning of each combat round, a sw
 <details markdown="1">
 <summary>Salvaging the body</summary>
 
-The elitrae of the Vyderac can be used to make a beautiful blood-red dye. The pheromone powder sack of a seeker can be used to attract swarms at your own risk. It also is a powerfull skin irritant. If you are lucky, the acid sacks of Vyderacs, Maggots and Queens can be salvaged into doses of acid.</details>
+The elitrae of the Vyderac can be used to make a beautiful blood-red dye. The pheromone powder sack of a seeker can be used to attract swarms at your own risk. It also is a powerfull skin irritant. If you are lucky, the acid sacks of Vyderacs, Maggots and Queens can be salvaged into doses of acid.
+</details>
 
 <details markdown="1">
 <summary>D6 Symbolism</summary>
