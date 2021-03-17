@@ -35,4 +35,5 @@ Each time your roll on the hills hex table, you fill 2D6 adjacent hexes on the m
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Forlorn ...</span>  <span class="c">ruins.</span> <span class="d">No life grows.</span>
 1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns.</span>
+1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">huts.</span> <span class="d">A sacred beast.</span>
 
