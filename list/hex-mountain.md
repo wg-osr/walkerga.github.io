@@ -29,3 +29,4 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">tunnels.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Misty ...</span>  <span class="c">bridges.</span> <span class="d">Silence.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
+1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">huts.</span> <span class="d">A sacred beast.</span>
