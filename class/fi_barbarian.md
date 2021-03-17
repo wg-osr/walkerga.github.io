@@ -1,21 +1,21 @@
 ---
 layout: page
-title: The Oiled-up Muscle Giant
-permalink: /class/fighter/cacus
+title: The Barbarian
+permalink: /class/fighter/barbarian
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
-*This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster. — SaltyGoo*
+<summary>Credits</summary> 
+*This class is an adaptation of Phlox's amazing [take on the class](http://whosemeasure.blogspot.com/2020/08/glog-class-barbarian.html), which goes back to the origin of its name: a foreigner. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
-Shepherd staff, Loincloth, Sheep.
+A Weapon in a shape unheard of in this land, a piece of armore from a material not found here, a trinket from home that signify your faith or rank.
 
 <ins>Starting Skills (+5)</ins><br>
-Wrestling, and your choice of Herding, Mythology or Modeling
+Foreign Lands and your choice of Traveling, Performance Art, War Survivor.
 
-For every Oiled-up Muscle Giant template you have, increase your wrestling skill by 1.
+For every Barbarian template you have, increase your HP by 1.
 
 **A:** Body Oil, Oiled Up I<br>
 **B:** Oiled Up II, Scoundrel<br>
