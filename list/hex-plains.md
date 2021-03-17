@@ -29,3 +29,4 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns.</span>
+1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">yurts.</span> <span class="d">A sacred beast.</span>
