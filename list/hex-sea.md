@@ -20,3 +20,4 @@ Each time your roll on the sea hex table, you fill 4D6 adjacent hexes on the map
 1. <span class="a">[Nereid](/monsters/nereid)</span> <span class="b">Crystaline ...</span>  <span class="c">shallows.</span> <span class="d">Tangling weed.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">Lovers' ...</span>  <span class="c">rock.</span> <span class="d">Trinket toll.</span>
+1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">archipelago.</span> <span class="d">A sacred whale.</span>
