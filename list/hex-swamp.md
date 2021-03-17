@@ -31,3 +31,4 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Dead-men ...</span>  <span class="c">moor.</span> <span class="d">Zombie-clogged waters.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Flooding ...</span>  <span class="c">fountains.</span> <span class="d">Whirlpool.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">stilted huts.</span> <span class="d">A sacred beast.</span>
