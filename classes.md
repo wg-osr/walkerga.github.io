@@ -7,11 +7,12 @@ permalink: /classes/
 The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
+  - The [Barbarian](/class/fighter/barbarian)
+  - The [Bodybuilder/Cacus](/class/fighter/cacus)
   - The [Centaur/Horse](/class/fighter/centaur)
   - The [Cyclops](/class/fighter/cyclopskin)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
-  - The [Cacus/Bodybuilder](/class/fighter/cacus)
 </details>
 
 The [Magic User](/class/magic-user)
