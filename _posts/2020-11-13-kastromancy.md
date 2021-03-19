@@ -1,0 +1,15 @@
+---
+layout: post
+tags: spell spiritualism
+title: Kastromancy
+---
+
+R: Touch  D: Sigil
+
+You engrave your sigil on the floor somewhere in a building. Choose another spell you know. You then spend 1 day per room in that building carving a complex set of formulas and runes.
+
+As long as the rooms in building are intact, you can cast the chosen spell from the location of your sigil with the same amount of spell dices as there are rooms in the building. Doing so expends one of your spell dices for the day.
+
+###### *Architecture + Formula*
+
+###### By SaltyGoo
