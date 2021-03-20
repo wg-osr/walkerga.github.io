@@ -6,7 +6,9 @@ title: Voluminous Equivalence
 
 D: Sigil
 
-You engrave your sigil on all the openings of an empty building or container. When the spell is cast, these openings become portals leading to an empty pocket dimension of the exact same volume as the original empty space. That pocket dimension has the shape and subdivisions of your choice but must have the exact same openings as the original space. It is also made of the same materials as the original building or container.
+You transform a space into another, equivalent space of your design.
+
+Engrave your sigil on all the openings of an empty building or container. When the spell is cast, these openings become portals leading to an empty pocket dimension of the exact same volume as the original empty space. That pocket dimension has the shape and subdivisions of your choice but must have the exact same openings as the original space. It is also made of the same materials as the original building or container.
 
 The type of space you can convert to a pocket dimension depends of the amount of spell dices invested in that spell: 
 
