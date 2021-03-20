@@ -10,22 +10,20 @@ Fire animated by a spark of mischief. Elemental fire.
 Imagine if a little grotesque gargoyle was made of pure flames.
 
 **HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** agile and wise <br>
-**Movement:** fly fast <br>
+**Size:** small <br>
+**Stats:** agile yet dumb <br>
+**Movement:** average fly fast <br>
 **Morale:** coward <br>
 
-As elemental air, the airwalker *resists all damage* and is *immune to electricity*. It *recovers 1 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
+As elemental fire, the fire mephit *resists all damage* and is *immune to fire*. It *recovers 1 HP* every round spent ablaze or with fuel and *1* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
+
+Additionally, when the fire mephit dies, it explodes in a small burst of flame inflicting 1D4 damage to all adjacent creatures and setting objects ablaze.
 
 **Attacks (1/round)**
 
-<ins>Plane Shift</ins>. The airwalker and every creature touching it or a creature touching it are transported to the plane of air.
+<ins>Spit Fire</ins>. The mephit makes a ranged attack against two adjacent targets (1) and sets them ablaze.
 
-<ins>Punch</ins>. The airwalker makes one melee attack (1D4). 
-
-<ins>Unshackle</ins>. The airwalker attempts to grapple an adjacent target. If it succeeds, the target is under the effect of levitate.
-
-<ins>Whirl</ins>. The airwalker moves an adjacent thing somewhere nearby. 
+<ins>Claw</ins>. The mephit makes a melee attack (1) and sets the target ablaze.
 
 <br>
 
@@ -36,23 +34,23 @@ As elemental air, the airwalker *resists all damage* and is *immune to electrici
 <details markdown="1">
 <summary>Random Encounter</summary>
 
-1. **Monster:** 1D6 airwalkers & 25% 1 traveling humanoid.
-1. **Lair:** A giants floating pole with 1D12 swirling wind-chimes pointing at ever-shifting planar locations. <br>	&nbsp; OR <br>	**Omen:** The sound of a portal opening and a gust of wind.
-1. **Spoor:** The spark of a portal closing and one final gust sweeping the area.
-1. **Tracks:**  Eerie yet joyful wind chime noises.
-1. **Trace:** [rumor] People in the area seem to routinely get things from the plane of air.
-1. **Trace:** A *monk*, training to become one with the winds.
+1. **Monster:** 1D8 fire mephits
+1. **Lair:** A giant brasero buring with elemental flames. <br>	&nbsp; OR <br>	**Omen:** Cackling sounds and burnt smell.
+1. **Spoor:** Everything is on fire!
+1. **Tracks:** A trail of burnt objects.
+1. **Trace:** [rumor] A power creature of fire has sent its agents in the area.
+1. **Trace:** A message in ignan burned on a surface.
 </details>
 
 <details markdown="1">
 <summary>D6 What the Monster Wants</summary>
 
-1. Find a truly free soul and guide them to the endless skies of the plane of air.
-1. Perform the 5 acts of the deadly alizee sky waltz. They are missing a dancer.
-1. Steal fun things to throw away down the bottomless skies of the plane of air.
-1. To race with you. They might train you if you win (giving you the punch attack).
-1. Deliver safely an old monk somewhere close-by, they just happen to have teleported in the wrong location.
-1. Warn of a grave danger. They assume everybody can fly. 
+1. Deliver an important message from their master. 
+1. Fight! But not to the death, and fairly.
+1. Cleaning (burning) the area for the arrival of their fiery master.
+1. Hiding for their master, they dont want to work.
+1. They are newly born, they are very curious.
+1. Get some information for their fiery master.
 </details>
 
 <details markdown="1">
@@ -60,12 +58,12 @@ As elemental air, the airwalker *resists all damage* and is *immune to electrici
 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
-1. ... you plane-shift to a random location in the plane of air.
-1. ... you are under a permanent levitation spell. 
-1. ... your weight is halved, you have disadvantage on strength checks. 
-1. ... you are under a permanent feather-fall.
-1. ... you hover.
-1. ... the spell word *Travel*. 
+1. ... every flammable item on you burns.
+1. ... your words are replaced by 1'' fire mephits that mime them before being snuffed. 
+1. ... your hair is replaced by flames (they dont burn you). 
+1. ... each time you rest, one thing on you is stolen by a flame mephit and brought to the plane of fire.
+1. ... water burns you.
+1. ... the spell word *Flame*. 
 
 If you roll a catastrophe, the elemental is released.
 </details>
@@ -75,15 +73,9 @@ If you roll a catastrophe, the elemental is released.
 
 If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 1 Spell Dices:
 
-**Conjure Aerial Servant** <br>
+**Conjure Fire Mephit** <br>
 R: self 
 
-When casting the spell the caster must join hands with up to [dice] people. The airwalker will then ask each participant why they seek access to the plane of air. If the motive is anything beyond personal freedom, the person must succeed a charisma check to successfully lie to the elemental. If everybody passes the check, the airwalker planeshifts the group to the location of their choice in the plane of air.
-</details>
+When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended, across any plane. The message will be delivered in the most passionate and destructive way possible.
 
-<br> 
-
-<details markdown="1">
-<summary>DM Notes</summary>
-I think the airwalker is an orginal creation of  [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved it as-is, we dont have enough friendly elemental creatures. To signal the friendliness, I dropped their sword and armor. — SaltyGoo
 </details>
