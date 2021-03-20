@@ -34,5 +34,6 @@ The [Specialist](/class/specialist)
   - The [Dwarf](/class/specialist/dwarf)
   - The [Goblins](/class/specialist/many-goblins)
   - The [Pigfolk](/class/specialist/pigfolk)
+  - The [Salamander](/class/specialist/salamander)
   - The [Three-Armed Giant Baby](/class/specialist/athach)
 </details>
