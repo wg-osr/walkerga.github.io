@@ -63,6 +63,6 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">seal.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Submerged ...</span>  <span class="c">waterfall.</span> <span class="d">Flooding.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
-1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Fire ...</span>  <span class="c">core.</span> <span class="d">Flammable gas.</span>
+1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Fire ...</span>  <span class="c">temple.</span> <span class="d">Flammable gas.</span>
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma ...</span>  <span class="c">baths.</span> <span class="d">Melting ground.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
