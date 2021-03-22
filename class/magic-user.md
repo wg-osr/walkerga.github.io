@@ -63,20 +63,8 @@ You always see invisible things as a faint lensing of light, and can tell roughl
 ## Arcane Communion
 You can pool your SD with other magic users. Catastrophes affect all of you.
 
-## Awakened Minion
-Your familiar is now intelligent and can speak. It knows many secrets, many more than it seems willing to share with you, but reveals that it always had the following secret power (roll a D8):
-
-<ins>D8 Unique Power</ins><br>
-1. Can see the future in spilled intestines, quite accurate.
-1. Can teleport the caster (only) to the nearest graveyard.
-1. Can double your current HP, but will fade in D20 hours.
-1. Can create false gold that will disappear in D20 hours
-1. Can create a feast fit for a king
-1. Can make a virgin fall in love with you
-1. Can fetch a named item that has been forgotten by all
-1. No special power, but it will pretend that it has one
-
-Your familiar can now *provide a service once per day*. For each service, you owe it one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you.
+## Familiar II
+Your familiar reveals itself as intelligent and able to speak. It was just waiting for you to prove yourself. You unsettlingly feel it might be secretly more powerful than you. It explains to you it accepts to provide a service *once per day*, but for each such service, you'll owe it one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, and your familiar will curse you for it.
 
 <ins>Familiar Services</ins><br>
 - Detect Magic (for free, ask nicely).
@@ -85,6 +73,18 @@ Your familiar can now *provide a service once per day*. For each service, you ow
 - Grant you one free SD.
 - Save you from death, once.
 - Anything else you can think to ask of it. Just remember that it will count for a favor. 
+
+<details markdown="1">
+<summary>D8 Familiar Powers</summary> 
+1. Can see the future in spilled intestines, quite accurate.
+1. Can teleport the caster (only) to the nearest graveyard.
+1. Can double your current HP, but will fade in D20 hours.
+1. Can create false gold that will disappear in D20 hours
+1. Can create a feast fit for a king
+1. Can make a virgin fall in love with you
+1. Can fetch a named item that has been forgotten by all
+1. No special power, but it will pretend that it has one
+</details>
 
 ---
 
@@ -110,7 +110,7 @@ Note that you can make a new spell with the same word: *Bloodlust* could become 
 
 ## Familiar Generator
 
-D100 Personality Traits, D100 Animal Form, D100 True Form, D100 Motivations. All on [Unlawful Games](https://www.unlawful.games/2018/10/quadruple-d100-c-c-c-combo-animal.html).
+You'll find D100 Personality Traits, D100 Animal Form, D100 True Form, and D100 Familiar Motivations on [Unlawful Games](https://www.unlawful.games/2018/10/quadruple-d100-c-c-c-combo-animal.html).
 
 ## D3 Breach of Covenant Consequences
 
