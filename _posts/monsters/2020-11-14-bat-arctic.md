@@ -39,7 +39,7 @@ In a swarm, Arctic Bats are immune to being grappled or attacked by single targe
 
 **Attacks (1/round)**
 
-<ins>Bites.</ins> The Vyderac Swarm makes a melee attack (1) with reach using its HP as its attack stat. On a hit, the target must save vs poison or slowly freeze and be restrained. The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
+<ins>Bites.</ins> The Arctic Bat Swarm makes a melee attack (1) with reach using its HP as its attack stat. On a hit, the target must save vs poison or slowly freeze and be restrained. The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
 <br>
 
 ---
