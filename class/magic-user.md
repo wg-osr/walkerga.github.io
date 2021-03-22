@@ -53,9 +53,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 
 ## Call Familiar
 
-You may call to a familiar, a magical spirit. The familiar will appear in 1D20 hours. You must then bargain with it for its service as they like ambition and valuable sacrifices. Roll intelligence with (dis)advantage depending on the bargain; if you fail, no familiar will ever appear for you in this location again, but if it succeeds, the familiar agrees to a mutually binding magical contract. Your familiar will serve you to your last drop of ambition.
-
-Once a familiar has agreed to work with you, it can be summoned to your side. But familiars are fickle. Whenever you attempt to summon your familiar, make a charisma check. Success means that the familiar arrives immediately. Otherwise it arrives in 1D20 hours. If you have annoyed your familiar, you automatically fail this test, while familiars that are extremely pleased will always arrive promptly. 
+One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve for free at will albeit with a [dice] and a [sum] of 1. You cannot cast the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. If your familiar would die, you lose the spell forever. It has as many hit points as you have Magic User templates and is immune to one type of damage of your choice.
 
 Familiars can *provide a service once per day*. For each service, you owe the familiar one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you. You are not required to call a familiar.
 
