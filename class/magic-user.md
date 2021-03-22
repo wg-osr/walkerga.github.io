@@ -15,7 +15,7 @@ Depends on your magic school.
 For every Magic User template you have, you gain one extra Spell Dice.
 
 **A:** Identify, School, Spells <br>
-**B:** Call Familiar <br>
+**B:** Familiar <br>
 **C:** Second Sight <br>
 **D:** Arcane Communion <br>
 
@@ -51,25 +51,40 @@ Every time you roll doubles you get closer to Catastrophe.
 <ins>Catastrophe</ins><br>
 Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
 
-## Call Familiar
+## Familiar
 
-One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve for free at will albeit with a [dice] and a [sum] of 1. You cannot cast the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. If your familiar would die, you lose the spell forever. It has as many hit points as you have Magic User templates and is immune to one type of damage of your choice.
+One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve for free at will albeit with a [dice] and a [sum] of 1. You dont know the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
 
-Familiars can *provide a service once per day*. For each service, you owe the familiar one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you. You are not required to call a familiar.
-
-<ins>Familiar Services</ins><br>
-- Detect Magic (for free, ask nicely).
-- Teach you a new spell.
-- Grant you one free SD.
-- Exercise its unique power.
-- Save you from death, once.
-- Anything else you can think to ask of it. Just remember that it will count for a favor. 
+Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat's. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
 
 ## Second Sight
 You always see invisible things as a faint lensing of light, and can tell roughly how big they are. By making eye contact with someone, you can tell if they are possessed, undead, protected by divinity, or a spell caster.
 
 ## Arcane Communion
 You can pool your SD with other magic users. Catastrophes affect all of you.
+
+## Awakened Minion
+Your familiar is now intelligent and can speak. It knows many secrets, many more than it seems willing to share with you, but reveals that it always had the following secret power (roll a D8):
+
+**D8 Unique Power**
+1. Can see the future in spilled intestines, quite accurate.
+1. Can teleport the caster (only) to the nearest graveyard.
+1. Can double your current HP, but will fade in D20 hours.
+1. Can create false gold that will disappear in D20 hours
+1. Can create a feast fit for a king
+1. Can make a virgin fall in love with you
+1. Can fetch a named item that has been forgotten by all
+1. No special power, but it will pretend that it has one
+
+Your familiar can now *provide a service once per day*. For each service, you owe it one favor. They can be pretty nasty tasks, but failing to fulfill them incurs a breach of covenant, which are nasty for you.
+
+<ins>Familiar Services</ins><br>
+- Detect Magic (for free, ask nicely).
+- Teach you a new spell.
+- Use its unique power.
+- Grant you one free SD.
+- Save you from death, once.
+- Anything else you can think to ask of it. Just remember that it will count for a favor. 
 
 ---
 
@@ -93,12 +108,6 @@ Note that you can make a new spell with the same word: *Bloodlust* could become 
 <details markdown="1">
 <summary>DM Notes</summary> 
 
-Familiars usually want to ally themselves with promising young savants with a bright destiny. They want power, indirectly. After bargaining, the hopeful spellcaster makes a intelligence check with the following modifiers.
-
-- Disadvantage if they are boring, meek, or unambitious.
-- Advantage if they are power-hungry or promise the familiar great things.
-- The character can sacrifice things to appease the familiar. First, they sacrifice as much stuff as they want, then make a wisdom check. Success means that they get a +1 bonus for every treasure and magic item sacrificed this way. Failure means that you have misjudged the familiar’s desires and your sacrifices will count for nothing.
-
 ## D8 Familar Goals
 
 1. Exploration of new frontiers (of the mind and/or other planes) and cosmic truth.
@@ -115,15 +124,4 @@ Familiars usually want to ally themselves with promising young savants with a br
 1. cursed
 1. random mutation
 1. permanent -1 to an ability score
-
-## D8 Unique Power
-
-1. Can see the future in spilled intestines, quite accurate.
-1. Can teleport the caster (only) to the nearest graveyard.
-1. Can double your current HP, but will fade in D20 hours.
-1. Can create false gold that will disappear in D20 hours
-1. Can create a feast fit for a king
-1. Can make a virgin fall in love with you
-1. Can fetch a named item that has been forgotten by all
-1. No special power, but it will pretend that it has one
 </details>
