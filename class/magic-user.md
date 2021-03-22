@@ -17,7 +17,7 @@ For every Magic User template you have, you gain one extra Spell Dice.
 **A:** Identify, School, Spells <br>
 **B:** Familiar <br>
 **C:** Second Sight <br>
-**D:** Arcane Communion <br>
+**D:** Arcane Communion, Awakened Minion <br>
 
 ## Identify
 By licking an object, you can tell whether or not it is magical.
@@ -66,7 +66,7 @@ You can pool your SD with other magic users. Catastrophes affect all of you.
 ## Awakened Minion
 Your familiar is now intelligent and can speak. It knows many secrets, many more than it seems willing to share with you, but reveals that it always had the following secret power (roll a D8):
 
-**D8 Unique Power**
+<ins>D8 Unique Power</ins><br>
 1. Can see the future in spilled intestines, quite accurate.
 1. Can teleport the caster (only) to the nearest graveyard.
 1. Can double your current HP, but will fade in D20 hours.
