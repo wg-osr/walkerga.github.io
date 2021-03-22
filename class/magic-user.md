@@ -17,7 +17,7 @@ For every Magic User template you have, you gain one extra Spell Dice.
 **A:** Identify, School, Spells <br>
 **B:** Familiar <br>
 **C:** Second Sight <br>
-**D:** Arcane Communion, Awakened Minion <br>
+**D:** Arcane Communion, Familiar II <br>
 
 ## Identify
 By licking an object, you can tell whether or not it is magical.
