@@ -8,10 +8,10 @@ title: Vengeance Domain
 A dagger.
 
 <ins>Spell List</ins>
-1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/)
-1. [Fey Ring](/2020/11/13/fey-ring/)
-1. [Hallucinogenesis](/2020/11/13/hallucinogenesis/)
-1. [Potpourri](/2020/11/13/potpourri/)
+1. [Karmic Retribution](/2020/11/13/karmic-retribution/)
+1. [Petition](2020/11/12/petition/)
+1. [Relentless Vigor](/2020/11/13/relentless-vigor/)
+1. [Undying Oath](/2020/11/13/undying-oath/)
 
 <ins>Commandments</ins>
 - Do unto others what they have done to you.
