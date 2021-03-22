@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell vivimency
+tags: spell vivimancy
 title: Relentless Vigor
 ---
 R: Touch
