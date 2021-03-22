@@ -108,18 +108,11 @@ Note that you can make a new spell with the same word: *Bloodlust* could become 
 <details markdown="1">
 <summary>DM Notes</summary> 
 
-## D8 Familar Goals
+## Familiar Generator
 
-1. Exploration of new frontiers (of the mind and/or other planes) and cosmic truth.
-1. Iconoclasm and an end to banal religion.
-1. Magical power to bend the universe.
-1. Political power to rule the world and become a leader of men (preferred: starting a cult, marrying royalty).
-1. Deaths of weaklings and fools.
-1. Carnal pleasure, incomprehensible ecstasy.
-1. Construction of a vast object, built for some distant, undefined purpose.
-1. Destruction of the self through dissolution, dissociative drugs, anomie, and constant exposure to danger.
+D100 Personality Traits, D100 Animal Form, D100 True Form, D100 Motivations. All on [Unlawful Games](https://www.unlawful.games/2018/10/quadruple-d100-c-c-c-combo-animal.html).
 
-## D3 Breach of Covenant
+## D3 Breach of Covenant Consequences
 
 1. cursed
 1. random mutation
