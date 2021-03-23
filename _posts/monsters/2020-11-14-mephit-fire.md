@@ -38,7 +38,7 @@ Additionally, when the fire mephit dies, it explodes in a small burst of flame i
 1. **Lair:** A giant brasero burning with elemental flames. <br>	&nbsp; OR <br>	**Omen:** Cackling sounds and burnt smell.
 1. **Spoor:** Everything is on fire!
 1. **Tracks:** A trail of burnt objects.
-1. **Trace:** [rumor] A power creature of fire has sent its agents in the area.
+1. **Trace:** [rumor] A powerful creature of fire has sent its agents in the area.
 1. **Trace:** A message in ignan burned on a surface.
 </details>
 
@@ -48,7 +48,7 @@ Additionally, when the fire mephit dies, it explodes in a small burst of flame i
 1. Deliver an important message from their master. 
 1. Fight! But not to the death, and fairly.
 1. Cleaning (burning) the area for the arrival of their fiery master.
-1. Hiding for their master, they dont want to work.
+1. Hiding from their master, they dont want to work.
 1. They are newly born, they are very curious.
 1. Get some information for their fiery master.
 </details>
