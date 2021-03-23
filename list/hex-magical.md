@@ -23,6 +23,7 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Burning ...</span> <span class="d">Extreme heat.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e"> ... sealing an Old One.</span> <span class="d">Mind control whispers.</span> 
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="e">Blue crystal ...</span> <span class="d">Water vortex.</span>
+1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e">Gravel spitting ...</span> <span class="d">Gravel rain.</span> 
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="e">Firework ...</span> <span class="d">Firework storage.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> ... furnace.</span> <span class="d">Black smoke.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="c">... power nexus.</span> <span class="d">Wild magic.</span>
