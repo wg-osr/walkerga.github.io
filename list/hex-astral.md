@@ -32,5 +32,6 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Choker](/monsters/choker)</span> <span class="b">Hollow ...</span>  <span class="c">asteroid.</span> <span class="d">Hypnotizing holes.</span>
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="b">Upside-down ...</span>  <span class="c">spires.</span> <span class="d">Deep-space fear radiations.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Water-plane...</span>  <span class="c">gateway.</span> <span class="d">Giant bubbles.</span>
+1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Granite ...</span>  <span class="c">strata.</span> <span class="d">Gravel rain.</span>
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Blazing ...</span>  <span class="c">fire lord.</span> <span class="d">Burning winds.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Power ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
