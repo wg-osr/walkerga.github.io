@@ -15,7 +15,7 @@ Imagine if a little grotesque gargoyle was made of pure flames.
 **Movement:** average fly fast <br>
 **Morale:** coward <br>
 
-As elemental fire, the fire mephit *resists all damage* and is *immune to fire*. It *recovers 1 HP* every round spent ablaze or with fuel and *1* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
+As elemental fire, the fire mephit *resists all damage* and is *immune to fire*. It *recovers 1 HP* every round spent ablaze or with fuel and *loses 1 HP* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
 
 Additionally, when the fire mephit dies, it explodes in a small burst of flame inflicting 1D4 damage to all adjacent creatures and setting objects ablaze.
 
@@ -35,7 +35,7 @@ Additionally, when the fire mephit dies, it explodes in a small burst of flame i
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 fire mephits
-1. **Lair:** A giant brasero buring with elemental flames. <br>	&nbsp; OR <br>	**Omen:** Cackling sounds and burnt smell.
+1. **Lair:** A giant brasero burning with elemental flames. <br>	&nbsp; OR <br>	**Omen:** Cackling sounds and burnt smell.
 1. **Spoor:** Everything is on fire!
 1. **Tracks:** A trail of burnt objects.
 1. **Trace:** [rumor] A power creature of fire has sent its agents in the area.
