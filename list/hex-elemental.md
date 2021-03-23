@@ -22,6 +22,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
+1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e"> ... sunken in gravel.</span> <span class="d">Gravel flood.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="e">Granite ... tower.</span>  <span class="d">Wild magic.</span>
 
 ## Fire
