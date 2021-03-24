@@ -5,29 +5,29 @@ permalink: /monsters/bear-polar
 title: Bear, Polar
 ---
 
-*Bigger bear adapted to cold climates. Beast.*
+Bigger bear adapted to cold climates. A beast.
 
-<span class="alchemy"> *Iconic fauna. The [MonsterManual (5e)](https://5e.tools/book.html#mm) version is simply a buffed bear with a swim speed and I simply added a cold resistance. — SaltyGoo* </span>
+**HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
+**Size:** large <br>
+**Stats:** strong, sturdy and feral<br>
+**Movement:** average, swim average <br>
+**Morale:** brave <br>
 
-**HD:** 4  &nbsp; &nbsp;  **Size:** large &nbsp; &nbsp; **Stats:** 10 / 5 / 8 / 1 / 6 / 3  <br>
-**Resistances:** cold <br>
-**Armor:** none <br>
-**Damage:** 1D8 <br>
-**Movement:** average, swim average &nbsp; &nbsp; **Morale:** brave <br>
+The Polar Bear has a very good sense of smell and resists cold.
 
-The bear has a very good sense of smell.
+**Attacks (1/round)**
 
-**Attacks:** Each round, Each round, the bear can perform one of these actions:
+<ins>Bite and Claws</ins>. The bear makes two melee attacks (1D8).
 
-<ins>Bite and Claws</ins>. The bear makes two melee attacks (x).
-
-<ins>Bear Hug</ins>. The bear attempts to grapple the target. While grapple, the target takes damage on each of the bear’s turns (x).
-
+<ins>Bear Hug</ins>. The bear attempts to grapple the target. While grapple, the target takes damage on each of the bear’s turns (1D8).
 <br>
 
 ---
 
-## Random Encounter
+<br> 
+
+<details markdown="1">
+<summary>Random Encounter</summary>
 
 1. **Monster:** 1 polar bear.
 1. **Lair:** A cave hidden in the snow. 2-6 chances that there are cubs. <br>	&nbsp; OR <br>	**Omen:** The sound of heavy, animal breathing.
@@ -35,19 +35,15 @@ The bear has a very good sense of smell.
 1. **Tracks:** Bear tracks.
 1. **Trace:** Fish bone. 
 1. **Trace:** Claw marks.
+</details>
 
-<br>
-
----
-
-## Salvaging the Body
-
+<details markdown="1">
+<summary>Salvaging the body</summary>
 Polar bear fur is very prized for warm winter clothing, blankets and camouflage. Its meat is edible.
+</details>
 
----
-
-## Totem Table
-
+<details markdown="1">
+<summary>D6 Symbolism</summary>
 In local cultures, it is a symbol of ...
 
 1. Strength
@@ -56,3 +52,11 @@ In local cultures, it is a symbol of ...
 1. Winter
 1. Motherhood
 1. Sacred 
+</details>
+
+<br>
+
+<details markdown="1">
+<summary>Credits</summary>
+Iconic fauna. The [MonsterManual (5e)](https://5e.tools/book.html#mm) version is simply a buffed bear with a swim speed and I simply added a cold resistance. — SaltyGoo
+</details>
