@@ -21,6 +21,7 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Bird](/monsters/bird)</span> <span class="b">Noisy...</span>  <span class="c">jungle.</span> <span class="d">1D10 nervous bird flocks.</span>
 1. <span class="a">[Bird, Adarna](/monsters/bird-adarna)</span> <span class="b">Rare...</span>  <span class="c">orchid.</span> <span class="d">Sleep-disease mosquitoes.</span>
 1. <span class="a">[Bird, Boltforager](/monsters/bird-boltforager)</span> <span class="b">Rancid...</span>  <span class="c">canopy.</span> <span class="d">Rotting food.</span>
+1. <span class="a">[Blindfire Vine](/monsters/blindfire-vine)</span> <span class="b">Pepper...</span>  <span class="c">carpet.</span> <span class="d">Deep carpet.</span>
 1. <span class="a">[Bloodbeast](/monsters/bloodbeast)</span> <span class="b">Mud...</span>  <span class="c">baths.</span> <span class="d">Mud river.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Rotten ...</span>  <span class="c">mounds.</span> <span class="d">Slippery rotten leaves.</span>
 1. <span class="a">[Centi., Draco Black](/monsters/centipede-dracopede-black)</span> <span class="b">Dark ...</span>  <span class="c">roots.</span> <span class="d">Root ladder. </span>
