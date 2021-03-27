@@ -61,7 +61,8 @@ As a plant, the blindfire vine cant see, hear, be stunned or dazed. However it d
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
-Blindfire peppers are a delicacy, and they are better the more animals the plant has consumed. The plant's fibers are used by locals to weave baskets.</details>
+Blindfire peppers are a delicacy, and they are better the more animals the plant has consumed. The plant's fibers are used by locals to weave baskets.
+</details>
 
 <details markdown="1">
 <summary>D6 Symbolism</summary>
