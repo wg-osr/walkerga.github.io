@@ -79,5 +79,5 @@ In local cultures, it is a symbol of ...
 
 <details markdown="1">
 <summary>Credits</summary>
-Iconic fauna. The [MonsterManual (5e)](https://5e.tools/book.html#mm) version is simply a buffed bear with a swim speed and I simply added a cold resistance. — SaltyGoo
+Vyderacs are a creation of [Jacob Hurst, Evan Peterson, and Donnie Garcia](https://shop.swordfishislands.com/) found in [Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/). The creatures are not statted in the book, so I made my own version. — SaltyGoo
 </details>
