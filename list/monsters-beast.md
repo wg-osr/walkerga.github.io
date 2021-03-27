@@ -16,6 +16,7 @@ Plants and animals.
 <ins>Totem Table</ins>. Use to flesh local culture, and flavor magic items and druid magic.
 
 <ins>Beasts</ins>
+
 {% capture posts %}
   {% for post in site.tags.beast %}
     |{{ post.title }}#{{ post.url }}
@@ -32,6 +33,7 @@ Plants and animals.
 </ol>
  
 <ins>Plants</ins>
+
  {% capture posts %}
   {% for post in site.tags.plant %}
     |{{ post.title }}#{{ post.url }}
