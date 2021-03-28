@@ -7,7 +7,7 @@ title: Shadow, Elven
 
 Husk of a corrupted elf. An undead.
 
-Imagine a dark silhouette against a wall. When it crosses light, you can clearly see the outline of a naked elf, except its fingers are thrice as long and its mouth seems to cut its face in hald.
+Imagine a dark silhouette against a wall. When it crosses light, you can clearly see the outline of a naked elf, except its fingers are thrice as long and its mouth seems to cut its face in half.
 
 **HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
