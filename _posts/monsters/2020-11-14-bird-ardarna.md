@@ -15,7 +15,9 @@ Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In
 **Movement:** slow, fly fast <br>
 **Morale:** coward <br>
 
-As a fairie, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the adarna bird is so hearbreakingly beautiful that creatures must succeed an INT check to see it and all plants and objects near it are changed as if they had spent a year in a dusty, sunless attic. 
+As a fairie, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. 
+
+Additionally, the adarna bird is so hearbreakingly beautiful that creatures must succeed an INT check to see it and all plants and objects near it when it dies are changed as if they had spent a year in a dusty, sunless attic. 
 
 Adarna bird guano petrifies sleeping creatures upon contact.
 
