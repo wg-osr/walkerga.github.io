@@ -33,8 +33,8 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Gravel pool.</span> <span class="b">Sunken in gravel.</span> 
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Brazier.</span> <span class="b">Carpet of coals.</span> 
 1. <span class="a">[Shadow, Elven](/monsters/shadow-even)</span> <span class="b">Elven ruin.</span> <span class="b">Decadent decay.</span> 
-2. 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma pool.</span> <span class="b">Half flooded in magma.</span> 
-3. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
+1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma pool.</span> <span class="b">Half flooded in magma.</span> 
+1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
 <br>
 
