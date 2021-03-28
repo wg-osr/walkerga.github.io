@@ -26,5 +26,6 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e">Gravel spitting ...</span> <span class="d">Gravel rain.</span> 
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="e">Firework ...</span> <span class="d">Firework storage.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> ... furnace.</span> <span class="d">Black smoke.</span> 
+1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span> <span class="e"> Cursed elven ...</span> <span class="d">Lust demon's voice.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="c">... power nexus.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> Fountain of the ...</span> <span class="d">Water of amnesia.</span> 
