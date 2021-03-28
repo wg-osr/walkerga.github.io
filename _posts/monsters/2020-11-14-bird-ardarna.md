@@ -5,21 +5,21 @@ permalink: /monsters/bird-adarna
 title: Bird, Adarna
 ---
 
-Elusive magical bird of beauty. A Fey.
+Elusive magical bird of beauty. A fey.
 
-*Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now.*
+Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now.
 
-**HD:** 0  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 2 / 6 / 4 / 1 / 7 / 8 <br>
-**Resistances:** weapons, magic <br>
-**Armor:** none <br>
-**Damage:** 0 <br>
-**Movement:** slow, fly fast &nbsp; &nbsp; **Morale:** coward <br>
+**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
+**Size:** small <br>
+**Stats:** alert and charismaticc <br>
+**Movement:** slow, fly fast <br>
+**Morale:** coward <br>
 
-All plants and objects near a dying adarna bird are changed as if they had spent a year in a dusty, sunless attic. Adarna bird’s guano petrifies sleeping creatures upon contact.
+As a fairie, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the adarna bird is so hearbreakingly beautiful that creatures must succeed an INT check to see it and all plants and objects near it are changed as if they had spent a year in a dusty, sunless attic. 
 
-**Unfathomable Beauty:** Creatures must succeed an intelligence check to see the adarna bird. 
+Adarna bird guano petrifies sleeping creatures upon contact.
 
-**Attacks:** Each round, the adarna bird can perform one of these actions:
+**Attacks (1/round)**
 
 <ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1D4+1 minutes), after which, the adarna bird changes color and all must make a new intelligence check to see it.
 
