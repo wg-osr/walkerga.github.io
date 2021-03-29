@@ -10,7 +10,7 @@ permalink: /class/specialist/pigfolk
 Lumberjack axe or meat cleaver, leather armor, jug of mud.
 
 <ins>Starting Skills (+5)</ins><br>
-Your starting weapon, smells.
+Your choice of Butchery, Debauchery or Farming.
 
 For every Pigfolk template you have, you get more fat (it takes one inventory slot)*.
 
