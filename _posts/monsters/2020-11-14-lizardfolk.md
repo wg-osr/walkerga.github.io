@@ -23,7 +23,7 @@ Lizarfolks can hold their breath for 15 minutes and have a very good sense of sm
 
 <ins>Javelin.</ins> The lizardfolk makes a ranged attack (1D6).
 
-<ins>Tale Sweep.</ins> All creatures surrounding the lizardfolk must save or fall prone.
+<ins>Tail Sweep.</ins> All creatures surrounding the lizardfolk must save or fall prone.
 
 <ins>Bite.</ins> The lizardfolk makes a melee attack (1D4).
 
