@@ -26,7 +26,7 @@ For every Ogre template you have, you get more fat (it takes one inventory slot)
 All objects of the same type in your inventory can be stacked in packs of three, even if they are not small (*three swords take 1 inventory slot*).
 
 ## Bulk
-For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, you can spend a Treasure carousing to gain more fat if you want.
+For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [Treasure](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
 
 ## Belly
 You can eat any object bigger than a chicken and softer than metal as a ration. If you dont eat the equivalent of two rations per day, you lose 1 layer of fat.
