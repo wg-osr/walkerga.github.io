@@ -11,13 +11,17 @@ permalink: /class/fighter/cacus
 
 <ins>Starting Equipment</ins><br>
 Shepherd staff, Loincloth, Sheep.
+
 <ins>Starting Skills (+5)</ins><br>
 Wrestling, and your choice of Herding, Mythology or Modeling
+
 For every Oiled-up Muscle Giant template you have, increase your wrestling skill by 1.
+
 **A:** Body Oil, Oiled Up I<br>
 **B:** Oiled Up II, Scoundrel<br>
 **C:** Oiled Up III<br>
 **D:** Font of Shine, Spitfire<br>
+
 ## Body Oil
 Once per day, you can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable and dries up in 1 hour. It smells like you.
 ## Oiled Up I
