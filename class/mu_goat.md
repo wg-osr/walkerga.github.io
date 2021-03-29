@@ -28,7 +28,7 @@ Roll on this list when you level up:
 1. [Telekinetic Burst](https://saltygoo.github.io/2020/11/13/telekinetic-burst/)
 
 <ins>Perk</ins><br>
-Instead of each SD, you have a witch follower with 1 SD. Add they to your entourage. When you would take damage, one of your witches can sacrifice themself to take the hit in stead of your goatly magesty. If one of your witches dies, you need to spend a night in a settlement to attract a new one. Witches have 4 in all their stats and 2 HP.
+Instead of each SD, you have a witch follower with 1 SD. Add them to your entourage. When you would take damage, one of your witches nearby can sacrifice themself to take the hit instead of your goatly magesty. If one of your witches dies, you need to spend a night in a settlement to attract a new one. Witches have 4 in all their stats and 2 HP.
 
 <ins>Drawback</ins><br>
 You are a goat, you cannot use items yourself (your witches can), and you can only talk (through telepathy) to your witches.
