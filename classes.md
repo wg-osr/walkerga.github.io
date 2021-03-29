@@ -11,6 +11,7 @@ The [Fighter](/class/fighter)
   - The [Bodybuilder/Cacus](/class/fighter/cacus)
   - The [Centaur/Horse](/class/fighter/centaur)
   - The [Cyclops](/class/fighter/cyclopskin)
+  - The [Lizardfolk](/class/fighter/lizardfolk)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
 </details>
