@@ -314,5 +314,12 @@ footer {
 .e { font-size:0.75em; display: inline-block; width: 290px; }
 .ee { display: inline-block; width: 290px; }
 
+.bg {
+  position: absolute;
+    left: 10;
+    top: 100;
+  width: 300px;
+}
+
 .alchemy { display: inline-block; border: 3px dashed black; width: auto; padding:10px; font-size:1em; }
 .NPC { display: inline-block; background-color: $lightBlue; width: auto; padding:10px; }
