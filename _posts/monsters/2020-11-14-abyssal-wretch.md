@@ -5,6 +5,8 @@ permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
 
+<img align="right" width=200px src="/images/AbyssalWretch.png">
+
 Terminally mutated humanoid. An aberration.
 
 Imagine a humanoid so mutated and corrupted that it looks like its constantly melting. It has no feelings, only maddening pain.
