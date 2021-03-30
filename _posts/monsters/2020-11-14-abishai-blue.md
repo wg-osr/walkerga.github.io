@@ -5,6 +5,8 @@ permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
 
+<img align="right" width=250px src="/images/abishaiblue.png">
+
 Archmage-hunting greater devil. A celestial.
 
 Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head. 
