@@ -5,7 +5,7 @@ permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
 
-<img align="right" width=200px src="/images/AbyssalWretch.png">
+<img align="right" width=200px src="/images/AbyssaWretch.png">
 
 Terminally mutated humanoid. An aberration.
 
