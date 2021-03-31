@@ -6,7 +6,7 @@ title: Element Domain
 
 All iterations of [element] should be replaced by a specific element when the domain is chosen. The elements (and variations) are:
 <details markdown="1">
-<summary>Elements</summary>
+<summary>1D20 Elements</summary>
 1. Wind / Oxygen / Sound
 2. Stone / Sand / Earth
 3. Flames / Sparks / Explosion
@@ -25,6 +25,8 @@ All iterations of [element] should be replaced by a specific element when the do
 16. Dust / Bone / Debris
 17. Ash / Sulfur / Soot
 18. Vacuum / Antigravity / Ether
+19. Roll twice, choose one.
+20. Roll twice: it's both at the same time.
 </details>
 
 <ins>Starting Item</ins> <br>
