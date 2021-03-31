@@ -5,6 +5,8 @@ permalink: /monsters/aerial-servant
 title: Aerial Servant
 ---
 
+<img align="right" width=200px src="/images/AerialServant.png">
+
 Sentient giant floating hands specialized in abductions. An air elemental.
 
 Imagine a floating hand made of smoke and wind. Its movement are precise yet forcefull. It is very expressive. They are most often bound to gods, wizards or fey princesses, and resentfully do their bidding. 
