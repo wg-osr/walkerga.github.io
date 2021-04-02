@@ -27,6 +27,7 @@ The [Magic User](/class/magic-user)
   - **Monster Classes**
   - The [Elf](/class/magic-user/elf)
   - The [Goat](/class/magic-user/goat)
+  - The [Nereid](/class/magic-user/nereid)
   - The [Tiefling](/class/magic-user/tiefling)
 </details>
 
