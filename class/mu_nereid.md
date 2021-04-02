@@ -14,10 +14,10 @@ Your choice of Reef Gardener, Deep Sea Hermit, Landweller Seducer
 
 <ins>Spell List</ins><br>
 Roll on this list when you level up:
-1. [Aura of Renewal](https://saltygoo.github.io/2020/11/13/aura-of-renewal/)
-1. [Bewitch](https://saltygoo.github.io/2020/11/13/bewitch/)
 1. [Aquamorphosis](https://saltygoo.github.io/2020/11/13/elementamorphosis/)
 1. [Aquatic Door](https://saltygoo.github.io/2020/11/13/aquatic-door/)
+1. [Aura of Renewal](https://saltygoo.github.io/2020/11/13/aura-of-renewal/)
+1. [Bewitch](https://saltygoo.github.io/2020/11/13/bewitch/)
 1. [Fish Allure](https://saltygoo.github.io/2020/11/12/animal-allure/)
 1. [Mermaid's Curse](https://saltygoo.github.io/2020/11/13/mermaids-curse/)
 1. [Obsecration](https://saltygoo.github.io/2020/11/13/obsecration/)
