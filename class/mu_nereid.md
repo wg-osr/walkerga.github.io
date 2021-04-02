@@ -16,6 +16,7 @@ Your choice of Reef Gardener, Deep Sea Hermit, Landweller Seducer
 Roll on this list when you level up:
 1. [Aura of Renewal](https://saltygoo.github.io/2020/11/13/aura-of-renewal/)
 1. [Bewitch](https://saltygoo.github.io/2020/11/13/bewitch/)
+1. [Aquamorphosis](https://saltygoo.github.io/2020/11/13/elementamorphosis/)
 1. [Fish Allure](https://saltygoo.github.io/2020/11/12/animal-allure/)
 1. [Obsecration](https://saltygoo.github.io/2020/11/13/obsecration/)
 1. [Seduce Water](https://saltygoo.github.io/2020/11/13/seduce-water/)
