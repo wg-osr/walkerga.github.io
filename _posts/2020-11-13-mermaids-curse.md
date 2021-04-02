@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell craft
+tags: spell cunning
 title: Mermaid's Curse
 ---
 
