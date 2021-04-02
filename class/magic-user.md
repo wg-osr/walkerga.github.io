@@ -23,7 +23,7 @@ For every Magic User template you have, you gain one extra Spell Dice.
 By licking an object, you can tell whether or not it is magical.
 
 ## School
-[Wizard](/class/magic-user/wizard), [Cleric](/class/magic-user/cleric), [Diabolist](/class/magic-user/diabolist), [Elf](/class/magic-user/elf),  [Necromancer](/class/magic-user/necromancer), [Tiefling](/class/magic-user/tiefling).
+[Wizard](/class/magic-user/wizard), [Cleric](/class/magic-user/cleric), [Diabolist](/class/magic-user/diabolist), [Necromancer](/class/magic-user/necromancer).
 
 <ins>Spell List</ins><br>
 Every School has a list of spells associated with it. You roll randomly in it each time you take a Magic User template. You must quest to gain other spells.
