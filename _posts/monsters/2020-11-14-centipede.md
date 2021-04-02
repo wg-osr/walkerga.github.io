@@ -42,7 +42,7 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 
 # Giant Centipede
 
-**HD:** 0  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 2 / 5 / 6 / 1 / 3 / 4   <br>
+**HD:** 1  &nbsp; &nbsp;  **Size:** small &nbsp; &nbsp; **Stats:** 2 / 5 / 6 / 1 / 3 / 4   <br>
 **Armor:** as leather <br>
 **Damage:** 1 <br>
 **Movement:** average, climb average &nbsp; &nbsp; **Morale:** coward <br>
