@@ -18,6 +18,7 @@ Roll on this list when you level up:
 1. [Aquatic Door](https://saltygoo.github.io/2020/11/13/aquatic-door/)
 1. [Aura of Renewal](https://saltygoo.github.io/2020/11/13/aura-of-renewal/)
 1. [Bewitch](https://saltygoo.github.io/2020/11/13/bewitch/)
+1. [Fascinating Gaze](https://saltygoo.github.io/2020/11/13/fascinating-gaze/)
 1. [Fish Allure](https://saltygoo.github.io/2020/11/12/animal-allure/)
 1. [Mermaid's Curse](https://saltygoo.github.io/2020/11/13/mermaids-curse/)
 1. [Obsecration](https://saltygoo.github.io/2020/11/13/obsecration/)
