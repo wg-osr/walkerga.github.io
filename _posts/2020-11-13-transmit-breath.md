@@ -7,7 +7,7 @@ R: Touch		D: [dice]*10 minutes
 
 [dice] creatures need not draw breath to sustain life for the duration of this spell. 
 
-Instead, you inscribe a rune, and the atmosphere around it is magically transferred to the lungs of the creatures selected during the casting ofthe spell.
+Instead, you inscribe a rune, and the atmosphere around it is magically transferred to the lungs of the creatures selected during the casting of the spell.
 
 If you invest 4 dices or more in this spell and use a Sigil, the effect becomes permanent.
 
