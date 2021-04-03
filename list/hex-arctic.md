@@ -26,6 +26,7 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Cyclops](/monsters/cyclops)</span> <span class="b">Cyclopean ...</span>  <span class="c">wall.</span> <span class="d">Cyclopean wall.</span>
 1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Cavernous ...</span>  <span class="c">tribelands.</span> <span class="d">Deafening thunder</span>
+1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Misty ...</span>  <span class="c">hot springs.</span> <span class="d">Scalding vents.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns ringing.</span>
