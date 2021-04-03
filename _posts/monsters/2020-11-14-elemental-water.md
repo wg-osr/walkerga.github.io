@@ -15,7 +15,7 @@ Imagine water moving and shaping itself as if it had its own will. Communicates 
 **Movement:** average, swim fast <br>
 **Morale:** brave <br>
 
-As elemental water, the water elemental *resists all damage*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent out of water. In general, it has the same properties as water. Additionally, the elemental is liquid and can move through 1’’ holes and envelop smaller things.
+As elemental water, the water elemental *resists all damage*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent out of water. In general, it has the same properties as water. Additionally, the elemental is liquid and can move through 1’’ holes, envelop smaller things and shape water at will.
 
 **Attacks (1/round)**
 
