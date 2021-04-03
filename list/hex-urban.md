@@ -32,6 +32,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Trash ...</span>  <span class="c">mound.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Stilted ...</span>  <span class="c">reservoir.</span> <span class="d">Torrential rain.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Spirit ...</span>  <span class="c">bell.</span> <span class="d">Fey crowd.</span>
+1. <span class="a">[Rat](/monsters/rat)</span> <span class="b">Dirty ...</span>  <span class="c">alleys.</span> <span class="d">Disease-ridden corpse.</span>
 1. <span class="a">[Shadow, Elven](/monsters/shadow-even)</span> <span class="b">Old elven ...</span>  <span class="c">pleasure den.</span> <span class="d">Corrupted official.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Exotic ...</span>  <span class="c">contest.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">Seashell ...</span>  <span class="c">fountain.</span> <span class="d">Runaway lovers.</span>
