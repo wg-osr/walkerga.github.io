@@ -21,7 +21,7 @@ As a gaseous creature, the steam elemental cant be petrified or grappled, hit by
 
 **Attacks (1/round)**
 
-<ins>Boiling Jet</ins>. The elemental makes a short range attack (XD4 damage) which ignores armor.
+<ins>Boiling Jet</ins>. The elemental makes a short range attack (XD4 damage) which ignores armor. A character with a shield, however, can reduce the damage by 1D8.
 
 <ins>Temperature control</ins>. Each creature envelopped by the elemental or its steam takes 1D6 fire or cold damage, which ignores armor.
 
