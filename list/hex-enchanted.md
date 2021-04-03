@@ -28,6 +28,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Flame-rose ...</span> <span class="b">Scalding ...</span> <span class="d">roses.</span>
 1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Vast plains of ...</span>  <span class="b">Stampeding ...</span> <span class="d">grass.</span>
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Speaking ...</span>  <span class="b">Grasping ...</span> <span class="d">roots.</span>
+1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Vapor ...</span>  <span class="b">Boilind ...</span> <span class="d">vapors.</span>
 1. <span class="a">[Nereid](/monsters/nereid)</span> <span class="b">Sea ...</span>  <span class="b">Drowning ...</span> <span class="d">foam.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Cherry blossom ...</span>  <span class="b">Abducting ...</span> <span class="d">mist.</span>
 1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span>  <span class="b"> Dream poppy ...</span>  <span class="b">Decadent ...</span> <span class="d">poppy.</span>
