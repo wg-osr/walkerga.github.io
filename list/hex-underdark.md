@@ -34,8 +34,9 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Gravel pool.</span> <span class="b">Sunken in gravel.</span> 
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Brazier.</span> <span class="b">Carpet of coals.</span> 
 1. <span class="a">[Rat](/monsters/rat)</span> <span class="b">Abandonned basement</span> <span class="b">Poluted with trash.</span> 
-1. <span class="a">[Shadow, Elven](/monsters/shadow-even)</span> <span class="b">Elven ruin.</span> <span class="b">Decadent decay.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma pool.</span> <span class="b">Half flooded in magma.</span> 
+1. <span class="a">[Shadow, Elven](/monsters/shadow-even)</span> <span class="b">Elven ruin.</span> <span class="b">Decadent decay.</span> 
+1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astral-spinner)</span> <span class="b">Astral gate.</span> <span class="b">In silver webs.</span> 
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Broken sarcofagus.</span> <span class="b">Under ruined rubbles.</span> 
 
 <br>
@@ -73,4 +74,5 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Rat](/monsters/rat)</span> <span class="b">Derelict ...</span>  <span class="c">warrens.</span> <span class="d">Disease-ridden corpse.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="b">Magma ...</span>  <span class="c">baths.</span> <span class="d">Melting ground.</span> 
 1. <span class="a">[Shadow, Elven](/monsters/shadow-even)</span> <span class="b">Abandonned drow ...</span>  <span class="c">drug den.</span> <span class="d">Lucid dreams.</span>
+1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astral-spinner)</span> <span class="b">Silver-choked...</span>  <span class="c">planar hotel.</span> <span class="d">Silver webs.</span>
 1. <span class="a">[Wraith](/monsters/wraith)</span> <span class="b">Cursed ...</span>  <span class="c">ruins.</span> <span class="d">An item is revealed to be cursed.</span>
