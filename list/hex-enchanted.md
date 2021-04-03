@@ -32,4 +32,5 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Nereid](/monsters/nereid)</span> <span class="b">Sea ...</span>  <span class="b">Drowning ...</span> <span class="d">foam.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Cherry blossom ...</span>  <span class="b">Abducting ...</span> <span class="d">mist.</span>
 1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span>  <span class="b"> Dream poppy ...</span>  <span class="b">Decadent ...</span> <span class="d">poppy.</span>
+1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astral-spinner)</span>  <span class="b"> Silver-woven ...</span>  <span class="b">Silver ...</span> <span class="d">webs.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="b">... of barnacled trinkets.</span> <span class="b">Clingy ...</span> <span class="d">fountain.</span>
