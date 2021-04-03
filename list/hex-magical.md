@@ -29,4 +29,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> ... furnace.</span> <span class="d">Black smoke.</span> 
 1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span> <span class="e"> Cursed elven ...</span> <span class="d">Lust demon's voice.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="c">... power nexus.</span> <span class="d">Wild magic.</span>
+1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astral-spinner)</span> <span class="c"> Astral ...</span> <span class="d">Silver webs.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> Fountain of the ...</span> <span class="d">Water of amnesia.</span> 
