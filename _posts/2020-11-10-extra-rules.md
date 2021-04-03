@@ -77,7 +77,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 <ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop whatever you are holding; 2) scream; 3) fall prone; 4) grapple closest ally or object; 5) you are stunned for one turn; 6) run away.
 
-<ins>Grappled:</ins> Cannot move.
+<ins>Grappled:</ins> Cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you cant breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
 
 <ins>Invisible:</ins> Others need to roll above 20 to hit you, you need to roll above 10 to hit them.
 
