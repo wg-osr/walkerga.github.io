@@ -7,7 +7,7 @@ title: Elemental, Water
 
 Sentient water. A water elemental.
 
-*Imagine water moving and shaping itself as if it had its own will. Communicates in gargles and swirls.*
+Imagine water moving and shaping itself as if it had its own will. Communicates in gargles and swirls.
 
 **HD:** X  &nbsp; &nbsp;  **Armor:** as leather <br>
 **Size:** any <br>
@@ -15,20 +15,16 @@ Sentient water. A water elemental.
 **Movement:** average, swim fast <br>
 **Morale:** brave <br>
 
-**Elemental (Water)**
-- Resists damage.
-- Recovers X HP every round when in water.
-- Loses 1 HP every round when out of water.
-- Has the same properties as water.
-
-**Special** <br>
-The elemental is liquid: it can move through 1’’ holes and envelop smaller things.
+As elemental water, the water elemental *resists all damage*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent out of water. In general, it has the same properties as water. Additionally, the elemental is liquid and can move through 1’’ holes and envelop smaller things.
 
 **Attacks (1/round)**
 
 <ins>Slam</ins>. The elemental makes a melee attack (XD4 damage).
 
 <ins>Drown</ins>. The elemental makes a grapple attempt. On a success, it pours itself into the target’s mouth, inflicting 1D4 constitution damage. As long as it is grappled, the target cant breath or talk.
+
+<ins>Create Water</ins> (X/day). The elemental creates the equivalent of 5' cube of water.
+
 
 <br>
 
