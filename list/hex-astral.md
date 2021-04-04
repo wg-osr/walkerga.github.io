@@ -35,5 +35,6 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Water...</span>  <span class="c">bubble.</span> <span class="d">Giant bubbles.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Granite ...</span>  <span class="c">strata.</span> <span class="d">Gravel rain.</span>
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Blazing ...</span>  <span class="c">fire lord.</span> <span class="d">Burning winds.</span>
+1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="b">Oozing ...</span>  <span class="c">puddle.</span> <span class="d">Horrid stench.</span>
 1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astral-spinner)</span> <span class="b">Silver ...</span>  <span class="c">web.</span> <span class="d">Silver webs.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Power ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
