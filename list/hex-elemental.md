@@ -24,6 +24,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e"> ... sunken in gravel.</span> <span class="d">Gravel flood.</span> 
+1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="e"> Mud ...</span> <span class="d">Deep mud pits.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="e">Granite ... tower.</span>  <span class="d">Wild magic.</span>
 1. <span class="a">[Spider, Astral Spinner](/monsters/spider-astra-spinner)</span> <span class="e">Silver thread ...</span>  <span class="d">Silver webs.</span>
 
@@ -44,6 +45,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 1. <span class="a">[Cloaker](/monsters/cloaker)</span> <span class="e"> ... sunken in black water.</span> <span class="d">Zero visibility.</span> 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="e">Steaming ... </span> <span class="d">Scalding vapors.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="e">... in a giant whirlpool.</span> <span class="d">Whirlpool.</span>
+1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="e"> Brown-water ...</span> <span class="d">Thick muddy spills.</span> 
 1. <span class="a">[Nereid](/monsters/nereid)</span> <span class="e"> Coral ...</span> <span class="d">Foam walls.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="e">Ice ... tower.</span>  <span class="d">Wild magic.</span>
 1. <span class="a">[Undine](/monsters/undine)</span> <span class="e"> ... made of objects thrown at sea.</span> <span class="d">Structural collapse.</span> 
