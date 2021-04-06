@@ -34,6 +34,7 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steaming ...</span>  <span class="c">geysers.</span> <span class="d">Boiling fog.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Reed ...</span>  <span class="c">reservoir.</span> <span class="d">Snare trap.</span>
+1. <span class="a">[Muttering Serpent](/monsters/muttering-serpent)</span> <span class="b">Isolated ...</span>  <span class="c">ruins.</span> <span class="d">The path splits.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Silent ...</span>  <span class="c">cherry blossoms.</span> <span class="d">Silence.</span>
 1. <span class="a">[Snake, Copperback](/monsters/snake-copperback)</span> <span class="b">Turquoise ...</span>  <span class="c">ferns.</span> <span class="d">Noisy branches.</span>
 1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">huts.</span> <span class="d">A sacred beast.</span>
