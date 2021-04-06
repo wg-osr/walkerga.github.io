@@ -15,7 +15,7 @@ Imagine a snake about the lenght of a bear with scales green like rusted copper.
 **Movement:** fast, swim fast <br>
 **Morale:** coward <br>
 
-The copperback has a very good sense of smell and can hold its breath as long as 15 minutes. It's scales provide good armor but make it vulnerable to electricity.
+The copperback has a very good sense of smell and can hold its breath as long as 15 minutes. Its scales provide good armor but make it vulnerable to electricity.
 
 **Attacks (1/round)**
 
@@ -41,7 +41,8 @@ The copperback has a very good sense of smell and can hold its breath as long as
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
-The copperback is not entirely made of metal and its flesh is edible. However, its scales are, and can make very flexible copper armors. The most valued part of the copperback are its venom sacks.</details>
+The copperback is not entirely made of metal and its flesh is edible. However, its scales are, and can make very flexible copper armors. The most valued part of the copperback are its venom sacks.
+</details>
 
 <details markdown="1">
 <summary>D6 Symbolism</summary>
