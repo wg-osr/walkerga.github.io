@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: monster fey enemy
-permalink: /monsters/muttering-serpent.md
+permalink: /monsters/muttering-serpent
 title: Muttering Serpent
 ---
 
