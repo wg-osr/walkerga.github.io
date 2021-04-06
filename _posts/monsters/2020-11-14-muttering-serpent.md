@@ -15,7 +15,9 @@ You didn't see the snake first, because its mirror-like scales made it blend in 
 **Movement:** average <br>
 **Morale:** coward <br>
 
-As a fairie, the muttering serpent *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round. Additionally, muttering serpent have mirror like scales that make it functionally invisible when it doesn't move. The muttering serpent speaks telepathically can also read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group. It can communicate with eight person simultaneously.
+As a fairie, the muttering serpent *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round. 
+
+Additionally, muttering serpent have mirror like scales that make it functionally invisible when it doesn't move. The muttering serpent speaks telepathically can also read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group. It can communicate with eight person simultaneously.
 
 **Attacks (1/round)**
 
