@@ -9,7 +9,7 @@ Parasitic spiders dwelling in the astral plane but preying on the material. A be
 
 Imagine a foot-long hairless spider the color of polished silver. Its hollow abdomen holds an eye-sized gelatinous orb filled with red, blue or purple liquid.
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
+**HD:** 0  &nbsp; &nbsp;  **Armor:** as chain <br>
 **Size:** tiny <br>
 **Stats:** weak and feral<br>
 **Movement:** average, climb average <br>
