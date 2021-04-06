@@ -35,4 +35,5 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Reed ...</span>  <span class="c">reservoir.</span> <span class="d">Snare trap.</span>
 1. <span class="a">[Rat](/monsters/rat)</span> <span class="b">Polluted...</span>  <span class="c">trash piles.</span> <span class="d">Disease ridden corpse.</span>
+1. <span class="a">[Snake, Copperback](/monsters/snake-copperback)</span> <span class="b">Turquoise ...</span>  <span class="c">ferns.</span> <span class="d">Tall ferns.</span>
 1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">stilted huts.</span> <span class="d">A sacred beast.</span>
