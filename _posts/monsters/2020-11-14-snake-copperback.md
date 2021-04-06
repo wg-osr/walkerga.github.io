@@ -19,7 +19,7 @@ The copperback has a very good sense of smell and can hold its breath as long as
 
 **Attacks (1/round)**
 
-<ins>Venomous</ins>. The copperback makes a melee attack (1D4). On a hit, the target must save or become poisoned.
+<ins>Venomous Bite</ins>. The copperback makes a melee attack (1D4). On a hit, the target must save or become poisoned.
 
 <span class="alchemy">**Copperback Venom**. Poison. Symptom: you fall asleep and nothing can wake you up for 4 hours. </span>
 
