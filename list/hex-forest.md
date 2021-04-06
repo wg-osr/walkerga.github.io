@@ -24,4 +24,5 @@ Each time your roll on the forest hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Dark ...</span>  <span class="c">woods.</span> <span class="d">Trees that look like enemies.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Snake, Copperback](/monsters/snake-copperback)</span> <span class="b">Turquoise ...</span>  <span class="c">fern woods.</span> <span class="d">Noisy branches.</span>
 1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">longhouses.</span> <span class="d">A sacred beast.</span>
