@@ -30,6 +30,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Wicked ...</span>  <span class="c">idols.</span> <span class="d">Fanatical crowd.</span>
 1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Rocky ...</span>  <span class="c">wurm kennels.</span> <span class="d">Rampaging wurm.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Trash ...</span>  <span class="c">mound.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span> <span class="b">Automated ...</span>  <span class="c">statues.</span> <span class="d">Riot wall.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Stilted ...</span>  <span class="c">reservoir.</span> <span class="d">Torrential rain.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Spirit ...</span>  <span class="c">bell.</span> <span class="d">Fey crowd.</span>
 1. <span class="a">[Rat](/monsters/rat)</span> <span class="b">Dirty ...</span>  <span class="c">alleys.</span> <span class="d">Disease-ridden corpse.</span>
