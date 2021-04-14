@@ -17,3 +17,4 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Cambion](/monsters/cambion)</span> <span class="e"> ... hell gate.</span> <span class="d">Food turns to ash if eaten.</span> 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e">Diabolist's ...</span> <span class="d">Imminent sacrifice.</span> 
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="e">Sinner's ...</span> <span class="d">Fruits of temptation.</span> 
+1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span>  <span class="e">Ancient ... monument.</span> <span class="d">Boulder traps.</span> 
