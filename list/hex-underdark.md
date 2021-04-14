@@ -31,6 +31,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Warm vent.</span> <span class="b">Spitting scalding fog.</span> 
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Underwater tunnel.</span> <span class="b">Behind a waterfall.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
+1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span> <span class="b">Massive stone door.</span> <span class="b">Sealed shut.</span> 
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Gravel pool.</span> <span class="b">Sunken in gravel.</span> 
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Brazier.</span> <span class="b">Carpet of coals.</span> 
 1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="b">Bubbling mud pit.</span> <span class="b">Horrid stench.</span> 
@@ -71,6 +72,7 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steaming ...</span>  <span class="c">hot springs.</span> <span class="d">Scalding fog.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Submerged ...</span>  <span class="c">waterfall.</span> <span class="d">Flooding.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">slums.</span> <span class="d">Pit trap.</span>
+1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span> <span class="b">Old ...</span>  <span class="c">palace.</span> <span class="d">Boulder trap.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Gravel ...</span>  <span class="c">mouth.</span> <span class="d">Gravel lake.</span>
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="b">Fire ...</span>  <span class="c">temple.</span> <span class="d">Flammable gas.</span>
 1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="b">Ooze ...</span>  <span class="c">trash pits.</span> <span class="d">Sticky floors.</span>
