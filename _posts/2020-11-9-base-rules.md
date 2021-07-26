@@ -49,7 +49,7 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 <details markdown="1">
 <summary>Example</summary>
-*Beau is running away from a troll. He rolls his movement and the referee rolls the troll's movement. Beau gets 17 and the troll gets 13, this means beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.*
+*Beau is running away from a troll. He rolls his movement and gets 17, this is higher than 15 and means that beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.*
 </details>
 
 <ins>Armor</ins> is the amount of damage you ignore on each attack, to a minimum of 1.
@@ -65,33 +65,40 @@ A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc). Whe
 
 # Rolling
 
-When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed. 
+When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed.
+
+For easy situations, the referee might have you roll higher than 10. For hard situations, 20.
+
+<details markdown="1">
+<summary>Example</summary>
+*A troll is roughly as fast as a human. When trying to escape one, Beau had to roll above 15. He rolled 12 and added his movement score of 5, for a total of 17, and thus escaped the troll. He ran into a bunch of slow zombies and doesn't want to fight them. It's gonna be an easy escape and the referee decides Beau only has to beat 10 to run away.*
+</details>
 
 A referee should only call for a roll when both success and failure have interesting consequences. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
-A contested roll is when the referee rolls using the monster’s stats and you have to roll higher. As in the Movement example above.
-
-Rolling with advantage means you roll twice and choose the best. Disadvantage is the opposite.
+Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacle (shooting from very far, attacking under water, etc).
 
 ---
 
 # Combat
 
-<ins>Turn Order:</ins> In order of Wisdom.
+<ins>Turn Order:</ins> You act before the monsters, unless they have surprised you.
 
-<ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one comabt action, which can be moving further.
+<ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one combat action, which can be moving further.
 
-<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons). The monster will roll Dexterity. You hit if you roll higher. Alternatively, if you want less rolls, the number to beat is 10 plus the target's dexterity.
+<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons).
 
-When you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. 
+If you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. 
 
-Rolling 20 on attack means do double damage. Rolling 20 on dodge means you get a free attack.
+Rolling 20 on attack means do double damage.
+
+<ins>Dodging:</ins> To avoid an attack, roll Dexterity. Rolling 20 means you get a free attack.
 
 ---
 
 # Dying & Healing
 
-Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. If you reach 10 wounds, you die. Each wound reduces your maximum HP by 1, down to 0, until they are healed.
+Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. If you reach 10 wounds, you die.
 
 When you are dying, you must roll Constitution on each of your turns.
 - On a roll of 1, your character dies. 
@@ -99,7 +106,7 @@ When you are dying, you must roll Constitution on each of your turns.
 - On a success, nothing changes. 
 - On a roll of 20 or on result of 24 or higher, you stabilize and stop dying.
 
-Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives a bonus of 2 on that roll. Stabilizing does not remove wounds.
+Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives advantage on that roll. Stabilizing does not remove wounds.
 
 <ins>Healing:</ins> A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
 
@@ -113,6 +120,8 @@ You have as many inventory slots as twice your strength. Small items like potion
 
 It takes an action to retrieve an item, unless it is in your first 3 slots.
 
+In town, you can trade items for other items with the same value : Trash, Mundane, Valuable, and Treasure.
+
 ---
 
 # Equipment
@@ -122,7 +131,7 @@ It takes an action to retrieve an item, unless it is in your first 3 slots.
 <ins>Improvised (wine bottle, chair)</ins>
 1D4 damage, can be throw
 
-<ins>Light (dagger, hatchet)</ins>
+<ins>Light (dagger, javelin)</ins>
 1D6 damage, can be thrown
 
 <ins>Medium (sword, axe)</ins>
@@ -133,7 +142,7 @@ It takes an action to retrieve an item, unless it is in your first 3 slots.
 
 <ins>Pole (spear, halberd)</ins>
 1D8 damage, needs two hands,
-can attack from behind other creatures
+free attack if a monster charges you
 
 **Ranged Weapons:**
 
@@ -164,6 +173,6 @@ Choose a stat, increase it by 1 (up to 10).
 
 After level 4, you get 1 Mastery point instead of any template or bonus.
 
-<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an adjacent ally at a rate of 1 point for 1 point.
+<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting an nearby ally at a rate of 1 point for 1 point.
 
 
