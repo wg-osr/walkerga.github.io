@@ -20,20 +20,20 @@ title: Advanced Rules
 
 <ins>Heroism.</ins> After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. You can only know as many skills as your Intelligence. You can replace old skills as you get new ones.
 
-<ins>Scars.</ins> Also, after a session, if you got at least one Wound, you now have a scar. This scar makes you resistant to the specific danger that gave you the Wound (as defined by the referee). You can only have as many scars as your Constitution.  You can replace old scars as you get new ones. If you somewhat mutate during you adventure, each mutation takes the place of a scar but cannot be removed.
+<ins>Scars.</ins> Also, after a session, if you got wounded, you now have a scar. This scar makes you resistant to the specific danger that gave you the Wound (as defined by the referee). You can only have as many scars as your Constitution.  You can replace old scars as you get new ones. If you somewhat mutate during you adventure, each mutation takes the place of a scar but cannot be removed.
 
 ---
 
 ## Damage Types
 
-For those who want to do more with the elements, you can sacrifice a damage dice to have a powerful on-hit effect instead:
-- <ins>Acid:</ins> negate target's armor for a round.
+If you want to do more with the elements, you can remove a damage dice from your attack to have a powerful on-hit effect instead:
+- <ins>Acid:</ins> negate armor for a round.
 - <ins>Cold:</ins> prevent movement for a round.
-- <ins>Electric:</ins> attack a nearby target for the sacrificed dice's damage.
-- <ins>Fire:</ins> destroy a flammable piece of clothing or small object.
-- <ins>Mind:</ins> target acts last on its next turn.
-- <ins>Magical:</ins> target must save to be able to cast spells next round.
-- <ins>Poison:</ins> is poisoned for a round.
+- <ins>Electric:</ins> attack nearby target for 1 dice.
+- <ins>Fire:</ins> destroy a flammable small object.
+- <ins>Mind:</ins> charm for a round.
+- <ins>Magical:</ins> ignore resistance.
+- <ins>Poison:</ins> poison for a round.
 
 <details markdown="1">
 <summary>Example</summary>
@@ -50,7 +50,7 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 <ins>Dexterity:</ins> you are Prone and cant stand.<br>
 <ins>Constitution:</ins> you are Dying.<br>
 <ins>Intelligence:</ins> you are Dazed and mute.<br>
-<ins>Wisdom:</ins> you are mad, you become a hostile NPC.<br>
+<ins>Wisdom:</ins>the referee takes over<br>
 <ins>Charisma:</ins> you are forgotten. Nobody, even friends, can help you in any way.
 
 ---
