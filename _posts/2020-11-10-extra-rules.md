@@ -57,11 +57,11 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 ## Conditions
 
-<ins>Blinded:</ins> You cant see or make ranged attacks. You need to roll above 20  to hit with a melee attack, enemies need to roll above 10 to hit you.
+<ins>Blinded:</ins> You cant see or make ranged attacks. You need to roll above 20 to hit with a melee attack, enemies need to roll above 10 to hit you.
 
 <ins>(Not) Breathing:</ins> You can hold your breath for as many rounds as your CON. If you take damage while holding your breath, you must make a CON save. On a failure, you start dying.
 
-<ins>Charmed:</ins> You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1 psychic damage. 
+<ins>Charmed:</ins> You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1 mind damage. 
 
 <ins>Confused:</ins> Roll a D6. You must spend your turn interacting with: 1) the player on your right; 2) the player on your left; 3) yourself; 4) the closest monster; 5) the environment; 6) oblivion.
 
@@ -93,19 +93,19 @@ Various monsters and spells can damage your stats instead of your HP. Here is wh
 
 ## Rare Metals
 
-All fairies, elementals, ghosts and devils resist or ignore damage. But some rare metals give tools for adventurers to overcome that. Additionaly, Adamantium and Platinum weapons are very useful for fighters because they dont get destroyed when they use their [parry](https://saltygoo.github.io/class/fighter#parry) ability.
+Fairies, elementals, ghosts and devils resist or ignore damage. But some rare metals overcome that. Additionaly, Adamantium and Platinum weapons are very useful for fighters because they dont get destroyed when they use their [parry](https://saltygoo.github.io/class/fighter#parry) ability.
 
-<ins>Adamantium:</ins> Nothing is more solid than adamantium. An object hit by adamantium takes double damage, including constructs. An adamantium object is unbreakable.
+<ins>Adamantium:</ins> Nothing is more solid than adamantium. You can forgo a damage dice when inflicting damage with it to destroy an object. An adamantium object is unbreakable.
 
 <ins>Cold Iron:</ins> A faerie that touches cold iron loses all abilities and resistances for a turn. They can smell it.
 
-<ins>Silver:</ins> Silvered weapons ignore all the resistances of undead creatures and creatures that are not in their true form.
+<ins>Silver:</ins> Silvered weapons ignore all the resistances of undead creatures and of creatures that are not in their true form.
 
 <ins>Mithral:</ins> Is light like cloth. Weapons made of mithral can be used with Dexterity. Armors made of mithral do not penalize Dexterity.
 
 <ins>Radium:</ins> Radium sheds light like a candle and inflicts 1D4 extra poison damage. It ignore the resistances of celestial creatures like angels and devils. After each adventure spent carrying radium, save or gain a [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
 
-<ins>Platinum:</ins> Platinum repairs itself in 1 hour. Platinum weapons ignore the resistances of aberrations as well as their save to kill ability.
+<ins>Platinum:</ins> Platinum repairs itself in 1 hour. Platinum weapons ignore the resistances of aberrations as well as their horrid immortality.
 
 ---
 
