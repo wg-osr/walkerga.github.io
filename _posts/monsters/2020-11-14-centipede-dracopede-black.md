@@ -21,7 +21,7 @@ Dracopedes can climb on any surfaces, including upside down, with little difficu
 
 <ins>Bite.</ins> The dracopede makes one melee attack (1D4) inflicting additional poison damage (1D4). If this damage would inflict wounds to the target, it falls asleep instead.
 
-<ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot be damaged by missile weapons and one-handed melee weapons.
+<ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot move or attack, nor be damaged by missile weapons and one-handed melee weapons.
 
 <ins>Poison Spray (recharge 2/6).</ins> The dracopede spits poison in a short cone. Those who fail to dodge take poison damage (1D4) and are poisoned for 1 minute.
 
