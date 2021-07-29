@@ -15,7 +15,7 @@ Imagine a centipede as long as a dog, with stone gray legs and a snow covered bl
 **Movement:** average, climb average<br>
 **Morale:** brave <br>
 
-Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement. Blue dracopede are immune to cold and can easily camouflage as icicles.
+Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement. Blue dracopedes resist cold and can easily camouflage as icicles.
 
 **Attacks (1/round)**
 
