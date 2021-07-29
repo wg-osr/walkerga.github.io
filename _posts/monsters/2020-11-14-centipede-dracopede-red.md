@@ -9,7 +9,6 @@ Armored centipede with a flaming breath attack. A beast.
 
 Imagine a bright-red centipede as long as a dog. It eats burnt organic matter.
 
-
 **HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
 **Size:** small <br>
 **Stats:** agile but weak and feral<br>
