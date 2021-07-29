@@ -23,6 +23,7 @@ Dracopedes can climb on any surfaces, including upside down, with little difficu
 <ins>Bite.</ins> The dracopede makes one melee attack (1D4).
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot move or attack, nor be damaged by missile weapons and one-handed melee weapons.
+
 <ins>Flammable Spray (recharge 2/6).</ins> The dracopede spits flammable acid in a short cone. Those who fail their dodge take acid damage (1D4). And fire damage (D4) every turn until the sticky liquid is removed.
 
 This attack has no effect in cool temperatures.
