@@ -131,7 +131,7 @@ In a swarm, Vyderacs are immune to being grappled or attacked by single target s
 
 Imagine a humongus scarab with a bloated abdoment anchored to a tree with pulsing red vains. It's heavily armored with chitinous plates except in the bulging egg sacks that dangle from it. Every unprotected bit of her body is writhing with big maggots.
 
-**HD:** 6HP  &nbsp; &nbsp;  **Armor:** as plate <br>
+**HD:** 6  &nbsp; &nbsp;  **Armor:** as plate <br>
 **Size:** huge <br>
 **Stats:** strong, static, sturdy, and primal <br>
 **Movement:** static<br>
