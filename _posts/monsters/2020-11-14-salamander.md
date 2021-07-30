@@ -7,7 +7,7 @@ title: Salamander
 
 Fiery lizard people. A fire elemental.
 
-*Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is gloing like magma and its eyes are like black pearls.*
+Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is gloing like magma and its eyes are like black pearls.
 
 **HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
@@ -15,12 +15,7 @@ Fiery lizard people. A fire elemental.
 **Movement:** average <br>
 **Morale:** brave <br>
 
-**Elemental (Fire)**
-- resists damage, immune to fire
-- recover 2 HP per round when in flames
-- loses 1 HP per round without fuel
-- contact with it causes 1 fire damage/round
-- has the same properties as fire
+As elemental fire, the salamander *resists all damage* and is *immune to fire*. It *recovers 2 HP* every round spent ablaze or with fuel and *loses 2 HP* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
 
 **Attacks (1/round)**
 
