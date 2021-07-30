@@ -5,31 +5,31 @@ permalink: /monsters/cyclopskin
 title: Cyclopskin
 ---
 
-*One-eyed humanoids that look like bigger, lankier orcs. Humanoid*
-
-<span class="alchemy"> *The cyclops has the problem of many giants in DnD in the fact that they have no abilities besides being big. It's a bit sad, especially for something as visualy striking as the cyclops. What I did was to give its eye a power and a reason to exploit this weakness. — SaltyGoo* </span>
+One-eyed humanoids that look like bigger, lankier orcs. A humanoid.
 
 Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs with cyclops blood.
 
-**HD:** 2+2  &nbsp; &nbsp;  **Size:** medium &nbsp; &nbsp; **Stats:** 8 / (5) / 8 / 3 / 4 / 5<br>
-**Armor:** leather <br>
-**Damage:** 1D6 <br>
-**Movement:** average &nbsp; &nbsp; **Morale:** brave <br>
+**HD:** 2 +2HP  &nbsp; &nbsp;  **Armor:** leather <br>
+**Size:** medium <br>
+**Stats:** strong, sturdy and a bit dumb. <br>
+**Movement:** average <br>
+**Morale:** brave <br>
 
-**Poor Death Perception:** The cyclopskin has disadvantage on any attack and skill rolls relating to things that are not nearby.
+**Attacks (1/round)**
 
-**Attacks:** Each round, the cyclopskin can perform one of these actions:
+<ins>Clumsy Maul Bash.</ins> The cyclopskin makes one melee attack (1D10) with disadvantage.
 
-<ins>Maul.</ins> The cyclopskin makes one melee attack (x).
+<ins>Javelin</ins>. The cyclopskin makes one ranged attack (1D6).
 
-<ins>Javelin</ins>. The cyclopskin makes one ranged attack (x).
-
-<ins>Aggressive Rush.</ins> The cyclopskin moves its full movement towards a target and makes a melee attack (2x). The cyclopskin is blinded for the rest of the round.
+<ins>Aggressive Rush.</ins> If it has the space, the cyclopskin moves its full movement towards a target and makes a melee attack (1D10). The cyclopskin is blinded for the rest of the round.
 <br>
 
 ---
 
-## Random Encounter
+<br> 
+
+<details markdown="1">
+<summary>Random Encounter</summary>
 
 1. **Monster:** 2D4 cyclopskins & ... (1D4)
     1. 1 [cyclops](/monsters/cyclops)
@@ -41,11 +41,10 @@ Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs
 1. **Tracks:** Singe eyes craved on rocks.
 1. **Trace:** A broken spear.
 1. **Trace:** Statue of a cyclops.
+</details>
 
-<br>
-
----
-
+<details markdown="1">
+<summary>Salvaging the body</summary>
 ## Loot
 
 You find the monster's weapons and ... (Roll as many times as the HD of the monster)
@@ -56,12 +55,10 @@ You find the monster's weapons and ... (Roll as many times as the HD of the mons
 1. Two javelins.
 1. Pillaged silverware (Valuable).
 1. A rock fetish of the one-eyed god.
+</details>
 
-<br>
-
----
-
-## Culture Table
+<details markdown="1">
+<summary>2D6 Cyclopskin Cultures</summary>
 
 Combine the result of both tables to get the broad lines of this humanoid culture in this part of the world.
 
@@ -80,10 +77,16 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 1. They see all other humanoids as rivals.
 1. Their leader is a mountain sized cyclops.
 1. They are led by a beholder.
+</details>
 
+<details markdown="1">
+<summary>Player Class</summary>
+Play as a [Cyclopskin](/class/fighter/cyclopskin)!
+</details>
 
-<br>
+<br> 
 
----
-
-## Play as a [Cyclopskin](/class/fighter/cyclopskin)!
+<details markdown="1">
+<summary>DM Notes</summary>
+The cyclops has the problem of many giants in DnD in the fact that they have no abilities besides being big. It's a bit sad, especially for something as visualy striking as the cyclops. What I did was to give its eye a power and a reason to exploit this weakness.
+</details>
