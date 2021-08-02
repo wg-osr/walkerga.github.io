@@ -29,6 +29,7 @@ Each time your roll on the desert hex table, you fill 3D4 adjacent hexes on the 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Cyclops](/monsters/cyclops)</span> <span class="b">Cyclopean ...</span>  <span class="c">wall.</span> <span class="d">Cyclopean wall.</span>
 1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Cavernous ...</span>  <span class="c">tribelands.</span> <span class="d">Wurm mating call.</span>
+1. <span class="a">[Donestre](/monsters/donestre)</span> <span class="b">Lonely ...</span>  <span class="c">passage.</span> <span class="d">Lost for days.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Gravel ...</span>  <span class="c">shrine.</span> <span class="d">Slippery gravel.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
