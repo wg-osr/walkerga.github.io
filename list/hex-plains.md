@@ -26,6 +26,7 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Fern ...</span>  <span class="c">mounds.</span> <span class="d">Slippery rotten grass.</span>
 1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Verdant ...</span>  <span class="c">pastures.</span> <span class="d">Dying horse.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
+1. <span class="a">[Donestre](/monsters/donestre)</span> <span class="b">Lonely ...</span>  <span class="c">cave.</span> <span class="d">Lost for days.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Snake, Copperback](/monsters/snake-copperback)</span> <span class="b">Turquoise ...</span>  <span class="c">ferns.</span> <span class="d">Tall ferns.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
