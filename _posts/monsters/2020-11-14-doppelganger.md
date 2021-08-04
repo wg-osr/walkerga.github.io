@@ -5,8 +5,6 @@ permalink: /monsters/doppelganger
 title: Doppelganger
 ---
 
-<img align="right" width=200px src="/images/Abysmal.png">
-
 Ultimate shapeshifter. An aberration.
 
 Imagine a humanoid with no definite features, not even a face. As you look, its fingers stretch into needle like claws.
