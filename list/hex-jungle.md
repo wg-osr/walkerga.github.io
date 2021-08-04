@@ -32,6 +32,7 @@ Each time your roll on the jungle hex table, you fill 2D4 adjacent hexes on the 
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Blood ...</span>  <span class="c">willows.</span> <span class="d">Trees that look like enemies.</span>
 1. <span class="a">[Dingonek](/monsters/dingonek)</span> <span class="b">Mossy ...</span>  <span class="c">lake.</span> <span class="d">3 feet of water.</span>
+1. <span class="a">[Dragon, Green](/monsters/dragon-green)</span> <span class="b">Thorn ...</span>  <span class="c">maze.</span> <span class="d">Lost in a maze.</span>
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steaming ...</span>  <span class="c">geysers.</span> <span class="d">Boiling fog.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Reed ...</span>  <span class="c">reservoir.</span> <span class="d">Snare trap.</span>
