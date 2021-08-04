@@ -34,6 +34,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 &nbsp; &nbsp; &nbsp; <span class="a">**Monster**</span> <span class="ee">**Adjective ...**</span> **Hazard**
 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="e"> Coal ...</span> <span class="d">Scalding orchids.</span> 
+1. <span class="a">[Dragon, Red](/monsters/dragon-red)</span> <span class="e"> ... in liquid gold.</span> <span class="d">Liquid gold rain.</span> 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="e">Steaming ... </span> <span class="d">Scalding vapors.</span>
 1. <span class="a">[Mephit, Fire](/monsters/mephit-fire)</span> <span class="e"> Flamedance ...</span> <span class="d">Firelord passing by.</span> 
 1. <span class="a">[Salamander](/monsters/salamander)</span> <span class="e"> Crater ...</span> <span class="d">Lava bubbles.</span> 
