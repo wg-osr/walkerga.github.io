@@ -55,7 +55,7 @@ Each creature in the area or ending their turn in the area must make a saving th
 
 Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
 
-**Attacks (3/round)**
+**Attacks (1/round)**
 
 <ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D4) damage and grappling the target.
 
@@ -81,7 +81,7 @@ Each creature in the area or ending their turn in the area must make a saving th
 
 Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
 
-**Attacks (3/round)**
+**Attacks (2/round)**
 
 <ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D6) damage and grappling the target.
 
@@ -148,6 +148,7 @@ Non-wyrmlings dragons have the following additional attack options when in their
 
  ---
 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
