@@ -23,6 +23,7 @@ Each time your roll on the forest hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Centi., Draco Red](/monsters/centipede-dracopede-red)</span> <span class="b">Ashen ...</span>  <span class="c">volcano.</span> <span class="d">Hot ember.</span>
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Dark ...</span>  <span class="c">woods.</span> <span class="d">Trees that look like enemies.</span>
+1. <span class="a">[Dragon, Green](/monsters/dragon-green)</span> <span class="b">Thorn ...</span>  <span class="c">maze.</span> <span class="d">Lost in a maze.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Muttering Serpent](/monsters/muttering-serpent)</span> <span class="b">Isolated ...</span>  <span class="c">pines.</span> <span class="d">The path splits.</span>
 1. <span class="a">[Snake, Copperback](/monsters/snake-copperback)</span> <span class="b">Turquoise ...</span>  <span class="c">fern woods.</span> <span class="d">Noisy branches.</span>
