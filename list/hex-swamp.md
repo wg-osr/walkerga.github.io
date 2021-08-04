@@ -31,6 +31,7 @@ Each time your roll on the swamp hex table, you fill 2D4 adjacent hexes on the m
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="b">Forbidden ...</span>  <span class="c">idols.</span> <span class="d">Cult idol.</span>
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span> <span class="b">Dead-men ...</span>  <span class="c">moor.</span> <span class="d">Zombie-clogged waters.</span>
 1. <span class="a">[Dingonek](/monsters/dingonek)</span> <span class="b">Mossy ...</span>  <span class="c">lake.</span> <span class="d">3 feet of water.</span>
+1. <span class="a">[Dragon, Green](/monsters/dragon-green)</span> <span class="b">Thorn ...</span>  <span class="c">maze.</span> <span class="d">Lost in a maze.</span>
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steaming ...</span>  <span class="c">hot springs.</span> <span class="d">Scalding jets.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Flooding ...</span>  <span class="c">fountains.</span> <span class="d">Whirlpool.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">warrens.</span> <span class="d">Pit trap.</span>
