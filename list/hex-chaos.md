@@ -19,4 +19,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e">Wicked ... of doom.</span> <span class="d">Mass suicide.</span> 
 1. <span class="a">[Death's Head Tree](/monsters/death-head-tree)</span>  <span class="e"> ... of human flesh.</span> <span class="d">Grasping hands.</span> 
 1. <span class="a">[Doppelganger](/monsters/doppelganger)</span>  <span class="e"> Twisted copy of a ...</span> <span class="d">Evil twin.</span> 
+1. <span class="a">[Dragonspawn, Green](/monsters/dragonspawn-green)</span>  <span class="e"> Poluted ... lab. </span> <span class="d">Acid rain.</span> 
 1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span>  <span class="e"> Ruined elven pleasure ...</span> <span class="d">Vicious illusions.</span> 
