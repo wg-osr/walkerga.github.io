@@ -59,6 +59,11 @@ Your studies of the aberration has changed you in horrible, gruesome ways: you l
 1. ... spikes everywhere. you know the [spell word](https://saltygoo.github.io/class/magic-user#spell-words) *Poison* and gain one spell dice.
 </details>
 
+<details markdown="1">
+<summary>Player Class</summary>
+Play as a [mutant](https://saltygoo.github.io/class/fighter/mutant)! Instead of rolling on the mutation list foor the first roll, roll on the dragonspawn mutations. 
+</details>
+
 <br>
 
 <details markdown="1">
