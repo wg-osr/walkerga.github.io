@@ -23,9 +23,9 @@ As an aberration, the dragonspawn *resists mind attacks* and *does not die* unle
 
 <ins>Charge.</ins> The greenspawn bull-rushes its full movement. If the target fails to dodge, it takes damage (2D6), is pushed back and is knocked prone. 
 
-<ins>Rake.</ins> The greenspawn makes two melee attacks (1D6) with its blade-like wings and then jumps back nearby not triggering an attack of opportunity from its target.
+<ins>Rake.</ins> The greenspawn makes two melee attacks (1D6) with its blade-like wings and then jumps back nearby.
 
-<ins>Throw.</ins> The greenspawn attempts to grapple a creature and bite it. On a success, it inflicts bite (1D6) and poison (1D6) damage. The target is then thrown nearby, taking damage (x).
+<ins>Throw.</ins> The greenspawn attempts to grapple a creature and bite it. On a success, it inflicts bite (1D6) and poison (1D6) damage. The target is then thrown nearby, taking damage (1D6) on impact and falling prone.
 
 <ins>Poison Cloud (recharge 2/6).</ins> The greenspawn exhale poison gas around it, providing total cover. Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (3D6) and be poisoned until the end of their next turn. The cloud has 1/4 chance of dissipating each turn.
 
