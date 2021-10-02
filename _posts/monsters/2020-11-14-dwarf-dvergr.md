@@ -39,8 +39,8 @@ Dvergrs do not need light in the dark, as they smell everything that is crafted 
     1. <ins>Dvergr Tunnelers:</ins> 1D10 dvergr & 1D4 [engines of pain](https://saltygoo.github.io/monsters/engine-of-pain)
     1. <ins>Dvergr Unrest Sowers:</ins> 1D6 [soulblades](https://saltygoo.github.io/monsters/scout) & 1D4 [mind masters](https://saltygoo.github.io/monsters/scout)
     1. <ins>Dvergr Survey Cavalry:</ins> 1D8 [spider riders](https://saltygoo.github.io/monsters/scout) & as many [giant spiders](https://saltygoo.github.io/monsters/spider)
-    1. <ins>Dvergr Inspectors:</ins> 1 [forge priest](https://saltygoo.github.io/monsters/priest) & 1D6 [fire lancers](https://saltygoo.github.io/monsters/soldiers)
-    1. <ins>Dvergr Demolition Squad:</ins> 1 [juggernaut](https://saltygoo.github.io/monsters/soldier) & 1D8 [fire lancers](https://saltygoo.github.io/monsters/soldiers)
+    1. <ins>Dvergr Inspectors:</ins> 1 [forge priest](https://saltygoo.github.io/monsters/priest) & 1D6 [fire lancers](https://saltygoo.github.io/monsters/soldier)
+    1. <ins>Dvergr Demolition Squad:</ins> 1 [juggernaut](https://saltygoo.github.io/monsters/soldier) & 1D8 [fire lancers](https://saltygoo.github.io/monsters/soldier)
 1. **Lair:** A mining camp with slave pens. <br>	&nbsp; OR <br>	**Omen:** Laborious klank noises.
 1. **Spoor:** An escaped slave, dying.
 1. **Tracks:** Dwarf tracks.
