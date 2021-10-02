@@ -32,6 +32,7 @@ Each time you roll for an urban hex, find a name for the city and trace a road t
 1. <span class="a">[Doppelganger](/monsters/doppelganger)</span> <span class="b">Masquerade ...</span>  <span class="c">court.</span> <span class="d">NPC is now doppelganger.</span>
 1. <span class="a">[Dretch](/monsters/dretch)</span> <span class="b">Polluted ...</span>  <span class="c">dump.</span> <span class="d">Toxic sludge.</span>
 1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="b">Iron ...</span>  <span class="c">distopia.</span> <span class="d">Slave revolt.</span>
+1. <span class="a">[Dwarf, Hill](/monsters/dwarf-hill)</span> <span class="b">Rowdy ...</span>  <span class="c">brewery.</span> <span class="d">Rolling barrels.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Trash ...</span>  <span class="c">mound.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span> <span class="b">Automated ...</span>  <span class="c">statues.</span> <span class="d">Riot wall.</span>
 1. <span class="a">[Lizardfolk](/monsters/lizardfolk)</span> <span class="b">Stilted ...</span>  <span class="c">reservoir.</span> <span class="d">Torrential rain.</span>
