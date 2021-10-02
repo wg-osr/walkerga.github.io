@@ -27,6 +27,7 @@ Each time your roll on the mountain hex table, you fill 1D6 adjacent hexes on th
 1. <span class="a">[Cyclops](/monsters/cyclops)</span> <span class="b">Ancient ...</span>  <span class="c">boulder.</span> <span class="d">Cyclopean wall.</span>
 1. <span class="a">[Cyclopskin](/monsters/cyclopskin)</span> <span class="b">Cavernous ...</span>  <span class="c">tribelands.</span> <span class="d">Deafening thunder</span>
 1. <span class="a">[Dragon, Red](/monsters/dragon-red)</span> <span class="b">Grumbling ...</span>  <span class="c">volcano.</span> <span class="d">Lava falls.</span>
+1. <span class="a">[Dwarf, Hill](/monsters/dwarf-hill)</span> <span class="b">Walled ...</span>  <span class="c">mine.</span> <span class="d">Rope bridge.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">tunnels.</span> <span class="d">Pit trap.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Misty ...</span>  <span class="c">bridges.</span> <span class="d">Silence.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">powerstone.</span> <span class="d">Wild magic.</span>
