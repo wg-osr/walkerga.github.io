@@ -21,7 +21,7 @@ Each time your roll on the plains hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Cacus](/monsters/cacus)</span> <span class="b">Cattle ...</span>  <span class="c">hovel.</span> <span class="d">Sheep herd.</span>
 1. <span class="a">[Cadejo](/monsters/cadejo)</span> <span class="b">Isolated ...</span>  <span class="c">tavern.</span> <span class="d">Poisonous thorns.</span>
 1. <span class="a">[Cat, Sabertooth](/monsters/cat-sabertooth)</span> <span class="b">Sinuous ...</span>  <span class="c">canyon.</span> <span class="d">Rocky plateau.</span>
-1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="b">Clear-sky ...</span>  <span class="c">mesa.</span> <span class="d">Cliff.</span>
+1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="b">Sunny ...</span>  <span class="c">mesa.</span> <span class="d">Cliff.</span>
 1. <span class="a">[Centaur](/monsters/centaur)</span> <span class="b">Great Herd ...</span>  <span class="c">path.</span> <span class="d">Beast stampede.</span>
 1. <span class="a">[Centipede](/monsters/centipede)</span> <span class="b">Fern ...</span>  <span class="c">mounds.</span> <span class="d">Slippery rotten grass.</span>
 1. <span class="a">[Chevall](/monsters/chevall)</span> <span class="b">Verdant ...</span>  <span class="c">pastures.</span> <span class="d">Dying horse.</span>
