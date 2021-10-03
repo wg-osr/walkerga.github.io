@@ -16,6 +16,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 1. <span class="a">[Airwalker](/monsters/airwalker)</span> <span class="e">Spinning ...</span> <span class="d">Flying portals.</span> 
 1. <span class="a">[Bat, Arctic](/monsters/bat-arctic)</span> <span class="e"> ... in a blizzard. </span> <span class="d">Blizzard.</span> 
 1. <span class="a">[Cat, Tressym, Giant](/monsters/cat-tressym-giant)</span> <span class="e"> ... on a floating rock. </span> <span class="d">Floating rocks.</span> 
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="e"> ... in a black hole. </span> <span class="d">Extreme gravity</span>
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="e">Cloud ... </span> <span class="d">Scalding vapors.</span>
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="e">Storm ... tower.</span>  <span class="d">Wild magic.</span>
 
@@ -25,6 +26,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll a D4 to kno
 
 1. <span class="a">[Dretch](/monsters/mephit-earth)</span> <span class="e"> Toxic mud ...</span> <span class="d">Gas bubbles.</span> 
 1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="e"> Coal ...</span> <span class="d">Giant drills.</span> 
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="e"> ... turning into dust. </span> <span class="d">Durfaces turning into dust.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e"> ... sunken in gravel.</span> <span class="d">Gravel flood.</span> 
 1. <span class="a">[Mephit, Ooze](/monsters/mephit-ooze)</span> <span class="e"> Mud ...</span> <span class="d">Deep mud pits.</span> 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="e">Granite ... tower.</span>  <span class="d">Wild magic.</span>
