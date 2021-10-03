@@ -24,6 +24,7 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Cultist](/monsters/cultist)</span> <span class="e"> ... sealing an Old One.</span> <span class="d">Mind control whispers.</span> 
 1. <span class="a">[Dragonspawn, Green](/monsters/dragonspawn-green)</span>  <span class="e"> Dragonmage's ... </span> <span class="d">Acid rain.</span> 
 1. <span class="a">[Golem, Stone](/monsters/golem-stone)</span>  <span class="e">Forbidden ... tower.</span> <span class="d">Hammer trap.</span> 
+1. <span class="a">[Egarus Fungus](/monsters/golem-stone)</span>  <span class="e">... in a perfect crater.</span> <span class="d">Tiny black hole.</span> 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="e">Chimneyed ...</span> <span class="d">Boiling rain.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="e">Blue crystal ...</span> <span class="d">Water vortex.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="e">Gravel spitting ...</span> <span class="d">Gravel rain.</span> 
