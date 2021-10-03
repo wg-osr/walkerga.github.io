@@ -34,7 +34,8 @@ Each time your roll on the astral hex table, you fill 5 hexes on the map with co
 1. <span class="a">[Donestre](/monsters/donestre)</span> <span class="b">Lonely ...</span>  <span class="c">cave.</span> <span class="d">Lost for days.</span>
 1. <span class="a">[Doppelganger](/monsters/doppelganger)</span> <span class="b">Parallel universe ...</span>  <span class="c">salon.</span> <span class="d">Refugee raft.</span>
 1. <span class="a">[Dretch](/monsters/dretch)</span> <span class="b">Pus ...</span>  <span class="c">dump.</span> <span class="d">Mired in pus.</span>
-1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="b">Industrial ...</span>  <span class="c">prison.</span> <span class="d">Rusting bomb.</span>
+1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="b">Industrial ...</span>  <span class="c">prison.</span> <span class="d">Rusting bombs.</span>
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="b">Empty ...</span>  <span class="c">void</span> <span class="d">Tiny black holes.</span>
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steam ...</span>  <span class="c">baths.</span> <span class="d">Temperature variations.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Water...</span>  <span class="c">bubble.</span> <span class="d">Giant bubbles.</span>
 1. <span class="a">[Mephit, Earth](/monsters/mephit-earth)</span> <span class="b">Granite ...</span>  <span class="c">strata.</span> <span class="d">Gravel rain.</span>
