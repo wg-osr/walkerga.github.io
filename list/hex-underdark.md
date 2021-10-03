@@ -31,6 +31,7 @@ To get your entrance, roll twice on the table below: once for the gateway, once 
 1. <span class="a">[Dragon, Red](/monsters/dragon-red)</span> <span class="b">A dragon's skull.</span> <span class="b">Lava falls.</span> 
 1. <span class="a">[Dretch](/monsters/dretch)</span> <span class="b">A waste dump.</span> <span class="b">Blocked with trash.</span> 
 1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="b">Giant drill.</span> <span class="b">Barb wired.</span> 
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="b">Vast hole.</span> <span class="b">Sticky mold.</span> 
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Warm vent.</span> <span class="b">Spitting scalding fog.</span> 
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Underwater tunnel.</span> <span class="b">Behind a waterfall.</span> 
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Rickety scaffoldings.</span> <span class="b">Drumming noises.</span> 
@@ -75,6 +76,7 @@ Each time you roll for an underdark hex, roll 1D4. This is, in number of hexes, 
 1. <span class="a">[Dragon, Red](/monsters/dragon-red)</span> <span class="b">Gold ...</span>  <span class="c">veins.</span> <span class="d">Lava flash flood.</span>
 1. <span class="a">[Dretch](/monsters/dretch)</span> <span class="b">Refuse ...</span>  <span class="c">dump.</span> <span class="d">Toxic sludge.</span>
 1. <span class="a">[Dwarf, Dvergr](/monsters/dwarf-dvergr)</span> <span class="b">Dour ...</span>  <span class="c">fortress.</span> <span class="d">Barbed wire.</span>
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="b">Earth-eating ...</span>  <span class="c">hole.</span> <span class="d">Surces turning into dust.</span>
 1. <span class="a">[Elemental, Steam](/monsters/elemental-steam)</span> <span class="b">Steaming ...</span>  <span class="c">hot springs.</span> <span class="d">Scalding fog.</span>
 1. <span class="a">[Elemental, Water](/monsters/elemental-water)</span> <span class="b">Submerged ...</span>  <span class="c">waterfall.</span> <span class="d">Flooding.</span>
 1. <span class="a">[Goblin](/monsters/goblin)</span> <span class="b">Goblin ...</span>  <span class="c">slums.</span> <span class="d">Pit trap.</span>
