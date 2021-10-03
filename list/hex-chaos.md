@@ -21,4 +21,5 @@ This table replaces the Adjective roll of the biome you rolled.
 1. <span class="a">[Doppelganger](/monsters/doppelganger)</span>  <span class="e"> Twisted copy of a ...</span> <span class="d">Evil twin.</span> 
 1. <span class="a">[Dragonspawn, Green](/monsters/dragonspawn-green)</span>  <span class="e"> Poluted ... lab. </span> <span class="d">Acid rain.</span> 
 1. <span class="a">[Dretch](/monsters/dretch)</span> <span class="e"> Puss ... </span> <span class="d">Toxic sludge.</span> 
+1. <span class="a">[Egarus Fungus](/monsters/egarus-fungus)</span> <span class="e"> Disintegrated ... </span> <span class="d">Every surface is sticky.</span> 
 1. <span class="a">[Shadow, Elven](/monsters/shadow-elven)</span>  <span class="e"> Ruined elven pleasure ...</span> <span class="d">Vicious illusions.</span> 
