@@ -32,6 +32,7 @@ This table replaces the Adjective roll of the biome you rolled. Roll the part 2 
 1. <span class="a">[Doppelganger](/monsters/doppelganger)</span> <span class="b">Mirror ...</span>  <span class="b">Duplicating ...</span> <span class="d">mirror.</span>
 1. <span class="a">[Dragon, Green](/monsters/dragon-green)</span> <span class="b">Thorn ...</span>  <span class="b">Dream ...</span> <span class="d">gas.</span>
 1. <span class="a">[Dryad](/monsters/dryad)</span> <span class="b">Giant oak ...</span>  <span class="b">Entangling ...</span> <span class="d">leaves.</span>
+1. <span class="a">[Eladrin](/monsters/eladrin)</span> <span class="b">... court.</span>  <span class="b">Season-changing ...</span> <span class="d">music.</span>
 1. <span class="a">[Muttering Serpent](/monsters/muttering-serpent)</span> <span class="b">Lonely ...</span>  <span class="b">Doubtful ...</span> <span class="d">mirrors.</span>
 1. <span class="a">[Nereid](/monsters/nereid)</span> <span class="b">Sea ...</span>  <span class="b">Drowning ...</span> <span class="d">foam.</span>
 1. <span class="a">[Oni](/monsters/oni)</span> <span class="b">Cherry blossom ...</span>  <span class="b">Abducting ...</span> <span class="d">mist.</span>
