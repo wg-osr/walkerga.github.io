@@ -24,7 +24,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex tundra is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and also the {monster}.'
+    'This {2d6hexes}-hex polar region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and also the {monster}.'
   ];
   gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -52,6 +52,7 @@
     'pastoral',
     'isolated',
     'sinuous',
+    'lichen',
   ];
   gen_data['feature'] = [
     'sky shrine',
@@ -62,10 +63,11 @@
     'floe',
     'site of a famous battle',
     'bird colonies',
-    'woods',
+    'taiga',
     'hovels',
     'tavern',
     'canyon',
+    'tundra',
   ];
   gen_data['obstacle'] = [
     'powerful winds',
@@ -80,6 +82,7 @@
     'yak herds',
     'steep slopes',
     'narrow passages',
+    'elk herds',
   ];
   gen_data['hazard'] = [
     'could make you fall',
@@ -94,6 +97,7 @@
     'get in your way',
     'could make you slip',
     'hide ambushers',
+    'could provoke a stampede',
   ];
   gen_data['monster'] = [
     'Airwalkers, who {airwalkerwants}',
@@ -108,6 +112,7 @@
     'Cacuses who {cacusculture} {cacusproblem}',
     'Cadejos who {cadejowants}',
     '{sabertoothcattotem} Sabertooth Cats',
+    'Centaurs who {centaurculture} {centaurproblem}',
 
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -233,8 +238,24 @@
     'royal',
     'sacred',
   ]; 
+   gen_data['centaurculture'] = [
+    'migrate with giant herds guided by the stars',
+    'live off raiding and pillaging',
+    'run an academy for heroes',
+    'are part of a great army',
+    'coexist with the elves',
+    'quest as knight errants',
+  ];
+   gen_data['centaurproblem'] = [
+    'and for whom metal is blasphemous',
+    'half the year, and disappear with the feys the other half',
+    'lest they turn into horses',
+    'under the leadership of a Chevall',
+    'after the collapse of their civilization',
+    'and despise settlers',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>
   </head>
   <body>
     <p><textarea id="output" cols="150" rows="1" readonly></textarea></p>
