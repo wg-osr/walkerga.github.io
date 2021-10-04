@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hex Table
+permalink: /arctic
+---
+
 <!DOCTYPE html>
 <html>
   <head>
