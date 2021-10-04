@@ -300,7 +300,7 @@
   ];
    gen_data['centaurproblem'] = [
     'and for whom metal is blasphemous',
-    'half the year, and disappear with the feys the other half',
+    'half of the year, and disappear in the fey world during the other half',
     'lest they turn into horses',
     'under the leadership of a Chevall',
     'after the collapse of their civilization',
