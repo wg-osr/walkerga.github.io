@@ -62,6 +62,7 @@
     'stormy',
     'giant',
     'settled',
+    'hillside',
   ];
   gen_data['feature'] = [
     'sky shrine',
@@ -87,6 +88,7 @@
     'power stones',
     'war camp',
     'yurt villages',
+    'mounds',
   ];
   gen_data['obstacle'] = [
     'powerful winds',
@@ -112,6 +114,7 @@
     'wild energies',
     'war horns',
     'sacred {beast}',
+    'rockfalls',
   ];
   gen_data['hazard'] = [
     'could make you fall',
@@ -137,6 +140,7 @@
     'augment magic',
     'attract {beast} riders',
     'are worshiped by the locals',
+    'could crush you',
   ];
   gen_data['monster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -162,6 +166,7 @@
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {beast}',
     'a Warrior Clan {warriorwants}',
+    'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -294,7 +299,7 @@
     'migrate with giant herds guided by the stars',
     'live off raiding and pillaging',
     'run an academy for heroes',
-    'joined a great army',
+    'joined the great horde',
     'coexist with the elves',
     'quest as knight errants',
   ];
@@ -326,7 +331,7 @@
     'live peacefully with their sheep',
     'herald the collapse of civilization',
     'hate the gods',
-    'joined the great barbarian army',
+    'joined the great horde',
     'built the biggest {cyclopsstructure} of the world',
     'are feral',
   ]; 
@@ -345,7 +350,7 @@
     'live in caves',
     'live on rafts',
     'live as the upper caste among Orcs',
-    'joined the great barbarian army',
+    'joined the great horde',
     'ride dinosaurs',
     'tend to a primeval temple',
   ];  
@@ -385,7 +390,7 @@
     'live in the trash pits of another civilization',
     'hide in tunnels',
     'hide their huts high in trees',
-    'joined the great barbarian army',
+    'joined the great horde',
     'serve Hobgoblin legion',
     'are enslaved workers',
   ];  
@@ -409,12 +414,20 @@
     'who brutally conquered the region',
     'who are known for their craftsmanship',
     'of the {beast}',
-    'that joined the great barbarian army',
+    'that joined the great horde',
     'who are trying to find their ancestral home',
     'that protect the region',
   ];  
+   gen_data['ogreculture'] = [
+    'took over a castle',
+    'joined the great horde',
+    'grow giant vegetables in a secret farm',
+    'live in huts in the outskirts of towns',
+    'manage a gigantic inn',
+    'joined a brigand group',
+  ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script>{} {ogreproblem}
   </head>
   <body>
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
