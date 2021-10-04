@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Random Generator</title>
+    <title>Cold Climate Generator</title>
     <script type="text/javascript">
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // this is a completely self-contained random generator,
@@ -24,7 +24,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex polar region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and also the {monster}.'
+    'This {2d6hexes}-hex cold region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and also the {monster}.'
   ];
   gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -55,6 +55,7 @@
     'lichen',
     'icicle-toothed',
     'forbidden',
+    'cyclopean',
   ];
   gen_data['feature'] = [
     'sky shrine',
@@ -63,7 +64,7 @@
     'caves',
     'plateaus',
     'floe',
-    'site of a famous battle',
+    'site of an old war',
     'bird colonies',
     'taiga',
     'hovels',
@@ -72,6 +73,7 @@
     'tundra',
     'tunnels',
     'idols',
+    'wall',
   ];
   gen_data['obstacle'] = [
     'powerful winds',
@@ -89,6 +91,7 @@
     'elk herds',
     'sharp icicles',
     'pagan idols',
+    'big walls',
   ];
   gen_data['hazard'] = [
     'could make you fall',
@@ -106,6 +109,7 @@
     'could provoke a stampede',
     'could pierce you',
     'could curse you',
+    'could block your path',
   ];
   gen_data['monster'] = [
     'Airwalkers, who {airwalkerwants}',
@@ -123,6 +127,7 @@
     'Centaurs, who {centaurculture} {centaurproblem}',
     '{bluedracopedetotem} Blue Dracopede',
     '{cult} Cult that {cultwants}',
+    'Cycops, who {cyclopsculture} {cyclopsproblem}',
 
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -283,8 +288,27 @@
     'murder those who know too much',
     'put bounties on ex members',
   ]; 
+   gen_data['cyclopsculture'] = [
+    'live peacefully with their sheep',
+    'herald the collapse of civilization',
+    'hate the gods',
+    'joined the great barbarian army',
+    'built the biggest {cyclopsstructure} of the world',
+    'are feral',
+  ]; 
+   gen_data['cyclopsstructure'] = [
+    'wall', 'fortress', 'maze', 'mill',
+  ];
+   gen_data['cyclopsproblem'] = [
+    'and are actually good intended',
+    'because the gods can see through their eyes',
+    'and are worshiped by Orcs',
+    'and take nothing seriously',
+    'guided by their mountain-sized leader',
+    'and are hunted by humans bevause of it',
+  ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>
   </head>
   <body>
     <p><textarea id="output" cols="150" rows="1" readonly></textarea></p>
