@@ -24,7 +24,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex tundra is known for its {adjective} {feature}. Beware as you travel, for there are {obstacle} that {hazard} in the area. It is the land of the {monster} and the {monster}.'
+    'This {2d6hexes}-hex tundra is known for its {adjective} {feature}. Beware as you travel, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and the {monster}.'
   ];
   gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -42,23 +42,33 @@
   gen_data['adjective'] = [
     'wind-swept',
     'ice-covered',
+    'mist-cloaked',
   ];
   gen_data['feature'] = [
     'sky shrine',
     'crags',
+    'loch',
   ];
   gen_data['obstacle'] = [
     'powerful winds',
     'ice bridges',
+    'ley lines',  
   ];
   gen_data['hazard'] = [
     'could make you fall',
     'are on the verge of crumbling',
+    'are crackling with power',
   ];
   gen_data['monster'] = [
     'Airwalkers, who {airwalkerwants}',
     '{arassastotem} Arassas',
+    'Athachs who {athachculture} {athachproblem}',
   ];
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
+  gen_data['arcticbeast'] = [
+    'elks', 'yaks', 'polar bears', 'penguins', 'wolves', 'mammoths',  'whooly rhinos', 'seals',
+  ];
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
   gen_data['airwalkerwants'] = [
     'guide truly free souls to the plane of air',
     'train disciples to sky dancing',
@@ -75,7 +85,22 @@
     'strong',
     'sacred',
   ];
-
+  gen_data['athachculture'] = [
+    'follow ley lines to find the birthplace of the world',
+    'raise herds of {arcticbeast}',
+    'grow iron fruits',
+    'practice moon rituals to provoke a new geological era',
+    'violently protect the secrets of the druids',
+    'are brigands asking tribute for safe passage',
+  ];
+  gen_data['athachproblem'] = [
+    'at night under the guidance of the stars',
+    'by feeding gems to a giant earth elemental',
+    'under the the cover of fog',
+    'while being manipulated by their fairy sycophants',
+    'and build palaces of moss',
+    'and love human flesh',
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>
