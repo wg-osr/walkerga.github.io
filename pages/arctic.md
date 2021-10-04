@@ -23,7 +23,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex cold region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of the {monster}, and also the {monster}.'
+    'This {2d6hexes}-hex cold region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of {monster}, and also {monster}.'
   ];
   gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -139,29 +139,29 @@
     'are worshiped by the locals',
   ];
   gen_data['monster'] = [
-    'Airwalkers, who {airwalkerwants}',
-    '{arassastotem} Arassas',
-    'Athachs, who {athachculture} {athachproblem}',
-    '{arcticbattotem} Arctic Bats',
-    '{cavebeartotem} Cave Bears',
-    '{polarbeartotem} Polar Bears',
-    'Bestial Terrors, who {bestialterrorwants}',
-    '{birdtotem} {arcticbird}',
-    '{boartotem} Boars',
-    'Cacuses, who {cacusculture} {cacusproblem}',
-    'Cadejos, who {cadejowants}',
-    '{sabertoothcattotem} Sabertooth Cats',
-    'Centaurs, who {centaurculture} {centaurproblem}',
-    '{bluedracopedetotem} Blue Dracopedes',
-    '{cult} Cult that {cultwants}',
-    'Cyclops, who {cyclopsculture} {cyclopsproblem}',
-    'Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
-    'Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
-    'Steam Elementals, who {steamelementalwants}',
-    'Goblins, who {goblinculture} {goblinproblem}',
-    'Sorcerous Cabbal that {sorcererwants}',
-    'Great Horde and their giant War {beast}',
-    'Warrior Clan {warriorwants}',
+    'the Airwalkers, who {airwalkerwants}',
+    'the {arassastotem} Arassas',
+    'the Athachs, who {athachculture} {athachproblem}',
+    'the {arcticbattotem} Arctic Bats',
+    'the {cavebeartotem} Cave Bears',
+    'the {polarbeartotem} Polar Bears',
+    'the Bestial Terrors, who {bestialterrorwants}',
+    'the {birdtotem} {arcticbird}',
+    'the {boartotem} Boars',
+    'the Cacuses, who {cacusculture} {cacusproblem}',
+    'the Cadejos, who {cadejowants}',
+    'the {sabertoothcattotem} Sabertooth Cats',
+    'the Centaurs, who {centaurculture} {centaurproblem}',
+    'the {bluedracopedetotem} Blue Dracopedes',
+    'a {cult} Cult that {cultwants}',
+    'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
+    'the Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
+    'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
+    'the Steam Elementals, who {steamelementalwants}',
+    'the Goblins, who {goblinculture} {goblinproblem}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Great Horde and their giant War {beast}',
+    'a Warrior Clan {warriorwants}',
 
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
