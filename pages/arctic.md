@@ -1,3 +1,9 @@
+---
+layout: post
+permalink: /fantasylandgenerator
+title: Fantasy Land Generator
+---
+
 <html>
   <head>
     <title>Cold Climate Generator</title>
