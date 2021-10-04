@@ -294,7 +294,7 @@
     'migrate with giant herds guided by the stars',
     'live off raiding and pillaging',
     'run an academy for heroes',
-    'are part of a great army',
+    'joined a great army',
     'coexist with the elves',
     'quest as knight errants',
   ];
