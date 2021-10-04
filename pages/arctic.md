@@ -153,7 +153,7 @@
     'the {sabertoothcattotem} Sabertooth Cats',
     'the Centaurs, who {centaurculture} {centaurproblem}',
     'the {bluedracopedetotem} Blue Dracopedes',
-    'a {cult} Cult that {cultwants}',
+    'a{cult} Cult that {cultwants}',
     'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
     'the Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
     'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
@@ -169,7 +169,7 @@
     'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
   ];
   gen_data['cult'] = [
-    'Fey', 'Elemental', 'Demonic', 'Ancient', 'Eldritch', 'Death', 'Drug',
+    ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
   gen_data['airwalkerwants'] = [
