@@ -113,7 +113,7 @@
     'hidden pit traps',
     'wild energies',
     'war horns',
-    'sacred {beast}',
+    'sacred {arcticBeast}',
     'rockfalls',
   ];
   gen_data['hazard'] = [
@@ -138,7 +138,7 @@
     'burn your skin',
     'attract goblins',
     'augment magic',
-    'attract {beast} riders',
+    'attract {arcticBeast} riders',
     'are worshiped by the locals',
     'could crush you',
   ];
@@ -164,13 +164,13 @@
     'the Steam Elementals, who {steamelementalwants}',
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'a Great Horde and their giant War {beast}',
+    'a Great Horde and their giant War {arcticBeast}',
     'a Warrior Clan {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
-  gen_data['beast'] = [
+  gen_data['arcticbeast'] = [
     'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
   ];
   gen_data['cult'] = [
@@ -195,7 +195,7 @@
   ];
   gen_data['athachculture'] = [
     'follow ley lines to the birthplace of the world',
-    'raise herds of {beast}',
+    'herd sheep',
     'grow iron fruits',
     'practice rituals to provoke a new geological era',
     'violently protect the secrets of the druids',
@@ -375,7 +375,7 @@
     'because they are exiles from the mountains',
     'hoping to retake their ancestral clanland',
     'and war against the fey',
-    'and ride {beast}',
+    'and ride goats and dogs',
     'and worship a giant Earth Elemental',
   ];  
    gen_data['steamelementalwants'] = [
@@ -399,7 +399,7 @@
     'and are organized like the mob',
     'because their leader died',
     'because they are plagued by a Niblog',
-    'because they are hunted by {beast}',
+    'because they are hunted by monsters',
     'with Hobgoblins and Bugbears',
   ];
    gen_data['sorcererwants'] = [
@@ -413,7 +413,7 @@
    gen_data['warriorwants'] = [
     'who brutally conquered the region',
     'who are known for their craftsmanship',
-    'of the {beast}',
+    'who dress like animals',
     'that joined the great horde',
     'who are trying to find their ancestral home',
     'that protect the region',
