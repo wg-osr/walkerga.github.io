@@ -432,8 +432,16 @@ title: Fantasy Land Generator
     'manage a gigantic inn',
     'joined a brigand group',
   ];  
+   gen_data['ogreproblem'] = [
+    'and are rumored to be local babies abducted by Hags',
+    'with the help of leaderʼs magical item',
+    'to search for a mythical recipe',
+    'with Goblins as their intellectual leaders',
+    'and live like kings',
+    'and are actually pretty sweet',
+  ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>{} {ogreproblem}
+    </script>
   </head>
   <body>
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
