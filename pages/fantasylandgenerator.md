@@ -49,6 +49,9 @@ gen_data['desertadjective'] = [
     'cracked',
     'dangerous',
     'pastoral',
+    'forbidden',
+    'cyclopean',
+    'coastal',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -68,6 +71,9 @@ gen_data['desertadjective'] = [
     'fissures',
     'rubbles',
     'outbacks',
+    'idols',
+    'wall',
+    'tribeland',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -87,6 +93,9 @@ gen_data['desertadjective'] = [
     'shadowy cracks',  
     'loose stones',  
     'bird sounds',  
+    'pagan idols',  
+    'high walls',  
+    'tremors',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -106,6 +115,9 @@ gen_data['desertadjective'] = [
     'shelter insects',
     'could make you trip',
     'could provoke a stampede',
+    'could curse you',
+    'could block your path',
+    'attract giant Wurms',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -125,7 +137,9 @@ gen_data['desertadjective'] = [
     'the {centipedetotem} Centipedes',
     'the {blackdracopedetotem} Black Dracopede',
     'the Chevalls, who {chevallwants}',
-
+    'a{cult} Cult that {cultwants}',
+    'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
+    'the Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
