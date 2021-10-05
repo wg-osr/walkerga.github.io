@@ -511,7 +511,7 @@ gen_data['arcticadjective'] = [
     'cursed',
   ];  
    gen_data['vyderactotem'] = [
-    'matriarchal',
+    'matriarcal',
     'clumsy',
     'dancing',
     'swarming',
