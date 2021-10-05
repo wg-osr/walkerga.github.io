@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental faction
+tags: monster elemental arctic
 permalink: /monsters/airwalker
 title: Airwalker
 ---
