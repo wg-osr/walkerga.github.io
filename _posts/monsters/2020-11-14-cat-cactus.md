@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast fauna
+tags: monster beast  desert
 permalink: /monsters/cat-cactus
 title: Cat, Cactus
 ---
