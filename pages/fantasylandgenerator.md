@@ -478,7 +478,7 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['basilisktotem'] = [
     'deadly',
-    'drought-loving',
+    'humidity-hating',
     'mineral',
     'hypnotizing',
     'petrifying',
