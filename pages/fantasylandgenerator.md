@@ -415,7 +415,7 @@ gen_data['arcticadjective'] = [
    gen_data['cadejowants'] = [
     'lead drunkards to their death',
     'guide ghosts to parties',
-    'guide travelers to the closest inn',
+    'guide travelers to a nearby inn',
     'protect a passage to the land of the dead',
     'can only be seen when drunk',
     'kill the blissful and protect the weary',
