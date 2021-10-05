@@ -23,11 +23,14 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
+    '{mainarctic}', '{maindesert}', 
   ];
       
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ gen_data['maindesert'] = [
+    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
+  ];
 gen_data['desertbeast'] = [
     'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Felines'
   ];
@@ -179,7 +182,7 @@ gen_data['desertadjective'] = [
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
-gen_data['mainArctic'] = [
+gen_data['mainarctic'] = [
     'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is the land of {arcticmonster}, and also {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
