@@ -23,9 +23,34 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    '{mainarctic}', '{maindesert}', 
+    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is the land of {forestmonster}, and also {forestmonster}.'
   ];
       
+// - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainforest'] = [
+    '{mainarctic}', '{maindesert}', 
+  ];
+gen_data['forestbeast'] = [
+    'Elks', 'Boars', 'Bears', 'Wolves'
+  ];
+gen_data['forestadjective'] = [
+    'colossal',
+  ];
+  gen_data['forestfeature'] = [
+    'menhirs',
+  ];
+  gen_data['forestobstacle'] = [
+    'ley lines',
+  ];
+  gen_data['foresthazard'] = [
+    'are crackling with power',
+  ];
+  gen_data['forestmonster'] = [
+    'the Athachs, who {athachculture} {athachproblem}',
+
+  ];
+
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maindesert'] = [
@@ -322,6 +347,15 @@ gen_data['arcticadjective'] = [
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
       
+   gen_data['2d4hexes'] = {
+    '01-06': 'two',
+    '07-19': 'three',
+    '20-38': 'four',
+    '39-63': 'five',
+    '64-81': 'six',
+    '82-94': 'seven',
+    '95-00': 'eight',
+  };
    gen_data['2d6hexes'] = {
     '01-03': 'two',
     '04-08': 'three',
@@ -334,8 +368,7 @@ gen_data['arcticadjective'] = [
     '84-92': 'ten',
     '93-97': 'eleven',
     '98-00': 'twelve'
-  };
-      
+  };      
   gen_data['cult'] = [
     ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
   ];
