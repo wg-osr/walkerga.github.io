@@ -23,22 +23,39 @@
   let gen_data = {};
 
   gen_data['main'] = [
+    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
+  ];
+      
+// - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+gen_data['cesertbeast'] = [
+    'Camels', 'Hyenas',  'Antelopes'
+  ];
+gen_data['desertadjective'] = [
+    'wind-swept',
+  ];
+  gen_data['desertfeature'] = [
+    'sky shrine',
+  ];
+  gen_data['desertobstacle'] = [
+    'powerful winds',
+  ];
+  gen_data['deserthazard'] = [
+    'could make you fall',
+  ];
+  gen_data['desertmonster'] = [
+    'the Airwalkers, who {airwalkerwants}',
+  ];
+
+// - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['mainArctic'] = [
     'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is the land of {arcticmonster}, and also {arcticmonster}.'
   ];
-  gen_data['2d6hexes'] = {
-    '01-03': 'two',
-    '04-08': 'three',
-    '09-17': 'four',
-    '18-28': 'five',
-    '29-42': 'six',
-    '43-58': 'seven',
-    '59-72': 'eight',
-    '73-83': 'nine',
-    '84-92': 'ten',
-    '93-97': 'eleven',
-    '98-00': 'twelve'
-  };
-  gen_data['arcticadjective'] = [
+gen_data['arcticbeast'] = [
+    'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
+  ];
+gen_data['arcticadjective'] = [
     'wind-swept',
     'ice-covered',
     'mist-cloaked',
@@ -169,14 +186,29 @@
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
-  gen_data['arcticbeast'] = [
-    'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
-  ];
+      
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
+      
+   gen_data['2d6hexes'] = {
+    '01-03': 'two',
+    '04-08': 'three',
+    '09-17': 'four',
+    '18-28': 'five',
+    '29-42': 'six',
+    '43-58': 'seven',
+    '59-72': 'eight',
+    '73-83': 'nine',
+    '84-92': 'ten',
+    '93-97': 'eleven',
+    '98-00': 'twelve'
+  };
+      
   gen_data['cult'] = [
     ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
   ];
+      
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
+      
   gen_data['airwalkerwants'] = [
     'guide free souls to the plane of air',
     'teach sky dancing',
