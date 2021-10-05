@@ -42,6 +42,7 @@ gen_data['desertadjective'] = [
     'tepid',
     'marble',
     'aloe-filled',
+    'blossoming',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -54,6 +55,7 @@ gen_data['desertadjective'] = [
     'mud ponds',
     'stadium',
     'haciendas',
+    'cacti',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -65,6 +67,7 @@ gen_data['desertadjective'] = [
     'nervous {desertbird}',  
     'tepid water sources',  
     'sheep herds',  
+    'bushes',  
     'cacti',  
   ];
   gen_data['deserthazard'] = [
@@ -78,6 +81,7 @@ gen_data['desertadjective'] = [
     'could make you waste rations',
     'could get in your way',
     'are poisonous',
+    'hide sharp needles',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -90,6 +94,7 @@ gen_data['desertadjective'] = [
     'the {boltforagertotem} Boltforager',
     'the Cacuses, who {cacusculture} {cacusproblem}',
     'the Cadejos, who {cadejowants}',
+    'the {cactuscattotem} Cactus Cat',
 
   ];
 
@@ -557,6 +562,14 @@ gen_data['arcticadjective'] = [
     'deadly',
     'repulsive',
     'cursed',
+  ];  
+   gen_data['cactuscattotem'] = [
+    'sun-loving',
+    'plant-dwelling',
+    'dreamy',
+    'drunken',
+    'witchy',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
