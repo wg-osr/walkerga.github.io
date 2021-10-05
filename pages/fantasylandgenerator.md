@@ -59,6 +59,7 @@ gen_data['forestadjective'] = [
     'green',
     'dewy',
     'clear',
+    'hillside',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -85,6 +86,7 @@ gen_data['forestadjective'] = [
     'clearings',
     'hot springs',
     'waterfalls',
+    'mounds',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -111,6 +113,7 @@ gen_data['forestadjective'] = [
     'animal trails',  
     'steam clouds',  
     'waterfalls',  
+    'boulders',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -137,6 +140,7 @@ gen_data['forestadjective'] = [
     'lead to the fey world',
     'are boiling hot',
     'are violent',
+    'attract Brigands',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -163,6 +167,7 @@ gen_data['forestadjective'] = [
     'the Centaurs, who {centaurculture} {centaurproblem}',
     'the Steam Elementals, who {steamelementalwants}',
     'the Water Elementals, who {waterelementalwants}',
+    'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
 
@@ -205,6 +210,7 @@ gen_data['desertadjective'] = [
     'muddy',
     'dusty',
     'dinosaur bone',
+    'hillside',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -237,6 +243,7 @@ gen_data['desertadjective'] = [
     'puddles',
     'bushes',
     'mud huts',
+    'mounds',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -269,6 +276,7 @@ gen_data['desertadjective'] = [
     'mud puddles',  
     'tiny flies',  
     'snare traps',  
+    'rockfalls',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -301,6 +309,7 @@ gen_data['desertadjective'] = [
     'could trap you',
     'can make you itchy',
     'set up by lizard people',
+    'could crush you',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -333,6 +342,7 @@ gen_data['desertadjective'] = [
     'the {bloodbeasttotem} Bloodbeasts',
     'the {boartotem} Warthogs',
     'the Lizardfolks, who {lizardfolkculture} {lizardfolkproblem}',
+    'the Ogres, who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
