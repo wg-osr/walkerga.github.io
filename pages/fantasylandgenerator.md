@@ -35,26 +35,31 @@ gen_data['desertadjective'] = [
     'wind-swept',
     'salt',
     'cavernous',
+    'acacia-lined',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
     'dry lake',
     'canyon',
+    'rivulets',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
     'sulfurous mud pits',
     'steep cliffs',
+    'poppies',
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
     'is corrosive',
     'require equipment to cross',
+    'are hallucinogenic',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
     'the {basilisktotem} Basilisks',
     'the {battotem} Bats',
+    'the {olitiautotem} Olitiau',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -491,6 +496,14 @@ gen_data['arcticadjective'] = [
     'medicinal',
     'frightening',
     'sacred',
+  ];  
+   gen_data['olitiautotem'] = [
+    'deadly',
+    'frightening',
+    'kissing',
+    'river-nesting',
+    'nocturnal',
+    'cursed',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
