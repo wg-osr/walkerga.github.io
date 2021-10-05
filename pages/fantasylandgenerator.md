@@ -38,26 +38,36 @@ gen_data['forestadjective'] = [
     'colossal',
     'shady',
     'foggy',
+    'riverside',
+    'fishing',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
     'caves',
     'lakes',
+    'willows',
+    'rapids',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
     'fallen tree bridges',
     'thick fog walls',
+    'willows',
+    'rapids',
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
     'are rotting and fragile',
     'can obscure your vision',
+    'are full of sticky sap',
+    'are treacherous',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
     'the {battotem} Bats',
     'the {ahooltotem} Ahools',
+    'the {olitiautotem} Olitiaus',
+    'the {beartotem} Bears',
 
   ];
 
@@ -774,6 +784,14 @@ gen_data['arcticadjective'] = [
     'sneaky',
     'dog-mimicking',
     'terrifying',
+    'sacred',
+  ];  
+   gen_data['beartotem'] = [
+    'burly',
+    'lazy',
+    'honey',
+    'hibernating',
+    'motherly',
     'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
