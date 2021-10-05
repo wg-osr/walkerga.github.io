@@ -52,6 +52,7 @@ gen_data['desertadjective'] = [
     'forbidden',
     'cyclopean',
     'coastal',
+    'lonely',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -74,6 +75,7 @@ gen_data['desertadjective'] = [
     'idols',
     'wall',
     'tribeland',
+    'pass',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -96,6 +98,7 @@ gen_data['desertadjective'] = [
     'pagan idols',  
     'high walls',  
     'tremors',  
+    'mirages',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -118,6 +121,7 @@ gen_data['desertadjective'] = [
     'could curse you',
     'could block your path',
     'attract giant Wurms',
+    'could make you lost',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -139,7 +143,8 @@ gen_data['desertadjective'] = [
     'the Chevalls, who {chevallwants}',
     'a{cult} Cult that {cultwants}',
     'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
-    'the Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
+    'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
+    'the Donestre who {donestrewants}, yet {donestredo}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -271,7 +276,7 @@ gen_data['arcticadjective'] = [
     'the {bluedracopedetotem} Blue Dracopedes',
     'a{cult} Cult that {cultwants}',
     'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
-    'the Cyclopskin, who {cyclopskinculture} {cyclopskinproblem}',
+    'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
     'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
     'the Steam Elementals, who {steamelementalwants}',
     'the Goblins, who {goblinculture} {goblinproblem}',
@@ -646,6 +651,22 @@ gen_data['arcticadjective'] = [
     'kidnap horse-loving kids to transform them into chevalls',
     'hunger for a rare fruit',
     'give rides to an archfeyʼs ball',
+  ]; 
+   gen_data['donestrewants'] = [
+    'wants to be accepted by the locals',
+    'longs for a gift',
+    'is scared to sleep alone',
+    'needs advices on friendship',
+    'wants travel companions',
+    'has food to share',
+  ];  
+   gen_data['donestredo'] = [
+    'eats people alive',
+    'beats strangers to a pulp',
+    'collects decapitated heads',
+    'poisons people',
+    'drowns people',
+    'kills people in their sleep',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
