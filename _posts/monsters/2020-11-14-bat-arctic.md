@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast fauna
+tags: monster beast arctic
 permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
