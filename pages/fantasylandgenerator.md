@@ -86,7 +86,7 @@ gen_data['forestadjective'] = [
     'you could sink into',
     'could maim you',
     'could make you slip and fall',
-    'are where the light doesn't reach',
+    'are where the light doesn’t reach',
     'are poisonous',
     'could curse you',
   ];
@@ -845,7 +845,7 @@ gen_data['arcticadjective'] = [
   ];  
    gen_data['calytaurproblem'] = [
     'under the leardership a Cambion Pig',
-    'and eat human-based charcuterie',
+    'and charcuterie from human flesh',
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
