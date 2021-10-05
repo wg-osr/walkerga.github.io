@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast fauna
+tags: monster beast  forest
 permalink: /monsters/snake-copperback
 title: Snake, Copperback
 ---
@@ -9,7 +9,7 @@ A viper with scales made of actual copper. A beast.
 
 Imagine a snake about the lenght of a bear with scales green like rusted copper. It's tail has a metalic rattle.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as mail <br>
+**HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
 **Size:** medium <br>
 **Stats:** agile, feral, lazy <br>
 **Movement:** fast, swim fast <br>
