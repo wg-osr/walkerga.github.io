@@ -115,7 +115,7 @@ gen_data['forestadjective'] = [
     'the {blackdracopedetotem} Black Dracopedes',
     'the {greendracopedetotem} Green Dracopedes',
     'a{cult} Cult that {cultwants}',
-    'the {deathsheadtotem} Death’s Head Tree',
+    'the {deathsheadtotem} Death’s Head Trees',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
 
