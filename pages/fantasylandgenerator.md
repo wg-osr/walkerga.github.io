@@ -29,7 +29,7 @@
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['cesertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Felines'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -48,6 +48,7 @@ gen_data['desertadjective'] = [
     'palm shaded',
     'cracked',
     'dangerous',
+    'pastoral',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -66,6 +67,7 @@ gen_data['desertadjective'] = [
     'water hole',
     'fissures',
     'rubbles',
+    'outbacks',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -84,6 +86,7 @@ gen_data['desertadjective'] = [
     'heat',  
     'shadowy cracks',  
     'loose stones',  
+    'bird sounds',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -102,6 +105,7 @@ gen_data['desertadjective'] = [
     'could dehydrate you',
     'shelter insects',
     'could make you trip',
+    'could provoke a stampede',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -120,6 +124,7 @@ gen_data['desertadjective'] = [
     'the Centaurs, who {centaurculture} {centaurproblem}',
     'the {centipedetotem} Centipedes',
     'the {blackdracopedetotem} Black Dracopede',
+    'the Chevalls, who {chevallwants}',
 
   ];
 
@@ -619,6 +624,14 @@ gen_data['arcticadjective'] = [
     'shy',
     'shade-loving',
     'sacred',
+  ]; 
+   gen_data['chevallwants'] = [
+    'try to free all domesticated horses',
+    'test the bonds between riders and mounts',
+    'herd wild horses to the dream world',
+    'kidnap horse-loving kids to transform them into chevalls',
+    'hunger for a rare fruit',
+    'give rides to an archfey's ball',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
