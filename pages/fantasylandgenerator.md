@@ -53,6 +53,7 @@ gen_data['desertadjective'] = [
     'cyclopean',
     'coastal',
     'lonely',
+    'magmatic',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -76,6 +77,7 @@ gen_data['desertadjective'] = [
     'wall',
     'tribeland',
     'pass',
+    'sinkhole',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -99,6 +101,7 @@ gen_data['desertadjective'] = [
     'high walls',  
     'tremors',  
     'mirages',  
+    'eruptions',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -122,6 +125,7 @@ gen_data['desertadjective'] = [
     'could block your path',
     'attract giant Wurms',
     'could make you lost',
+    'make the earth split',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -145,6 +149,7 @@ gen_data['desertadjective'] = [
     'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
     'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
     'the Donestre who {donestrewants}, yet {donestredo}',
+    'the {redragontotem} Red Dragon who {redragonwants} ',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -668,8 +673,24 @@ gen_data['arcticadjective'] = [
     'drowns people',
     'kills people in their sleep',
   ];  
+   gen_data['redragontotem'] = [
+    'treasure-hoarding',
+    'cataclysmic',
+    'tyranic',
+    'metal-melting',
+    'powerful',
+    'sacred',
+  ]; 
+   gen_data['redragonwants'] = [
+    'had its treasure stolen',
+    'rules the area',
+    'demands virginal sacrifices',
+    'searches for a long lost dwarven hold',
+    'wants a powerful artefact',
+    'is worshipped like a god',
+  ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>  
   </head>
   <body>
     
