@@ -470,6 +470,14 @@ gen_data['arcticadjective'] = [
     'with Goblins as their intellectual leaders',
     'and live like kings',
     'and are actually pretty sweet',
+  ]; 
+   gen_data['basilisktotem'] = [
+    'deadly',
+    'drought-loving',
+    'mineral',
+    'hypnotizing',
+    'petrifying',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
