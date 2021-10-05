@@ -288,7 +288,7 @@ gen_data['arcticadjective'] = [
     'burn your skin',
     'attract goblins',
     'augment magic',
-    'attract {arcticBeast} riders',
+    'attract {arcticbeast} Riders',
     'are worshiped by the locals',
     'could crush you',
   ];
