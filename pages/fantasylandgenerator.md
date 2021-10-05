@@ -47,6 +47,7 @@ gen_data['desertadjective'] = [
     'sun-kissed',
     'palm shaded',
     'cracked',
+    'dangerous',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -64,6 +65,7 @@ gen_data['desertadjective'] = [
     'mesas',
     'water hole',
     'fissures',
+    'rubbles',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -81,6 +83,7 @@ gen_data['desertadjective'] = [
     'paths',  
     'heat',  
     'shadowy cracks',  
+    'loose stones',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -98,6 +101,7 @@ gen_data['desertadjective'] = [
     'are near precipices',
     'could dehydrate you',
     'shelter insects',
+    'could make you trip',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -115,6 +119,7 @@ gen_data['desertadjective'] = [
     'the {gianttressymtotem} Giant Tressym',
     'the Centaurs, who {centaurculture} {centaurproblem}',
     'the {centipedetotem} Centipedes',
+    'the {blackdracopedetotem} Black Dracopede',
 
   ];
 
@@ -606,9 +611,17 @@ gen_data['arcticadjective'] = [
     'medicinal',
     'earthy',
     'taboo',
+  ]; 
+   gen_data['blackdracopedetotem'] = [
+    'draconic',
+    'primal',
+    'seasonal',
+    'shy',
+    'shade-loving',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> 
   </head>
   <body>
     
