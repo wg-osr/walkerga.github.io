@@ -93,7 +93,7 @@ gen_data['desertadjective'] = [
     'cacti',  
     'narrow passages',  
     'paths',  
-    'heat',  
+    'heat pockets',  
     'shadowy cracks',  
     'loose stones',  
     'bird sounds',  
