@@ -36,18 +36,23 @@ gen_data['forestbeast'] = [
   ];
 gen_data['forestadjective'] = [
     'colossal',
+    'shady',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
+    'caves',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
+    'fallen tree bridges',
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
+    'are rotten',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
+    'the {battotem} Bats',
 
   ];
 
