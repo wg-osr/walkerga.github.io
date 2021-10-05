@@ -32,7 +32,7 @@
     '{mainarctic}', '{maindesert}', 
   ];
 gen_data['forestbeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves', 'Bat'
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes
   ];
 gen_data['forestadjective'] = [
     'colossal',
@@ -43,6 +43,7 @@ gen_data['forestadjective'] = [
     'singing',
     'bushy',
     'muddy',
+    'humid',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -53,6 +54,7 @@ gen_data['forestadjective'] = [
     'trees',
     'pine-trees',
     'shacks',
+    'undergrowth',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -63,6 +65,7 @@ gen_data['forestadjective'] = [
     'nervous {forestbird}',  
     'patches of dead leaves',  
     'vicious rusty bear traps',  
+    'moss patches',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -73,6 +76,7 @@ gen_data['forestadjective'] = [
     'could distract you',
     'you could sink into',
     'could maim you',
+    'could make you slip and fall',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -83,6 +87,7 @@ gen_data['forestadjective'] = [
     'the {birdtotem} {forestbird}',
     'the {boartotem} Boars',
     'the Calytaurs, who {calytaurculture} {calytaurproblem}',
+    'the {centipedetotem} Centipedes',
 
   ];
 
