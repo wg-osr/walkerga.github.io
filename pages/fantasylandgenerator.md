@@ -318,7 +318,7 @@ gen_data['desertadjective'] = [
     'are sacred for the locals',
     'could trap you',
     'can make you itchy',
-    'set up by lizard people',
+    'are set up by lizard people',
     'could crush you',
   ];
   gen_data['desertmonster'] = [
