@@ -47,6 +47,7 @@ gen_data['forestadjective'] = [
     'dark',
     'poisonous',
     'forbidden',
+    'gloomy',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -61,6 +62,7 @@ gen_data['forestadjective'] = [
     'roots',
     'leaves',
     'idols',
+    'dead trees',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -75,6 +77,7 @@ gen_data['forestadjective'] = [
     'roots',  
     'mushrooms',  
     'pagan idols',  
+    'dead trees',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -89,6 +92,7 @@ gen_data['forestadjective'] = [
     'are where the light doesn’t reach',
     'are poisonous',
     'could curse you',
+    'look like enemies',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -103,6 +107,7 @@ gen_data['forestadjective'] = [
     'the {blackdracopedetotem} Black Dracopedes',
     'the {greendracopedetotem} Green Dracopedes',
     'a{cult} Cult that {cultwants}',
+    'the {deathsheadtotem} Death’s Head Tree',
 
   ];
 
@@ -857,6 +862,14 @@ gen_data['arcticadjective'] = [
     'acidic',
     'shy',
     'humidity-loving',
+    'sacred',
+  ];  
+   gen_data['deathsheadtotem'] = [
+    'grieving',
+    'ancestral',
+    'secret-whispering',
+    'trgic',
+    'taboo',
     'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
