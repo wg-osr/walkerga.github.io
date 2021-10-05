@@ -32,7 +32,7 @@
     'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Felines'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -147,7 +147,7 @@ gen_data['desertadjective'] = [
     'attract Goblins',
     'could make you sink',
     'augment magic',
-    'attract {desertbeast} Riders',
+    'attract Scouts riding {desertbeast}',
     'are worshiped by the locals',
   ];
   gen_data['desertmonster'] = [
@@ -288,7 +288,7 @@ gen_data['arcticadjective'] = [
     'burn your skin',
     'attract goblins',
     'augment magic',
-    'attract {arcticbeast} Riders',
+    'attract Scouts riding {arcticbeast}',
     'are worshiped by the locals',
     'could crush you',
   ];
