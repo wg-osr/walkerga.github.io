@@ -29,7 +29,7 @@
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['cesertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -37,6 +37,8 @@ gen_data['desertadjective'] = [
     'cavernous',
     'acacia-lined',
     'red',
+    'war-ravaged',
+    'bushy',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -44,6 +46,8 @@ gen_data['desertadjective'] = [
     'canyon',
     'rivulets',
     'holes',
+    'old battle site',
+    'valley',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -51,6 +55,8 @@ gen_data['desertadjective'] = [
     'steep cliffs',
     'poppies',
     'wasps',
+    'dark winds',
+    'nervous {desertbird}',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -58,6 +64,8 @@ gen_data['desertadjective'] = [
     'require equipment to cross',
     'are hallucinogenic',
     'attract Vyderacs',
+    'are frightening',
+    'could distract you',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -65,6 +73,9 @@ gen_data['desertadjective'] = [
     'the {battotem} Bats',
     'the {olitiautotem} Olitiaus',
     'the {vyderactotem} Vyderacs',
+    'the Bestial Terrors, who {bestialterrorwants}',
+    'the {birdtotem} {desertbird}',
+
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -306,6 +317,12 @@ gen_data['arcticadjective'] = [
     'Crows',
     'Geese',
     'Seagulls',
+  ];
+   gen_data['desertbird'] = [
+    'Starlings',
+    'Vultures',
+    'Casowaries',
+    'Hawks',
   ];
    gen_data['boartotem'] = [
     'stubborn',
