@@ -149,7 +149,7 @@ gen_data['desertadjective'] = [
     'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
     'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
     'the Donestre who {donestrewants}, yet {donestredo}',
-    'the {redragontotem} Red Dragon who {redragonwants} ',
+    'the {redragontotem} Red Dragon who {redragonwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -686,7 +686,7 @@ gen_data['arcticadjective'] = [
     'rules the area',
     'demands virginal sacrifices',
     'searches for a long lost dwarven hold',
-    'wants a powerful artefact',
+    'wants a legendary artefact',
     'is worshipped like a god',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
