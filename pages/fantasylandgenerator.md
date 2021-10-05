@@ -60,6 +60,7 @@ gen_data['forestadjective'] = [
     'dewy',
     'clear',
     'hillside',
+    'eerie',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -87,6 +88,7 @@ gen_data['forestadjective'] = [
     'hot springs',
     'waterfalls',
     'mounds',
+    'elven ruins',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -114,6 +116,7 @@ gen_data['forestadjective'] = [
     'steam clouds',  
     'waterfalls',  
     'boulders',  
+    'elven runes',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -141,6 +144,7 @@ gen_data['forestadjective'] = [
     'are boiling hot',
     'are violent',
     'attract Brigands',
+    'could drive you mad',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -168,6 +172,7 @@ gen_data['forestadjective'] = [
     'the Steam Elementals, who {steamelementalwants}',
     'the Water Elementals, who {waterelementalwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
+    'the Elven Shadows who {elfshadowwants}',
 
   ];
 
@@ -1051,6 +1056,14 @@ gen_data['arcticadjective'] = [
     'because they are only here for their coming of age journey',
     'with their advanced technology',
     'and worship a demon in disguise',
+  ]; 
+   gen_data['elfshadowwants'] = [
+    'despair to weild magic again',
+    'are in eternal agony',
+    'long to experience the pleasure of flesh again',
+    'long to be freed from their torment',
+    'wish to finish the dark ritual that cursed them',
+    'serve a demon of lust',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
