@@ -563,7 +563,7 @@ gen_data['arcticadjective'] = [
     'hide their huts high in trees',
     'joined the great horde',
     'serve the Hobgoblin legion',
-    'are enslaved workers',
+    'are enslaved',
   ];  
    gen_data['goblinproblem'] = [
     'because they fear daylight',
