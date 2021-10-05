@@ -55,6 +55,7 @@ gen_data['forestadjective'] = [
     'isolated',
     'turquoise',
     'settled',
+    'sweet',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -77,6 +78,7 @@ gen_data['forestadjective'] = [
     'firs',
     'ferns',
     'longhouse village',
+    'berries',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -99,6 +101,7 @@ gen_data['forestadjective'] = [
     'shortcuts',  
     'branches',  
     'sacred {forestbeast}',  
+    'aromatic berries',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -121,6 +124,7 @@ gen_data['forestadjective'] = [
     'could split the party',
     'are noisy',
     'are sacred for the locals',
+    'could make you hungry',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -143,6 +147,7 @@ gen_data['forestadjective'] = [
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
     'the {copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {forestbeast} {warriorwants}',
+    'the Azizas who {azizawants}',
 
   ];
 
@@ -954,6 +959,14 @@ gen_data['arcticadjective'] = [
     'peaceful',
     'precise',
     'sacred',
+  ]; 
+   gen_data['azizawants'] = [
+    'feed travelers for fear of being eaten themselves',
+    'grow fruits with faces',
+    'channel sunlight into magical fruits',
+    'ride Giant Bees to pollenise giant flowers',
+    'are addicted to powdered luck',
+    'protect a giant fruit',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
