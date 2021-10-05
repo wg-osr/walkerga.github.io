@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead rival
+tags: monster undead arctic
 permalink: /monsters/bestial-terror
 title: Bestial Terror
 ---
