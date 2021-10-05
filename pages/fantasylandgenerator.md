@@ -29,37 +29,42 @@
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['cesertbeast'] = [
-    'Camels', 'Hyenas',  'Antelopes'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
     'salt',
     'cavernous',
     'acacia-lined',
+    'red',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
     'dry lake',
     'canyon',
     'rivulets',
+    'holes',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
     'sulfurous mud pits',
     'steep cliffs',
     'poppies',
+    'wasps',
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
-    'is corrosive',
+    'are corrosive',
     'require equipment to cross',
     'are hallucinogenic',
+    'attract Vyderacs',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
     'the {basilisktotem} Basilisks',
     'the {battotem} Bats',
-    'the {olitiautotem} Olitiau',
+    'the {olitiautotem} Olitiaus',
+    'the {vyderactotem} Vyderacs',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -505,8 +510,16 @@ gen_data['arcticadjective'] = [
     'nocturnal',
     'cursed',
   ];  
+   gen_data['vyderactotem'] = [
+    'matriarchal',
+    'clumsy',
+    'dancing',
+    'swarming',
+    'blood-drinking',
+    'cursed',
+  ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> 
   </head>
   <body>
     
