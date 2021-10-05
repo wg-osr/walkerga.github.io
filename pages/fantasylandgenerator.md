@@ -53,6 +53,7 @@ gen_data['forestadjective'] = [
     'walled',
     'savage',
     'isolated',
+    'turquoise',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -73,6 +74,7 @@ gen_data['forestadjective'] = [
     'mine',
     'warrens',
     'firs',
+    'ferns',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -93,6 +95,7 @@ gen_data['forestadjective'] = [
     'falling trees',  
     'hidden pit traps',  
     'shortcuts',  
+    'branches',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -113,6 +116,7 @@ gen_data['forestadjective'] = [
     'placed by lumberjacks',
     'attract Goblins',
     'could split the party',
+    'are noisy',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -133,6 +137,7 @@ gen_data['forestadjective'] = [
     'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
+    'the {copperbacktotem} Copperback Snakes',
 
   ];
 
@@ -937,6 +942,14 @@ gen_data['arcticadjective'] = [
     'loves to undermine confidence',
     'will reward the doubtless',
   ];  
+   gen_data['copperbacktotem'] = [
+    'sleep-inducing',
+    'dancing',
+    'metallic',
+    'peaceful',
+    'precise',
+    'sacred',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
   </head>
