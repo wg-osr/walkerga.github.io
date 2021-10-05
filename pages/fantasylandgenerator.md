@@ -471,7 +471,7 @@ gen_data['arcticadjective'] = [
     'live off raiding and pillaging',
     'founded an academy for heroes',
     'joined the great horde',
-    'coexist with the elves',
+    'coexist with Elves',
     'quest as knight errants',
   ];
    gen_data['centaurproblem'] = [
