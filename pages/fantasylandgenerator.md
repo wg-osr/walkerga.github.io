@@ -54,6 +54,7 @@ gen_data['forestadjective'] = [
     'savage',
     'isolated',
     'turquoise',
+    'settled',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -75,6 +76,7 @@ gen_data['forestadjective'] = [
     'warrens',
     'firs',
     'ferns',
+    'longhouse village',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -96,6 +98,7 @@ gen_data['forestadjective'] = [
     'hidden pit traps',  
     'shortcuts',  
     'branches',  
+    'sacred {forestbeast}',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -117,6 +120,7 @@ gen_data['forestadjective'] = [
     'attract Goblins',
     'could split the party',
     'are noisy',
+    'are sacred for the locals',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -138,6 +142,7 @@ gen_data['forestadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
     'the {copperbacktotem} Copperback Snakes',
+    'the Warrior Tribe of the {forestbeast} {warriorwants}',
 
   ];
 
@@ -263,7 +268,7 @@ gen_data['desertadjective'] = [
     'could make you sink',
     'augment magic',
     'attract Scouts riding {desertbeast}',
-    'are worshiped by the locals',
+    'are sacred for the locals',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -404,7 +409,7 @@ gen_data['arcticadjective'] = [
     'attract goblins',
     'augment magic',
     'attract Scouts riding {arcticbeast}',
-    'are worshiped by the locals',
+    'are sacred for the locals',
     'could crush you',
   ];
   gen_data['arcticmonster'] = [
