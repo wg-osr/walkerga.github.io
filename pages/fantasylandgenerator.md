@@ -314,8 +314,8 @@ gen_data['arcticadjective'] = [
     'the Steam Elementals, who {steamelementalwants}',
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'a Great Horde and their giant War {arcticBeast}',
-    'the Warrior Tribe of the {arcticBeast}, {warriorwants}',
+    'a Great Horde and their giant War {arcticbeast}',
+    'the Warrior Tribe of the {arcticbeast}, {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
