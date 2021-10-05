@@ -888,7 +888,7 @@ gen_data['arcticadjective'] = [
     'grieving',
     'ancestral',
     'secret-whispering',
-    'trgic',
+    'tragic',
     'taboo',
     'sacred',
   ]; 
