@@ -57,6 +57,8 @@ gen_data['forestadjective'] = [
     'settled',
     'sweet',
     'green',
+    'dewy',
+    'clear',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -81,6 +83,8 @@ gen_data['forestadjective'] = [
     'longhouse village',
     'berries',
     'clearings',
+    'hot springs',
+    'waterfalls',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -105,6 +109,8 @@ gen_data['forestadjective'] = [
     'sacred {forestbeast}',  
     'aromatic berries',  
     'animal trails',  
+    'steam clouds',  
+    'waterfalls',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -128,7 +134,9 @@ gen_data['forestadjective'] = [
     'are noisy',
     'are sacred for the locals',
     'could make you hungry',
-    'that lead to the fey world',
+    'lead to the fey world',
+    'are boiling hot',
+    'are violent',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -153,6 +161,8 @@ gen_data['forestadjective'] = [
     'the Warrior Tribe of the {forestbeast} {warriorwants}',
     'the Azizas who {azizawants}',
     'the Centaurs, who {centaurculture} {centaurproblem}',
+    'the Steam Elementals, who {steamelementalwants}',
+    'the Water Elementals, who {waterelementalwants}',
 
   ];
 
@@ -1002,6 +1012,14 @@ gen_data['arcticadjective'] = [
     'vampiric',
     'nightmarish',
     'cursed',
+  ]; 
+   gen_data['waterelementalwants'] = [
+    'want to submerge the area',
+    'protect a sacred source',
+    'fight the sky',
+    'fight forest fires',
+    'dig out the earth',
+    'want to return to the plane of water',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
