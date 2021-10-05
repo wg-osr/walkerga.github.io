@@ -39,6 +39,7 @@ gen_data['desertadjective'] = [
     'red',
     'war-ravaged',
     'bushy',
+    'tepid',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -48,6 +49,7 @@ gen_data['desertadjective'] = [
     'holes',
     'old battle site',
     'valley',
+    'mud pounds',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -57,6 +59,7 @@ gen_data['desertadjective'] = [
     'wasps',
     'dark winds',
     'nervous {desertbird}',  
+    'tepid water sources',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -66,6 +69,7 @@ gen_data['desertadjective'] = [
     'attract Vyderacs',
     'are frightening',
     'could distract you',
+    'could make you waste rations',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -75,6 +79,7 @@ gen_data['desertadjective'] = [
     'the {vyderactotem} Vyderacs',
     'the Bestial Terrors, who {bestialterrorwants}',
     'the {birdtotem} {desertbird}',
+    'the {boltforagertotem} Boltforager',
 
   ];
 
@@ -533,6 +538,14 @@ gen_data['arcticadjective'] = [
     'dancing',
     'swarming',
     'blood-drinking',
+    'cursed',
+  ]; 
+   gen_data['boltforagertotem'] = [
+    'sickly',
+    'sunset-colored',
+    'matutinal',
+    'deadly',
+    'repulsive',
     'cursed',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
