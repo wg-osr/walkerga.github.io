@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant fauna
+tags: monster plant  forest
 permalink: /monsters/death-head-tree
 title: Death's Head Tree
 ---
