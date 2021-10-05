@@ -56,6 +56,7 @@ gen_data['desertadjective'] = [
     'magmatic',
     'savage',
     'gravel',
+    'stormy',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -82,6 +83,7 @@ gen_data['desertadjective'] = [
     'sinkhole',
     'warrens',
     'sand shrine',
+    'powerstones',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -108,6 +110,7 @@ gen_data['desertadjective'] = [
     'eruptions',  
     'hidden pit traps',  
     'gravel pits',  
+    'wild energies',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -134,6 +137,7 @@ gen_data['desertadjective'] = [
     'make the earth split',
     'attract Goblins',
     'could make you sink',
+    'augment magic',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -160,6 +164,7 @@ gen_data['desertadjective'] = [
     'the {redragontotem} Red Dragon who {redragonwants}',
     'the Goblins, who {goblinculture} {goblinproblem}',
     'the Earth Mephits, who {earthmephitwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
