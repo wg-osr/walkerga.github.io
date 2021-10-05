@@ -41,6 +41,8 @@ gen_data['forestadjective'] = [
     'riverside',
     'fishing',
     'singing',
+    'bushy',
+    'muddy',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -49,6 +51,8 @@ gen_data['forestadjective'] = [
     'willows',
     'rapids',
     'trees',
+    'pine-trees',
+    'shacks',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -57,6 +61,8 @@ gen_data['forestadjective'] = [
     'willows',
     'rapids',
     'nervous {forestbird}',  
+    'patches of dead leaves',  
+    'vicious rusty bear traps',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -65,6 +71,8 @@ gen_data['forestadjective'] = [
     'are full of sticky sap',
     'are treacherous',
     'could distract you',
+    'you could sink into',
+    'could maim you',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -73,6 +81,8 @@ gen_data['forestadjective'] = [
     'the {olitiautotem} Olitiaus',
     'the {beartotem} Bears',
     'the {birdtotem} {forestbird}',
+    'the {boartotem} Boars',
+    'the Calytaurs, who {calytaurculture} {calytaurproblem}',
 
   ];
 
@@ -804,9 +814,25 @@ gen_data['arcticadjective'] = [
     'hibernating',
     'motherly',
     'sacred',
+  ];
+   gen_data['calytaurculture'] = [
+    'ritually soil beautiful things',
+    'lead a fertility cult',
+    'hate all the gods',
+    'are known for their cuisine',
+    'roam the wilderness',
+    'avoid strangers like plague',
+  ];  
+   gen_data['calytaurculture'] = [
+    'under the leardership a Cambion Pig',
+    'and eat human-based charcuterie',
+    'because they want to summon a Nalfeshnee',
+    'and were once humans',
+    'and steal human babies',
+    'and obsessed with hygiene',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  
+    </script>  {} {calytaurproblem}
   </head>
   <body>
     
