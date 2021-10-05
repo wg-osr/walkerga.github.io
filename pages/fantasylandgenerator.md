@@ -34,22 +34,27 @@ gen_data['cesertbeast'] = [
 gen_data['desertadjective'] = [
     'wind-swept',
     'salt',
+    'cavernous',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
     'dry lake',
+    'canyon',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
     'sulfurous mud',
+    'steep cliffs',
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
     'is corrosive',
+    'require equipment to cross',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
     'the {basilisktotem} Basilisks',
+    'the {battotem} Bats',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -477,6 +482,14 @@ gen_data['arcticadjective'] = [
     'mineral',
     'hypnotizing',
     'petrifying',
+    'sacred',
+  ];
+   gen_data['battotem'] = [
+    'nocturnal',
+    'vampiric',
+    'ominous',
+    'medicinal',
+    'frightening',
     'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
