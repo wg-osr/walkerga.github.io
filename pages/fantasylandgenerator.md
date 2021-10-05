@@ -85,7 +85,7 @@ gen_data['desertadjective'] = [
     'wall',
     'tribeland',
     'pass',
-    'sinkhole',
+    'sinkholes',
     'warrens',
     'sand shrine',
     'powerstones',
