@@ -590,12 +590,12 @@ gen_data['arcticadjective'] = [
     'sacred',
   ]; 
    gen_data['cultwants'] = [
-    'perform sacrifices for their patron',
-    'agressively seek more members',
-    'hunt rare materials for a ritual',
-    'sell weird trinkets',
-    'murder those who know too much',
-    'put bounties on ex members',
+    'performs sacrifices for their patron',
+    'agressively seeks more members',
+    'hunts rare materials for a ritual',
+    'sells weird trinkets',
+    'murders those who know too much',
+    'puts bounties on ex members',
   ]; 
    gen_data['cyclopsculture'] = [
     'live peacefully with their sheep',
