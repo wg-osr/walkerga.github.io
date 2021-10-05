@@ -723,7 +723,7 @@ gen_data['arcticadjective'] = [
     'need to cover the region in earth before the arrival of their master',
     'are hiding from their autoritative master back in the plane of earth',
     'recently spawned from the ground',
-    'are getting information for their stoic master',
+    'are gathering information for their stoic master',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
