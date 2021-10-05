@@ -116,7 +116,7 @@ gen_data['forestadjective'] = [
     'look like enemies',
     'could make you lost',
     'could hide the path',
-    'placed by lumberjacks',
+    'were placed by lumberjacks',
     'attract Goblins',
     'could split the party',
     'are noisy',
