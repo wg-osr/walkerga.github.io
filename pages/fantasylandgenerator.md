@@ -56,6 +56,7 @@ gen_data['forestadjective'] = [
     'turquoise',
     'settled',
     'sweet',
+    'green',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -79,6 +80,7 @@ gen_data['forestadjective'] = [
     'ferns',
     'longhouse village',
     'berries',
+    'clearings',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -102,6 +104,7 @@ gen_data['forestadjective'] = [
     'branches',  
     'sacred {forestbeast}',  
     'aromatic berries',  
+    'animal trails',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -125,6 +128,7 @@ gen_data['forestadjective'] = [
     'are noisy',
     'are sacred for the locals',
     'could make you hungry',
+    'that lead to the fey world',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -148,6 +152,7 @@ gen_data['forestadjective'] = [
     'the {copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {forestbeast} {warriorwants}',
     'the Azizas who {azizawants}',
+    'the Centaurs, who {centaurculture} {centaurproblem}',
 
   ];
 
