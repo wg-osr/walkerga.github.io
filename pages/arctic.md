@@ -391,7 +391,7 @@
     'hide in tunnels',
     'hide their huts high in trees',
     'joined the great horde',
-    'serve Hobgoblin legion',
+    'serve the Hobgoblin legion',
     'are enslaved workers',
   ];  
    gen_data['goblinproblem'] = [
