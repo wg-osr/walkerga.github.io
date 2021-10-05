@@ -46,6 +46,7 @@ gen_data['forestadjective'] = [
     'humid',
     'dark',
     'poisonous',
+    'forbidden',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -59,6 +60,7 @@ gen_data['forestadjective'] = [
     'undergrowth',
     'roots',
     'leaves',
+    'idols',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -72,6 +74,7 @@ gen_data['forestadjective'] = [
     'moss patches',  
     'roots',  
     'mushrooms',  
+    'pagan idols',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -85,6 +88,7 @@ gen_data['forestadjective'] = [
     'could make you slip and fall',
     'are where the light doesn't reach',
     'are poisonous',
+    'could curse you',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -98,6 +102,7 @@ gen_data['forestadjective'] = [
     'the {centipedetotem} Centipedes',
     'the {blackdracopedetotem} Black Dracopedes',
     'the {greendracopedetotem} Green Dracopedes',
+    'a{cult} Cult that {cultwants}',
 
   ];
 
