@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey enemy
+tags: monster fey  forest
 permalink: /monsters/muttering-serpent
 title: Muttering Serpent
 ---
