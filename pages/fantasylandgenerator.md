@@ -204,6 +204,7 @@ gen_data['desertadjective'] = [
     'settled',
     'muddy',
     'dusty',
+    'dinosaur bone',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -235,6 +236,7 @@ gen_data['desertadjective'] = [
     'tent villages',
     'puddles',
     'bushes',
+    'mud huts',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -266,6 +268,7 @@ gen_data['desertadjective'] = [
     'sacred {desertbeast}',  
     'mud puddles',  
     'tiny flies',  
+    'snare traps',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -297,6 +300,7 @@ gen_data['desertadjective'] = [
     'are sacred for the locals',
     'could trap you',
     'can make you itchy',
+    'set up by lizard people',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -328,6 +332,7 @@ gen_data['desertadjective'] = [
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
     'the {bloodbeasttotem} Bloodbeasts',
     'the {boartotem} Warthogs',
+    'the Lizardfolks, who {lizardfolkculture} {lizardfolkproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1021,8 +1026,24 @@ gen_data['arcticadjective'] = [
     'dig out the earth',
     'want to return to the plane of water',
   ]; 
+   gen_data['lizardfolkculture'] = [
+    'carry in woven portable houses',
+    'live in caves only accessible underwater',
+    'inhabit ancient ruined pyramids',
+    'live in the sewers of another civilization',
+    'live atop Giant Tortoises',
+    'settled the edges of a bottomless pit',
+  ]; 
+   gen_data['lizardfolkproblem'] = [
+    'and believe the apocalypse can be delayed by sacrificing humans',
+    'and herd dinosaurs',
+    'and worship a titanic lizard',
+    'because they are only here for their coming of age journey',
+    'with their advanced technology',
+    'and worship a demon in disguise',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  
+    </script>
   </head>
   <body>
     
