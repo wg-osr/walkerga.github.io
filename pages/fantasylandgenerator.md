@@ -348,6 +348,7 @@ gen_data['arcticadjective'] = [
     'settled',
     'hillside',
     'fishing',
+    'slushy',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -374,6 +375,7 @@ gen_data['arcticadjective'] = [
     'yurt villages',
     'mounds',
     'strait',
+    'shacks',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -400,6 +402,7 @@ gen_data['arcticadjective'] = [
     'sacred {arcticbeast}',
     'rockfalls',
     'giant nests',
+    'vicious rusty bear traps',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -426,6 +429,7 @@ gen_data['arcticadjective'] = [
     'are sacred for the locals',
     'could crush you',
     'near the sea',
+    'could maim you',
   ];
   gen_data['arcticmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -452,7 +456,7 @@ gen_data['arcticadjective'] = [
     'the Warrior Tribe of the {arcticbeast} {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
     'the {pelicantotem} Giant Pelicans',
-
+    'the Calytaurs, who {calytaurculture} {calytaurproblem}',
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
