@@ -32,27 +32,32 @@
     '{mainarctic}', '{maindesert}', 
   ];
 gen_data['forestbeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves'
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bat'
   ];
 gen_data['forestadjective'] = [
     'colossal',
     'shady',
+    'foggy',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
     'caves',
+    'lakes',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
     'fallen tree bridges',
+    'thick fog walls',
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
-    'are rotten',
+    'are rotting and fragile',
+    'can obscure your vision',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
     'the {battotem} Bats',
+    'the {ahooltotem} Ahools',
 
   ];
 
@@ -762,6 +767,14 @@ gen_data['arcticadjective'] = [
     'are hiding from their autoritative master back in the plane of earth',
     'recently spawned from the ground',
     'are gathering information for their stoic master',
+  ];  
+   gen_data['ahooltotem'] = [
+    'nocturnal',
+    'child-stealing',
+    'sneaky',
+    'dog-mimicking',
+    'terrifying',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
