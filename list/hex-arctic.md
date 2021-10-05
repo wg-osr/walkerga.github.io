@@ -32,3 +32,18 @@ Each time your roll on the arctic hex table, you fill 2D6 adjacent hexes on the 
 1. <span class="a">[Sorcerer](/monsters/sorcerer)</span> <span class="b">Thunderstruck ...</span>  <span class="c">nexus.</span> <span class="d">Wild magic.</span>
 1. <span class="a">[War Beast](/monsters/war-beast)</span> <span class="b">Warlord's ...</span>  <span class="c">army.</span> <span class="d">War horns ringing.</span>
 1. <span class="a">[Warrior](/monsters/warrior)</span> <span class="b">Tribal ...</span>  <span class="c">yurts.</span> <span class="d">A sacred beast.</span>
+
+{% capture posts %}
+  {% for post in site.tags.arctic %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
+{% endunless %}
+{% endfor %}
+</ol>
