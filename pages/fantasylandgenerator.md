@@ -828,7 +828,7 @@ gen_data['arcticadjective'] = [
     'roam the wilderness',
     'avoid strangers like plague',
   ];  
-   gen_data['calytaurculture'] = [
+   gen_data['calytaurproblem'] = [
     'under the leardership a Cambion Pig',
     'and eat human-based charcuterie',
     'because they want to summon a Nalfeshnee',
@@ -837,7 +837,7 @@ gen_data['arcticadjective'] = [
     'and obsessed with hygiene',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  {} {calytaurproblem}
+    </script>
   </head>
   <body>
     
