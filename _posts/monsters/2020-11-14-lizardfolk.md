@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid faction
+tags: monster humanoid desert
 permalink: /monsters/lizardfolk
 title: Lizardfolk
 ---
