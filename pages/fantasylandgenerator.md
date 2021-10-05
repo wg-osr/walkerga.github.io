@@ -32,7 +32,7 @@
     '{mainarctic}', '{maindesert}', 
   ];
 gen_data['forestbeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes'
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
   ];
 gen_data['forestadjective'] = [
     'colossal',
@@ -52,6 +52,7 @@ gen_data['forestadjective'] = [
     'lush',
     'walled',
     'savage',
+    'isolated',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -71,6 +72,7 @@ gen_data['forestadjective'] = [
     'oaks',
     'mine',
     'warrens',
+    'firs',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -90,6 +92,7 @@ gen_data['forestadjective'] = [
     'sentient trees',  
     'falling trees',  
     'hidden pit traps',  
+    'shortcuts',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -109,6 +112,7 @@ gen_data['forestadjective'] = [
     'could hide the path',
     'placed by lumberjacks',
     'attract Goblins',
+    'could split the party',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -128,6 +132,7 @@ gen_data['forestadjective'] = [
     'a Dryad who {dryadwants}',
     'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
     'the Goblins, who {goblinculture} {goblinproblem}',
+    'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
 
   ];
 
@@ -890,7 +895,7 @@ gen_data['arcticadjective'] = [
     'secret-whispering',
     'tragic',
     'taboo',
-    'sacred',
+    'holy',
   ]; 
    gen_data['greendragontotem'] = [
     'deadly',
@@ -898,7 +903,7 @@ gen_data['arcticadjective'] = [
     'witchy',
     'suave',
     'dreaming',
-    'sacred',
+    'worshipped',
   ]; 
    gen_data['greendragonwants'] = [
     'collects humanoids as pets',
@@ -915,6 +920,22 @@ gen_data['arcticadjective'] = [
     'longs for love',
     'is mustering an army of beasts',
     'shelters wounded animals',
+  ]; 
+   gen_data['mutteringsperpantstotem'] = [
+    'contrarian',
+    'half-real',
+    'manipulative',
+    'lonely',
+    'taboo',
+    'venerated',
+  ]; 
+   gen_data['mutteringsperpantswants'] = [
+    'goads people into making bad decisions',
+    'is removing all traces of its existence',
+    'is behind a Cult of doubters',
+    'needs adventurer to kill a rival',
+    'loves to undermine confidence',
+    'will reward the doubtless',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
