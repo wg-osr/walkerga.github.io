@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental faction
+tags: monster elemental  desert
 permalink: /monsters/mephit-earth
 title: Mephit, Earth
 ---
