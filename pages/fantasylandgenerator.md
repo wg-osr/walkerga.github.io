@@ -61,6 +61,7 @@ gen_data['forestadjective'] = [
     'clear',
     'hillside',
     'eerie',
+    'stormy',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -89,6 +90,7 @@ gen_data['forestadjective'] = [
     'waterfalls',
     'mounds',
     'elven ruins',
+    'power stones',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -117,6 +119,7 @@ gen_data['forestadjective'] = [
     'waterfalls',  
     'boulders',  
     'elven runes',  
+    'strange energies',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -145,6 +148,7 @@ gen_data['forestadjective'] = [
     'are violent',
     'attract Brigands',
     'could drive you mad',
+    'augment magic',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -173,6 +177,7 @@ gen_data['forestadjective'] = [
     'the Water Elementals, who {waterelementalwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
     'the Elven Shadows who {elfshadowwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
 
   ];
 
