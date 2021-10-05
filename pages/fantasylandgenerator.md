@@ -860,7 +860,7 @@ gen_data['arcticadjective'] = [
   ];  
    gen_data['calytaurproblem'] = [
     'under the leardership a Cambion Pig',
-    'and charcuterie from human flesh',
+    'and make charcuterie from human flesh',
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
