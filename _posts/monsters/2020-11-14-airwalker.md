@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental arctic
+tags: monster elemental arctic desert
 permalink: /monsters/airwalker
 title: Airwalker
 ---
