@@ -157,7 +157,7 @@ gen_data['forestadjective'] = [
     'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts', 'Warthogs'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -188,6 +188,7 @@ gen_data['desertadjective'] = [
     'giant',
     'settled',
     'muddy',
+    'dusty',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -218,6 +219,7 @@ gen_data['desertadjective'] = [
     'war camp',
     'tent villages',
     'puddles',
+    'bushes',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -248,6 +250,7 @@ gen_data['desertadjective'] = [
     'war horns',  
     'sacred {desertbeast}',  
     'mud puddles',  
+    'tiny flies',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -278,6 +281,7 @@ gen_data['desertadjective'] = [
     'attract Scouts riding {desertbeast}',
     'are sacred for the locals',
     'could trap you',
+    'can make you itchy',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -308,6 +312,7 @@ gen_data['desertadjective'] = [
     'the Great Horde and their giant War {desertbeast}',
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
     'the {bloodbeasttotem} Bloodbeasts',
+    'the {boartotem} Warthogs',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
