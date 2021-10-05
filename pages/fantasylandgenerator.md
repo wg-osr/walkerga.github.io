@@ -54,6 +54,8 @@ gen_data['desertadjective'] = [
     'coastal',
     'lonely',
     'magmatic',
+    'savage',
+    'gravel',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -78,6 +80,8 @@ gen_data['desertadjective'] = [
     'tribeland',
     'pass',
     'sinkhole',
+    'warrens',
+    'sand shrine',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -102,6 +106,8 @@ gen_data['desertadjective'] = [
     'tremors',  
     'mirages',  
     'eruptions',  
+    'hidden pit traps',  
+    'gravel pits',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -126,6 +132,8 @@ gen_data['desertadjective'] = [
     'attract giant Wurms',
     'could make you lost',
     'make the earth split',
+    'attract Goblins',
+    'could make you sink',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -150,6 +158,8 @@ gen_data['desertadjective'] = [
     'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
     'the Donestre who {donestrewants}, yet {donestredo}',
     'the {redragontotem} Red Dragon who {redragonwants}',
+    'the Goblins, who {goblinculture} {goblinproblem}',
+    'the Earth Mephits, who {earthmephitwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -688,6 +698,14 @@ gen_data['arcticadjective'] = [
     'searches for a long lost dwarven hold',
     'wants a legendary artefact',
     'is worshipped like a god',
+  ];  
+   gen_data['earthmephitwants'] = [
+    'deliver messages from their Earth Elemental master',
+    'have complex aristocratic pedigrees',
+    'need to cover the region in earth before the arrival of their master',
+    'are hiding from their autoritative master back in the plane of earth',
+    'recently spawned from the ground',
+    'are getting information for their stoic master',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
