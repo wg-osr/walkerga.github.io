@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental enemy
+tags: monster elemental arctic
 permalink: /monsters/elemental-steam
 title: Elemental, Steam
 ---
