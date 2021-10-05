@@ -28,7 +28,7 @@
       
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-gen_data['cesertbeast'] = [
+gen_data['desertbeast'] = [
     'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Felines'
   ];
 gen_data['desertadjective'] = [
@@ -57,6 +57,8 @@ gen_data['desertadjective'] = [
     'savage',
     'gravel',
     'stormy',
+    'giant',
+    'settled',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -84,6 +86,8 @@ gen_data['desertadjective'] = [
     'warrens',
     'sand shrine',
     'powerstones',
+    'war camp',
+    'tent villages',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -111,6 +115,8 @@ gen_data['desertadjective'] = [
     'hidden pit traps',  
     'gravel pits',  
     'wild energies',  
+    'war horns',  
+    'sacred {desertbeast}',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -138,6 +144,8 @@ gen_data['desertadjective'] = [
     'attract Goblins',
     'could make you sink',
     'augment magic',
+    'attract {desertbeast} Riders',
+    'are worshiped by the locals',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -165,6 +173,8 @@ gen_data['desertadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'the Earth Mephits, who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
+    'a Great Horde and their giant War {desertbeast}',
+    'the Tribe of the {desertbeast} {warriorwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -302,7 +312,7 @@ gen_data['arcticadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {arcticBeast}',
-    'a Warrior Clan {warriorwants}',
+    'the Tribe of the {arcticBeast} {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
