@@ -32,7 +32,7 @@
     '{mainarctic}', '{maindesert}', 
   ];
 gen_data['forestbeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes'
   ];
 gen_data['forestadjective'] = [
     'colossal',
