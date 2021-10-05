@@ -174,7 +174,7 @@ gen_data['desertadjective'] = [
     'the Earth Mephits, who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {desertbeast}',
-    'the Tribe of the {desertbeast} {warriorwants}',
+    'the Warrior Tribe of the {desertbeast}, {warriorwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -312,7 +312,7 @@ gen_data['arcticadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {arcticBeast}',
-    'the Tribe of the {arcticBeast} {warriorwants}',
+    'the Warrior Tribe of the {arcticBeast}, {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
@@ -584,7 +584,7 @@ gen_data['arcticadjective'] = [
     'who dress like animals',
     'that joined the great horde',
     'who are trying to find their ancestral home',
-    'that protect the region',
+    'that protects the region',
   ];  
    gen_data['ogreculture'] = [
     'took over a castle',
