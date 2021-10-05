@@ -176,7 +176,7 @@ gen_data['desertadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'the Earth Mephits, who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'a Great Horde and their giant War {desertbeast}',
+    'the Great Horde and their giant War {desertbeast}',
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
   ];
 
@@ -314,7 +314,7 @@ gen_data['arcticadjective'] = [
     'the Steam Elementals, who {steamelementalwants}',
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'a Great Horde and their giant War {arcticbeast}',
+    'the Great Horde and their giant War {arcticbeast}',
     'the Warrior Tribe of the {arcticbeast} {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
