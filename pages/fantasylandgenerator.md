@@ -29,7 +29,7 @@
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['cesertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -40,6 +40,8 @@ gen_data['desertadjective'] = [
     'war-ravaged',
     'bushy',
     'tepid',
+    'marble',
+    'aloe-filled',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -49,7 +51,9 @@ gen_data['desertadjective'] = [
     'holes',
     'old battle site',
     'valley',
-    'mud pounds',
+    'mud ponds',
+    'stadium',
+    'haciendas',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -60,6 +64,8 @@ gen_data['desertadjective'] = [
     'dark winds',
     'nervous {desertbird}',  
     'tepid water sources',  
+    'sheep herds',  
+    'cacti',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -70,6 +76,8 @@ gen_data['desertadjective'] = [
     'are frightening',
     'could distract you',
     'could make you waste rations',
+    'could get in your way',
+    'are poisonous',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -80,6 +88,8 @@ gen_data['desertadjective'] = [
     'the Bestial Terrors, who {bestialterrorwants}',
     'the {birdtotem} {desertbird}',
     'the {boltforagertotem} Boltforager',
+    'the Cacuses, who {cacusculture} {cacusproblem}',
+    'the Cadejos, who {cadejowants}',
 
   ];
 
