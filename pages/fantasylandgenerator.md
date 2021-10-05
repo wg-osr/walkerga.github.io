@@ -157,7 +157,7 @@ gen_data['forestadjective'] = [
     'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -187,6 +187,7 @@ gen_data['desertadjective'] = [
     'stormy',
     'giant',
     'settled',
+    'muddy',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -216,6 +217,7 @@ gen_data['desertadjective'] = [
     'powerstones',
     'war camp',
     'tent villages',
+    'puddles',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -245,6 +247,7 @@ gen_data['desertadjective'] = [
     'wild energies',  
     'war horns',  
     'sacred {desertbeast}',  
+    'mud puddles',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -274,6 +277,7 @@ gen_data['desertadjective'] = [
     'augment magic',
     'attract Scouts riding {desertbeast}',
     'are sacred for the locals',
+    'could trap you',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -303,6 +307,7 @@ gen_data['desertadjective'] = [
     'a Sorcerous Cabbal that {sorcererwants}',
     'the Great Horde and their giant War {desertbeast}',
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
+    'the {bloodbeasttotem} Bloodbeasts',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -980,6 +985,14 @@ gen_data['arcticadjective'] = [
     'dumb',
     'migrating',
     'sacred',
+  ];
+   gen_data['bloodbeasttotem'] = [
+    'medicinal',
+    'sucking',
+    'filthy',
+    'vampiric',
+    'nightmarish',
+    'cursed',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
