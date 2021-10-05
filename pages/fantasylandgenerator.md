@@ -49,6 +49,7 @@ gen_data['forestadjective'] = [
     'forbidden',
     'gloomy',
     'thorny',
+    'lush',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -65,6 +66,7 @@ gen_data['forestadjective'] = [
     'idols',
     'dead trees',
     'maze',
+    'oaks',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -81,6 +83,7 @@ gen_data['forestadjective'] = [
     'pagan idols',  
     'dead trees',  
     'maze-like paths',  
+    'sentient trees',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -97,6 +100,7 @@ gen_data['forestadjective'] = [
     'could curse you',
     'look like enemies',
     'could make you lost',
+    'could hide the path',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -113,6 +117,7 @@ gen_data['forestadjective'] = [
     'a{cult} Cult that {cultwants}',
     'the {deathsheadtotem} Death’s Head Tree',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'a Dryad who {dryadwants}',
 
   ];
 
@@ -892,6 +897,14 @@ gen_data['arcticadjective'] = [
     'hates the Elves',
     'sleepwalks',
     'has discovered the agro-industrial potential of its poisonous breath',
+  ];  
+   gen_data['dryadwants'] = [
+    'wants a human slave for every tree cut',
+    'wars against the community encroaching her woods',
+    'wants to regrow the forest',
+    'longs for love',
+    'is mustering an army of beasts',
+    'shelters wounded animals',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
