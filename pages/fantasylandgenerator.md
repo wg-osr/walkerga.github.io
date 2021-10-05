@@ -89,7 +89,7 @@ gen_data['desertadjective'] = [
     'are poisonous',
     'hide sharp needles',
     'hide ambushers',
-    'near precipices',
+    'are near precipices',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
