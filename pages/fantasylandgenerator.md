@@ -662,7 +662,7 @@ gen_data['arcticadjective'] = [
    gen_data['centaurculture'] = [
     'migrate with giant herds guided by the stars',
     'live off raiding and pillaging',
-    'founded an academy for heroes',
+    'manage an academy for heroes',
     'joined the great horde',
     'coexist with Elves',
     'quest as knight errants',
