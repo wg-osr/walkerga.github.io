@@ -23,7 +23,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d6hexes}-hex cold region is known for its {adjective} {feature}. Beware, for there are {obstacle} that {hazard} in the area. It is the land of {monster}, and also {monster}.'
+    'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is the land of {arcticmonster}, and also {arcticmonster}.'
   ];
   gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -38,7 +38,7 @@
     '93-97': 'eleven',
     '98-00': 'twelve'
   };
-  gen_data['adjective'] = [
+  gen_data['arcticadjective'] = [
     'wind-swept',
     'ice-covered',
     'mist-cloaked',
@@ -64,7 +64,7 @@
     'settled',
     'hillside',
   ];
-  gen_data['feature'] = [
+  gen_data['arcticfeature'] = [
     'sky shrine',
     'crags',
     'loch',
@@ -90,7 +90,7 @@
     'yurt villages',
     'mounds',
   ];
-  gen_data['obstacle'] = [
+  gen_data['arcticobstacle'] = [
     'powerful winds',
     'ice bridges',
     'ley lines',  
@@ -116,7 +116,7 @@
     'sacred {arcticBeast}',
     'rockfalls',
   ];
-  gen_data['hazard'] = [
+  gen_data['arctichazard'] = [
     'could make you fall',
     'could crumble',
     'are crackling with power',
@@ -142,7 +142,7 @@
     'are worshiped by the locals',
     'could crush you',
   ];
-  gen_data['monster'] = [
+  gen_data['arcticmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
     'the {arassastotem} Arassas',
     'the Athachs, who {athachculture} {athachproblem}',
@@ -438,10 +438,9 @@
     </script>
   </head>
   <body>
- 
     
   <h1>{{ page.title }}</h1>
-    <h1>Hello</h1>
+    <h1>Fantasy Land Generator</h1>
   
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
     <p><input type="button" value="Generate" onclick="more_random();" /></p>
