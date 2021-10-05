@@ -851,7 +851,7 @@ gen_data['arcticadjective'] = [
     'and steal human babies',
     'and obsessed with hygiene',
   ]; 
-   gen_data['calytaurproblem'] = [
+   gen_data['greendracopedetotem'] = [
     'draconic',
     'primeval',
     'acidic',
@@ -860,7 +860,7 @@ gen_data['arcticadjective'] = [
     'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> greendracopedetotem
+    </script> 
   </head>
   <body>
     
