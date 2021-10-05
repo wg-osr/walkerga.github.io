@@ -767,7 +767,7 @@ gen_data['arcticadjective'] = [
     'with Hobgoblins and Bugbears',
   ];
    gen_data['sorcererwants'] = [
-    'crave more power',
+    'crave endless power',
     'hide among normal people',
     'transcended to another state of being',
     'agressively fight all trespassers',
