@@ -338,6 +338,7 @@ gen_data['arcticadjective'] = [
     'giant',
     'settled',
     'hillside',
+    'fishing',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -364,6 +365,7 @@ gen_data['arcticadjective'] = [
     'war camp',
     'yurt villages',
     'mounds',
+    'strait',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -390,6 +392,7 @@ gen_data['arcticadjective'] = [
     'war horns',
     'sacred {arcticbeast}',
     'rockfalls',
+    'giant nests',
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -416,6 +419,7 @@ gen_data['arcticadjective'] = [
     'attract Scouts riding {arcticbeast}',
     'are sacred for the locals',
     'could crush you',
+    'near the sea',
   ];
   gen_data['arcticmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -442,6 +446,7 @@ gen_data['arcticadjective'] = [
     'the Great Horde and their giant War {arcticbeast}',
     'the Warrior Tribe of the {arcticbeast} {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
+    'the {pelicantotem} Giant Pelicans',
 
   ];
       
@@ -967,6 +972,14 @@ gen_data['arcticadjective'] = [
     'ride Giant Bees to pollenise giant flowers',
     'are addicted to powdered luck',
     'protect a giant fruit',
+  ];
+   gen_data['pelicantotem'] = [
+    'marine',
+    'gluttonous',
+    'fishing',
+    'dumb',
+    'migrating',
+    'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
