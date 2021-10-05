@@ -177,7 +177,7 @@ gen_data['desertadjective'] = [
     'the Earth Mephits, who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {desertbeast}',
-    'the Warrior Tribe of the {desertbeast}, {warriorwants}',
+    'the Warrior Tribe of the {desertbeast} {warriorwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -268,7 +268,7 @@ gen_data['arcticadjective'] = [
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
-    'could crumble',
+    'are unstable',
     'are crackling with power',
     'slow travels',
     'are near high cliffs',
@@ -315,7 +315,7 @@ gen_data['arcticadjective'] = [
     'the Goblins, who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Great Horde and their giant War {arcticbeast}',
-    'the Warrior Tribe of the {arcticbeast}, {warriorwants}',
+    'the Warrior Tribe of the {arcticbeast} {warriorwants}',
     'the Ogres, who {ogreculture} {ogreproblem}',
 
   ];
