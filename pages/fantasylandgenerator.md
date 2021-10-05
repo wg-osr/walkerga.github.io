@@ -892,7 +892,7 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['greendragonwants'] = [
     'collects humanoids as pets',
-    'plots against a rival dragon',
+    'plots against a rival',
     'hasn’t been invited to a noble’s wedding',
     'hates the Elves',
     'sleepwalks',
