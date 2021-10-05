@@ -43,6 +43,8 @@ gen_data['desertadjective'] = [
     'marble',
     'aloe-filled',
     'blossoming',
+    'rocky',
+    'sun-kissed',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -56,6 +58,8 @@ gen_data['desertadjective'] = [
     'stadium',
     'haciendas',
     'cacti',
+    'crags',
+    'mesas',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -69,6 +73,8 @@ gen_data['desertadjective'] = [
     'sheep herds',  
     'bushes',  
     'cacti',  
+    'narrow passages',  
+    'paths',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -82,6 +88,8 @@ gen_data['desertadjective'] = [
     'could get in your way',
     'are poisonous',
     'hide sharp needles',
+    'hide ambushers',
+    'near precipices',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
@@ -95,7 +103,8 @@ gen_data['desertadjective'] = [
     'the Cacuses, who {cacusculture} {cacusproblem}',
     'the Cadejos, who {cadejowants}',
     'the {cactuscattotem} Cactus Cat',
-
+    'the {sabertoothcattotem} Sabertooth Cats',
+    'the {gianttressymtotem} Giant Tressym',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -570,9 +579,17 @@ gen_data['arcticadjective'] = [
     'drunken',
     'witchy',
     'sacred',
+  ]; 
+   gen_data['gianttressymtotem'] = [
+    'wise',
+    'feline',
+    'regal',
+    'flying',
+    'sun-loving',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>
   </head>
   <body>
     
