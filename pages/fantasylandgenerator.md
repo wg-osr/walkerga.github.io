@@ -645,7 +645,7 @@ gen_data['arcticadjective'] = [
     'herd wild horses to the dream world',
     'kidnap horse-loving kids to transform them into chevalls',
     'hunger for a rare fruit',
-    'give rides to an archfey's ball',
+    'give rides to an archfeyʼs ball',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
