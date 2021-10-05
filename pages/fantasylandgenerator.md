@@ -33,18 +33,23 @@ gen_data['cesertbeast'] = [
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
+    'salt',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
+    'dry lake',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
+    'sulfurous mud',
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
+    'is corrosive',
   ];
   gen_data['desertmonster'] = [
     'the Airwalkers, who {airwalkerwants}',
+    'the {basilisktotem} Basilisks',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
