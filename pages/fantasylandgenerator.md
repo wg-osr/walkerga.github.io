@@ -740,8 +740,9 @@ gen_data['arcticadjective'] = [
     <br>
     <br>
     The lands are generated using these monster lists:<br>
-    1. <a href="https://saltygoo.github.io/list/arctic">Cold climate monster list</a>
-    1. <a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a>
-
+    <ol>
+    <li><a href="https://saltygoo.github.io/list/arctic">Cold climate monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a></li>
+    </ol>
     </body>
 </html>
