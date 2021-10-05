@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental enemy
+tags: monster elemental forest
 permalink: /monsters/elemental-water
 title: Elemental, Water
 ---
