@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast boss
+tags: monster beast  desert
 permalink: /monsters/dragon-red
 title: Dragon, Red
 ---
