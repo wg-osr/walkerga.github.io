@@ -44,6 +44,8 @@ gen_data['forestadjective'] = [
     'bushy',
     'muddy',
     'humid',
+    'dark',
+    'poisonous',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -55,6 +57,8 @@ gen_data['forestadjective'] = [
     'pine-trees',
     'shacks',
     'undergrowth',
+    'roots',
+    'leaves',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -66,6 +70,8 @@ gen_data['forestadjective'] = [
     'patches of dead leaves',  
     'vicious rusty bear traps',  
     'moss patches',  
+    'roots',  
+    'mushrooms',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -77,6 +83,8 @@ gen_data['forestadjective'] = [
     'you could sink into',
     'could maim you',
     'could make you slip and fall',
+    'are where the light doesn't reach',
+    'are poisonous',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -88,6 +96,8 @@ gen_data['forestadjective'] = [
     'the {boartotem} Boars',
     'the Calytaurs, who {calytaurculture} {calytaurproblem}',
     'the {centipedetotem} Centipedes',
+    'the {blackdracopedetotem} Black Dracopedes',
+    'the {greendracopedetotem} Green Dracopedes',
 
   ];
 
@@ -750,8 +760,8 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['blackdracopedetotem'] = [
     'draconic',
-    'primal',
-    'seasonal',
+    'primeval',
+    'venomous',
     'shy',
     'shade-loving',
     'sacred',
@@ -835,9 +845,17 @@ gen_data['arcticadjective'] = [
     'and were once humans',
     'and steal human babies',
     'and obsessed with hygiene',
+  ]; 
+   gen_data['calytaurproblem'] = [
+    'draconic',
+    'primeval',
+    'acidic',
+    'shy',
+    'humidity-loving',
+    'sacred',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> greendracopedetotem
   </head>
   <body>
     
