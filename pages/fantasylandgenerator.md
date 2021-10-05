@@ -40,6 +40,7 @@ gen_data['forestadjective'] = [
     'foggy',
     'riverside',
     'fishing',
+    'singing',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -47,6 +48,7 @@ gen_data['forestadjective'] = [
     'lakes',
     'willows',
     'rapids',
+    'trees',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -54,6 +56,7 @@ gen_data['forestadjective'] = [
     'thick fog walls',
     'willows',
     'rapids',
+    'nervous {forestbird}',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -61,6 +64,7 @@ gen_data['forestadjective'] = [
     'can obscure your vision',
     'are full of sticky sap',
     'are treacherous',
+    'could distract you',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -68,6 +72,7 @@ gen_data['forestadjective'] = [
     'the {ahooltotem} Ahools',
     'the {olitiautotem} Olitiaus',
     'the {beartotem} Bears',
+    'the {birdtotem} {forestbird}',
 
   ];
 
@@ -478,6 +483,12 @@ gen_data['arcticadjective'] = [
     'Vultures',
     'Casowaries',
     'Hawks',
+  ];
+   gen_data['forestbird'] = [
+    'Sparrows',
+    'Crows',
+    'Magpies',
+    'Songbirds',
   ];
    gen_data['boartotem'] = [
     'stubborn',
