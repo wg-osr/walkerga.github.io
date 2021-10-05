@@ -48,6 +48,7 @@ gen_data['forestadjective'] = [
     'poisonous',
     'forbidden',
     'gloomy',
+    'thorny',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -63,6 +64,7 @@ gen_data['forestadjective'] = [
     'leaves',
     'idols',
     'dead trees',
+    'maze',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -78,6 +80,7 @@ gen_data['forestadjective'] = [
     'mushrooms',  
     'pagan idols',  
     'dead trees',  
+    'maze-like paths',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -93,6 +96,7 @@ gen_data['forestadjective'] = [
     'are poisonous',
     'could curse you',
     'look like enemies',
+    'could make you lost',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -108,6 +112,7 @@ gen_data['forestadjective'] = [
     'the {greendracopedetotem} Green Dracopedes',
     'a{cult} Cult that {cultwants}',
     'the {deathsheadtotem} Death’s Head Tree',
+    'a {greendragontotem} Green Dragon who {greendragonwants}',
 
   ];
 
@@ -871,9 +876,25 @@ gen_data['arcticadjective'] = [
     'trgic',
     'taboo',
     'sacred',
+  ]; 
+   gen_data['greendragontotem'] = [
+    'deadly',
+    'forest-dwelling',
+    'witchy',
+    'suave',
+    'dreaming',
+    'sacred',
+  ]; 
+   gen_data['greendragonwants'] = [
+    'collects humanoids as pets',
+    'plots against a rival dragon',
+    'hasn’t been invited to a noble’s wedding',
+    'hates the Elves',
+    'sleepwalks',
+    'has discovered the agro-industrial potential of its poisonous breath',
   ];  
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>  
   </head>
   <body>
     
