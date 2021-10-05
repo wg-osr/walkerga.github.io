@@ -767,12 +767,12 @@ gen_data['arcticadjective'] = [
     'with Hobgoblins and Bugbears',
   ];
    gen_data['sorcererwants'] = [
-    'crave endless power',
-    'hide among normal people',
+    'craves endless power',
+    'hides among normal people',
     'transcended to another state of being',
-    'agressively fight all trespassers',
-    'hunt down those who persecuted them',
-    'pursue sensory pleasures',
+    'agressively fights all trespassers',
+    'hunts down those who persecuted them',
+    'pursues sensory pleasures',
   ];  
    gen_data['warriorwants'] = [
     'who brutally conquered the region',
