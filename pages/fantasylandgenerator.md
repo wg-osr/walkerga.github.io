@@ -113,7 +113,7 @@
     'hidden pit traps',
     'wild energies',
     'war horns',
-    'sacred {arcticBeast}',
+    'sacred {arcticbeast}',
     'rockfalls',
   ];
   gen_data['arctichazard'] = [
