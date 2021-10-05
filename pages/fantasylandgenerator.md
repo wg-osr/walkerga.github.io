@@ -43,7 +43,7 @@ gen_data['desertadjective'] = [
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
-    'sulfurous mud',
+    'sulfurous mud pits',
     'steep cliffs',
   ];
   gen_data['deserthazard'] = [
