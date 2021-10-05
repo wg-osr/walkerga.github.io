@@ -51,6 +51,7 @@ gen_data['forestadjective'] = [
     'thorny',
     'lush',
     'walled',
+    'savage',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -69,6 +70,7 @@ gen_data['forestadjective'] = [
     'maze',
     'oaks',
     'mine',
+    'warrens',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -87,6 +89,7 @@ gen_data['forestadjective'] = [
     'maze-like paths',  
     'sentient trees',  
     'falling trees',  
+    'hidden pit traps',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -105,6 +108,7 @@ gen_data['forestadjective'] = [
     'could make you lost',
     'could hide the path',
     'placed by lumberjacks',
+    'attract Goblins',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -123,6 +127,7 @@ gen_data['forestadjective'] = [
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
     'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
+    'the Goblins, who {goblinculture} {goblinproblem}',
 
   ];
 
