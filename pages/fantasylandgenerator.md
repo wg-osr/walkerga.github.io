@@ -50,6 +50,7 @@ gen_data['forestadjective'] = [
     'gloomy',
     'thorny',
     'lush',
+    'walled',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -67,6 +68,7 @@ gen_data['forestadjective'] = [
     'dead trees',
     'maze',
     'oaks',
+    'mine',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -84,6 +86,7 @@ gen_data['forestadjective'] = [
     'dead trees',  
     'maze-like paths',  
     'sentient trees',  
+    'falling trees',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -101,6 +104,7 @@ gen_data['forestadjective'] = [
     'look like enemies',
     'could make you lost',
     'could hide the path',
+    'placed by lumberjacks',
   ];
   gen_data['forestmonster'] = [
     'the Athachs, who {athachculture} {athachproblem}',
@@ -118,6 +122,7 @@ gen_data['forestadjective'] = [
     'the {deathsheadtotem} Death’s Head Trees',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
+    'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
 
   ];
 
