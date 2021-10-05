@@ -23,13 +23,13 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is the land of {forestmonster}, and also {forestmonster}.'
+    '{mainarctic}', '{maindesert}',  '{mainforest}', 
   ];
       
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainforest'] = [
-    '{mainarctic}', '{maindesert}', 
+    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is the land of {forestmonster}, and also {forestmonster}.'
   ];
 gen_data['forestbeast'] = [
     'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
@@ -973,6 +973,7 @@ gen_data['arcticadjective'] = [
     <ol>
     <li><a href="https://saltygoo.github.io/list/arctic">Cold climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/forest">Forest climate monster list</a></li>
     </ol>
     </body>
 </html>
