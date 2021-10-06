@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert
+tags: monster beast  desert rocky
 permalink: /monsters/bird-boltforager
 title: Bird, Boltforager
 ---
