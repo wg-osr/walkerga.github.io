@@ -843,17 +843,17 @@ gen_data['arcticadjective'] = [
     'sacred',
   ]; 
    gen_data['centaurculture'] = [
-    'migrate with giant herds guided by the stars',
+    'follow the migration of giant herds',
     'live off raiding and pillaging',
     'manage an academy for heroes',
-    'joined the great horde',
+    'joined the Great Horde',
     'coexist with Elves',
-    'quest as knight errants',
+    'are knight errants',
   ];
    gen_data['centaurproblem'] = [
     'and for whom metal is blasphemous',
-    'half of the year, and disappear in the fey world during the other half',
-    'lest they turn into horses',
+    'half of the year, and disappear with the feys during the other half',
+    'under the guidance of the stars',
     'under the leadership of a Chevall',
     'after the collapse of their civilization',
     'and despise settlers',
