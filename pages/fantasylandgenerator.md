@@ -98,7 +98,7 @@ gen_data['rockyadjective'] = [
     'power stones',
     'ruins',
     'war camp',
-    'villages with thatched roofs',
+    'village with thatched roofs',
     'thickets',
 
   ];
@@ -589,7 +589,7 @@ gen_data['arcticadjective'] = [
     'warrens',
     'power stones',
     'war camp',
-    'yurt villages',
+    'yurt village',
     'mounds',
     'strait',
     'shacks',
