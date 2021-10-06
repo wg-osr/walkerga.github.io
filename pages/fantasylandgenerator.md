@@ -64,6 +64,7 @@ gen_data['rockyadjective'] = [
     'forlorn',
     'vast',
     'settled',
+    'dusty',
 
   ];
   gen_data['rockyfeature'] = [
@@ -96,7 +97,8 @@ gen_data['rockyadjective'] = [
     'power stones',
     'ruins',
     'war camp',
-    'villages with tatched houses',
+    'villages with thatched roofs',
+    'thickets',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -130,6 +132,7 @@ gen_data['rockyadjective'] = [
     'ruins',  
     'war banners',  
     'sacred {rockybeast}',
+    'dust clouds',
     
   ];
   gen_data['rockyhazard'] = [
@@ -162,7 +165,8 @@ gen_data['rockyadjective'] = [
     'augment magic',
     'attract Ghosts',
     'attract Scouts riding {rockybeast}',
-     'are sacred for the locals',  
+    'are sacred for the locals',  
+    'could make you waste rations',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -195,6 +199,7 @@ gen_data['rockyadjective'] = [
     'a Wraith that {wraithwants}',
     'the Great Horde and their War {rockybeast}',
     'the Warrior Tribe of the {rockybeast} {warriorwants}',
+    '{boltforagertotem} Boltforagers',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
