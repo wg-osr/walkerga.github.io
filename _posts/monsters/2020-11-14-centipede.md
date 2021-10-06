@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert forest
+tags: monster beast  desert forest rocky
 permalink: /monsters/centipede
 title: Centipede
 ---
