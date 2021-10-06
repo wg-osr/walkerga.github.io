@@ -1047,7 +1047,7 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['blackdracopedetotem'] = [
     'draconic',
-    'primeval',
+    'deadly',
     'venomous',
     'shy',
     'shade-loving',
@@ -1135,7 +1135,7 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['greendracopedetotem'] = [
     'draconic',
-    'primeval',
+    'territorial',
     'acidic',
     'shy',
     'humidity-loving',
