@@ -52,6 +52,10 @@ gen_data['rockyadjective'] = [
     'humid',
     'shady',
     'deep',
+    'forbidden',
+    'cyclopean',
+    'coastal',
+    'gloomy',
 
   ];
   gen_data['rockyfeature'] = [
@@ -73,13 +77,17 @@ gen_data['rockyadjective'] = [
     'fissures',
     'rivulets',
     'lava pools',
+    'idols',
+    'wall',
+    'tribeland',
+    'dead trees',
 
   ];
   gen_data['rockyobstacle'] = [
     'ley lines',
     'fumes',
     'dead tree bridge',
-    'some dead branches',
+    'some branches',
     'some vines',
     'rapids',
     'nervous {rockybird}',  
@@ -94,6 +102,10 @@ gen_data['rockyadjective'] = [
     'mossy patches',  
     'loose stones',  
     'magma pits',  
+    'pagan idols',  
+    'large wall',  
+    'storms',  
+    'gnarly trees',  
     
   ];
   gen_data['rockyhazard'] = [
@@ -115,6 +127,10 @@ gen_data['rockyadjective'] = [
     'are infested with bugs',
     'could collapse',
     'burn to the touch',
+    'could curse you',
+    'could block your path',
+    'attract lightning',
+    'can look like enemies',
    
   ];
   gen_data['rockymonster'] = [
@@ -136,7 +152,10 @@ gen_data['rockyadjective'] = [
     '{centipedetotem} Centipedes',
     '{blackdracopedetotem} Black Dracopedes',
     '{reddracopedetotem} Red Dracopedes',
-
+    'a{cult} Cult that {cultwants}',
+    'Cyclopses who {cyclopsculture} {cyclopsproblem}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
+    '{deathsheadtotem} Death’s Head Trees',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
