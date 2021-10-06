@@ -1194,7 +1194,7 @@ gen_data['arcticadjective'] = [
     'dancing',
     'metallic',
     'peaceful',
-    'precise',
+    'scheming',
     'sacred',
   ]; 
    gen_data['azizawants'] = [
