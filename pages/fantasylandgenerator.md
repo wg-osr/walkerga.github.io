@@ -62,6 +62,8 @@ gen_data['rockyadjective'] = [
     'savage',
     'stormy',
     'forlorn',
+    'vast',
+    'settled',
 
   ];
   gen_data['rockyfeature'] = [
@@ -93,6 +95,8 @@ gen_data['rockyadjective'] = [
     'warrens',
     'power stones',
     'ruins',
+    'war camp',
+    'villages with tatched houses',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -124,6 +128,8 @@ gen_data['rockyadjective'] = [
     'hidden pit traps',  
     'strange energies',  
     'ruins',  
+    'war banners',  
+    'sacred {rockybeast}',
     
   ];
   gen_data['rockyhazard'] = [
@@ -155,7 +161,8 @@ gen_data['rockyadjective'] = [
     'attract Goblins',
     'augment magic',
     'attract Ghosts',
-   
+    'attract Scouts riding {rockybeast}',
+     'are sacred for the locals',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -186,6 +193,8 @@ gen_data['rockyadjective'] = [
     'Goblins who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'a Wraith that {wraithwants}',
+    'the Great Horde and their War {rockybeast}',
+    'the Warrior Tribe of the {rockybeast} {warriorwants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -443,7 +452,7 @@ gen_data['desertadjective'] = [
     'hidden pit traps',  
     'gravel pits',  
     'wild energies',  
-    'war horns',  
+    'war banners',  
     'sacred {desertbeast}',  
     'mud puddles',  
     'tiny flies',  
@@ -600,7 +609,7 @@ gen_data['arcticadjective'] = [
     'steam vents',
     'hidden pit traps',
     'wild energies',
-    'war horns',
+    'war banners',  
     'sacred {arcticbeast}',
     'rockfalls',
     'giant nests',
