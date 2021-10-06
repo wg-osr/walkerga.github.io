@@ -56,6 +56,10 @@ gen_data['rockyadjective'] = [
     'cyclopean',
     'coastal',
     'gloomy',
+    'lonely',
+    'volcanic',
+    'fortified',
+    'savage',
 
   ];
   gen_data['rockyfeature'] = [
@@ -81,6 +85,10 @@ gen_data['rockyadjective'] = [
     'wall',
     'tribeland',
     'dead trees',
+    'pass',
+    'crags',
+    'mines',
+    'warrens',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -106,6 +114,10 @@ gen_data['rockyadjective'] = [
     'large wall',  
     'storms',  
     'gnarly trees',  
+    'paths',  
+    'eruptions',  
+    'rope bridges',  
+    'hidden pit traps',  
     
   ];
   gen_data['rockyhazard'] = [
@@ -131,10 +143,14 @@ gen_data['rockyadjective'] = [
     'could block your path',
     'attract lightning',
     'can look like enemies',
+    'could make you lost for days',
+    'spit lava',
+    'require equipment to cross',
+    'attract Goblins',
    
   ];
   gen_data['rockymonster'] = [
-    'Athachs, who {athachculture} {athachproblem}',
+    'Athachs who {athachculture} {athachproblem}',
     'a {basilisktotem} Basilisk',
     '{battotem} Bats',
     '{ahooltotem} Ahools',
@@ -156,6 +172,10 @@ gen_data['rockyadjective'] = [
     'Cyclopses who {cyclopsculture} {cyclopsproblem}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     '{deathsheadtotem} Death’s Head Trees',
+    'a Donestre who {donestrewants}, yet {donestredo}',
+    'a {redragontotem} Red Dragon who {redragonwants}',
+    'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
+    'Goblins who {goblinculture} {goblinproblem}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
