@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid arctic forest
+tags: monster humanoid arctic forest rocky
 permalink: /monsters/dwarf-hill
 title: Dwarf, Hill
 ---
