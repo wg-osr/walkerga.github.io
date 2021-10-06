@@ -639,7 +639,7 @@ gen_data['arcticadjective'] = [
     'could block your path',
     'are deafening',
     'require balance to navigate',
-    'burn your skin',
+    'burn to the touch',
     'attract goblins',
     'augment magic',
     'attract Scouts riding {arcticbeast}',
@@ -928,9 +928,9 @@ gen_data['arcticadjective'] = [
    gen_data['steamelementalwants'] = [
     'want the world covered in permanent fog',
     'protect a magical steam vent',
-    'clogs the air with moisture',
-    'fight the heat',
-    'fight the rocks',
+    'are replacing air with moisture',
+    'aim to block the sun',
+    'are eroding the land',
     'wish to return to the water plane',
   ];  
    gen_data['goblinculture'] = [
