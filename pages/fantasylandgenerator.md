@@ -928,7 +928,7 @@ gen_data['arcticadjective'] = [
    gen_data['steamelementalwants'] = [
     'want the world covered in permanent fog',
     'protect a magical steam vent',
-    'fight the winds',
+    'clogs the air with moisture',
     'fight the heat',
     'fight the rocks',
     'wish to return to the water plane',
@@ -975,7 +975,7 @@ gen_data['arcticadjective'] = [
   ];  
    gen_data['ogreproblem'] = [
     'and are rumored to be local babies abducted by Hags',
-    'with the help of leaderʼs magical item',
+    'with the help of their leaderʼs magical item',
     'to search for a mythical recipe',
     'with Goblins as their intellectual leaders',
     'and live like kings',
