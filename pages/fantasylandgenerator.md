@@ -37,30 +37,35 @@ gen_data['rockyadjective'] = [
     'mist-cloaked',
     'sulfurous',
     'dark',
+    'overgrown',
  
   ];
   gen_data['rockyfeature'] = [
     'loch',
     'ponds',
     'caves',
+    'gnarly trees',
 
   ];
   gen_data['rockyobstacle'] = [
     'ley lines',
     'fumes',
     'dead tree bridge',
+    'some dead branches',
     
   ];
   gen_data['rockyhazard'] = [
     'are crackling with power',
     'are toxic',
     'are rotten',
+    'are dangerous at night',
    
   ];
   gen_data['rockymonster'] = [
     'Athachs, who {athachculture} {athachproblem}',
     'a {basilisktotem} Basilisk',
     '{battotem} Bats',
+    '{ahooltotem} Ahools',
 
   ];
 
