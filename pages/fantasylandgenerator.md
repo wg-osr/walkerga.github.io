@@ -31,26 +31,31 @@
     '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', 
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
+    'sulfurous',
  
   ];
   gen_data['rockyfeature'] = [
     'loch',
+    'ponds',
 
   ];
-  gen_data['rockytobstacle'] = [
+  gen_data['rockyobstacle'] = [
     'ley lines',
+    'fumes',
     
   ];
   gen_data['rockyhazard'] = [
     'are crackling with power',
+    'are toxic',
    
   ];
   gen_data['rockymonster'] = [
     'Athachs, who {athachculture} {athachproblem}',
+    'a {basilisktotem} Basilisk',
  
   ];
 
