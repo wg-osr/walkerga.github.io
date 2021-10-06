@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast desert
+tags: monster beast desert rocky
 permalink: /monsters/bloodbeast
 title: Bloodbeast
 ---
