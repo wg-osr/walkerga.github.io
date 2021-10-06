@@ -122,7 +122,7 @@ gen_data['rockyadjective'] = [
     'loose stones',  
     'magma pits',  
     'pagan idols',  
-    'large wall',  
+    'large walls',  
     'storms',  
     'gnarly trees',  
     'paths',  
