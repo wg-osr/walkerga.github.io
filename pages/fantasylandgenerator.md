@@ -23,23 +23,22 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    '{mainarctic}', '{maindesert}',  '{mainforest}', 
-  ];
+    'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'  ];
       
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
- gen_data['mainforest'] = [
-    'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'
+ gen_data['mainrocky'] = [
+    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', 
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats'
   ];
 gen_data['rockyadjective'] = [
-    'colossal',
+    'mist-cloaked',
  
   ];
   gen_data['rockyfeature'] = [
-    'menhirs',
+    'loch',
 
   ];
   gen_data['rockytobstacle'] = [
