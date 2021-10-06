@@ -36,27 +36,32 @@ gen_data['rockybeast'] = [
 gen_data['rockyadjective'] = [
     'mist-cloaked',
     'sulfurous',
+    'dark',
  
   ];
   gen_data['rockyfeature'] = [
     'loch',
     'ponds',
+    'caves',
 
   ];
   gen_data['rockyobstacle'] = [
     'ley lines',
     'fumes',
+    'dead tree bridge',
     
   ];
   gen_data['rockyhazard'] = [
     'are crackling with power',
     'are toxic',
+    'are rotten',
    
   ];
   gen_data['rockymonster'] = [
     'Athachs, who {athachculture} {athachproblem}',
     'a {basilisktotem} Basilisk',
- 
+    '{battotem} Bats',
+
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
