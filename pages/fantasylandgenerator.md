@@ -509,7 +509,7 @@ gen_data['desertadjective'] = [
     '{boltforagertotem} Boltforagers',
     'Cacuses who {cacusculture} {cacusproblem}',
     'Cadejos who {cadejowants}',
-    '{cactuscattotem} Cactus Cat',
+    '{cactuscattotem} Cactus Cats',
     '{sabertoothcattotem} Sabertooth Cats',
     '{gianttressymtotem} Giant Tressyms',
     'Centaurs who {centaurculture} {centaurproblem}',
