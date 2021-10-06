@@ -116,7 +116,7 @@ gen_data['rockyadjective'] = [
     'are sticky',
     'are treacherous',
     'could distract you',
-    'you could sink in',
+    'you could sink into',
     'could hide cliffs',
     'are surprisingly deep',
     'could slow you down',
