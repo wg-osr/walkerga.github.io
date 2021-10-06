@@ -192,7 +192,7 @@ gen_data['rockyadjective'] = [
     'Cyclopses who {cyclopsculture} {cyclopsproblem}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     '{deathsheadtotem} Death’s Head Trees',
-    'a Donestre who {donestrewants}, yet {donestredo}',
+    'a Donestre who {donestrewants}, but {donestredo}',
     'a {redragontotem} Red Dragon who {redragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
