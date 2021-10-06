@@ -29,7 +29,7 @@
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainforest'] = [
-    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is the land of {forestmonster}, and also {forestmonster}.'
+    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is inhabited by {forestmonster}, and {forestmonster}.'
   ];
 gen_data['forestbeast'] = [
     'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
@@ -151,32 +151,32 @@ gen_data['forestadjective'] = [
     'augment magic',
   ];
   gen_data['forestmonster'] = [
-    'the Athachs, who {athachculture} {athachproblem}',
-    'the {battotem} Bats',
-    'the {ahooltotem} Ahools',
-    'the {olitiautotem} Olitiaus',
-    'the {beartotem} Bears',
-    'the {birdtotem} {forestbird}',
-    'the {boartotem} Boars',
-    'the Calytaurs, who {calytaurculture} {calytaurproblem}',
-    'the {centipedetotem} Centipedes',
-    'the {blackdracopedetotem} Black Dracopedes',
-    'the {greendracopedetotem} Green Dracopedes',
+    'Athachs, who {athachculture} {athachproblem}',
+    '{battotem} Bats',
+    '{ahooltotem} Ahools',
+    '{olitiautotem} Olitiaus',
+    '{beartotem} Bears',
+    '{birdtotem} {forestbird}',
+    '{boartotem} Boars',
+    'Calytaurs, who {calytaurculture} {calytaurproblem}',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    '{greendracopedetotem} Green Dracopedes',
     'a{cult} Cult that {cultwants}',
-    'the {deathsheadtotem} Death’s Head Trees',
+    '{deathsheadtotem} Death’s Head Trees',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
-    'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
-    'the Goblins, who {goblinculture} {goblinproblem}',
+    'Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
+    'Goblins, who {goblinculture} {goblinproblem}',
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
-    'the {copperbacktotem} Copperback Snakes',
+    '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {forestbeast} {warriorwants}',
-    'the Azizas who {azizawants}',
-    'the Centaurs, who {centaurculture} {centaurproblem}',
-    'the Steam Elementals, who {steamelementalwants}',
-    'the Water Elementals, who {waterelementalwants}',
-    'the Ogres, who {ogreculture} {ogreproblem}',
-    'the Elven Shadows who {elfshadowwants}',
+    'Azizas who {azizawants}',
+    'Centaurs, who {centaurculture} {centaurproblem}',
+    'Steam Elementals, who {steamelementalwants}',
+    'Water Elementals, who {waterelementalwants}',
+    'Ogres, who {ogreculture} {ogreproblem}',
+    'Elven Shadows who {elfshadowwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
 
   ];
