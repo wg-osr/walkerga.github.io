@@ -213,7 +213,7 @@ gen_data['forestadjective'] = [
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maindesert'] = [
-    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by  {desertmonster} and {desertmonster}.'
+    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by {desertmonster} and {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
     'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts', 'Warthogs'
@@ -387,7 +387,7 @@ gen_data['desertadjective'] = [
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainarctic'] = [
-    'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by  {arcticmonster} and  {arcticmonster}.'
+    'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by {arcticmonster} and {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
     'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
