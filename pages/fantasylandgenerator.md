@@ -1025,7 +1025,7 @@ gen_data['arcticadjective'] = [
   ]; 
    gen_data['gianttressymtotem'] = [
     'wise',
-    'feline',
+    'elegant',
     'regal',
     'flying',
     'sun-loving',
