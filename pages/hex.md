@@ -28,3 +28,4 @@ To generate a Hex, choose a biome or roll 1D12:
 ### Other
 - [Undersea](/list/undersea)
 - [Astral Plane](/list/astral)
+- [Generator Beta](/pages/fantasylandgenerator)
