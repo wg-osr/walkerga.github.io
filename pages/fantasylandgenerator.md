@@ -32,7 +32,7 @@
     'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster} and {rockymonster}.'
   ];
 gen_data['rockybeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes'
   ];
 gen_data['rockyadjective'] = [
     'colossal',
@@ -61,7 +61,7 @@ gen_data['rockyadjective'] = [
     'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is inhabited by {forestmonster} and {forestmonster}.'
   ];
 gen_data['forestbeast'] = [
-    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes', 'Crows'
   ];
 gen_data['forestadjective'] = [
     'colossal',
