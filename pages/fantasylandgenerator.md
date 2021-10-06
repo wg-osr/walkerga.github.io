@@ -60,6 +60,8 @@ gen_data['rockyadjective'] = [
     'volcanic',
     'fortified',
     'savage',
+    'stormy',
+    'forlorn',
 
   ];
   gen_data['rockyfeature'] = [
@@ -89,6 +91,8 @@ gen_data['rockyadjective'] = [
     'crags',
     'mines',
     'warrens',
+    'power stones',
+    'ruins',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -118,6 +122,8 @@ gen_data['rockyadjective'] = [
     'eruptions',  
     'rope bridges',  
     'hidden pit traps',  
+    'strange energies',  
+    'ruins',  
     
   ];
   gen_data['rockyhazard'] = [
@@ -147,6 +153,8 @@ gen_data['rockyadjective'] = [
     'spit lava',
     'require equipment to cross',
     'attract Goblins',
+    'augment magic',
+    'attract Ghosts',
    
   ];
   gen_data['rockymonster'] = [
@@ -176,6 +184,8 @@ gen_data['rockyadjective'] = [
     'a {redragontotem} Red Dragon who {redragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Wraith that {wraithwants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1236,8 +1246,16 @@ gen_data['arcticadjective'] = [
     'heat-loving',
     'sacred',
   ]; 
+   gen_data['wraithwants'] = [
+    'is on the hunt for a powerful artifact that would allow its master to rule the world',
+    'is mad and babbling about long dead enemies',
+    'goes on rampages during moonless nights',
+    'haunts a collapsed keep',
+    'is absorbed by its forbidden studies',
+    'is training an apprentice to the dark arts',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> 
   </head>
   <body>
     
