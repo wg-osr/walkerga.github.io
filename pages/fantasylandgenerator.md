@@ -1248,7 +1248,7 @@ gen_data['arcticadjective'] = [
    gen_data['elfshadowwants'] = [
     'despair to weild magic again',
     'are in eternal agony',
-    'long to experience the pleasure of flesh again',
+    'long to experience the pleasures of flesh again',
     'long to be freed from their torment',
     'wish to finish the dark ritual that cursed them',
     'serve a demon of lust',
