@@ -26,10 +26,39 @@
     '{mainarctic}', '{maindesert}',  '{mainforest}', 
   ];
       
+// - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainforest'] = [
+    'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster} and {rockymonster}.'
+  ];
+gen_data['rockybeast'] = [
+    'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
+  ];
+gen_data['rockyadjective'] = [
+    'colossal',
+ 
+  ];
+  gen_data['rockyfeature'] = [
+    'menhirs',
+
+  ];
+  gen_data['rockytobstacle'] = [
+    'ley lines',
+    
+  ];
+  gen_data['rockyhazard'] = [
+    'are crackling with power',
+   
+  ];
+  gen_data['rockymonster'] = [
+    'Athachs, who {athachculture} {athachproblem}',
+ 
+  ];
+
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainforest'] = [
-    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is inhabited by {forestmonster}, and {forestmonster}.'
+    'This {2d4hexes}-hex forest is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is inhabited by {forestmonster} and {forestmonster}.'
   ];
 gen_data['forestbeast'] = [
     'Elks', 'Boars', 'Bears', 'Wolves', 'Bats', 'Centipedes', 'Snakes'
@@ -151,14 +180,14 @@ gen_data['forestadjective'] = [
     'augment magic',
   ];
   gen_data['forestmonster'] = [
-    'Athachs, who {athachculture} {athachproblem}',
+    'Athachs who {athachculture} {athachproblem}',
     '{battotem} Bats',
     '{ahooltotem} Ahools',
     '{olitiautotem} Olitiaus',
     '{beartotem} Bears',
     '{birdtotem} {forestbird}',
     '{boartotem} Boars',
-    'Calytaurs, who {calytaurculture} {calytaurproblem}',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
     '{centipedetotem} Centipedes',
     '{blackdracopedetotem} Black Dracopedes',
     '{greendracopedetotem} Green Dracopedes',
@@ -166,16 +195,16 @@ gen_data['forestadjective'] = [
     '{deathsheadtotem} Death’s Head Trees',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
-    'Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
-    'Goblins, who {goblinculture} {goblinproblem}',
+    'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
+    'Goblins who {goblinculture} {goblinproblem}',
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
     '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {forestbeast} {warriorwants}',
     'Azizas who {azizawants}',
-    'Centaurs, who {centaurculture} {centaurproblem}',
-    'Steam Elementals, who {steamelementalwants}',
-    'Water Elementals, who {waterelementalwants}',
-    'Ogres, who {ogreculture} {ogreproblem}',
+    'Centaurs who {centaurculture} {centaurproblem}',
+    'Steam Elementals who {steamelementalwants}',
+    'Water Elementals who {waterelementalwants}',
+    'Ogres who {ogreculture} {ogreproblem}',
     'Elven Shadows who {elfshadowwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
 
@@ -184,7 +213,7 @@ gen_data['forestadjective'] = [
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maindesert'] = [
-    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is the land of {desertmonster}, and also {desertmonster}.'
+    'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by  {desertmonster} and {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
     'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts', 'Warthogs'
@@ -322,43 +351,43 @@ gen_data['desertadjective'] = [
     'could crush you',
   ];
   gen_data['desertmonster'] = [
-    'the Airwalkers, who {airwalkerwants}',
-    'the {basilisktotem} Basilisks',
-    'the {battotem} Bats',
-    'the {olitiautotem} Olitiaus',
-    'the {vyderactotem} Vyderacs',
-    'the Bestial Terrors, who {bestialterrorwants}',
-    'the {birdtotem} {desertbird}',
-    'the {boltforagertotem} Boltforagers',
-    'the Cacuses, who {cacusculture} {cacusproblem}',
-    'the Cadejos, who {cadejowants}',
-    'the {cactuscattotem} Cactus Cat',
-    'the {sabertoothcattotem} Sabertooth Cats',
-    'the {gianttressymtotem} Giant Tressym',
-    'the Centaurs, who {centaurculture} {centaurproblem}',
-    'the {centipedetotem} Centipedes',
-    'the {blackdracopedetotem} Black Dracopedes',
-    'the Chevalls, who {chevallwants}',
+    'Airwalkers who {airwalkerwants}',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
+    '{olitiautotem} Olitiaus',
+    '{vyderactotem} Vyderac Colonies',
+    'Bestial Terrors who {bestialterrorwants}',
+    '{birdtotem} {desertbird}',
+    '{boltforagertotem} Boltforagers',
+    'Cacuses who {cacusculture} {cacusproblem}',
+    'Cadejos who {cadejowants}',
+    '{cactuscattotem} Cactus Cat',
+    '{sabertoothcattotem} Sabertooth Cats',
+    '{gianttressymtotem} Giant Tressyms',
+    'Centaurs who {centaurculture} {centaurproblem}',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    'Chevalls who {chevallwants}',
     'a{cult} Cult that {cultwants}',
-    'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
-    'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
+    'Cyclopses who {cyclopsculture} {cyclopsproblem}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     'a Donestre who {donestrewants}, yet {donestredo}',
     'a {redragontotem} Red Dragon who {redragonwants}',
-    'the Goblins, who {goblinculture} {goblinproblem}',
-    'the Earth Mephits, who {earthmephitwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    'Earth Mephits who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'the Great Horde and their giant War {desertbeast}',
+    'the Great Horde and their War {desertbeast}',
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
-    'the {bloodbeasttotem} Bloodbeasts',
-    'the {boartotem} Warthogs',
-    'the Lizardfolks, who {lizardfolkculture} {lizardfolkproblem}',
-    'the Ogres, who {ogreculture} {ogreproblem}',
+    '{bloodbeasttotem} Bloodbeasts',
+    '{boartotem} Warthogs',
+    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    'Ogres who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainarctic'] = [
-    'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is the land of {arcticmonster}, and also {arcticmonster}.'
+    'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by  {arcticmonster} and  {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
     'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
@@ -472,31 +501,31 @@ gen_data['arcticadjective'] = [
     'could maim you',
   ];
   gen_data['arcticmonster'] = [
-    'the Airwalkers, who {airwalkerwants}',
-    'the {arassastotem} Arassas',
-    'the Athachs, who {athachculture} {athachproblem}',
-    'the {arcticbattotem} Arctic Bats',
-    'the {cavebeartotem} Cave Bears',
-    'the {polarbeartotem} Polar Bears',
-    'the Bestial Terrors, who {bestialterrorwants}',
-    'the {birdtotem} {arcticbird}',
-    'the {boartotem} Boars',
-    'the Cadejos, who {cadejowants}',
-    'the {sabertoothcattotem} Sabertooth Cats',
-    'the Centaurs, who {centaurculture} {centaurproblem}',
-    'the {bluedracopedetotem} Blue Dracopedes',
+    'Airwalkers who {airwalkerwants}',
+    '{arassastotem} Arassas',
+    'Athachs who {athachculture} {athachproblem}',
+    '{arcticbattotem} Arctic Bats',
+    '{cavebeartotem} Cave Bears',
+    '{polarbeartotem} Polar Bears',
+    'Bestial Terrors who {bestialterrorwants}',
+    '{birdtotem} {arcticbird}',
+    '{boartotem} Boars',
+    'Cadejos who {cadejowants}',
+    '{sabertoothcattotem} Sabertooth Cats',
+    'Centaurs who {centaurculture} {centaurproblem}',
+    '{bluedracopedetotem} Blue Dracopedes',
     'a{cult} Cult that {cultwants}',
-    'the Cyclops, who {cyclopsculture} {cyclopsproblem}',
-    'the Cyclopskins, who {cyclopskinculture} {cyclopskinproblem}',
-    'the Hill Dwarves, who {hilldwarfculture} {hilldwarfproblem}',
-    'the Steam Elementals, who {steamelementalwants}',
-    'the Goblins, who {goblinculture} {goblinproblem}',
+    'Cyclopses who {cyclopsculture} {cyclopsproblem}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
+    'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
+    'Steam Elementals who {steamelementalwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'the Great Horde and their giant War {arcticbeast}',
+    'the Great Horde and their War {arcticbeast}',
     'the Warrior Tribe of the {arcticbeast} {warriorwants}',
-    'the Ogres, who {ogreculture} {ogreproblem}',
-    'the {pelicantotem} Giant Pelicans',
-    'the Calytaurs, who {calytaurculture} {calytaurproblem}',
+    'Ogres who {ogreculture} {ogreproblem}',
+    '{pelicantotem} Giant Pelicans',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
