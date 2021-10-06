@@ -31,7 +31,7 @@
     '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', 
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures', 'Cougars', 'Centipedes', 'Bloodbeasts'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
@@ -44,7 +44,15 @@ gen_data['rockyadjective'] = [
     'muddy',
     'pine-lined',
     'snowy',
- 
+    'pastoral',
+    'remote',
+    'dirty',
+    'sinuous',
+    'steep',
+    'humid',
+    'shady',
+    'deep',
+
   ];
   gen_data['rockyfeature'] = [
     'loch',
@@ -57,6 +65,14 @@ gen_data['rockyadjective'] = [
     'pools',
     'valley',
     'firs',
+    'hovels',
+    'inn',
+    'mud huts',
+    'plateaus',
+    'mesas',
+    'fissures',
+    'rivulets',
+    'lava pools',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -70,6 +86,14 @@ gen_data['rockyadjective'] = [
     'mud puddles',  
     'fog clouds',  
     'patches of snow',  
+    'sheep herds',  
+    'thorny bushes',  
+    'vicous rusty traps',  
+    'narrow passages',  
+    'dirt roads',  
+    'mossy patches',  
+    'loose stones',  
+    'magma pits',  
     
   ];
   gen_data['rockyhazard'] = [
@@ -83,6 +107,14 @@ gen_data['rockyadjective'] = [
     'you could sink in',
     'could hide cliffs',
     'are surprisingly deep',
+    'could slow you down',
+    'could make you drunk',
+    'could maim you',
+    'hide ambushers',
+    'are near precipices',
+    'are infested with bugs',
+    'could collapse',
+    'burn to the touch',
    
   ];
   gen_data['rockymonster'] = [
@@ -96,6 +128,14 @@ gen_data['rockyadjective'] = [
     '{bloodbeasttotem} Bloodbeasts',
     '{boartotem} Boars',
     '{cavebeartotem} Cave Bears',
+    'Cacuses who {cacusculture} {cacusproblem}',
+    'Cadejos who {cadejowants}',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
+    '{sabertoothcattotem} Sabertooth Cats',
+    '{gianttressymtotem} Giant Tressyms',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    '{reddracopedetotem} Red Dracopedes',
 
   ];
 
@@ -1148,6 +1188,14 @@ gen_data['arcticadjective'] = [
     'long to be freed from their torment',
     'wish to finish the dark ritual that cursed them',
     'serve a demon of lust',
+  ]; 
+   gen_data['reddracopedetotem'] = [
+    'draconic',
+    'fiery',
+    'spitting',
+    'discreet',
+    'heat-loving',
+    'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
