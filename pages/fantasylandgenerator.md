@@ -31,13 +31,19 @@
     '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', 
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
     'sulfurous',
     'dark',
     'overgrown',
+    'riverside',
+    'fishing',
+    'bird-infested',
+    'muddy',
+    'pine-lined',
+    'snowy',
  
   ];
   gen_data['rockyfeature'] = [
@@ -45,6 +51,12 @@ gen_data['rockyadjective'] = [
     'ponds',
     'caves',
     'gnarly trees',
+    'willows',
+    'rapids',
+    'bushes',
+    'pools',
+    'valley',
+    'firs',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -52,6 +64,12 @@ gen_data['rockyadjective'] = [
     'fumes',
     'dead tree bridge',
     'some dead branches',
+    'some vines',
+    'rapids',
+    'nervous {rockybird}',  
+    'mud puddles',  
+    'fog clouds',  
+    'patches of snow',  
     
   ];
   gen_data['rockyhazard'] = [
@@ -59,6 +77,12 @@ gen_data['rockyadjective'] = [
     'are toxic',
     'are rotten',
     'are dangerous at night',
+    'are sticky',
+    'are treacherous',
+    'could distract you',
+    'you could sink in',
+    'could hide cliffs',
+    'are surprisingly deep',
    
   ];
   gen_data['rockymonster'] = [
@@ -66,6 +90,12 @@ gen_data['rockyadjective'] = [
     'a {basilisktotem} Basilisk',
     '{battotem} Bats',
     '{ahooltotem} Ahools',
+    '{olitiautotem} Olitiaus',
+    '{beartotem} Bears',
+    '{birdtotem} {rockybird}',
+    '{bloodbeasttotem} Bloodbeasts',
+    '{boartotem} Boars',
+    '{cavebeartotem} Cave Bears',
 
   ];
 
@@ -661,6 +691,12 @@ gen_data['arcticadjective'] = [
     'Crows',
     'Magpies',
     'Songbirds',
+  ];
+   gen_data['rockybird'] = [
+    'Sparrows',
+    'Crows',
+    'Magpies',
+    'Vultures',
   ];
    gen_data['boartotem'] = [
     'stubborn',
