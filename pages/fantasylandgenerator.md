@@ -105,7 +105,7 @@ gen_data['rockyadjective'] = [
   gen_data['rockyobstacle'] = [
     'ley lines',
     'fumes',
-    'dead tree bridge',
+    'dead tree bridges',
     'some branches',
     'some vines',
     'rapids',
