@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid arctic desert
+tags: monster humanoid arctic desert rocky
 permalink: /monsters/cyclopskin
 title: Cyclopskin
 ---
