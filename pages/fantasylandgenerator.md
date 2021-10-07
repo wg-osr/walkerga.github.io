@@ -14,8 +14,8 @@
 
   let gen_data = {};
 
-      gen_data['main'] = [
-     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {junglehazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
+    gen_data['main'] = [
+     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
