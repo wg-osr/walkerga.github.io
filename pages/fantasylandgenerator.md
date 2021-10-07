@@ -50,6 +50,8 @@ gen_data['mountainadjective'] = [
     'silent',
     'stormy',
     'settled',
+    'overflowing',
+    'steaming',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -74,6 +76,8 @@ gen_data['mountainadjective'] = [
     'spirit shrine',
     'power stones',
     'stone villages',
+    'waterfall',
+    'hot springs',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -99,6 +103,8 @@ gen_data['mountainadjective'] = [
     'strange chimes',
     'weird magical energies',
     'sacred {mountainbeast}',
+    'water springs',
+    'vapors',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -124,6 +130,8 @@ gen_data['mountainadjective'] = [
     'bring bad luck',
     'augment magic',
     'are sacred for the locals',
+    'are bigger than you think',
+    'are boiling',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -149,6 +157,8 @@ gen_data['mountainadjective'] = [
     'an Oni that {oniwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'the Warrior Tribe of the {mountainbeast} {warriorwants}',
+    'Water Elementals who {waterelementalwants}',
+    'Steam Elementals who {steamelementalwants}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
