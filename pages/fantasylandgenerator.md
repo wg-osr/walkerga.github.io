@@ -14,94 +14,17 @@
 
   let gen_data = {};
 
-      gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', 
+  gen_data['main'] = [
+     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
  ];
       
-// - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
- gen_data['mainmountain'] = [
-     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
-  ];
-gen_data['mountainbeast'] = [
-    'Bears',  'Wolf',  'Goats', 'Cats', 'Bats', 'Crows', 'Vultures',
-  ];
-gen_data['mountainadjective'] = [
-    'big',    
-    'wind-swept',    
-    'frozen',    
-    'sulfurous',    
-    'cavernous',    
-    'snowy',    
-    'fir-lined',    
-    'vast',    
-    'bird-infested',    
-    'pastoral',    
-    'sinuous',    
-    'sun-kissed',    
-  ];
-  gen_data['mountainfeature'] = [
-    'inn',
-    'sky shrine',
-    'crags',
-    'gas vents',
-    'slopes',
-    'glacier',
-    'pines',
-    'thickets',
-    'pastures',
-    'plateaus',
-    'mesas',
-  ];
-  gen_data['mountainobstacle'] = [
-    'boulders',
-    'violent winds',
-    'ice bridge',
-    'gas vents',
-    'narrow cornices',
-    'blizzards',
-    'rapids',
-    'snow patches',
-    'nervous {mountainbird}',
-    'sheep herds',
-    'narrow passages',
-    'steep slopes',
-  ];
-  gen_data['mountainhazard'] = [
-    'could hide ambushers',
-    'could make you fall',
-    'could crumble',
-    'make the air unbreathable',
-    'are hard to navigate',
-    'are freezing cold',
-    'are treatcherous',
-    'are surprisingly deep',
-    'could distract you',
-    'could slow you down',
-    'could hide ambushers',
-    'are near precipices',
-  ];
-  gen_data['mountainmonster'] = [
-    'Ogres who {ogreculture} {ogreproblem}',
-    'Airwalkers who {airwalkerwants}',
-    '{arassastotem} Arassas',
-    'a {basilisktotem} Basilisk',
-    '{battotem} Bats',
-    '{arcticbattotem} Arctic Bats',
-    '{beartotem} Bears',
-    '{cavebeartotem} Cave Bears',
-    '{birdtotem} {mountainbird}',
-    'Cacuses who {cacusculture} {cacusproblem}',
-    '{sabertoothcattotem} Sabertooth Cats',
-    '{gianttressymtotem} Giant Tressyms',
-  ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainjungle'] = [
-     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos', 'Dingoneks'
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
@@ -110,34 +33,13 @@ gen_data['jungleadjective'] = [
     'dark',
     'foggy',
     'murky',
-    'vine-choked',
+    'vine-strangled',
     'buzzing',
     'blood-red',
     'singing',
     'rare',
     'rancid',
     'overgrown',
-    'muddy',
-    'rotten',
-    'deep',
-    'emerald',
-    'ashen',
-    'twisted',
-    'skull-shaped',
-    'forbidden',
-    'gloomy',
-    'mossy',
-    'thorny',
-    'lush',
-    'steaming',
-    'savage',
-    'reed-infested',
-    'lonely',
-    'turquoise',
-    'settled',
-    'stormy',
-    'big',    
-
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -153,26 +55,6 @@ gen_data['jungleadjective'] = [
     'flowers',
     'sunsets',
     'vine carpets',
-    'pools',
-    'mounds',
-    'roots',
-    'rubber trees',
-    'volcano',
-    'recesses',
-    'ponds',
-    'idols',
-    'dead trees',
-    'mire',
-    'maze',
-    'ancient trees',
-    'hot springs',
-    'warrens',
-    'pyramids',
-    'stone face',
-    'ferns',
-    'village with stilted huts',
-    'power stones',
-    'inn',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -188,29 +70,9 @@ gen_data['jungleadjective'] = [
     'orchids',
     'hot temperatures',
     'peppers',
-    'mud puddles',
-    'patches of moss',
-    'roots',
-    'big leaves',
-    'volcanic ashes',
-    'dark corners',
-    'rotting carcasses',
-    'pagan idols',
-    'dead trees',
-    'rivers',
-    'maze-like paths',
-    'sentient trees',
-    'geysers',
-    'hidden pit traps',
-    'hidden snare traps',
-    'shortcuts',
-    'branches',
-    'sacred {junglebeast}',
-    'strange energies',
-    'boulders',
   ];
   gen_data['junglehazard'] = [
-    'attract flash floods',  
+    'provoke flash floods',  
     'could make you hungry',  
     'are corrosive',  
     'are rotten',  
@@ -223,26 +85,6 @@ gen_data['jungleadjective'] = [
     'could make you fall asleep',  
     'could rot your food',  
     'are very valuable abroad',  
-    'could trap you',  
-    'could make you slip and fall',  
-    'you need to cross to go forward',  
-    'are very sticky',  
-    'are scalding hot',  
-    'could split the party',  
-    'infested with bugs',  
-    'could curse you',  
-    'look like enemies',
-    'will slow you',
-    'could make you lost',
-    'could hide the path',
-    'could boil you alive',
-    'attract Goblins',
-    'Lizardfolks use to hunt',
-    'could leave you isolated',
-    'are noisy',
-    'are sacred for the locals',
-    'augment magic',
-    'could hide ambushers',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -258,26 +100,6 @@ gen_data['jungleadjective'] = [
     'a {adarnabirdtotem} Adarna Bird who {adarnabirdwants}',
     '{boltforagertotem} Boltforagers',
     '{blindfiretotem} Blindfire Vines',
-    '{bloodbeasttotem} Bloodbeasts',
-    '{centipedetotem} Centipedes',
-    '{blackdracopedetotem} Black Dracopedes',
-    '{greendracopedetotem} Green Dracopedes',
-    '{reddracopedetotem} Red Dracopedes',
-    '{chokerclue} aberrations known as Chokers',
-    '{braincrabtotem} Brain Crabs',
-    'a{cult} Cult that {cultwants}',
-    '{deathsheadtotem} Death’s Head Trees',
-    '{dingonektotem} Dingoneks',
-    'a {greendragontotem} Green Dragon who {greendragonwants}',
-    'a Dryad who {dryadwants}',
-    'Steam Elementals who {steamelementalwants}',
-    'Goblins who {goblinculture} {goblinproblem}',
-    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
-    'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
-    '{copperbacktotem} Copperback Snakes',
-    'the Warrior Tribe of the {junglebeast} {warriorwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
-    'Ogres who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -322,7 +144,6 @@ gen_data['rockyadjective'] = [
     'dusty',
     'abandoned',
     'silent',
-    'hillside',
 
   ];
   gen_data['rockyfeature'] = [
@@ -359,7 +180,6 @@ gen_data['rockyadjective'] = [
     'thickets',
     'mills',
     'spirit shrine',
-    'mounds',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -396,7 +216,6 @@ gen_data['rockyadjective'] = [
     'dust clouds',
     'rats',
     'chimes',
-    'boulders',
     
   ];
   gen_data['rockyhazard'] = [
@@ -433,7 +252,6 @@ gen_data['rockyadjective'] = [
     'could make you waste rations',  
     'carry diseases',  
     'are bad luck',  
-    'attract brigands',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -469,8 +287,6 @@ gen_data['rockyadjective'] = [
     '{boltforagertotem} Boltforagers',
     '{rattotem} Rats',
     'an Oni that {oniwants}',
-    'Ogres who {ogreculture} {ogreproblem}',
-
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -957,9 +773,6 @@ gen_data['arcticadjective'] = [
     '82-94': 'seven',
     '95-00': 'eight',
   };
-   gen_data['1D10hexes'] = {
-    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
-  };
    gen_data['2d6hexes'] = {
     '01-03': 'two',
     '04-08': 'three',
@@ -1080,12 +893,6 @@ gen_data['arcticadjective'] = [
     'Songbirds',
     'Flamingos',
     'Casowaries',
-  ];
-   gen_data['mountainbird'] = [
-    'Crows',
-    'Vultures',
-    'Starlings',
-    'Magpies',
   ];
    gen_data['boartotem'] = [
     'stubborn',
@@ -1416,7 +1223,7 @@ gen_data['arcticadjective'] = [
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
-    'and are obsessed with hygiene',
+    'and obsessed with hygiene',
   ]; 
    gen_data['greendracopedetotem'] = [
     'draconic',
@@ -1618,30 +1425,6 @@ gen_data['arcticadjective'] = [
     'tasty',
     'sacred',
   ]; 
-   gen_data['chokerclue'] = [
-    'rubbery',
-    'sound-sensitive',
-    'sneaky',
-    'backstabbing',
-    'agile',
-    'boneless',
-  ]; 
-   gen_data['braincrabtotem'] = [
-    'skull-dwelling',
-    'cancerous',
-    'spooky',
-    'surgical',
-    'gruesome',
-    'taboo',
-  ]; 
-   gen_data['dingonektotem'] = [
-    'combative',
-    'armored',
-    'stubborn',
-    'stupid',
-    'lumbering',
-    'sacred',
-  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
   </head>
@@ -1649,7 +1432,7 @@ gen_data['arcticadjective'] = [
     
   <h1>{{ page.title }}</h1>
     <h1>Fantasy Land Generator</h1>
-   
+  
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
     <p><input type="button" value="Generate" onclick="more_random();" /></p>
     <script src="data:text/javascript;base64,Ly8gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtCi8vIHJhbmRvbS5qcwovLwovLyB3cml0dGVuIGFuZCByZWxlYXNlZCB0byB0aGUgcHVibGljIGRvbWFpbiBieSBkcm93IDxkcm93QGJpbi5zaD4KLy8gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLwoKJ3VzZSBzdHJpY3QnOwpmdW5jdGlvbiBtb3JlX3JhbmRvbSgpCgl7bGV0IGE9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm91dHB1dCIpOwoJdmFyIGI9MQoJYj1nZW5lcmF0ZV9saXN0KCJtYWluIixiKTsKCWEudmFsdWU9Yi5qb2luKCJcbiIpfQpmdW5jdGlvbiBnZW5lcmF0ZV90ZXh0KGEpe2lmKGE9Z2VuX2RhdGFbYV0paWYoYT1zZWxlY3RfZnJvbShhKSlyZXR1cm4gZXhwYW5kX3Rva2VucyhhKTtyZXR1cm4iIn0KZnVuY3Rpb24gZ2VuZXJhdGVfbGlzdChhLGIpe2xldCBjPVtdLGQ7Zm9yKGQ9MDtkPGI7ZCsrKWMucHVzaChnZW5lcmF0ZV90ZXh0KGEpKTtyZXR1cm4gY30KZnVuY3Rpb24gc2VsZWN0X2Zyb20oYSl7cmV0dXJuIGEuY29uc3RydWN0b3I9PUFycmF5P3NlbGVjdF9mcm9tX2FycmF5KGEpOnNlbGVjdF9mcm9tX3RhYmxlKGEpfQpmdW5jdGlvbiBzZWxlY3RfZnJvbV9hcnJheShhKXtyZXR1cm4gYVtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkqYS5sZW5ndGgpXX0KZnVuY3Rpb24gc2VsZWN0X2Zyb21fdGFibGUoYSl7dmFyIGI7aWYoYj1zY2FsZV90YWJsZShhKSl7Yj1NYXRoLmZsb29yKE1hdGgucmFuZG9tKCkqYikrMTtsZXQgYztmb3IoYyBpbiBhKXtsZXQgZD1rZXlfcmFuZ2UoYyk7aWYoYj49ZFswXSYmYjw9ZFsxXSlyZXR1cm4gYVtjXX19cmV0dXJuIiJ9CmZ1bmN0aW9uIHNjYWxlX3RhYmxlKGEpe2xldCBiPTAsYztmb3IoYyBpbiBhKWE9a2V5X3JhbmdlKGMpLGFbMV0+YiYmKGI9YVsxXSk7cmV0dXJuIGJ9CmZ1bmN0aW9uIGtleV9yYW5nZShhKXtsZXQgYjtyZXR1cm4oYj0vKFxkKyktMDAvLmV4ZWMoYSkpP1twYXJzZUludChiWzFdKSwxMDBdOihiPS8oXGQrKS0oXGQrKS8uZXhlYyhhKSk/W3BhcnNlSW50KGJbMV0pLHBhcnNlSW50KGJbMl0pXToiMDAiPT1hP1sxMDAsMTAwXTpbcGFyc2VJbnQoYSkscGFyc2VJbnQoYSldfQpmdW5jdGlvbiBleHBhbmRfdG9rZW5zKGEpe2Zvcih2YXIgYjtiPS97KFx3Kyl9Ly5leGVjKGEpOyl7Yj1iWzFdO2xldCBjO2E9KGM9Z2VuZXJhdGVfdGV4dChiKSk/YS5yZXBsYWNlKCJ7IitiKyJ9IixjKTphLnJlcGxhY2UoInsiK2IrIn0iLGIpfXJldHVybiBhfQptb3JlX3JhbmRvbSgpOw=="></script>
@@ -1662,7 +1445,6 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/forest">Forest climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/hills">Rocky climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/jungle">Tropical climate monster list</a></li>
     </ol>
     </body>
 </html>
