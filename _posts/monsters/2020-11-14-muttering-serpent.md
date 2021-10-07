@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey  forest
+tags: monster fey  forest jungle
 permalink: /monsters/muttering-serpent
 title: Muttering Serpent
 ---
