@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  forest
+tags: monster beast  forest jungle
 permalink: /monsters/centipede-dracopede-green
 title: Centipede, Dracopede, Green
 ---
