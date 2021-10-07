@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant  forest rocky
+tags: monster plant  forest rocky jungle
 permalink: /monsters/death-head-tree
 title: Death's Head Tree
 ---
