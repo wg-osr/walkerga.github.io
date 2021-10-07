@@ -37,6 +37,7 @@ gen_data['jungleadjective'] = [
     'buzzing',
     'blood-red',
     'singing',
+    'rare',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -49,6 +50,7 @@ gen_data['jungleadjective'] = [
     'mushrooms',
     'hives',
     'trees',
+    'flowers',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -61,6 +63,7 @@ gen_data['jungleadjective'] = [
     'spore sacks',    
     'cicadas',    
     'nervous {junglebird}',
+    'orchids',
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
@@ -73,6 +76,7 @@ gen_data['jungleadjective'] = [
     'are sensitive to noise',  
     'attract Vyderacs',  
     'could distract you',  
+    'could make you fall asleep',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -85,6 +89,7 @@ gen_data['jungleadjective'] = [
     '{giantflayertotem} Giant Flayers',
     '{vyderactotem} Vyderac Colonies',
     '{birdtotem} {junglebird}',
+    'a {adarnabirdtotem} Adarna Bird who {adarnabirdwants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1386,8 +1391,24 @@ gen_data['arcticadjective'] = [
     'swarming',
     'cursed',
   ]; 
+   gen_data['adarnabirdtotem'] = [
+    'beautiful',
+    'judgemental',
+    'kind',
+    'superficial',
+    'gorgeous',
+    'sacred',
+  ]; 
+   gen_data['adarnabirdwants'] = [
+    'makes ephemerally beautiful flower arangements',
+    'seeks to be captured by an impossibly good person',
+    'never stays the same color',
+    'tries to clean everything',
+    'would freeze a person at its beauty peak',
+    'seeks a singing partner',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>  
   </head>
   <body>
     
