@@ -1529,7 +1529,7 @@ gen_data['arcticadjective'] = [
     'agile',
     'boneless',
   ]; 
-   gen_data['chokerclue'] = [
+   gen_data['braincrabtotem'] = [
     'skull-dwelling',
     'cancerous',
     'spooky',
@@ -1537,7 +1537,7 @@ gen_data['arcticadjective'] = [
     'gruesome',
     'taboo',
   ]; 
-   gen_data['chokerclue'] = [
+   gen_data['dingonektotem'] = [
     'combative',
     'armored',
     'stubborn',
@@ -1546,7 +1546,7 @@ gen_data['arcticadjective'] = [
     'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  braincrabtotem
+    </script>  
   </head>
   <body>
     
