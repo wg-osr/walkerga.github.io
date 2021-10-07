@@ -80,7 +80,7 @@ gen_data['jungleadjective'] = [
     '{kongamatototem} Kongamatos',
     '{olitiautotem} Olitiaus',
     '{giantflayertotem} Giant Flayers',
-    '{vyderactotem} Vyderac Swarms',
+    '{vyderactotem} Vyderac Colonies',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
