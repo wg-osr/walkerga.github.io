@@ -45,6 +45,8 @@ gen_data['mountainadjective'] = [
     'ancient',    
     'cyclopean',    
     'grumbling',    
+    'fortified',    
+    'savage',    
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -64,6 +66,8 @@ gen_data['mountainadjective'] = [
     'boulders',
     'tribelands',
     'volcano',
+    'mine',
+    'warrens',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -84,6 +88,8 @@ gen_data['mountainadjective'] = [
     'stone walls',
     'violent storms',
     'rivers',
+    'rope bridges',
+    'hidden pit traps',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -104,6 +110,8 @@ gen_data['mountainadjective'] = [
     'could block your path',
     'attract lightning',
     'make everything melt',
+    'require special equipment to cross',
+    'attract Goblins',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -124,7 +132,8 @@ gen_data['mountainadjective'] = [
     'Cyclopses who {cyclopsculture} {cyclopsproblem}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     'a {redragontotem} Red Dragon who {redragonwants}',
-
+    'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
+    'Goblins who {goblinculture} {goblinproblem}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
