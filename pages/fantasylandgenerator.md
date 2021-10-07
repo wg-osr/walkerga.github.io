@@ -47,6 +47,8 @@ gen_data['jungleadjective'] = [
     'ashen',
     'twisted',
     'skull-shaped',
+    'forbidden',
+    'gloomy',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -69,6 +71,8 @@ gen_data['jungleadjective'] = [
     'volcano',
     'recesses',
     'ponds',
+    'idols',
+    'dead trees',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -91,6 +95,8 @@ gen_data['jungleadjective'] = [
     'volcanic ashes',
     'dark corners',
     'rotting carcasses',
+    'pagan idols',
+    'dead trees',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -113,6 +119,8 @@ gen_data['jungleadjective'] = [
     'are scalding hot',  
     'could split the party',  
     'infested with bugs',  
+    'could curse you',  
+    'look like enemies',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -135,6 +143,8 @@ gen_data['jungleadjective'] = [
     '{reddracopedetotem} Red Dracopedes',
     '{chokerclue} aberrations known as Chokers',
     '{braincrabtotem} Brain Crabs',
+    'a{cult} Cult that {cultwants}',
+    '{deathsheadtotem} Death’s Head Trees',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
