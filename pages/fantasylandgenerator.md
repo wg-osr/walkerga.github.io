@@ -8,7 +8,6 @@
 //
 // written and released to the public domain by drow [drow@bin.sh]
 // http://creativecommons.org/publicdomain/zero/1.0/
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // json format
 // http://en.wikipedia.org/wiki/JSON
@@ -25,7 +24,7 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks, 'Beetles'
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
