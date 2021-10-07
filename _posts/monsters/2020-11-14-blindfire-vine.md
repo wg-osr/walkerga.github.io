@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant fauna
+tags: monster plant  jungle
 permalink: /monsters/blindfire-vine
 title: Blindfire Vine
 ---
