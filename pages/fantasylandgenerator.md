@@ -23,9 +23,33 @@
   let gen_data = {};
 
   gen_data['main'] = [
-    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', 
+     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
  ];
       
+// - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainjungle'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
+  ];
+gen_data['junglebeast'] = [
+    'crocodile', 'centipede',  'panther',  'elephant', 'snake', 'parrots',
+  ];
+gen_data['jungleadjective'] = [
+    'aquatic',
+  ];
+  gen_data['junglefeature'] = [
+    'mangrove',
+  ];
+  gen_data['jungleobstacle'] = [
+    'water lilies',    
+  ];
+  gen_data['junglehazard'] = [
+    'provoke flash floods',  
+  ];
+  gen_data['junglemonster'] = [
+    '{aqrasethtotem} Aqraseths',
+  ];
+
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainrocky'] = [
@@ -1294,6 +1318,14 @@ gen_data['arcticadjective'] = [
     'is a fey bounty hunter',
     'has been stealing from a petty god',
     'trains heroes in martial arts',
+  ]; 
+   gen_data['aqrasethtotem'] = [
+    'patient',
+    'clever',
+    'fishing',
+    'aquatic',
+    'ambushing',
+    'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
