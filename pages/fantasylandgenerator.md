@@ -25,37 +25,62 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths'
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks, 'Beetles'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
     'fragrant',
     'sulfurous',
     'dark',
+    'foggy',
+    'murky',
+    'vine-strangled',
+    'buzzing',
+    'blood-red',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
     'fruits',
     'mud spires',
     'caves',
+    'lake',
+    'river',
+    'canopy',
+    'mushrooms',
+    'hives',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
     'aromatic fruits',    
     'puddles',    
     'hollow trunks',    
+    'fog clouds',    
+    'lichen curtains',    
+    'vines',    
+    'spore sacks',    
+    'cicadas',    
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
     'could make you hungry',  
     'are corrosive',  
-    'that are rotten',  
+    'are rotten',  
+    'could obscure your vision',  
+    'carry eye-rot disease',  
+    'are where the light can’t reach',  
+    'are sensitive to noise',  
+    'attract Vyderacs',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
     'Azizas who {azizawants}',
     'a {basilisktotem} Basilisk',
     '{battotem} Bats',
+    '{ahooltotem} Ahools',
+    '{kongamatototem} Kongamatos',
+    '{olitiautotem} Olitiaus',
+    '{giantflayertotem} Giant Flayers',
+    '{vyderactotem} Vyderac Swarms',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1334,6 +1359,22 @@ gen_data['arcticadjective'] = [
     'aquatic',
     'ambushing',
     'sacred',
+  ]; 
+   gen_data['kongamatototem'] = [
+    'blindness-causing',
+    'boat-flipping',
+    'ominous',
+    'amphibious',
+    'stygian',
+    'cursed',
+  ]; 
+   gen_data['giantflayertotem'] = [
+    'brain-sucking',
+    'flea-like',
+    'operatic',
+    'idot-killing',
+    'swarming',
+    'cursed',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
