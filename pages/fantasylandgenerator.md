@@ -15,9 +15,63 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
+     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {junglehazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
  ];
       
+// - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainmountain'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}',  '{mainmountain}', 
+  ];
+gen_data['mountainbeast'] = [
+    'Bears',  'Wolf',  'Goats', 'Cats',
+  ];
+gen_data['mountainadjective'] = [
+    'big',    
+    'wind-swept',    
+    'frozen',    
+    'sulfurous',    
+    'cavernous',    
+    'snowy',    
+    'fir-lined',    
+
+  ];
+  gen_data['mountainfeature'] = [
+    'inn',
+    'sky shrine',
+    'crags',
+    'gas vents',
+    'slopes',
+    'glacier',
+    'rapids',
+  ];
+  gen_data['mountainobstacle'] = [
+    'boulders',
+    'violent winds',
+    'ice bridge',
+    'gas vents',
+    'narrow cornices',
+    'blizzards',
+    'rapids',
+  ];
+  gen_data['mountainhazard'] = [
+    'could hide ambushers',
+    'could make you fall',
+    'could crumble',
+    'make the air unbreathable',
+    'are hard to navigate',
+    'are freezing cold',
+    'are treatcherous',
+  ];
+  gen_data['mountainmonster'] = [
+    'Ogres who {ogreculture} {ogreproblem}',
+    'Airwalkers who {airwalkerwants}',
+    '{arassastotem} Arassas',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
+    '{arcticbattotem} Arctic Bats',
+    '{beartotem} Bears',
+  ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainjungle'] = [
@@ -879,6 +933,9 @@ gen_data['arcticadjective'] = [
     '64-81': 'six',
     '82-94': 'seven',
     '95-00': 'eight',
+  };
+   gen_data['1D10hexes'] = {
+    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
   };
    gen_data['2d6hexes'] = {
     '01-03': 'two',
