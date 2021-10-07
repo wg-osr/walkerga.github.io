@@ -957,7 +957,7 @@ gen_data['arcticadjective'] = [
     '82-94': 'seven',
     '95-00': 'eight',
   };
-   gen_data['1D10hexes'] = [
+   gen_data['1d10hexes'] = [
     'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
   ];
    gen_data['2d6hexes'] = {
