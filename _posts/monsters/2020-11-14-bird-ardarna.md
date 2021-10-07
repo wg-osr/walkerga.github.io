@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey fauna
+tags: monster fey  jungle
 permalink: /monsters/bird-adarna
 title: Bird, Adarna
 ---
