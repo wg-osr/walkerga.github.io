@@ -45,6 +45,7 @@ gen_data['jungleadjective'] = [
     'deep',
     'emerald',
     'ashen',
+    'twisted',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -65,6 +66,7 @@ gen_data['jungleadjective'] = [
     'roots',
     'rubber trees',
     'volcano',
+    'recesses',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -85,9 +87,10 @@ gen_data['jungleadjective'] = [
     'roots',
     'big leaves',
     'volcanic ashes',
+    'dark corners',
   ];
   gen_data['junglehazard'] = [
-    'provoke flash floods',  
+    'attract flash floods',  
     'could make you hungry',  
     'are corrosive',  
     'are rotten',  
@@ -105,6 +108,7 @@ gen_data['jungleadjective'] = [
     'you need to cross to go forward',  
     'are very sticky',  
     'are scalding hot',  
+    'could split the party',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -125,6 +129,7 @@ gen_data['jungleadjective'] = [
     '{blackdracopedetotem} Black Dracopedes',
     '{greendracopedetotem} Green Dracopedes',
     '{reddracopedetotem} Red Dracopedes',
+    '{chokerclue} aberrations known as Chokers',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1449,6 +1454,14 @@ gen_data['arcticadjective'] = [
     'volcanic',
     'tasty',
     'sacred',
+  ]; 
+   gen_data['chokerclue'] = [
+    'rubbery',
+    'sound-sensitive',
+    'sneaky',
+    'backstabbing',
+    'agile',
+    'boneless',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
