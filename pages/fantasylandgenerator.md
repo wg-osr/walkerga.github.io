@@ -14,14 +14,14 @@
 
   let gen_data = {};
 
-  gen_data['main'] = [
-     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
+      gen_data['main'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
  ];
       
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainjungle'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
+     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
   ];
 gen_data['junglebeast'] = [
     'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos', 'Dingoneks'
