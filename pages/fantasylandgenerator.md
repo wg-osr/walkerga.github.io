@@ -14,90 +14,13 @@
 
   let gen_data = {};
 
-  gen_data['main'] = [
-     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
+      gen_data['main'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
  ];
- 
- // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-gen_data['mainmountain'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}'
-  ];
-gen_data['mountainbeast'] = [
-    'Bears',  'Wolf',  'Goats', 'Cats', 'Bats', 'Crows', 'Vultures',
-  ];
-gen_data['mountainadjective'] = [
-    'big',    
-    'wind-swept',    
-    'frozen',    
-    'sulfurous',    
-    'cavernous',    
-    'snowy',    
-    'fir-lined',    
-    'vast',    
-    'bird-infested',    
-    'pastoral',    
-    'sinuous',    
-    'sun-kissed',    
-  ];
-  gen_data['mountainfeature'] = [
-    'inn',
-    'sky shrine',
-    'crags',
-    'gas vents',
-    'slopes',
-    'glacier',
-    'pines',
-    'thickets',
-    'pastures',
-    'plateaus',
-    'mesas',
-  ];
-  gen_data['mountainobstacle'] = [
-    'boulders',
-    'violent winds',
-    'ice bridge',
-    'gas vents',
-    'narrow cornices',
-    'blizzards',
-    'rapids',
-    'snow patches',
-    'nervous {mountainbird}',
-    'sheep herds',
-    'narrow passages',
-    'steep slopes',
-  ];
-  gen_data['mountainhazard'] = [
-    'could hide ambushers',
-    'could make you fall',
-    'could crumble',
-    'make the air unbreathable',
-    'are hard to navigate',
-    'are freezing cold',
-    'are treatcherous',
-    'are surprisingly deep',
-    'could distract you',
-    'could slow you down',
-    'could hide ambushers',
-    'are near precipices',
-  ];
-  gen_data['mountainmonster'] = [
-    'Ogres who {ogreculture} {ogreproblem}',
-    'Airwalkers who {airwalkerwants}',
-    '{arassastotem} Arassas',
-    'a {basilisktotem} Basilisk',
-    '{battotem} Bats',
-    '{arcticbattotem} Arctic Bats',
-    '{beartotem} Bears',
-    '{cavebeartotem} Cave Bears',
-    '{birdtotem} {mountainbird}',
-    'Cacuses who {cacusculture} {cacusproblem}',
-    '{sabertoothcattotem} Sabertooth Cats',
-    '{gianttressymtotem} Giant Tressyms',
-  ];
+      
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-gen_data['mainjungle'] = [
+ gen_data['mainjungle'] = [
      'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
   ];
 gen_data['junglebeast'] = [
@@ -136,7 +59,6 @@ gen_data['jungleadjective'] = [
     'turquoise',
     'settled',
     'stormy',
-    'big',    
 
   ];
   gen_data['junglefeature'] = [
@@ -172,7 +94,6 @@ gen_data['jungleadjective'] = [
     'ferns',
     'village with stilted huts',
     'power stones',
-    'inn',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -207,7 +128,6 @@ gen_data['jungleadjective'] = [
     'branches',
     'sacred {junglebeast}',
     'strange energies',
-    'boulders',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -242,7 +162,6 @@ gen_data['jungleadjective'] = [
     'are noisy',
     'are sacred for the locals',
     'augment magic',
-    'could hide ambushers',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -277,7 +196,6 @@ gen_data['jungleadjective'] = [
     '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {junglebeast} {warriorwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'Ogres who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -322,7 +240,6 @@ gen_data['rockyadjective'] = [
     'dusty',
     'abandoned',
     'silent',
-    'hillside',
 
   ];
   gen_data['rockyfeature'] = [
@@ -359,7 +276,6 @@ gen_data['rockyadjective'] = [
     'thickets',
     'mills',
     'spirit shrine',
-    'mounds',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -396,7 +312,6 @@ gen_data['rockyadjective'] = [
     'dust clouds',
     'rats',
     'chimes',
-    'boulders',
     
   ];
   gen_data['rockyhazard'] = [
@@ -433,7 +348,6 @@ gen_data['rockyadjective'] = [
     'could make you waste rations',  
     'carry diseases',  
     'are bad luck',  
-    'attract brigands',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -469,10 +383,7 @@ gen_data['rockyadjective'] = [
     '{boltforagertotem} Boltforagers',
     '{rattotem} Rats',
     'an Oni that {oniwants}',
-    'Ogres who {ogreculture} {ogreproblem}',
-
   ];
-
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -956,10 +867,7 @@ gen_data['arcticadjective'] = [
     '39-63': 'five',
     '64-81': 'six',
     '82-94': 'seven',
-    '95-00': 'eight'
-  };
-   gen_data['1D10hexes'] = {
-    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'
+    '95-00': 'eight',
   };
    gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -975,7 +883,7 @@ gen_data['arcticadjective'] = [
     '98-00': 'twelve'
   };      
   gen_data['cult'] = [
-    ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug'
+    ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -1081,12 +989,6 @@ gen_data['arcticadjective'] = [
     'Songbirds',
     'Flamingos',
     'Casowaries',
-  ];
-   gen_data['mountainbird'] = [
-    'Crows',
-    'Vultures',
-    'Starlings',
-    'Magpies',
   ];
    gen_data['boartotem'] = [
     'stubborn',
@@ -1417,7 +1319,7 @@ gen_data['arcticadjective'] = [
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
-    'and are obsessed with hygiene',
+    'and obsessed with hygiene',
   ]; 
    gen_data['greendracopedetotem'] = [
     'draconic',
