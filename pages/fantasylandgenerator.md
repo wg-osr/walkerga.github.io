@@ -53,6 +53,12 @@ gen_data['jungleadjective'] = [
     'thorny',
     'lush',
     'steaming',
+    'savage',
+    'reed-infested',
+    'lonely',
+    'turquoise',
+    'settled',
+    'stormy',
 
   ];
   gen_data['junglefeature'] = [
@@ -82,6 +88,12 @@ gen_data['jungleadjective'] = [
     'maze',
     'ancient trees',
     'hot springs',
+    'warrens',
+    'pyramids',
+    'stone face',
+    'ferns',
+    'village with stilted huts',
+    'power stones',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -110,6 +122,12 @@ gen_data['jungleadjective'] = [
     'maze-like paths',
     'sentient trees',
     'geysers',
+    'hidden pit traps',
+    'hidden snare traps',
+    'shortcuts',
+    'branches',
+    'sacred {junglebeast}',
+    'strange energies',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -138,6 +156,12 @@ gen_data['jungleadjective'] = [
     'could make you lost',
     'could hide the path',
     'could boil you alive',
+    'attract Goblins',
+    'Lizardfolks use to hunt',
+    'could leave you isolated',
+    'are noisy',
+    'are sacred for the locals',
+    'augment magic',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -166,6 +190,12 @@ gen_data['jungleadjective'] = [
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
     'Steam Elementals who {steamelementalwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
+    '{copperbacktotem} Copperback Snakes',
+    'the Warrior Tribe of the {junglebeast} {warriorwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
