@@ -24,7 +24,7 @@ gen_data['mainmountain'] = [
      'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
   ];
 gen_data['mountainbeast'] = [
-    'Bears', 'Wolf', 'Goats', 'Cats', 'Bats', 'Crows', 'Vultures',
+    'Bears', 'Wolf', 'Goats', 'Cats', 'Bats', 'Crows', 'Vultures', 'Blue Dracopedes'
   ];
 gen_data['mountainadjective'] = [
     'big',    
@@ -39,6 +39,12 @@ gen_data['mountainadjective'] = [
     'pastoral',    
     'sinuous',    
     'sun-kissed',    
+    'icicle-covered',    
+    'magmatic',    
+    'forbidden',    
+    'ancient',    
+    'cyclopean',    
+    'grumbling',    
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -52,6 +58,12 @@ gen_data['mountainadjective'] = [
     'pastures',
     'plateaus',
     'mesas',
+    'ice pillars',
+    'craters',
+    'idols',
+    'boulders',
+    'tribelands',
+    'volcano',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -66,6 +78,12 @@ gen_data['mountainadjective'] = [
     'sheep herds',
     'narrow passages',
     'steep slopes',
+    'sharp icicles',
+    'lava pits',
+    'pagan idols',
+    'stone walls',
+    'violent storms',
+    'rivers',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -80,6 +98,12 @@ gen_data['mountainadjective'] = [
     'could slow you down',
     'could hide ambushers',
     'are near precipices',
+    'you could fall into',
+    'burn to the touch',
+    'could curse you',
+    'could block your path',
+    'attract lightning',
+    'make everything melt',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -94,6 +118,13 @@ gen_data['mountainadjective'] = [
     'Cacuses who {cacusculture} {cacusproblem}',
     '{sabertoothcattotem} Sabertooth Cats',
     '{gianttressymtotem} Giant Tressyms',
+    '{bluedracopedetotem} Blue Dracopedes',
+    '{reddracopedetotem} Red Dracopedes',
+    'a{cult} Cult that {cultwants}',
+    'Cyclopses who {cyclopsculture} {cyclopsproblem}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
+    'a {redragontotem} Red Dragon who {redragonwants}',
+
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
