@@ -24,7 +24,7 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}',  '{mainmountain}', 
   ];
 gen_data['mountainbeast'] = [
-    'Bears',  'Wolf',  'Goats', 'Cats',
+    'Bears',  'Wolf',  'Goats', 'Cats', 'Bats', 'Crows', 'Vultures',
   ];
 gen_data['mountainadjective'] = [
     'big',    
@@ -34,7 +34,10 @@ gen_data['mountainadjective'] = [
     'cavernous',    
     'snowy',    
     'fir-lined',    
-
+    'vast',    
+    'bird-infested',    
+    'pastoral',    
+    'sinuous',    
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -43,7 +46,10 @@ gen_data['mountainadjective'] = [
     'gas vents',
     'slopes',
     'glacier',
-    'rapids',
+    'pines',
+    'thickets',
+    'pastures',
+    'plateaus',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -53,6 +59,10 @@ gen_data['mountainadjective'] = [
     'narrow cornices',
     'blizzards',
     'rapids',
+    'snow patches',
+    'nervous {mountainbird}',
+    'sheep herds',
+    'narrow passages',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -62,6 +72,10 @@ gen_data['mountainadjective'] = [
     'are hard to navigate',
     'are freezing cold',
     'are treatcherous',
+    'are surprisingly deep',
+    'could distract you',
+    'could slow you down',
+    'could hide ambushers',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -71,6 +85,10 @@ gen_data['mountainadjective'] = [
     '{battotem} Bats',
     '{arcticbattotem} Arctic Bats',
     '{beartotem} Bears',
+    '{cavebeartotem} Cave Bears',
+    '{birdtotem} {mountainbird}',
+    'Cacuses who {cacusculture} {cacusproblem}',
+    '{sabertoothcattotem} Sabertooth Cats',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1057,6 +1075,12 @@ gen_data['arcticadjective'] = [
     'Songbirds',
     'Flamingos',
     'Casowaries',
+  ];
+   gen_data['mountainbird'] = [
+    'Crows',
+    'Vultures',
+    'Starlings',
+    'Magpies',
   ];
    gen_data['boartotem'] = [
     'stubborn',
