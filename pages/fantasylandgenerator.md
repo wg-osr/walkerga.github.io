@@ -32,7 +32,7 @@
     'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.' 
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures', 'Cougars', 'Centipedes', 'Bloodbeasts'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures', 'Cougars', 'Centipedes', 'Bloodbeasts', 'Rats'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
@@ -66,6 +66,8 @@ gen_data['rockyadjective'] = [
     'vast',
     'settled',
     'dusty',
+    'abandoned',
+    'silent',
 
   ];
   gen_data['rockyfeature'] = [
@@ -100,6 +102,8 @@ gen_data['rockyadjective'] = [
     'war camp',
     'village with thatched roofs',
     'thickets',
+    'mills',
+    'spirit shrine',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -134,6 +138,8 @@ gen_data['rockyadjective'] = [
     'war banners',  
     'sacred {rockybeast}',
     'dust clouds',
+    'rats',
+    'chimes',
     
   ];
   gen_data['rockyhazard'] = [
@@ -168,6 +174,8 @@ gen_data['rockyadjective'] = [
     'attract Scouts riding {rockybeast}',
     'are sacred for the locals',  
     'could make you waste rations',  
+    'carry diseases',  
+    'are bad luck',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -201,6 +209,8 @@ gen_data['rockyadjective'] = [
     'the Great Horde and their War {rockybeast}',
     'the Warrior Tribe of the {rockybeast} {warriorwants}',
     '{boltforagertotem} Boltforagers',
+    '{rattotem} Rats',
+    'an Oni that {oniwants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1268,6 +1278,22 @@ gen_data['arcticadjective'] = [
     'haunts a collapsed keep',
     'is absorbed by its forbidden studies',
     'is training an apprentice to the dark arts',
+  ]; 
+   gen_data['rattotem'] = [
+    'filthy',
+    'plagued',
+    'cowardly',
+    'industrious',
+    'vicious',
+    'intelligent',
+  ]; 
+   gen_data['oniwants'] = [
+    'kidnaps local children',
+    'corrupted the local church',
+    'might be the true form of the local lord',
+    'is a fey bounty hunter',
+    'has been stealing from a petty god',
+    'trains heroes in martial arts',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
