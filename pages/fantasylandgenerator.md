@@ -33,13 +33,18 @@ gen_data['jungleadjective'] = [
     'dark',
     'foggy',
     'murky',
-    'vine-strangled',
+    'vine-choked',
     'buzzing',
     'blood-red',
     'singing',
     'rare',
     'rancid',
     'overgrown',
+    'muddy',
+    'rotten',
+    'deep',
+    'emerald',
+    'ashen',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -55,6 +60,11 @@ gen_data['jungleadjective'] = [
     'flowers',
     'sunsets',
     'vine carpets',
+    'pools',
+    'mounds',
+    'roots',
+    'rubber trees',
+    'volcano',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -70,6 +80,11 @@ gen_data['jungleadjective'] = [
     'orchids',
     'hot temperatures',
     'peppers',
+    'mud puddles',
+    'patches of moss',
+    'roots',
+    'big leaves',
+    'volcanic ashes',
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
@@ -85,6 +100,11 @@ gen_data['jungleadjective'] = [
     'could make you fall asleep',  
     'could rot your food',  
     'are very valuable abroad',  
+    'could trap you',  
+    'could make you slip and fall',  
+    'you need to cross to go forward',  
+    'are very sticky',  
+    'are scalding hot',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -100,6 +120,11 @@ gen_data['jungleadjective'] = [
     'a {adarnabirdtotem} Adarna Bird who {adarnabirdwants}',
     '{boltforagertotem} Boltforagers',
     '{blindfiretotem} Blindfire Vines',
+    '{bloodbeasttotem} Bloodbeasts',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    '{greendracopedetotem} Green Dracopedes',
+    '{reddracopedetotem} Red Dracopedes',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
