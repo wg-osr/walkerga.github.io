@@ -15,13 +15,13 @@
   let gen_data = {};
 
   gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}'
+     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
  ];
  
  // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainmountain'] = [
-     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}'
   ];
 gen_data['mountainbeast'] = [
     'Bears',  'Wolf',  'Goats', 'Cats', 'Bats', 'Crows', 'Vultures',
