@@ -59,6 +59,7 @@ gen_data['jungleadjective'] = [
     'turquoise',
     'settled',
     'stormy',
+    'big',    
 
   ];
   gen_data['junglefeature'] = [
@@ -94,6 +95,7 @@ gen_data['jungleadjective'] = [
     'ferns',
     'village with stilted huts',
     'power stones',
+    'inn',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -128,6 +130,7 @@ gen_data['jungleadjective'] = [
     'branches',
     'sacred {junglebeast}',
     'strange energies',
+    'boulders',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -162,6 +165,7 @@ gen_data['jungleadjective'] = [
     'are noisy',
     'are sacred for the locals',
     'augment magic',
+    'could hide ambushers',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -196,6 +200,7 @@ gen_data['jungleadjective'] = [
     '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {junglebeast} {warriorwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
+    'Ogres who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -240,6 +245,7 @@ gen_data['rockyadjective'] = [
     'dusty',
     'abandoned',
     'silent',
+    'hillside',
 
   ];
   gen_data['rockyfeature'] = [
@@ -276,6 +282,7 @@ gen_data['rockyadjective'] = [
     'thickets',
     'mills',
     'spirit shrine',
+    'mounds',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -312,6 +319,7 @@ gen_data['rockyadjective'] = [
     'dust clouds',
     'rats',
     'chimes',
+    'boulders',
     
   ];
   gen_data['rockyhazard'] = [
@@ -348,6 +356,7 @@ gen_data['rockyadjective'] = [
     'could make you waste rations',  
     'carry diseases',  
     'are bad luck',  
+    'attract brigands',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -383,6 +392,8 @@ gen_data['rockyadjective'] = [
     '{boltforagertotem} Boltforagers',
     '{rattotem} Rats',
     'an Oni that {oniwants}',
+    'Ogres who {ogreculture} {ogreproblem}',
+
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
