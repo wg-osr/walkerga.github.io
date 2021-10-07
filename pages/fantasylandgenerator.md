@@ -24,7 +24,7 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles'
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
@@ -38,6 +38,8 @@ gen_data['jungleadjective'] = [
     'blood-red',
     'singing',
     'rare',
+    'rancid',
+    'overgrown',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -51,6 +53,8 @@ gen_data['jungleadjective'] = [
     'hives',
     'trees',
     'flowers',
+    'sunsets',
+    'vine carpets',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -64,6 +68,8 @@ gen_data['jungleadjective'] = [
     'cicadas',    
     'nervous {junglebird}',
     'orchids',
+    'hot temperatures',
+    'peppers',
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
@@ -77,6 +83,8 @@ gen_data['jungleadjective'] = [
     'attract Vyderacs',  
     'could distract you',  
     'could make you fall asleep',  
+    'could rot your food',  
+    'are very valuable abroad',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -90,6 +98,8 @@ gen_data['jungleadjective'] = [
     '{vyderactotem} Vyderac Colonies',
     '{birdtotem} {junglebird}',
     'a {adarnabirdtotem} Adarna Bird who {adarnabirdwants}',
+    '{boltforagertotem} Boltforagers',
+    '{blindfiretotem} Blindfire Vines',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1406,6 +1416,14 @@ gen_data['arcticadjective'] = [
     'tries to clean everything',
     'would freeze a person at its beauty peak',
     'seeks a singing partner',
+  ]; 
+   gen_data['blindfiretotem'] = [
+    'spicy',
+    'voracious',
+    'haunted',
+    'volcanic',
+    'tasty',
+    'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>  
