@@ -38,6 +38,7 @@ gen_data['mountainadjective'] = [
     'bird-infested',    
     'pastoral',    
     'sinuous',    
+    'sun-kissed',    
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -50,6 +51,7 @@ gen_data['mountainadjective'] = [
     'thickets',
     'pastures',
     'plateaus',
+    'mesas',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -63,6 +65,7 @@ gen_data['mountainadjective'] = [
     'nervous {mountainbird}',
     'sheep herds',
     'narrow passages',
+    'steep slopes',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -76,6 +79,7 @@ gen_data['mountainadjective'] = [
     'could distract you',
     'could slow you down',
     'could hide ambushers',
+    'are near precipices',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -89,6 +93,7 @@ gen_data['mountainadjective'] = [
     '{birdtotem} {mountainbird}',
     'Cacuses who {cacusculture} {cacusproblem}',
     '{sabertoothcattotem} Sabertooth Cats',
+    '{gianttressymtotem} Giant Tressyms',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
