@@ -321,7 +321,7 @@ gen_data['forestadjective'] = [
     'are sacred for the locals',
     'could make you hungry',
     'lead to the fey world',
-    'are boiling hot',
+    'are boiling-hot',
     'are violent',
     'attract Brigands',
     'could drive you mad',
@@ -396,7 +396,7 @@ gen_data['desertadjective'] = [
     'settled',
     'muddy',
     'dusty',
-    'dinosaur bone',
+    'bone-filled',
     'hillside',
   ];
   gen_data['desertfeature'] = [
@@ -846,7 +846,7 @@ gen_data['arcticadjective'] = [
     'follow the migration of giant herds',
     'live off raiding and pillaging',
     'manage an academy for heroes',
-    'joined the Great Horde',
+    'are part of the Great Horde',
     'coexist with Elves',
     'are knight errants',
   ];
@@ -878,7 +878,7 @@ gen_data['arcticadjective'] = [
     'live peacefully with their sheep',
     'herald the collapse of civilization',
     'hate the gods',
-    'joined the great horde',
+    'joined the Great Horde',
     'built the biggest {cyclopsstructure} of the world',
     'are feral',
   ]; 
@@ -897,7 +897,7 @@ gen_data['arcticadjective'] = [
     'live in caves',
     'live on rafts',
     'live as the upper caste among Orcs',
-    'joined the great horde',
+    'joined the Great Horde',
     'ride dinosaurs',
     'tend to a primeval temple',
   ];  
@@ -937,7 +937,7 @@ gen_data['arcticadjective'] = [
     'live in the trash pits of another civilization',
     'hide in tunnels',
     'hide their huts high in trees',
-    'joined the great horde',
+    'joined the Great Horde',
     'serve the Hobgoblin legion',
     'are enslaved',
   ];  
@@ -961,13 +961,13 @@ gen_data['arcticadjective'] = [
     'who brutally conquered the region',
     'who are known for their craftsmanship',
     'who dress like animals',
-    'that joined the great horde',
+    'that joined the Great Horde',
     'who are trying to find their ancestral home',
     'that protects the region',
   ];  
    gen_data['ogreculture'] = [
     'took over a castle',
-    'joined the great horde',
+    'joined the Great Horde',
     'grow giant vegetables in a secret farm',
     'live in huts in the outskirts of towns',
     'manage a gigantic inn',
