@@ -1665,6 +1665,5 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/jungle">Tropical climate monster list</a></li>
     </ol>
     
-    eit
     </body>
 </html>
