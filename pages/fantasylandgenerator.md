@@ -6,13 +6,6 @@
 // this is a completely self-contained random generator,
 // implemented in HTML and JavaScript.
 //
-// to create a new random generator, simply copy this file
-// and change the content of the gen_data array.
-//
-// the primary key of the gen_data array must be named 'main'.
-// to increase the number of random things generated at a time,
-// increase the number of rows of the output textarea.
-//
 // written and released to the public domain by drow [drow@bin.sh]
 // http://creativecommons.org/publicdomain/zero/1.0/
 
@@ -32,22 +25,37 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'crocodile', 'centipede',  'panther',  'elephant', 'snake', 'parrots',
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
+    'fragrant',
+    'sulfurous',
+    'dark',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
+    'fruits',
+    'mud spires',
+    'caves',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
+    'aromatic fruits',    
+    'puddles',    
+    'hollow trunks',    
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
+    'could make you hungry',  
+    'are corrosive',  
+    'that are rotten',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
+    'Azizas who {azizawants}',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
