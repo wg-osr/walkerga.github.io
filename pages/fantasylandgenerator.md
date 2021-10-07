@@ -15,7 +15,7 @@
   let gen_data = {};
 
   gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}'
  ];
  
  // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -956,10 +956,10 @@ gen_data['arcticadjective'] = [
     '39-63': 'five',
     '64-81': 'six',
     '82-94': 'seven',
-    '95-00': 'eight',
+    '95-00': 'eight'
   };
    gen_data['1D10hexes'] = {
-    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
+    'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'
   };
    gen_data['2d6hexes'] = {
     '01-03': 'two',
@@ -975,7 +975,7 @@ gen_data['arcticadjective'] = [
     '98-00': 'twelve'
   };      
   gen_data['cult'] = [
-    ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
+    ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug'
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
