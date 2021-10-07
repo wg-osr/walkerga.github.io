@@ -37,6 +37,7 @@ gen_data['jungleadjective'] = [
     'vine-strangled',
     'buzzing',
     'blood-red',
+    'singing',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -48,6 +49,7 @@ gen_data['jungleadjective'] = [
     'canopy',
     'mushrooms',
     'hives',
+    'trees',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -59,6 +61,7 @@ gen_data['jungleadjective'] = [
     'vines',    
     'spore sacks',    
     'cicadas',    
+    'nervous {junglebird}',
   ];
   gen_data['junglehazard'] = [
     'provoke flash floods',  
@@ -70,6 +73,7 @@ gen_data['jungleadjective'] = [
     'are where the light can’t reach',  
     'are sensitive to noise',  
     'attract Vyderacs',  
+    'could distract you',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -81,6 +85,7 @@ gen_data['jungleadjective'] = [
     '{olitiautotem} Olitiaus',
     '{giantflayertotem} Giant Flayers',
     '{vyderactotem} Vyderac Colonies',
+    '{birdtotem} {junglebird}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -868,6 +873,12 @@ gen_data['arcticadjective'] = [
     'Crows',
     'Magpies',
     'Vultures',
+  ];
+   gen_data['junglebird'] = [
+    'Parrots',
+    'Songbirds',
+    'Flamingos',
+    'Casowaries',
   ];
    gen_data['boartotem'] = [
     'stubborn',
