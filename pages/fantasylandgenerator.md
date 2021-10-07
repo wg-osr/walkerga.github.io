@@ -24,7 +24,7 @@
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', 
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos'
+    'Crocodiles', 'Centipedes',  'Panthers',  'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos', 'Dingoneks'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
@@ -50,6 +50,10 @@ gen_data['jungleadjective'] = [
     'forbidden',
     'gloomy',
     'mossy',
+    'thorny',
+    'lush',
+    'steaming',
+
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -75,6 +79,9 @@ gen_data['jungleadjective'] = [
     'idols',
     'dead trees',
     'mire',
+    'maze',
+    'ancient trees',
+    'hot springs',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -100,6 +107,9 @@ gen_data['jungleadjective'] = [
     'pagan idols',
     'dead trees',
     'rivers',
+    'maze-like paths',
+    'sentient trees',
+    'geysers',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -125,6 +135,9 @@ gen_data['jungleadjective'] = [
     'could curse you',  
     'look like enemies',
     'will slow you',
+    'could make you lost',
+    'could hide the path',
+    'could boil you alive',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -150,7 +163,9 @@ gen_data['jungleadjective'] = [
     'a{cult} Cult that {cultwants}',
     '{deathsheadtotem} Death’s Head Trees',
     '{dingonektotem} Dingoneks',
-
+    'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'a Dryad who {dryadwants}',
+    'Steam Elementals who {steamelementalwants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
