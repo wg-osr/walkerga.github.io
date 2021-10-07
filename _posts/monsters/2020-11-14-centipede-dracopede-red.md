@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  rocky
+tags: monster beast  rocky jungle
 permalink: /monsters/centipede-dracopede-red
 title: Centipede, Dracopede, Red
 ---
