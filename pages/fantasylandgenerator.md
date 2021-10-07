@@ -1319,7 +1319,7 @@ gen_data['arcticadjective'] = [
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
-    'and obsessed with hygiene',
+    'and are obsessed with hygiene',
   ]; 
    gen_data['greendracopedetotem'] = [
     'draconic',
