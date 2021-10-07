@@ -46,6 +46,7 @@ gen_data['jungleadjective'] = [
     'emerald',
     'ashen',
     'twisted',
+    'skull-shaped',
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -67,6 +68,7 @@ gen_data['jungleadjective'] = [
     'rubber trees',
     'volcano',
     'recesses',
+    'ponds',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -88,6 +90,7 @@ gen_data['jungleadjective'] = [
     'big leaves',
     'volcanic ashes',
     'dark corners',
+    'rotting carcasses',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -109,6 +112,7 @@ gen_data['jungleadjective'] = [
     'are very sticky',  
     'are scalding hot',  
     'could split the party',  
+    'infested with bugs',  
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -130,6 +134,7 @@ gen_data['jungleadjective'] = [
     '{greendracopedetotem} Green Dracopedes',
     '{reddracopedetotem} Red Dracopedes',
     '{chokerclue} aberrations known as Chokers',
+    '{braincrabtotem} Brain Crabs',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1463,8 +1468,16 @@ gen_data['arcticadjective'] = [
     'agile',
     'boneless',
   ]; 
+   gen_data['chokerclue'] = [
+    'skull-dwelling',
+    'cancerous',
+    'spooky',
+    'surgical',
+    'gruesome',
+    'taboo',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  
+    </script>  braincrabtotem
   </head>
   <body>
     
