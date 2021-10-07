@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert
+tags: monster beast  desert jungle
 permalink: /monsters/beetle-vyderac
 title: Beetle, Vyderac
 ---
