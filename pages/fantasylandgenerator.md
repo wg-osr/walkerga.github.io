@@ -47,6 +47,9 @@ gen_data['mountainadjective'] = [
     'grumbling',    
     'fortified',    
     'savage',    
+    'silent',
+    'stormy',
+    'settled',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -68,6 +71,9 @@ gen_data['mountainadjective'] = [
     'volcano',
     'mine',
     'warrens',
+    'spirit shrine',
+    'power stones',
+    'stone villages',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -90,6 +96,9 @@ gen_data['mountainadjective'] = [
     'rivers',
     'rope bridges',
     'hidden pit traps',
+    'strange chimes',
+    'weird magical energies',
+    'sacred {mountainbeast}',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -112,6 +121,9 @@ gen_data['mountainadjective'] = [
     'make everything melt',
     'require special equipment to cross',
     'attract Goblins',
+    'bring bad luck',
+    'augment magic',
+    'are sacred for the locals',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -134,6 +146,9 @@ gen_data['mountainadjective'] = [
     'a {redragontotem} Red Dragon who {redragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
+    'an Oni that {oniwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'the Warrior Tribe of the {mountainbeast} {warriorwants}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
