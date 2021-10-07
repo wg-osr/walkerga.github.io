@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert forest rocky
+tags: monster beast  desert forest rocky jungle
 permalink: /monsters/bat-olitiau
 title: Bat, Olitiau
 ---
