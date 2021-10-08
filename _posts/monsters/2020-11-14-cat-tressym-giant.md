@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert rocky mountain
+tags: monster beast  desert rocky mountain plains
 permalink: /monsters/cat-tressym-giant
 title: Cat, Tressym, Giant
 ---
