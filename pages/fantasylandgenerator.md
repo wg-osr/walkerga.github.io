@@ -46,6 +46,8 @@ gen_data['cityadjective'] = [
     'pet',
     'maze-like',
     'forbidden',
+    'cyclopean',
+    'aristocratic',
  
   ];
   gen_data['cityfeature'] = [
@@ -67,6 +69,8 @@ gen_data['cityadjective'] = [
     'excentricities',
     'balconies',
     'idols',
+    'Giant {citybeast} kennels',
+    'masquerade balls',
  
   ];
   gen_data['cityobstacle'] = [
@@ -88,6 +92,8 @@ gen_data['cityadjective'] = [
     'student wizards',
     'fragile scaffoldings',
     'fanatical crowds',
+    'rampaging Giant {citybeast}',
+    'friendly faces',
 
   ];
   gen_data['cityhazard'] = [
@@ -109,6 +115,8 @@ gen_data['cityadjective'] = [
     'recklessly cast spells',
     'require balance to navigate',
     'could curse you',
+    'could make building collapse',
+    'hide a spy',
       
   ];
   gen_data['citymonster'] = [
@@ -130,6 +138,8 @@ gen_data['cityadjective'] = [
     '{tressymtotem} Tressyms',
     '{chokerclue} aberrations known as Chokers',
     'a{cult} Cult that {cultwants}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
+    '{doppelgangerclue} aberrations known as Doppelgangers',
 
 
   ];
@@ -2325,6 +2335,14 @@ gen_data['arcticadjective'] = [
     'witchy',
     'pet',
     'sacred',
+  ]; 
+   gen_data['doppelgangerclue'] = [
+    'shapeshifting',
+    'elusive',
+    'face-stealing',
+    'faceless',
+    'plotting',
+    'inconspicuous',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>      
