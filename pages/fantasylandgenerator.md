@@ -15,7 +15,7 @@
   let gen_data = {};
 
       gen_data['main'] = [
-    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} as you visit. It is inhabited by {citymonster}, and also {citymonster} .'
+    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} as you visit. It is inhabited by {citymonster}, and also {citymonster}.'
  ];
       
       
@@ -39,6 +39,9 @@ gen_data['cityadjective'] = [
     'gothic',
     'high',
     'heroic',
+    'out-of-town',
+    'filthy',
+    'Dark Lord’s',
  
   ];
   gen_data['cityfeature'] = [
@@ -53,6 +56,9 @@ gen_data['cityadjective'] = [
     'belltower',
     'flocks of {citybird}',
     'competitions',
+    'taverns',
+    'slaughterhouses',
+    'public executions',
  
   ];
   gen_data['cityobstacle'] = [
@@ -67,6 +73,9 @@ gen_data['cityadjective'] = [
     'rooftops',
     'nervous {citybird}',
     'cattle herds',
+    'local drinks',
+    'nauseating smells',
+    'obscure unfair laws',
 
   ];
   gen_data['cityhazard'] = [
@@ -81,6 +90,9 @@ gen_data['cityadjective'] = [
     'are dangerous at night',
     'could distract you',
     'could slow your progress',
+    'could get you drunk',
+    'could make you feel sick',
+    'attract the Guards',
       
   ];
   gen_data['citymonster'] = [
@@ -95,6 +107,9 @@ gen_data['cityadjective'] = [
     '{ahooltotem} Ahools',
     '{birdtotem} {citybird}',
     'Cacuses who {cacusculture} {cacusproblem}',
+    'Cadejos who {cadejowants}',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
+    'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
 
 
   ];
@@ -2244,15 +2259,39 @@ gen_data['arcticadjective'] = [
     'spiteful',
   ]; 
    gen_data['barbazuquest'] = [
-    'massacre the members of a {cult} Cult ',
+    'massacre the members of a {cult} Cult',
     'corral runaway Lemures',
     'battle against the forces of the Abyss',
     'find and capture {1d10hexes} demon cultist',
     'dislodge dead souls clinging to this world',
     'recruit 66 souls for the Holy Crusade',
   ]; 
+   gen_data['cambionfeature'] = [
+    'n overconfident',
+    ' delusional',
+    ' genius',
+    ' manipulated',
+    ' decadent',
+    ' lazy',
+  ]; 
+   gen_data['cambionculture'] = [
+    'is destined to rule the world',
+    'is gonna be worshiped like a god',
+    'will join its parents in Hell',
+    'will lead a crusade in the Abyss',
+    'will lead a crusade against the gods',
+    'will forge a deadly weapon',
+  ]; 
+   gen_data['cambionculture'] = [
+    'kills the Paladin hunting it',
+    'manages to open a special gate',
+    'retrieves a specific spell book',
+    'sacrifices six specific individuals',
+    'starts a cult in another town',
+    'frees some cultists from jail',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>    
+    </script>      cambionquest
   </head>
   <body>
     
