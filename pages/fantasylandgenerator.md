@@ -15,7 +15,7 @@
   let gen_data = {};
 
       gen_data['main'] = [
-    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} as you visit it. It is inhabited by {citymonster}, and also {citymonster} .'
+    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} as you visit. It is inhabited by {citymonster}, and also {citymonster} .'
  ];
       
       
@@ -32,6 +32,7 @@ gen_data['cityadjective'] = [
     'archmage’s',
     'doomed',
     'surveiled',
+    'magically operated',
  
   ];
   gen_data['cityfeature'] = [
@@ -39,6 +40,7 @@ gen_data['cityadjective'] = [
     'spell vault',
     'mutants',
     'magic sentries',
+    'bazaar',
  
  
   ];
@@ -47,21 +49,24 @@ gen_data['cityadjective'] = [
     'lightning barriers',
     'people you know',
     'scrying eyes',
+    'random objects',
 
   ];
   gen_data['cityhazard'] = [
-    'are paid by a kingpin betting against you',
+    'are owned by a kingpin betting against you',
     'could shock you',
     'might end up corrupted by demons',
     'are used to spy on you',
+    'are remotely controlled by their owners',
  
       
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
-    'a Blue Abishai on a divine mission to {blueabishaiquest} ',
+    'a Blue Abishai on a divine mission to {blueabishaiquest}',
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
     '{amberprowlerown} Amber Prowlers',
+    '{animatedrugown} Animated Rugs',
 
 
   ];
@@ -2183,9 +2188,17 @@ gen_data['arcticadjective'] = [
    gen_data['amberprowlerown'] = [
     'police-owned',
     'cabbal-owned',
-    'foreign-owned',
+    'spy-owned',
     'mob-owned',
     'church-owned',
+    'noble-owned',
+  ]; 
+   gen_data['animatedrugown'] = [
+    'merchant-owned',
+    'guild-owned',
+    'spy-owned',
+    'mob-owned',
+    'wizard-owned',
     'noble-owned',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
