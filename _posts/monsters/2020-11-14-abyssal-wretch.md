@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration hostile
+tags: monster aberration  city
 permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
