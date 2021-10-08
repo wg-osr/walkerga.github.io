@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic
+tags: monster beast arctic mountain
 permalink: /monsters/centipede-dracopede-blue
 title: Centipede, Dracopede, Blue
 ---
