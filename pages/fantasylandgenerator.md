@@ -60,6 +60,7 @@ gen_data['mountainadjective'] = [
     'gas vents',
     'slopes',
     'glacier',
+    'rapids',
     'pines',
     'thickets',
     'pastures',
