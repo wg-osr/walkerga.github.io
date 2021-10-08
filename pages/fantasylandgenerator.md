@@ -15,14 +15,14 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', 
  ];
       
       
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainswamp'] = [
-    'This {2d6hexes}-hex grassland is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
+    'This {2d4hexes}-hex grassland is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
     'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Raven', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards'
