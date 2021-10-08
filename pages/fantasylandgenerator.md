@@ -25,28 +25,56 @@ gen_data['mainplains'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
   ];
 gen_data['plainsbeast'] = [
-    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions',
+    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards'
   ];
 gen_data['plainsadjective'] = [
     'wind-swept',
+    'mist-cloaked',
+    'sulfurous',
+    'hidden',
+    'flooded',
+    'riverside',
+    'gloomy',
   
   ];
   gen_data['plainsfeature'] = [
     'sky shrine',
+    'loch',
+    'pools',
+    'caves',
+    'ferry',
+    'willows',
+    'old battle site',
  
   ];
   gen_data['plainsobstacle'] = [
     'powerful winds',
+    'ley lines',
+    'mud puddles',
+    'pits',
+    'moss patches',
+    'willows',
+    'ghostly apparitions',
 
   ];
   gen_data['plainshazard'] = [
     'could make you fall',
+    'crackling with power',
+    'are corrosive',
+    'are hidden behind bushes',
+    'are carrying the eye rot disease',
+    'are sticky',
+    'could scare youu',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
     'Athachs who {athachculture} {athachproblem}',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
+    '{kongamatototem} Kongamatos',
+    '{olitiautotem} Olitiaus',
     'Bestial Terrors who {bestialterrorwants}',
-    '{birdtotem} {arcticbird}',
+    '{birdtotem} {plainsbird}',
     '{boartotem} Boars',
     'Cadejos who {cadejowants}',
     '{sabertoothcattotem} Sabertooth Cats',
@@ -1183,7 +1211,7 @@ gen_data['arcticadjective'] = [
    gen_data['desertbird'] = [
     'Starlings',
     'Vultures',
-    'Casowaries',
+    'Cassowaries',
     'Hawks',
   ];
    gen_data['forestbird'] = [
@@ -1202,13 +1230,19 @@ gen_data['arcticadjective'] = [
     'Parrots',
     'Songbirds',
     'Flamingos',
-    'Casowaries',
+    'Cassowaries',
   ];
    gen_data['mountainbird'] = [
     'Crows',
     'Vultures',
     'Starlings',
     'Magpies',
+  ];
+   gen_data['plainsbird'] = [
+    'Crows',
+    'Vultures',
+    'Starlings',
+    'Cassowaries',
   ];
    gen_data['boartotem'] = [
     'stubborn',
