@@ -50,6 +50,9 @@ gen_data['cityadjective'] = [
     'aristocratic',
     'polluted',
     'dystopic',
+    'rowdy',
+    'trashy',
+    'ancient',
  
   ];
   gen_data['cityfeature'] = [
@@ -75,6 +78,9 @@ gen_data['cityadjective'] = [
     'masquerade balls',
     'dump',
     'army',
+    'artisans',
+    'slums',
+    'statues',
  
   ];
   gen_data['cityobstacle'] = [
@@ -100,6 +106,9 @@ gen_data['cityadjective'] = [
     'friendly faces',
     'poluted sludge puddles',
     'certain events',
+    'large barrels',
+    'hidden pit traps',
+    'stone gates',
 
   ];
   gen_data['cityhazard'] = [
@@ -125,6 +134,9 @@ gen_data['cityadjective'] = [
     'hide a spy',
     'could poison you',
     'could provoke a slave revolt',
+    'could fall on you',
+    'attract Goblins',
+    'could block you',
       
   ];
   gen_data['citymonster'] = [
@@ -150,6 +162,9 @@ gen_data['cityadjective'] = [
     '{doppelgangerclue} aberrations known as Doppelgangers',
     '{dretchclue} Dretch demons',
     'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
+    'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    '{stonegolemown} Stone Golems',
 
 
   ];
@@ -2275,7 +2290,7 @@ gen_data['arcticadjective'] = [
     'pitiful',
   ]; 
    gen_data['amberprowlerown'] = [
-    'police-owned',
+    'police-operated',
     'cabbal-owned',
     'spy-owned',
     'mob-owned',
@@ -2377,9 +2392,17 @@ gen_data['arcticadjective'] = [
     ', but their real home is in another dimension',
     'and are in the process of completely sealing off the area',
     'because their own slaves are on the verge of revolt',
+  ];
+   gen_data['stonegolemown'] = [
+    'guardian',
+    'ancient',
+    'wizard-operated',
+    'tomb-guarding',
+    'military',
+    'noble-protecting',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script>    
   </head>
   <body>
     
