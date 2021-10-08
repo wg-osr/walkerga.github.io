@@ -2422,7 +2422,7 @@ gen_data['arcticadjective'] = [
    gen_data['dvergrproblem'] = [
     'under the orders of a dark crystal which they worship',
     'under the control of Mind Flayers',
-    'and are secretly behind half the region's conflicts',
+    'and are secretly behind half the region’s conflicts',
     ', but their real home is in another dimension',
     'and are in the process of completely sealing off the area',
     'because their own slaves are on the verge of revolt',
