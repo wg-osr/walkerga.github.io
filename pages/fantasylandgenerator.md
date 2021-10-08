@@ -58,6 +58,10 @@ gen_data['swampadjective'] = [
     'polluted',
     'turquoise',
     'settled',
+    'stormy',
+    'big',
+    'misty',
+    'oozing',
   
   ];
   gen_data['swampfeature'] = [
@@ -91,6 +95,10 @@ gen_data['swampadjective'] = [
     'trash piles',
     'flowers',
     'stilted village',
+    'power stones',
+    'rock mounds',
+    'loch',
+    'rot shrine',
  
   ];
   gen_data['swampobstacle'] = [
@@ -124,6 +132,10 @@ gen_data['swampadjective'] = [
     'dying animals',
     'large ferns',
     'sacred {swampbeast}',
+    'strange magical energies',
+    'uprooted trees',
+    'ley lines',
+    'ooze bubbles',
 
   ];
   gen_data['swamphazard'] = [
@@ -157,6 +169,10 @@ gen_data['swampadjective'] = [
     'carry the plague',
     'can hide predators',
     'are sacred for the locals',
+    'augment magic',
+    'make the ground unstable',
+    'crackling with power',
+    'are observing you',
       
   ];
   gen_data['swampmonster'] = [
@@ -192,6 +208,8 @@ gen_data['swampadjective'] = [
     'the Warrior Tribe of the {swampbeast} {warriorwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
+    'Athachs who {athachculture} {athachproblem}',
+    'Ooze Mephits who {oozemephitwants}',
 
   ];
       
@@ -2076,6 +2094,14 @@ gen_data['arcticadjective'] = [
     'armored',
     'delicious',
     'sacred',
+  ]; 
+   gen_data['oozemephitwants'] = [
+    'need to deliver an important message to their filthy master',
+    'love to make pranks',
+    'are covering the land in mud to prepare for the arrival of their drooping mistress',
+    'in hiding from the plane of earth',
+    'recently born and very naive',
+    'spy for their sloshy liege',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
