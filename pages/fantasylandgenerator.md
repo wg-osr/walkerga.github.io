@@ -49,6 +49,7 @@ gen_data['cityadjective'] = [
     'cyclopean',
     'aristocratic',
     'polluted',
+    'dystopic',
  
   ];
   gen_data['cityfeature'] = [
@@ -73,6 +74,7 @@ gen_data['cityadjective'] = [
     'kennels for Giant {citybeast}',
     'masquerade balls',
     'dump',
+    'army',
  
   ];
   gen_data['cityobstacle'] = [
@@ -97,6 +99,7 @@ gen_data['cityadjective'] = [
     'rampaging Giant {citybeast}',
     'friendly faces',
     'poluted sludge puddles',
+    'certain events',
 
   ];
   gen_data['cityhazard'] = [
@@ -121,6 +124,7 @@ gen_data['cityadjective'] = [
     'could make building collapse',
     'hide a spy',
     'could poison you',
+    'could provoke a slave revolt',
       
   ];
   gen_data['citymonster'] = [
@@ -145,6 +149,7 @@ gen_data['cityadjective'] = [
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     '{doppelgangerclue} aberrations known as Doppelgangers',
     '{dretchclue} Dretch demons',
+    'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
 
 
   ];
@@ -2357,8 +2362,24 @@ gen_data['arcticadjective'] = [
     'monkey-like',
     'gassy',
   ]; 
+   gen_data['dvergrculture'] = [
+    'have a massive fortress deep underground',
+    'live in a caravan of giant drilling machines',
+    'have built tunnels leading everywhere',
+    'run the underdark slave trade',
+    'have designed weapons capable of massive destruction',
+    'are roving mercenaries',
+  ];
+   gen_data['dvergrproblem'] = [
+    'under the orders of a dark crystal which they worship',
+    'under the control of Mind Flayers',
+    'and are secretly behind half the region's conflicts',
+    ', but their real home is in another dimension',
+    'and are in the process of completely sealing off the area',
+    'because their own slaves are on the verge of revolt',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>      
+    </script>
   </head>
   <body>
     
