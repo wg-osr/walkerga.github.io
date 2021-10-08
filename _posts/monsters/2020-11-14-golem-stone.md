@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct fauna
+tags: monster construct  city
 permalink: /monsters/golem-stone
 title: Golem, Stone
 ---
