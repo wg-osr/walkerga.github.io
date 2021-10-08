@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid faction
+tags: monster humanoid  city
 permalink: /monsters/dwarf-dvergr
 title: Dwarf, Dvergr
 ---
