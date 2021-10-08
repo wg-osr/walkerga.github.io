@@ -1965,11 +1965,11 @@ gen_data['arcticadjective'] = [
     'lead a fertility cult',
     'hate all the gods',
     'are known for their cuisine',
-    'roam the wilderness',
+    'roam the land',
     'avoid strangers like plague',
   ];  
    gen_data['calytaurproblem'] = [
-    'under the leardership a Cambion Pig',
+    'under the leardership a Pig-like Cambion',
     'and make charcuterie from human flesh',
     'because they want to summon a Nalfeshnee',
     'and were once humans',
