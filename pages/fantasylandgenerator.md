@@ -34,6 +34,7 @@ gen_data['cityadjective'] = [
     'surveiled',
     'magically operated',
     'long-forgotten',
+    'brutally repressed',
  
   ];
   gen_data['cityfeature'] = [
@@ -43,6 +44,7 @@ gen_data['cityadjective'] = [
     'magic sentries',
     'bazaar',
     'manor',
+    'sinners',
  
  
   ];
@@ -53,6 +55,7 @@ gen_data['cityadjective'] = [
     'scrying eyes',
     'random objects',
     'murdered bodies',
+    'barbed wires',
 
   ];
   gen_data['cityhazard'] = [
@@ -62,7 +65,7 @@ gen_data['cityadjective'] = [
     'are used to spy on you',
     'are remotely controlled by their owners',
     'could incriminate you',
-
+    'restrict movement',
       
   ];
   gen_data['citymonster'] = [
@@ -72,6 +75,7 @@ gen_data['cityadjective'] = [
     '{amberprowlerown} Amber Prowlers',
     '{animatedrugown} Animated Rugs',
     'a {animusown} Animus',
+    'Barbazus on a divine mission to {barbazuquest}',
 
 
   ];
@@ -2213,6 +2217,14 @@ gen_data['arcticadjective'] = [
     'hidden',
     'cruel',
     'spiteful',
+  ]; 
+   gen_data['barbazuquest'] = [
+    'massacre the members of a {cult} Cult ',
+    'corral runaway Lemures',
+    'battle against the forces of the Abyss',
+    'find and capture {1d10hexes} demon cultist',
+    'dislodge dead souls clinging to this world',
+    'recruit 66 souls for the Holy Crusade',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
