@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic desert rocky
+tags: monster beast arctic desert rocky mountain
 permalink: /monsters/cat-sabertooth
 title: Cat, Sabertooth
 ---
