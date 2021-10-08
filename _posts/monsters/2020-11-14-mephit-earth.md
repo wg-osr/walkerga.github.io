@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental  desert
+tags: monster elemental  desert rocky mountain
 permalink: /monsters/mephit-earth
 title: Mephit, Earth
 ---
