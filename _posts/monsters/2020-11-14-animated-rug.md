@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct fauna
+tags: monster construct  city
 permalink: /monsters/animated-rug
 title: Animated Object, Rug of Smothering
 ---
