@@ -430,7 +430,7 @@ gen_data['mountainadjective'] = [
   gen_data['mountainobstacle'] = [
     'boulders',
     'violent winds',
-    'ice bridge',
+    'ice bridges',
     'gas vents',
     'narrow cornices',
     'blizzards',
@@ -454,7 +454,7 @@ gen_data['mountainadjective'] = [
     'water springs',
     'vapors',
     'gravel pits',
-    'brimstone',
+    'brimstones',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
