@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  forest
+tags: monster beast  forest jungle
 permalink: /monsters/dragon-green
 title: Dragon, Green
 ---
