@@ -25,7 +25,7 @@ gen_data['mainswamp'] = [
     'This {2d6hexes}-hex grassland is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
-    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Raven', 'Herons', 'Centipedes', 'Boars'
+    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Raven', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards'
   ];
 gen_data['swampadjective'] = [
     'submerged',
@@ -46,6 +46,18 @@ gen_data['swampadjective'] = [
     'deadly',
     'fern-covered',
     'briney',
+    'decomposing',
+    'forbidden',
+    'dead-men',
+    'mossy',
+    'thorn-choked',
+    'steaming',
+    'overflowing',
+    'savage',
+    'reed',
+    'polluted',
+    'turquoise',
+    'settled',
   
   ];
   gen_data['swampfeature'] = [
@@ -67,6 +79,18 @@ gen_data['swampadjective'] = [
     'exposed roots',
     'earth mounds',
     'puddles',
+    'tar pits',
+    'idols',
+    'moors',
+    'lake',
+    'maze',
+    'hot springs',
+    'natural fountains',
+    'warrens',
+    'fishing huts',
+    'trash piles',
+    'flowers',
+    'stilted village',
  
   ];
   gen_data['swampobstacle'] = [
@@ -88,6 +112,18 @@ gen_data['swampadjective'] = [
     'tangles of roots',
     'gassy mushrooms',
     'saltwater tides',
+    'cadavers',
+    'pagan idols',
+    'shallow waters',
+    'deep waters',
+    'maze-like passages',
+    'vapor jets',
+    'whirlpools',
+    'hidden pit traps',
+    'hidden snare traps',
+    'dying animals',
+    'large ferns',
+    'sacred {swampbeast}',
 
   ];
   gen_data['swamphazard'] = [
@@ -109,7 +145,19 @@ gen_data['swampadjective'] = [
     'could trap you',
     'release itching gases',
     'corrode things over time',
-
+    'are infested with shellfishes',
+    'could curse you',
+    'animate corpses',
+    'are laborious to cross',
+    'lead you back where you came',
+    'are boiling-hot',
+    'need to be appeased',
+    'attract Goblins',
+    'attract Lizardfolk',
+    'carry the plague',
+    'can hide predators',
+    'are sacred for the locals',
+      
   ];
   gen_data['swampmonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -136,10 +184,12 @@ gen_data['swampadjective'] = [
     '{dingonektotem} Dingoneks',
     'a {greendragontotem} Green Dragon who {greendragonwants}',
     'Steam Elementals who {steamelementalwants}',
+    'Water Elementals who {waterelementalwants}',
     'Goblins who {goblinculture} {goblinproblem}',
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    '{rattotem} Rats',
     '{copperbacktotem} Copperback Snakes',
-    'the Warrior Tribe of the {junglebeast} {warriorwants}',
+    'the Warrior Tribe of the {swampbeast} {warriorwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
 
