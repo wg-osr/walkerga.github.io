@@ -28,25 +28,30 @@ gen_data['citybeast'] = [
     'Rats', 'Horses'
   ];
 gen_data['cityadjective'] = [
-    'battle-worn',
+    'brutal',
+    'archmage’s',
  
   ];
   gen_data['cityfeature'] = [
     'battle royale',
+    'spell vault',
  
  
   ];
   gen_data['cityobstacle'] = [
-    'mobs',
+    'vicious mobs',
+    'lightning barriers',
 
   ];
   gen_data['cityhazard'] = [
-    'will bet against you',
+    'are paid by a kingpin betting against you',
+    'could shock you',
  
       
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
+    'a Blue Abishai on a divine mission to {blueabishaiquest} ',
 
 
   ];
@@ -230,7 +235,7 @@ gen_data['swampadjective'] = [
     'a{cult} Cult that {cultwants}',
     'a {deathsheadtotem} Death’s Head Tree',
     '{dingonektotem} Dingoneks',
-    'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'a {greendragontotem} {dragonage} Green Dragon who {greendragonwants}',
     'Steam Elementals who {steamelementalwants}',
     'Water Elementals who {waterelementalwants}',
     'Goblins who {goblinculture} {goblinproblem}',
@@ -535,7 +540,7 @@ gen_data['mountainadjective'] = [
     'a{cult} Cult that {cultwants}',
     'Cyclopses who {cyclopsculture} {cyclopsproblem}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
-    'a {redragontotem} Red Dragon who {redragonwants}',
+    'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
     'an Oni that {oniwants}',
@@ -720,7 +725,7 @@ gen_data['jungleadjective'] = [
     'a{cult} Cult that {cultwants}',
     'a {deathsheadtotem} Death’s Head Tree',
     '{dingonektotem} Dingoneks',
-    'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'a {greendragontotem} {dragonage} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
     'Steam Elementals who {steamelementalwants}',
     'Goblins who {goblinculture} {goblinproblem}',
@@ -915,7 +920,7 @@ gen_data['rockyadjective'] = [
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     'a {deathsheadtotem} Death’s Head Tree',
     'a Donestre who {donestrewants}, but {donestredo}',
-    'a {redragontotem} Red Dragon who {redragonwants}',
+    'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
     'a Sorcerous Cabbal that {sorcererwants}',
@@ -1068,7 +1073,7 @@ gen_data['forestadjective'] = [
     '{greendracopedetotem} Green Dracopedes',
     'a{cult} Cult that {cultwants}',
     'a {deathsheadtotem} Death’s Head Tree',
-    'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'a {greendragontotem} {dragonage} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
@@ -1247,7 +1252,7 @@ gen_data['desertadjective'] = [
     'Cyclopses who {cyclopsculture} {cyclopsproblem}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     'a Donestre who {donestrewants}, yet {donestredo}',
-    'a {redragontotem} Red Dragon who {redragonwants}',
+    'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     'Goblins who {goblinculture} {goblinproblem}',
     'Earth Mephits who {earthmephitwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
@@ -2142,6 +2147,20 @@ gen_data['arcticadjective'] = [
     'indescribable',
     'soul-assessing',
     'warmongering',
+  ]; 
+   gen_data['blueabishaiquest'] = [
+    'censor a spell powerful enough to wipe an army',
+    'execute an Archmage who knows too much',
+    'collect anti-wizard spells',
+    'execute the apprentice of an Ancient Dragon',
+    'subdue a powerful Mage',
+    'confiscate a legendary artifact',
+  ]; 
+   gen_data['dragonage'] = [
+    'wyrmling',
+    'young',
+    '',
+    'ancient',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
