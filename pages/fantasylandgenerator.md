@@ -15,10 +15,42 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', 
+    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} as you visit it. {citymonster}, and also {citymonster} roam its streets.'
  ];
       
       
+// - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['maincity'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
+  ];
+gen_data['citybeast'] = [
+    'Rats', 'Horses'
+  ];
+gen_data['cityadjective'] = [
+    'battle-worn',
+ 
+  ];
+  gen_data['cityfeature'] = [
+    'battle royale',
+ 
+ 
+  ];
+  gen_data['cityobstacle'] = [
+    'mobs',
+
+  ];
+  gen_data['cityhazard'] = [
+    'will bet against you',
+ 
+      
+  ];
+  gen_data['citymonster'] = [
+    'a {abhirclue} Abhir demon',
+
+
+  ];
+
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainswamp'] = [
@@ -2102,6 +2134,14 @@ gen_data['arcticadjective'] = [
     'in hiding from the plane of earth',
     'recently born and very naive',
     'spy for their sloshy liege',
+  ]; 
+   gen_data['abhirclue'] = [
+    'war-obsessed',
+    'shadowy',
+    'battle-hardened',
+    'indescribable',
+    'soul-assessing',
+    'warmongering',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
