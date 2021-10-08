@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  jungle plains
+tags: monster beast  jungle plains swamp
 permalink: /monsters/bat-kongamato
 title: Bat, Kongamato
 ---
