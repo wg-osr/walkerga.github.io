@@ -53,6 +53,7 @@ gen_data['mountainadjective'] = [
     'overflowing',
     'steaming',
     'gravelly',
+    'volcanic',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -81,6 +82,7 @@ gen_data['mountainadjective'] = [
     'waterfall',
     'hot springs',
     'earth shrine',
+    'lava river',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -109,6 +111,7 @@ gen_data['mountainadjective'] = [
     'water springs',
     'vapors',
     'gravel pits',
+    'brimstone',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -137,6 +140,7 @@ gen_data['mountainadjective'] = [
     'are bigger than you think',
     'are boiling',
     'are sentient',
+    'could fall on you',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -165,6 +169,7 @@ gen_data['mountainadjective'] = [
     'Water Elementals who {waterelementalwants}',
     'Steam Elementals who {steamelementalwants}',
     'Earth Mephits who {earthmephitwants}',
+    'Salamanders who {salamanderwants}',
 
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1719,8 +1724,16 @@ gen_data['arcticadjective'] = [
     'lumbering',
     'sacred',
   ]; 
+   gen_data['salamanderwants'] = [
+    'are just here to enjoy hot baths',
+    'are mining a mineral only valuable in the other planes',
+    'are sent by Efreets to capture slaves',
+    'are partying tourists',
+    'are collecting gifts for their Shah',
+    'are forging weapons for a mysterious general',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>  
+    </script>   
   </head>
   <body>
     
