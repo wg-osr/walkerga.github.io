@@ -25,7 +25,7 @@ gen_data['maincity'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
   ];
 gen_data['citybeast'] = [
-    'Rats', 'Horses', 'Bats'
+    'Rats', 'Horses', 'Bats', 'Cats', 'Pigeons', 'Raven', 'Seagulls'
   ];
 gen_data['cityadjective'] = [
     'brutal',
@@ -44,6 +44,8 @@ gen_data['cityadjective'] = [
     'Dark Lord’s',
     'cat',
     'pet',
+    'maze-like',
+    'forbidden',
  
   ];
   gen_data['cityfeature'] = [
@@ -63,6 +65,8 @@ gen_data['cityadjective'] = [
     'public executions',
     'tea houses',
     'excentricities',
+    'balconies',
+    'idols',
  
   ];
   gen_data['cityobstacle'] = [
@@ -82,6 +86,8 @@ gen_data['cityadjective'] = [
     'obscure unfair laws',
     'gutters',
     'student wizards',
+    'fragile scaffoldings',
+    'fanatical crowds',
 
   ];
   gen_data['cityhazard'] = [
@@ -101,6 +107,8 @@ gen_data['cityadjective'] = [
     'attract the Guards',
     'are unstable',
     'recklessly cast spells',
+    'require balance to navigate',
+    'could curse you',
       
   ];
   gen_data['citymonster'] = [
@@ -120,6 +128,8 @@ gen_data['cityadjective'] = [
     'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
     '{cattotem} Cats',
     '{tressymtotem} Tressyms',
+    '{chokerclue} aberrations known as Chokers',
+    'a{cult} Cult that {cultwants}',
 
 
   ];
