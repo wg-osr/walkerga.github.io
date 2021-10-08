@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental faction
+tags: monster elemental  swamp
 permalink: /monsters/mephit-ooze
 title: Mephit, Ooze
 ---
