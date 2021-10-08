@@ -25,7 +25,7 @@ gen_data['maincity'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
   ];
 gen_data['citybeast'] = [
-    'Rats', 'Horses'
+    'Rats', 'Horses', 'Bats'
   ];
 gen_data['cityadjective'] = [
     'brutal',
@@ -35,6 +35,9 @@ gen_data['cityadjective'] = [
     'magically operated',
     'long-forgotten',
     'brutally repressed',
+    'underground',
+    'gothic',
+    'high',
  
   ];
   gen_data['cityfeature'] = [
@@ -45,7 +48,9 @@ gen_data['cityadjective'] = [
     'bazaar',
     'manor',
     'sinners',
- 
+    'tunnels',
+    'belltower',
+    'flocks of {citybird}',
  
   ];
   gen_data['cityobstacle'] = [
@@ -56,6 +61,9 @@ gen_data['cityadjective'] = [
     'random objects',
     'murdered bodies',
     'barbed wires',
+    'alcoves',
+    'rooftops',
+    'nervous {citybird}',
 
   ];
   gen_data['cityhazard'] = [
@@ -66,6 +74,9 @@ gen_data['cityadjective'] = [
     'are remotely controlled by their owners',
     'could incriminate you',
     'restrict movement',
+    'could make you fall down sinkholes at night',
+    'are dangerous at night',
+    'could distract you',
       
   ];
   gen_data['citymonster'] = [
@@ -76,6 +87,9 @@ gen_data['cityadjective'] = [
     '{animatedrugown} Animated Rugs',
     'a {animusown} Animus',
     'Barbazus on a divine mission to {barbazuquest}',
+    '{battotem} Bats',
+    '{ahooltotem} Ahools',
+    '{birdtotem} {citybird}',
 
 
   ];
@@ -1584,6 +1598,12 @@ gen_data['arcticadjective'] = [
     'Vultures',
     'Cranes',
     'Geese',
+  ];
+   gen_data['citybird'] = [
+    'Pigeons',
+    'Ravens',
+    'Seagulls',
+    'Magpies',
   ];
    gen_data['boartotem'] = [
     'stubborn',
