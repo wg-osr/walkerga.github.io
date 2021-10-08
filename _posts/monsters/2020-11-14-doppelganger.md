@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration rival
+tags: monster aberration  city
 permalink: /monsters/doppelganger
 title: Doppelganger
 ---
