@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid desert jungle
+tags: monster humanoid desert jungle swamp
 permalink: /monsters/lizardfolk
 title: Lizardfolk
 ---
