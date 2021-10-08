@@ -42,6 +42,7 @@ gen_data['cityadjective'] = [
     'out-of-town',
     'filthy',
     'Dark Lord’s',
+    'cat',
  
   ];
   gen_data['cityfeature'] = [
@@ -59,6 +60,7 @@ gen_data['cityadjective'] = [
     'taverns',
     'slaughterhouses',
     'public executions',
+    'tea houses',
  
   ];
   gen_data['cityobstacle'] = [
@@ -76,6 +78,7 @@ gen_data['cityadjective'] = [
     'local drinks',
     'nauseating smells',
     'obscure unfair laws',
+    'gutters',
 
   ];
   gen_data['cityhazard'] = [
@@ -93,6 +96,7 @@ gen_data['cityadjective'] = [
     'could get you drunk',
     'could make you feel sick',
     'attract the Guards',
+    'are unstable',
       
   ];
   gen_data['citymonster'] = [
@@ -110,6 +114,7 @@ gen_data['cityadjective'] = [
     'Cadejos who {cadejowants}',
     'Calytaurs who {calytaurculture} {calytaurproblem}',
     'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
+    '{cattotem} Cats',
 
 
   ];
@@ -2289,6 +2294,14 @@ gen_data['arcticadjective'] = [
     'sacrifices six specific individuals',
     'starts a cult in another town',
     'frees some cultists from jail',
+  ]; 
+   gen_data['cattotem'] = [
+    'precious',
+    'clever',
+    'jinxing',
+    'graceful',
+    'supersticious',
+    'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>      
