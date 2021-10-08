@@ -15,7 +15,7 @@
   let gen_data = {};
 
       gen_data['main'] = [
-    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. It is inhabited by {citymonster}, and also {citymonster}.'
+    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. Its streets are roamed by {citymonster}, and also {citymonster}.'
  ];
       
       
