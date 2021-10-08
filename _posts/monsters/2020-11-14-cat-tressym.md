@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast fauna
+tags: monster beast  city
 permalink: /monsters/cat-tressym
 title: Cat, Tressym
 ---
