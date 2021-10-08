@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert rocky jungle
+tags: monster beast  desert rocky jungle mountain
 permalink: /monsters/dragon-red
 title: Dragon, Red
 ---
