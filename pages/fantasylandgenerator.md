@@ -2128,7 +2128,7 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/swamp">Swamp climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/jungle">Tropical climate monster list</a></li>
     </ol>
-    Special thanks to Drow fron <a href="https://donjon.bin.sh/">Donjon</a> for the code!
+    Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
     </body>
 </html>
