@@ -77,10 +77,10 @@ gen_data['plainsadjective'] = [
     'brushland',
     'power stones',
     'war camp',
-    'yurt village'
-    'hills'
-    'tree'
-    'acacias'
+    'yurt village',
+    'hills',
+    'tree',
+    'acacias',
  
   ];
   gen_data['plainsobstacle'] = [
