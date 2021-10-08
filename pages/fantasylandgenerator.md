@@ -25,7 +25,7 @@ gen_data['mainplains'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
   ];
 gen_data['plainsbeast'] = [
-    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards'
+    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards', 'Vultures', 'Terror Birds', 'Snakes'
   ];
 gen_data['plainsadjective'] = [
     'wind-swept',
@@ -35,6 +35,22 @@ gen_data['plainsadjective'] = [
     'flooded',
     'riverside',
     'gloomy',
+    'noisy',
+    'bushy',
+    'aloe-framed',
+    'layered',
+    'sunny',
+    'vast',
+    'fern-covered',
+    'verdant',
+    'forbidden',
+    'savage',
+    'lonely',
+    'turquoise',
+    'thunderstruck',
+    'giant',
+    'settled',
+    'big',
   
   ];
   gen_data['plainsfeature'] = [
@@ -45,6 +61,22 @@ gen_data['plainsadjective'] = [
     'ferry',
     'willows',
     'old battle site',
+    'bird colonies',
+    'undergrowth',
+    'haciendas',
+    'canyon',
+    'mesa',
+    'herding grounds',
+    'dirt mounds',
+    'pastures',
+    'idols',
+    'warrens',
+    'crossroad',
+    'brushland',
+    'power stones',
+    'war camp',
+    'yurt village'
+    'hills'
  
   ];
   gen_data['plainsobstacle'] = [
@@ -55,16 +87,48 @@ gen_data['plainsadjective'] = [
     'moss patches',
     'willows',
     'ghostly apparitions',
+    'nervous {plainsbird}',
+    'thorn bushes',
+    'flowers',
+    'rocky plateaus',
+    'crevasses',
+    'burrowing rodents',
+    'grass patches',
+    'certain plants',
+    'pagan idols',
+    'hidden pit traps',
+    'shortcuts',
+    'patches of tall grass',
+    'strange magical energies',
+    'war banners',
+    'sacred {rockybeast}',
+    'boulders',
 
   ];
   gen_data['plainshazard'] = [
     'could make you fall',
     'crackling with power',
     'are corrosive',
-    'are hidden behind bushes',
+    'are hidden behind leafy bushes',
     'are carrying the eye rot disease',
     'are sticky',
-    'could scare youu',
+    'could scare you',
+    'could distract you',
+    'are painful to cross',
+    'are poisonous',
+    'are unstable',
+    'you will need to fly over',
+    'could provoke a stampede',
+    'could make you trip',
+    'could kill your mount',
+    'could curse you',
+    'attract Goblins',
+    'could make you lost',
+    'could hide enemies',
+    'augment magic',
+    'attract Scouts riding {plainsbeast}',
+    'are sacred for the locals',
+    'could crush you',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -78,12 +142,17 @@ gen_data['plainsadjective'] = [
     '{boartotem} Boars',
     'Cadejos who {cadejowants}',
     '{sabertoothcattotem} Sabertooth Cats',
+    '{gianttressymtotem} Giant Tressyms',
     'Centaurs who {centaurculture} {centaurproblem}',
+    '{centipedetotem} Centipedes',
+    'Chevalls who {chevallwants}',
     'a{cult} Cult that {cultwants}',
+    'a Donestre who {donestrewants}, but {donestredo}',
     'Goblins who {goblinculture} {goblinproblem}',
+    '{copperbacktotem} Copperback Snakes',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'the Great Horde and their War {arcticbeast}',
-    'the Warrior Tribe of the {arcticbeast} {warriorwants}',
+    'the Great Horde and their War {plainsbeast}',
+    'the Warrior Tribe of the {plainsbeast} {warriorwants}',
     'Ogres who {ogreculture} {ogreproblem}',
   ];
       
