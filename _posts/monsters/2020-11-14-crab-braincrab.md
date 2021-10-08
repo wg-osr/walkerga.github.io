@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  jungle
+tags: monster beast  jungle swamp
 permalink: /monsters/crab-braincrab
 title: Crab, Braincrab
 ---
