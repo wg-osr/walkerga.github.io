@@ -52,6 +52,7 @@ gen_data['mountainadjective'] = [
     'settled',
     'overflowing',
     'steaming',
+    'gravelly',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -79,6 +80,7 @@ gen_data['mountainadjective'] = [
     'stone villages',
     'waterfall',
     'hot springs',
+    'earth shrine',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -106,6 +108,7 @@ gen_data['mountainadjective'] = [
     'sacred {mountainbeast}',
     'water springs',
     'vapors',
+    'gravel pits',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -133,6 +136,7 @@ gen_data['mountainadjective'] = [
     'are sacred for the locals',
     'are bigger than you think',
     'are boiling',
+    'are sentient',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -160,6 +164,8 @@ gen_data['mountainadjective'] = [
     'the Warrior Tribe of the {mountainbeast} {warriorwants}',
     'Water Elementals who {waterelementalwants}',
     'Steam Elementals who {steamelementalwants}',
+    'Earth Mephits who {earthmephitwants}',
+
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -389,6 +395,7 @@ gen_data['rockyadjective'] = [
     'abandoned',
     'silent',
     'hillside',
+    'gravelly',
 
   ];
   gen_data['rockyfeature'] = [
@@ -426,6 +433,7 @@ gen_data['rockyadjective'] = [
     'mills',
     'spirit shrine',
     'mounds',
+    'earth shrine',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -463,6 +471,7 @@ gen_data['rockyadjective'] = [
     'rats',
     'chimes',
     'boulders',
+    'gravel pits',
     
   ];
   gen_data['rockyhazard'] = [
@@ -500,6 +509,7 @@ gen_data['rockyadjective'] = [
     'carry diseases',  
     'are bad luck',  
     'attract brigands',  
+    'are sentient',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -536,6 +546,7 @@ gen_data['rockyadjective'] = [
     '{rattotem} Rats',
     'an Oni that {oniwants}',
     'Ogres who {ogreculture} {ogreproblem}',
+    'Earth Mephits who {earthmephitwants}',
 
   ];
 
