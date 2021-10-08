@@ -43,6 +43,7 @@ gen_data['cityadjective'] = [
     'filthy',
     'Dark Lord’s',
     'cat',
+    'pet',
  
   ];
   gen_data['cityfeature'] = [
@@ -61,6 +62,7 @@ gen_data['cityadjective'] = [
     'slaughterhouses',
     'public executions',
     'tea houses',
+    'excentricities',
  
   ];
   gen_data['cityobstacle'] = [
@@ -79,6 +81,7 @@ gen_data['cityadjective'] = [
     'nauseating smells',
     'obscure unfair laws',
     'gutters',
+    'student wizards',
 
   ];
   gen_data['cityhazard'] = [
@@ -97,6 +100,7 @@ gen_data['cityadjective'] = [
     'could make you feel sick',
     'attract the Guards',
     'are unstable',
+    'recklessly cast spells',
       
   ];
   gen_data['citymonster'] = [
@@ -115,6 +119,7 @@ gen_data['cityadjective'] = [
     'Calytaurs who {calytaurculture} {calytaurproblem}',
     'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
     '{cattotem} Cats',
+    '{tressymtotem} Tressyms',
 
 
   ];
@@ -2301,6 +2306,14 @@ gen_data['arcticadjective'] = [
     'jinxing',
     'graceful',
     'supersticious',
+    'sacred',
+  ]; 
+   gen_data['tressymtotem'] = [
+    'magical',
+    'lucky',
+    'affectionate',
+    'witchy',
+    'pet',
     'sacred',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
