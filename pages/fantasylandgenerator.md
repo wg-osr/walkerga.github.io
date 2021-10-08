@@ -53,6 +53,13 @@ gen_data['cityadjective'] = [
     'rowdy',
     'trashy',
     'ancient',
+    'aquatic',
+    'big',
+    'traditional',
+    'dirty',
+    'old, elven',
+    'arcane',
+    'Witch King’s',
  
   ];
   gen_data['cityfeature'] = [
@@ -81,6 +88,13 @@ gen_data['cityadjective'] = [
     'artisans',
     'slums',
     'statues',
+    'reservoir',
+    'banquets',
+    'spirit shrines',
+    'alleys',
+    'pleasure dens',
+    'duel culture',
+    'ruins',
  
   ];
   gen_data['cityobstacle'] = [
@@ -109,6 +123,13 @@ gen_data['cityadjective'] = [
     'large barrels',
     'hidden pit traps',
     'stone gates',
+    'torrential rainclouds',
+    'local dishes',
+    'daily rituals',
+    'diseased rats',
+    'corrupted officials',
+    'strange magical energies',
+    'soulless passersby',
 
   ];
   gen_data['cityhazard'] = [
@@ -137,6 +158,13 @@ gen_data['cityadjective'] = [
     'could fall on you',
     'attract Goblins',
     'could block you',
+    'could flood the streets',
+    'could make you pass out',
+    'attract spirits',
+    'could give you the plague',
+    'could make your life difficult with the authorities',
+    'augment magic',
+    'carry an ancient curse',
       
   ];
   gen_data['citymonster'] = [
@@ -165,7 +193,13 @@ gen_data['cityadjective'] = [
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
     '{stonegolemown} Stone Golems',
-
+    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    'Ogres who {ogreculture} {ogreproblem}',
+    'an Oni that {oniwants}',
+    '{rattotem} Rats',
+    'Elven Shadows who {elfshadowwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Wraith that {wraithwants}',
 
   ];
 
