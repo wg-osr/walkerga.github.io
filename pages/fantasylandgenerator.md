@@ -2282,7 +2282,7 @@ gen_data['arcticadjective'] = [
     'will lead a crusade against the gods',
     'will forge a deadly weapon',
   ]; 
-   gen_data['cambionculture'] = [
+   gen_data['cambionquest'] = [
     'kills the Paladin hunting it',
     'manages to open a special gate',
     'retrieves a specific spell book',
@@ -2291,7 +2291,7 @@ gen_data['arcticadjective'] = [
     'frees some cultists from jail',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>      cambionquest
+    </script>      
   </head>
   <body>
     
