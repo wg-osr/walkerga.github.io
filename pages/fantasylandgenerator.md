@@ -15,14 +15,14 @@
   let gen_data = {};
 
       gen_data['main'] = [
-    'This {2d6hexes}-hex grassland is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
  ];
       
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainplains'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
+    'This {2d6hexes}-hex grassland is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
   ];
 gen_data['plainsbeast'] = [
     'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards', 'Vultures', 'Terror Birds', 'Snakes'
