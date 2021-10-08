@@ -51,6 +51,8 @@ gen_data['plainsadjective'] = [
     'giant',
     'settled',
     'big',
+    'dusty',
+    'arid',
   
   ];
   gen_data['plainsfeature'] = [
@@ -77,6 +79,8 @@ gen_data['plainsadjective'] = [
     'war camp',
     'yurt village'
     'hills'
+    'tree'
+    'acacias'
  
   ];
   gen_data['plainsobstacle'] = [
@@ -103,6 +107,8 @@ gen_data['plainsadjective'] = [
     'war banners',
     'sacred {rockybeast}',
     'boulders',
+    'carrion grubs',
+    'cacti',
 
   ];
   gen_data['plainshazard'] = [
@@ -129,6 +135,8 @@ gen_data['plainsadjective'] = [
     'attract Scouts riding {plainsbeast}',
     'are sacred for the locals',
     'could crush you',
+    'carry parasites',
+    'are hallucinogenic',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -154,6 +162,9 @@ gen_data['plainsadjective'] = [
     'the Great Horde and their War {plainsbeast}',
     'the Warrior Tribe of the {plainsbeast} {warriorwants}',
     'Ogres who {ogreculture} {ogreproblem}',
+    '{boltforagertotem} Boltforagers',
+    '{cactuscattotem} Cactus Cats',
+
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
