@@ -48,6 +48,7 @@ gen_data['cityadjective'] = [
     'forbidden',
     'cyclopean',
     'aristocratic',
+    'polluted',
  
   ];
   gen_data['cityfeature'] = [
@@ -71,6 +72,7 @@ gen_data['cityadjective'] = [
     'idols',
     'Giant {citybeast} kennels',
     'masquerade balls',
+    'dump',
  
   ];
   gen_data['cityobstacle'] = [
@@ -94,6 +96,7 @@ gen_data['cityadjective'] = [
     'fanatical crowds',
     'rampaging Giant {citybeast}',
     'friendly faces',
+    'poluted sludge puddles',
 
   ];
   gen_data['cityhazard'] = [
@@ -117,6 +120,7 @@ gen_data['cityadjective'] = [
     'could curse you',
     'could make building collapse',
     'hide a spy',
+    'could poison you',
       
   ];
   gen_data['citymonster'] = [
@@ -140,6 +144,7 @@ gen_data['cityadjective'] = [
     'a{cult} Cult that {cultwants}',
     'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
     '{doppelgangerclue} aberrations known as Doppelgangers',
+    '{dretchclue} Dretch demons',
 
 
   ];
@@ -2343,6 +2348,14 @@ gen_data['arcticadjective'] = [
     'faceless',
     'plotting',
     'inconspicuous',
+  ]; 
+   gen_data['dretchclue'] = [
+    'miserable',
+    'stinky',
+    'trash-eating',
+    'dirty',
+    'monkey-like',
+    'gassy',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>      
