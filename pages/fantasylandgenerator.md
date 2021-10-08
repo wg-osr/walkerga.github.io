@@ -19,6 +19,132 @@
  ];
       
       
+// - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['mainswamp'] = [
+    'This {2d6hexes}-hex grassland is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
+  ];
+gen_data['swampbeast'] = [
+    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Raven', 'Herons', 'Centipedes', 'Boars'
+  ];
+gen_data['swampadjective'] = [
+    'submerged',
+    'sulfurous',
+    'dark',
+    'gnarly',
+    'mud-caked',
+    'vine-strangeld',
+    'blood-red',
+    'bird-infested',
+    'ochre',
+    'verdant',
+    'mud',
+    'fragrant',
+    'lively',
+    'boarded',
+    'rotten',
+    'deadly',
+    'fern-covered',
+    'briney',
+  
+  ];
+  gen_data['swampfeature'] = [
+    'mangrove',
+    'steam vents',
+    'pits',
+    'thickets',
+    'willows',
+    'sandbars',
+    'reed',
+    'bushes',
+    'undergrowth',
+    'mossy islands',
+    'pools',
+    'pine trees',
+    'remote tavern',
+    'shacks',
+    'bog',
+    'exposed roots',
+    'earth mounds',
+    'puddles',
+ 
+  ];
+  gen_data['swampobstacle'] = [
+    'specific moon phases',
+    'fumes',
+    'hollow trees',
+    'walls of fog',
+    'moss patches',
+    'willows',
+    'buzzing insects',
+    'nervous {swampbird}',
+    'pollen clouds',
+    'carpets of vines',
+    'mud rivers',
+    'tall reed',
+    'juicy plants',
+    'vicious rusty traps',
+    'patches of dead plants',
+    'tangles of roots',
+    'gassy mushrooms',
+    'saltwater tides',
+
+  ];
+  gen_data['swamphazard'] = [
+    'provoke flash floods',
+    'make the air toxic',
+    'are rotten',
+    'reduce visibility',
+    'spread eye-rot',
+    'spread sticky dew',
+    'attract Vyderac Seekers',
+    'could distract you',
+    'could rot your food',
+    'could make you sink',
+    'could mire your boat',
+    'could slow you down',
+    'can make you drunk',
+    'are very painful',
+    'are very slippery to walk through',
+    'could trap you',
+    'release itching gases',
+    'corrode things over time',
+
+  ];
+  gen_data['swampmonster'] = [
+    '{aqrasethtotem} Aqraseths',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
+    '{ahooltotem} Ahools',
+    '{kongamatototem} Kongamatos',
+    '{olitiautotem} Olitiaus',
+    '{vyderactotem} Vyderac Colonies',
+    '{birdtotem} {swampbird}',
+    '{boltforagertotem} Boltforagers',
+    '{blindfiretotem} Blindfire Vines',
+    '{bloodbeasttotem} Bloodbeasts',
+    '{boartotem} Boars',
+    'Cadejos who {cadejowants}',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    '{greendracopedetotem} Green Dracopedes',
+    '{crabtotem} Crabs',
+    '{braincrabtotem} Brain Crabs',
+    'a{cult} Cult that {cultwants}',
+    '{deathsheadtotem} Death’s Head Trees',
+    '{dingonektotem} Dingoneks',
+    'a {greendragontotem} Green Dragon who {greendragonwants}',
+    'Steam Elementals who {steamelementalwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    '{copperbacktotem} Copperback Snakes',
+    'the Warrior Tribe of the {junglebeast} {warriorwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'Ogres who {ogreculture} {ogreproblem}',
+
+  ];
+      
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainplains'] = [
@@ -1324,6 +1450,12 @@ gen_data['arcticadjective'] = [
     'Starlings',
     'Cassowaries',
   ];
+   gen_data['swampbird'] = [
+    'Crows',
+    'Vultures',
+    'Cranes',
+    'Geese',
+  ];
    gen_data['boartotem'] = [
     'stubborn',
     'dirty',
@@ -1887,8 +2019,16 @@ gen_data['arcticadjective'] = [
     'are collecting gifts for their Shah',
     'are forging weapons for a mysterious general',
   ]; 
+   gen_data['crabtotem'] = [
+    'musical',
+    'posturing',
+    'cancerous',
+    'armored',
+    'delicious',
+    'sacred',
+  ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>   
+    </script>    
   </head>
   <body>
     
