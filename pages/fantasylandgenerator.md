@@ -38,6 +38,7 @@ gen_data['cityadjective'] = [
     'underground',
     'gothic',
     'high',
+    'heroic',
  
   ];
   gen_data['cityfeature'] = [
@@ -51,6 +52,7 @@ gen_data['cityadjective'] = [
     'tunnels',
     'belltower',
     'flocks of {citybird}',
+    'competitions',
  
   ];
   gen_data['cityobstacle'] = [
@@ -64,6 +66,7 @@ gen_data['cityadjective'] = [
     'alcoves',
     'rooftops',
     'nervous {citybird}',
+    'cattle herds',
 
   ];
   gen_data['cityhazard'] = [
@@ -77,6 +80,7 @@ gen_data['cityadjective'] = [
     'could make you fall down sinkholes at night',
     'are dangerous at night',
     'could distract you',
+    'could slow your progress',
       
   ];
   gen_data['citymonster'] = [
@@ -90,6 +94,7 @@ gen_data['cityadjective'] = [
     '{battotem} Bats',
     '{ahooltotem} Ahools',
     '{birdtotem} {citybird}',
+    'Cacuses who {cacusculture} {cacusproblem}',
 
 
   ];
