@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental arctic forest jungle mountain
+tags: monster elemental arctic forest jungle mountain swamp
 permalink: /monsters/elemental-steam
 title: Elemental, Steam
 ---
