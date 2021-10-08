@@ -15,8 +15,49 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', 
+    'This {2d6hexes}-hex grassland is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
  ];
+      
+      
+// - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['mainplains'] = [
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', 
+  ];
+gen_data['plainsbeast'] = [
+    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions',
+  ];
+gen_data['plainsadjective'] = [
+    'wind-swept',
+  
+  ];
+  gen_data['plainsfeature'] = [
+    'sky shrine',
+ 
+  ];
+  gen_data['plainsobstacle'] = [
+    'powerful winds',
+
+  ];
+  gen_data['plainshazard'] = [
+    'could make you fall',
+  ];
+  gen_data['plainsmonster'] = [
+    'Airwalkers who {airwalkerwants}',
+    'Athachs who {athachculture} {athachproblem}',
+    'Bestial Terrors who {bestialterrorwants}',
+    '{birdtotem} {arcticbird}',
+    '{boartotem} Boars',
+    'Cadejos who {cadejowants}',
+    '{sabertoothcattotem} Sabertooth Cats',
+    'Centaurs who {centaurculture} {centaurproblem}',
+    'a{cult} Cult that {cultwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'the Great Horde and their War {arcticbeast}',
+    'the Warrior Tribe of the {arcticbeast} {warriorwants}',
+    'Ogres who {ogreculture} {ogreproblem}',
+  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1552,7 +1593,7 @@ gen_data['arcticadjective'] = [
     'goads people into making bad decisions',
     'is removing all traces of its existence',
     'is behind a Cult of doubters',
-    'needs adventurer to kill a rival',
+    'needs adventurers to kill a rival',
     'loves to undermine confidence',
     'will reward the doubtless',
   ];  
