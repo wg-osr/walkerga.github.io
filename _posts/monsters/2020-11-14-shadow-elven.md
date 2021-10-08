@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead forest
+tags: monster undead forest city
 permalink: /monsters/shadow-elven
 title: Shadow, Elven
 ---
