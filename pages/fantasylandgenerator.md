@@ -33,6 +33,7 @@ gen_data['cityadjective'] = [
     'doomed',
     'surveiled',
     'magically operated',
+    'long-forgotten',
  
   ];
   gen_data['cityfeature'] = [
@@ -41,6 +42,7 @@ gen_data['cityadjective'] = [
     'mutants',
     'magic sentries',
     'bazaar',
+    'manor',
  
  
   ];
@@ -50,6 +52,7 @@ gen_data['cityadjective'] = [
     'people you know',
     'scrying eyes',
     'random objects',
+    'murdered bodies',
 
   ];
   gen_data['cityhazard'] = [
@@ -58,7 +61,8 @@ gen_data['cityadjective'] = [
     'might end up corrupted by demons',
     'are used to spy on you',
     'are remotely controlled by their owners',
- 
+    'could incriminate you',
+
       
   ];
   gen_data['citymonster'] = [
@@ -67,6 +71,7 @@ gen_data['cityadjective'] = [
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
     '{amberprowlerown} Amber Prowlers',
     '{animatedrugown} Animated Rugs',
+    'a {animusown} Animus',
 
 
   ];
@@ -2190,16 +2195,24 @@ gen_data['arcticadjective'] = [
     'cabbal-owned',
     'spy-owned',
     'mob-owned',
-    'church-owned',
+    'church',
     'noble-owned',
   ]; 
    gen_data['animatedrugown'] = [
     'merchant-owned',
-    'guild-owned',
+    'guild',
     'spy-owned',
     'mob-owned',
     'wizard-owned',
     'noble-owned',
+  ]; 
+   gen_data['animusown'] = [
+    'cursed',
+    'infamous',
+    'inconspicuous',
+    'hidden',
+    'cruel',
+    'spiteful',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
