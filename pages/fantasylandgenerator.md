@@ -30,28 +30,38 @@ gen_data['citybeast'] = [
 gen_data['cityadjective'] = [
     'brutal',
     'archmage’s',
+    'doomed',
+    'surveiled',
  
   ];
   gen_data['cityfeature'] = [
     'battle royale',
     'spell vault',
+    'mutants',
+    'magic sentries',
  
  
   ];
   gen_data['cityobstacle'] = [
     'vicious mobs',
     'lightning barriers',
+    'people you know',
+    'scrying eyes',
 
   ];
   gen_data['cityhazard'] = [
     'are paid by a kingpin betting against you',
     'could shock you',
+    'might end up corrupted by demons',
+    'are used to spy on you',
  
       
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
     'a Blue Abishai on a divine mission to {blueabishaiquest} ',
+    '{abyssalwretchclue} aberrations known as Abyssal Wretches',
+    '{amberprowlerown} Amber Prowlers',
 
 
   ];
@@ -2161,6 +2171,22 @@ gen_data['arcticadjective'] = [
     'young',
     '',
     'ancient',
+  ]; 
+   gen_data['abyssalwretchclue'] = [
+    'gruesome',
+    'doomed',
+    'suffering',
+    'mutating',
+    'feral',
+    'pitiful',
+  ]; 
+   gen_data['amberprowlerown'] = [
+    'police-owned',
+    'cabbal-owned',
+    'foreign-owned',
+    'mob-owned',
+    'church-owned',
+    'noble-owned',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
