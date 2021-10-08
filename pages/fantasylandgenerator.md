@@ -15,14 +15,14 @@
   let gen_data = {};
 
       gen_data['main'] = [
-    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. Its streets are roamed by {citymonster}, and also {citymonster}.'
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
  ];
       
       
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maincity'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
+    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. Its streets are roamed by {citymonster}, and also {citymonster}.'
   ];
 gen_data['citybeast'] = [
     'Rats', 'Horses', 'Bats', 'Cats', 'Pigeons', 'Raven', 'Seagulls'
@@ -2142,7 +2142,7 @@ gen_data['arcticadjective'] = [
     'want to return to the plane of water',
   ]; 
    gen_data['lizardfolkculture'] = [
-    'carry in woven portable houses',
+    'carry woven portable houses',
     'live in caves only accessible underwater',
     'inhabit ancient ruined pyramids',
     'live in the sewers of another civilization',
@@ -2348,7 +2348,7 @@ gen_data['arcticadjective'] = [
     'spiteful',
   ]; 
    gen_data['barbazuquest'] = [
-    'massacre the members of a {cult} Cult',
+    'massacre the members of a{cult} Cult',
     'corral runaway Lemures',
     'battle against the forces of the Abyss',
     'find and capture {1d10hexes} demon cultist',
