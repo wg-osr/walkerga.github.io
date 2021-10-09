@@ -59,7 +59,7 @@ gen_data['seaadjective'] = [
   gen_data['seafeature'] = [
     'sky',
     'icebergs',
-    '{seabird} colonies',
+    'colonies of {seabird}',
     'coastal cliffs',
     'shallow waters',
     'coral idols',
