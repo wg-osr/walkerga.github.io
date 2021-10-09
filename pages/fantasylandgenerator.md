@@ -90,7 +90,7 @@ gen_data['seaadjective'] = [
   ];
   gen_data['seahazard'] = [
     'could prevent you from sailing',
-    'could breach your ship's hull',
+    'could breach your ship’s hull',
     'could bring you bad luck',
     'are razor-sharp',
     'could curse you',
