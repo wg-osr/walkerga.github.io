@@ -26,12 +26,12 @@ gen_data['mainsea'] = {
     '50-00': '{sea2}',
   };
 gen_data['sea1'] = [
-    'There's a {cityadjective} island-city with {citymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
-    'There's a {mountainadjective} mountain island with {mountainmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
-    'There's a {jungleadjective} tropical island with {junglemonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
-    'There's a {rockyadjective} rocky island with {rockymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
-    'There's a {forestadjective} forested island with {forestmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
-    'There's a {arcticadjective} cold island with {arcticmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. '
+    'There’s a {cityadjective} island-city with {citymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
+    'There’s a {mountainadjective} mountain island with {mountainmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
+    'There’s a {jungleadjective} tropical island with {junglemonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
+    'There’s a {rockyadjective} rocky island with {rockymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
+    'There’s a {forestadjective} forested island with {forestmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
+    'There’s a {arcticadjective} cold island with {arcticmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. '
   ];
 gen_data['sea2'] = [
     'This {4d6hexes}-hex sea is known for its {seaadjective} {seafeature}. Beware of the {seaobstacle} that {seahazard}. Its waters are roamed by {seamonster}, and also {seamonster}.'
