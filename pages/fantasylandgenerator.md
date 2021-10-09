@@ -22,8 +22,8 @@
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainsea'] = {
-    '01-49': '{sea1}',
-    '50-00': '{sea2}',
+    '01-60': '{sea1}',
+    '61-00': '{sea2}',
   };
 gen_data['sea1'] = [
     'There’s a {cityadjective} island-city with {citymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it.',
