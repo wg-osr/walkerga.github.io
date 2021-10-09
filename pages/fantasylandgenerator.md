@@ -15,10 +15,113 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}'
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}'
  ];
       
       
+// - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['mainsea'] = {
+    '01-49': '{sea1}',
+    '50-00': '{sea2}',
+  };
+gen_data['sea1'] = [
+    'There's a {cityadjective} island-city with {citymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
+    'There's a {mountainadjective} mountain island with {mountainmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
+    'There's a {jungleadjective} tropical island with {junglemonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
+    'There's a {rockyadjective} rocky island with {rockymonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
+    'There's a {forestadjective} forested island with {forestmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. ',
+    'There's a {arcticadjective} cold island with {arcticmonster} in this {4d6hexes}-hex sea. Beware of the {seaobstacle} that {seahazard} around it. '
+  ];
+gen_data['sea2'] = [
+    'This {4d6hexes}-hex sea is known for its {seaadjective} {seafeature}. Beware of the {seaobstacle} that {seahazard}. Its waters are roamed by {seamonster}, and also {seamonster}.'
+  ];
+gen_data['seabeast'] = [
+    'Dolphins', 'Whales', 'Sharks', 'Octopuses', 'Fishes', 'Pelicans', 'Seagulls'
+  ];
+gen_data['seaadjective'] = [
+    'windy',
+    'cold',
+    'bird-infested',
+    'fishing',
+    'rocky',
+    'forbidden',
+    'vast',
+    'clear',
+    'steaming',
+    'warm',
+    'crystalline',
+    'stormy',
+    'lovely',
+    'settled',
+ 
+  ];
+  gen_data['seafeature'] = [
+    'sky',
+    'icebergs',
+    '{seabird} colonies',
+    'coastal cliffs',
+    'shallow waters',
+    'coral idols',
+    'raft villages',
+    'whirlpool',
+    'clouds',
+    'atols',
+    'shallows',
+    'power stones',
+    'creeks',
+    'coastal village',
+
+  ];
+  gen_data['seaobstacle'] = [
+    'violent winds',
+    'icebergs',
+    'sacred {seabird}',
+    'barnacles',
+    'rocky reefs',
+    'whirlpools',
+    'fog walls',
+    'rain clouds',
+    'seaweed patches',
+    'strange magical energies',
+    'floatsams',
+    'sacred {seabeast}',
+
+  ];
+  gen_data['seahazard'] = [
+    'could prevent you from sailing',
+    'could breach your ship's hull',
+    'could bring you bad luck',
+    'are razor-sharp',
+    'could curse you',
+    'are hard to navigate',
+    'could lead you to the plane of water',
+    'reduce visibility',
+    'could slow you down',
+    'could make you stuck',
+    'augment magic',
+    'are prized by undersea creatures',
+    'are sacred for the locals',
+      
+  ];
+  gen_data['seamonster'] = [
+    'Airwalkers who {airwalkerwants}',
+    '{polarbeartotem} Polar Bears',
+    '{birdtotem} {seabird}',
+    '{pelicantotem} Giant Pelicans',
+    '{crabtotem} Crabs',
+    'a{cult} Cult that {cultwants}',
+    'Cyclopskins who {cyclopskinculture} {cyclopskinproblem}',
+    'Water Elementals who {waterelementalwants}',
+    'Steam Elementals who {steamelementalwants}',
+    'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
+    'Nereids who {nereidwants}',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'an Undine who {undinewants}',
+    'the Warrior Tribe of the {swampbeast} {warriorwants}',
+
+  ];
+
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maincity'] = [
@@ -1303,7 +1406,7 @@ gen_data['desertadjective'] = [
     'sinkholes',
     'warrens',
     'sand shrine',
-    'powerstones',
+    'power stones',
     'war camp',
     'tent villages',
     'puddles',
@@ -1581,6 +1684,19 @@ gen_data['arcticadjective'] = [
     '84-92': 'ten',
     '93-97': 'eleven',
     '98-00': 'twelve'
+  }; 
+   gen_data['4d6hexes'] = {
+    '01-03': 'four',
+    '04-08': 'six',
+    '09-17': 'eight',
+    '18-28': 'ten',
+    '29-42': 'twelve',
+    '43-58': 'fourteen',
+    '59-72': 'sixteen',
+    '73-83': 'eighteen',
+    '84-92': 'twenty',
+    '93-97': 'twenty-two',
+    '98-00': 'twenty-four'
   };      
   gen_data['cult'] = [
     ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
@@ -1713,6 +1829,12 @@ gen_data['arcticadjective'] = [
     'Ravens',
     'Seagulls',
     'Magpies',
+  ];
+   gen_data['seabird'] = [
+    'Seagulls',
+    'Pelicans',
+    'Puffins',
+    'Cormorans',
   ];
    gen_data['boartotem'] = [
     'stubborn',
@@ -2434,6 +2556,22 @@ gen_data['arcticadjective'] = [
     'tomb-guarding',
     'military',
     'noble-protecting',
+  ]; 
+   gen_data['nereidwants'] = [
+    'are looking for new pieces of art',
+    'muster the local sealife against the surface-dwellers',
+    'are busy restoring the purity of the ocean',
+    'want to free one of their captured sisters',
+    'are universe-famous dancers',
+    'collect surface playthings',
+  ]; 
+   gen_data['undinewants'] = [
+    'wants to become mortal after receiving a true-love’s kiss',
+    'is collecting curios from the surface',
+    'asks for gifts for safe passage',
+    'is lookign for a way to walk the surface without dying',
+    'is curious about your culture',
+    'will trade her voice for a mortal soul',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
