@@ -37,6 +37,7 @@ gen_data['darkgate'] = [
     'cave',
     'icy cave',
     'irridescent crawlspace',
+    'tepid mud pit',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting',
@@ -45,6 +46,7 @@ gen_data['darkgatecomplication'] = [
     'the fact that it is hidden behind a waterfall',
     'snow blocking the passage',
     'numbing cricket sounds',
+    'the mud flooding it',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -53,6 +55,7 @@ gen_data['tunneladjective'] = [
     'dark',
     'snow-covered',
     'dank',
+    'muddy',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -61,6 +64,7 @@ gen_data['tunnelfeature'] = [
     'tunnels',
     'ice walls',
     'nests',
+    'baths',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -69,6 +73,7 @@ gen_data['tunnelhazard'] = [
     'their narrow',
     'snow-clogged',
     'sound-sentititve',
+    'their wide',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -77,6 +82,7 @@ gen_data['tunnelobstacle'] = [
     'cornices',
     'path downward',
     'spore bombs',
+    'mud river',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -85,6 +91,7 @@ gen_data['tunnelmonster'] = [
     '{battotem} Bats',
     '{arcticbattotem} Arctic Bats',
     '{giantflayertotem} Giant Flayers',
+    '{bloodbeasttotem} Bloodbeasts',
   ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
