@@ -28,7 +28,7 @@ gen_data['maintunnel'] = [
     'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
-    'Bats', 'Wurms', 'Moles', 'Lizards'
+    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipede'
   ];
 gen_data['darkgate'] = [
     'pit with bladed edges',
@@ -38,6 +38,11 @@ gen_data['darkgate'] = [
     'icy cave',
     'irridescent crawlspace',
     'tepid mud pit',
+    'crashed astral ship',
+    'earthy hole under an old tree',
+    'rotting root netowrk',
+    'melting ice wall',
+    'sulfurous vent',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting',
@@ -47,6 +52,11 @@ gen_data['darkgatecomplication'] = [
     'snow blocking the passage',
     'numbing cricket sounds',
     'the mud flooding it',
+    'the friendly voices in your head',
+    'moss that blocks the path',
+    'roots that will try to grab you',
+    'freezing temperature there',
+    'scaling-hot temperature there',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -56,6 +66,11 @@ gen_data['tunneladjective'] = [
     'snow-covered',
     'dank',
     'muddy',
+    'astral',
+    'humid',
+    'rotting',
+    'frozen',
+    'scalding',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -65,6 +80,11 @@ gen_data['tunnelfeature'] = [
     'ice walls',
     'nests',
     'baths',
+    'spiralling cones',
+    'cracks',
+    'root networks',
+    'ice tunnels',
+    'lava streams',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -74,6 +94,11 @@ gen_data['tunnelhazard'] = [
     'snow-clogged',
     'sound-sentititve',
     'their wide',
+    'light-sucking',
+    'slippery',
+    'tangling',
+    'their fragile',
+    'their burning',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -83,6 +108,11 @@ gen_data['tunnelobstacle'] = [
     'path downward',
     'spore bombs',
     'mud river',
+    'shadowy void',
+    'wet floors',
+    'roots',
+    'icicles',
+    'lava pits',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -92,6 +122,11 @@ gen_data['tunnelmonster'] = [
     '{arcticbattotem} Arctic Bats',
     '{giantflayertotem} Giant Flayers',
     '{bloodbeasttotem} Bloodbeasts',
+    '{brainbatclue} aberrations known as the Brain-Bats',
+    '{centipedetotem} Centipedes',
+    '{blackdracopedetotem} Black Dracopedes',
+    '{bluedracopedetotem} Blue Dracopedes',
+    '{reddracopedetotem} Red Dracopedes',
   ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2655,6 +2690,14 @@ gen_data['arcticadjective'] = [
     'horrible',
     'silent',
     'bloated',
+  ]; 
+   gen_data['brainbatclue'] = [
+    'body-snatching',
+    'puppeteering',
+    'alien',
+    'parasitic',
+    'amphibious',
+    'face-hugging',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
