@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic
+tags: monster beast arctic sea
 permalink: /monsters/bear-polar
 title: Bear, Polar
 ---
