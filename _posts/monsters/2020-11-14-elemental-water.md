@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental forest mountain swamp
+tags: monster elemental forest mountain swamp sea
 permalink: /monsters/elemental-water
 title: Elemental, Water
 ---
