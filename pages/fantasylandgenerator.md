@@ -28,7 +28,7 @@ gen_data['maintunnel'] = [
     'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
-    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipede'
+    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs'
   ];
 gen_data['darkgate'] = [
     'pit with bladed edges',
@@ -40,9 +40,15 @@ gen_data['darkgate'] = [
     'tepid mud pit',
     'crashed astral ship',
     'earthy hole under an old tree',
-    'rotting root netowrk',
+    'rotting root network',
     'melting ice wall',
     'sulfurous vent',
+    'abandonned mine',
+    'giant wurm nest',
+    'briny pool',
+    'mass grave',
+    'colossal statue',
+    'dragon-shaped cave',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting',
@@ -57,6 +63,12 @@ gen_data['darkgatecomplication'] = [
     'roots that will try to grab you',
     'freezing temperature there',
     'scaling-hot temperature there',
+    'the special gong that needs to be rang to scare the monsters',
+    'the fact that it is deep underwater',
+    'the razor-sharp barnacles that cover it',
+    'the inumerable skulls clogging it',
+    'the sacrifice required to open it',
+    'it is overflowing with lava',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -71,6 +83,12 @@ gen_data['tunneladjective'] = [
     'rotting',
     'frozen',
     'scalding',
+    'narrow',
+    'silent',
+    'submerged',
+    'skeletal',
+    'occult',
+    'gold',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -85,6 +103,12 @@ gen_data['tunnelfeature'] = [
     'root networks',
     'ice tunnels',
     'lava streams',
+    'fault lines',
+    'underground seashores',
+    'saltwater pools',
+    'ossuaries',
+    'temple complex',
+    'veins',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -99,6 +123,12 @@ gen_data['tunnelhazard'] = [
     'tangling',
     'their fragile',
     'their burning',
+    'collapsing',
+    'terror-causing',
+    'coarse',
+    'deadly',
+    'accursed',
+    'surprising',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -113,6 +143,12 @@ gen_data['tunnelobstacle'] = [
     'roots',
     'icicles',
     'lava pits',
+    'walls',
+    'vibrating crystals',
+    'saltstones',
+    'bone carpets',
+    'grotesque idols',
+    'lava floods',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -127,6 +163,12 @@ gen_data['tunnelmonster'] = [
     '{blackdracopedetotem} Black Dracopedes',
     '{bluedracopedetotem} Blue Dracopedes',
     '{reddracopedetotem} Red Dracopedes',
+    '{chokerclue} aberrations known as Chokers',
+    '{cloakerclue} aberrations known as the Cloakers',
+    '{crabtotem} Crabs',
+    '{braincrabtotem} Brain Crabs',
+    'a{cult} Cult that {cultwants}',
+    'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
   ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2698,6 +2740,14 @@ gen_data['arcticadjective'] = [
     'parasitic',
     'amphibious',
     'face-hugging',
+  ]; 
+   gen_data['cloakerclue'] = [
+    'silent',
+    'flying',
+    'moaning',
+    'disguising',
+    'amphibious',
+    'shadowy',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
