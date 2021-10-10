@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic
+tags: monster beast arctic sea
 permalink: /monsters/pelican
 title: Bird, Giant Pelican
 ---
