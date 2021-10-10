@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid desert jungle swamp city
+tags: monster humanoid desert jungle swamp city sea
 permalink: /monsters/lizardfolk
 title: Lizardfolk
 ---
