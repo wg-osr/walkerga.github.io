@@ -15,10 +15,78 @@
   let gen_data = {};
 
       gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}'
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}'
  ];
       
       
+// - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
+      
+gen_data['maindarkgate'] = [
+    'This {darkgate} is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
+  ];
+gen_data['maintunnel'] = [
+    'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+  ];
+gen_data['tunnelbeast'] = [
+    'Bats', 'Wurms', 'Moles', 'Lizards'
+  ];
+gen_data['darkgate'] = [
+    'pit with bladed edges',
+    'windy, humid slit',
+    'petrified snake mouth',
+    'cave',
+    'icy cave',
+    'irridescent crawlspace',
+  ];
+gen_data['darkgatecomplication'] = [
+    'the sound of brutal swordfighting',
+    'the irresistible unnatural terror it provokes',
+    'the scalding steam rising from it',
+    'the fact that it is hidden behind a waterfall',
+    'snow blocking the passage',
+    'numbing cricket sounds',
+  ];
+gen_data['tunneladjective'] = [
+    'melted-weapons',
+    'fleshy',
+    'petrified',
+    'dark',
+    'snow-covered',
+    'dank',
+  ];
+gen_data['tunnelfeature'] = [
+    'strata',
+    'nodules',
+    'mud tunnels',
+    'tunnels',
+    'ice walls',
+    'nests',
+  ];
+gen_data['tunnelhazard'] = [
+    'their sharp, cutting',
+    'their paranoia-inducing',
+    'corrosive',
+    'their narrow',
+    'snow-clogged',
+    'sound-sentititve',
+  ];
+gen_data['tunnelobstacle'] = [
+    'surfaces',
+    'whispers',
+    'mud',
+    'cornices',
+    'path downward',
+    'spore bombs',
+  ];
+gen_data['tunnelmonster'] = [
+    'a {abhirclue} Abhir demon',
+    '{abysmalclue} aberrations known as Abysmals',
+    'a {basilisktotem} Basilisk',
+    '{battotem} Bats',
+    '{arcticbattotem} Arctic Bats',
+    '{giantflayertotem} Giant Flayers',
+  ];
+
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['mainsea'] = {
@@ -2572,6 +2640,14 @@ gen_data['arcticadjective'] = [
     'is lookign for a way to walk the surface without dying',
     'is curious about your culture',
     'will trade her voice for a mortal soul',
+  ]; 
+   gen_data['abysmalclue'] = [
+    'face-stealing',
+    'fear-eating',
+    'madness-inducing',
+    'horrible',
+    'silent',
+    'bloated',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
