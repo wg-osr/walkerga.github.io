@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast enemy
+tags: monster beast  underdark
 permalink: /monsters/spider-astral-spinner
 title: Spider, Astral Spinner
 ---
