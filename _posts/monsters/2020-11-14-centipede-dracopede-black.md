@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert forest rocky jungle swamp
+tags: monster beast  desert forest rocky jungle swamp underdark
 permalink: /monsters/centipede-dracopede-black
 title: Centipede, Dracopede, Black
 ---
