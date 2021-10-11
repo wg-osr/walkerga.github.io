@@ -52,9 +52,14 @@ gen_data['darkgate'] = [
     'dumpyard',
     'giant drill',
     'vast hole',
+    'geyser',
+    'deep lake',
+    'goblin village',
+    'massive stone door',
+    'gravel pit',
   ];
 gen_data['darkgatecomplication'] = [
-    'the sound of brutal swordfighting',
+    'the sound of brutal swordfighting coming from it',
     'the irresistible unnatural terror it provokes',
     'the scalding steam rising from it',
     'the fact that it is hidden behind a waterfall',
@@ -74,6 +79,10 @@ gen_data['darkgatecomplication'] = [
     'the lava overflowing from it',
     'the barbed wires that surround it',
     'the sticky mold that covers it',
+    'the swirling water that surrounds it',
+    'the goblins swarming it',
+    'the fact it is sealed shut',
+    'gravel clogging the path',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -97,6 +106,10 @@ gen_data['tunneladjective'] = [
     'polluted',
     'militarised',
     'earth-consuming',
+    'steaming',
+    'rickety crafted',
+    'old, sacred',
+    'gravelly',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -120,6 +133,11 @@ gen_data['tunnelfeature'] = [
     'dumps',
     'tunnels and fortress',
     'void',
+    'hot springs',
+    'infinite waterfalls',
+    'goblin slums',
+    'stone staircases',
+    'stone gullets',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -143,6 +161,11 @@ gen_data['tunnelhazard'] = [
     'toxic',
     'weaponized',
     'desintegrating',
+    'their scalding',
+    'flooding',
+    'rickety',
+    'protective',
+    'bludgeoning',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -166,6 +189,11 @@ gen_data['tunnelobstacle'] = [
     'sludge',
     'barbwire',
     'mold walls',
+    'steam vents',
+    'springs',
+    'pit traps',
+    'boulder traps',
+    'gravel rain',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -189,7 +217,11 @@ gen_data['tunnelmonster'] = [
     '{dretchclue} Dretch demons',
     'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
     '{egarustotem} Egarus Fungi',
-      
+    'Steam Elementals who {steamelementalwants}',     
+    'Water Elementals who {waterelementalwants}',
+    'Goblins who {goblinculture} {goblinproblem}',
+    '{stonegolemown} Stone Golems',
+    'Earth Mephits who {earthmephitwants}',
   ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
