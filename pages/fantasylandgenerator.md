@@ -49,6 +49,8 @@ gen_data['darkgate'] = [
     'mass grave',
     'colossal statue',
     'dragon-shaped cave',
+    'dumpyard',
+    'giant drill',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting',
@@ -69,6 +71,7 @@ gen_data['darkgatecomplication'] = [
     'the inumerable skulls clogging it',
     'the sacrifice required to open it',
     'it is overflowing with lava',
+    'barbed wires that surround it',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -89,6 +92,8 @@ gen_data['tunneladjective'] = [
     'skeletal',
     'occult',
     'gold',
+    'polluted',
+    'militarised',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -109,6 +114,8 @@ gen_data['tunnelfeature'] = [
     'ossuaries',
     'temple complex',
     'veins',
+    'dumps',
+    'tunnels and fortress',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -129,6 +136,8 @@ gen_data['tunnelhazard'] = [
     'deadly',
     'accursed',
     'surprising',
+    'toxic',
+    'weaponized',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -149,6 +158,8 @@ gen_data['tunnelobstacle'] = [
     'bone carpets',
     'grotesque idols',
     'lava floods',
+    'sludge',
+    'barbwire',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -169,6 +180,9 @@ gen_data['tunnelmonster'] = [
     '{braincrabtotem} Brain Crabs',
     'a{cult} Cult that {cultwants}',
     'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
+    '{dretchclue} Dretch demons',
+    'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
+      
   ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -270,7 +284,7 @@ gen_data['seaadjective'] = [
     'Nereids who {nereidwants}',
     'a Sorcerous Cabbal that {sorcererwants}',
     'an Undine who {undinewants}',
-    'the Warrior Tribe of the {swampbeast} {warriorwants}',
+    'the Warrior Tribe of the {seabeast} {warriorwants}',
 
   ];
 
