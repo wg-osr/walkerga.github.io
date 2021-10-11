@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic mountain
+tags: monster beast arctic mountain underdark
 permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
