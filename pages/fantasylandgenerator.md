@@ -22,7 +22,7 @@
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maindarkgate'] = [
-    'This {darkgate} is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
+    'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
   ];
 gen_data['maintunnel'] = [
     'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
@@ -51,6 +51,7 @@ gen_data['darkgate'] = [
     'dragon-shaped cave',
     'dumpyard',
     'giant drill',
+    'vast hole',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting',
@@ -70,8 +71,9 @@ gen_data['darkgatecomplication'] = [
     'the razor-sharp barnacles that cover it',
     'the inumerable skulls clogging it',
     'the sacrifice required to open it',
-    'it is overflowing with lava',
-    'barbed wires that surround it',
+    'the lava overflowing from it',
+    'the barbed wires that surround it',
+    'the sticky mold that covers it',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -94,6 +96,7 @@ gen_data['tunneladjective'] = [
     'gold',
     'polluted',
     'militarised',
+    'earth-consuming',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -116,6 +119,7 @@ gen_data['tunnelfeature'] = [
     'veins',
     'dumps',
     'tunnels and fortress',
+    'void',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -138,6 +142,7 @@ gen_data['tunnelhazard'] = [
     'surprising',
     'toxic',
     'weaponized',
+    'desintegrating',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -160,6 +165,7 @@ gen_data['tunnelobstacle'] = [
     'lava floods',
     'sludge',
     'barbwire',
+    'mold walls',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -182,6 +188,7 @@ gen_data['tunnelmonster'] = [
     'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     '{dretchclue} Dretch demons',
     'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
+    '{egarustotem} Egarus Fungi',
       
   ];
 
@@ -291,7 +298,7 @@ gen_data['seaadjective'] = [
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maincity'] = [
-    'This city is known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. Its streets are roamed by {citymonster}, and also {citymonster}.'
+    'This hex holds a city known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard}. Its streets are roamed by {citymonster}, and also {citymonster}.'
   ];
 gen_data['citybeast'] = [
     'Rats', 'Horses', 'Bats', 'Cats', 'Pigeons', 'Raven', 'Seagulls'
@@ -2762,6 +2769,14 @@ gen_data['arcticadjective'] = [
     'disguising',
     'amphibious',
     'shadowy',
+  ]; 
+   gen_data['egarustotem'] = [
+    'world-eating',
+    'apocalyptic',
+    'all-consuming',
+    'sticky',
+    'deadly',
+    'taboo',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
