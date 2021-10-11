@@ -28,7 +28,7 @@ gen_data['maintunnel'] = [
     'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
-    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs'
+    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs', 'Rats', 'Spiders'
   ];
 gen_data['darkgate'] = [
     'pit with bladed edges',
@@ -57,6 +57,15 @@ gen_data['darkgate'] = [
     'goblin village',
     'massive stone door',
     'gravel pit',
+    'fire shrine',
+    'tar pit',
+    'magical mirror',
+    'basement of the abandonned house',
+    'magma pool',
+    'ruined elven temple',
+    'astral crystal',
+    'power nexus',
+    'ruined tower',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal swordfighting coming from it',
@@ -77,12 +86,22 @@ gen_data['darkgatecomplication'] = [
     'the inumerable skulls clogging it',
     'the sacrifice required to open it',
     'the lava overflowing from it',
+    'the trash blocking it',
     'the barbed wires that surround it',
     'the sticky mold that covers it',
     'the swirling water that surrounds it',
     'the goblins swarming it',
     'the fact it is sealed shut',
     'gravel clogging the path',
+    'hot coals carpeting it',
+    'the horrible smell coming from it',
+    'the oil covering it',
+    'the fact it is barricaded',
+    'the fact is it hidden behind a lava fall',
+    'the decadent rituals still happening here',
+    'silver webs entangling it',
+    'the wild magic energies around it',
+    'the rubbles covering it',
   ];
 gen_data['tunneladjective'] = [
     'melted-weapons',
@@ -110,6 +129,15 @@ gen_data['tunneladjective'] = [
     'rickety crafted',
     'old, sacred',
     'gravelly',
+    'fiery',
+    'oozing',
+    'mirrorer',
+    'derelict',
+    'magmatic',
+    'abandonned drow',
+    'silver',
+    'arcane',
+    'cursed',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -131,13 +159,22 @@ gen_data['tunnelfeature'] = [
     'temple complex',
     'veins',
     'dumps',
-    'tunnels and fortress',
+    'tunnels to dour fortress',
     'void',
     'hot springs',
     'infinite waterfalls',
     'goblin slums',
     'stone staircases',
     'stone gullets',
+    'tunnels to an elemental temple',
+    'tar lakes',
+    'mazes',
+    'warrens',
+    'tunnels to a bathhouse',
+    'pleasure dens',
+    'tunnels to a planar hotel',
+    'crystal fields',
+    'ruins of a cursed of civilization',
   ];
 gen_data['tunnelhazard'] = [
     'their sharp, cutting',
@@ -166,6 +203,15 @@ gen_data['tunnelhazard'] = [
     'rickety',
     'protective',
     'bludgeoning',
+    'flammable',
+    'sticky',
+    'confusing',
+    'plague-ridden',
+    'magmatic',
+    'magic-eating',
+    'astral',
+    'magic hightening',
+    'cursed',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -194,6 +240,15 @@ gen_data['tunnelobstacle'] = [
     'pit traps',
     'boulder traps',
     'gravel rain',
+    'gas leaks',
+    'stalagmites',
+    'shortcuts',
+    'rat colonies',
+    'bubbles',
+    'lucid dreams',
+    'silver threads',
+    'power crystals',
+    'treasures found here',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -222,7 +277,15 @@ gen_data['tunnelmonster'] = [
     'Goblins who {goblinculture} {goblinproblem}',
     '{stonegolemown} Stone Golems',
     'Earth Mephits who {earthmephitwants}',
-  ];
+    'Fire Mephits who {firemephitwants}',
+    'Ooze Mephits who {oozemephitwants}',
+    'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
+    '{rattotem} Rats',
+    'Salamanders who {salamanderwants}',
+    'Elven Shadows who {elfshadowwants}',
+    '{astralspinnertotem} Astral Spinners',
+    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Wraith that {wraithwants}', ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
@@ -2616,8 +2679,8 @@ gen_data['arcticadjective'] = [
     'need to deliver an important message to their filthy master',
     'love to make pranks',
     'are covering the land in mud to prepare for the arrival of their drooping mistress',
-    'in hiding from the plane of earth',
-    'recently born and very naive',
+    'are in hiding from the plane of earth',
+    'were recently born and are very naive',
     'spy for their sloshy liege',
   ]; 
    gen_data['abhirclue'] = [
@@ -2808,6 +2871,22 @@ gen_data['arcticadjective'] = [
     'all-consuming',
     'sticky',
     'deadly',
+    'taboo',
+  ]; 
+   gen_data['firemephitwants'] = [
+    'deliver important messages from their fiery master',
+    'love to fight, but not to the death',
+    'are purging the area in flame to prepare for the arrival of their explosive overlord',
+    'are in hiding from the plane of fire',
+    'were recently born and are very naive',
+    'spy for their sloshy liege',
+  ];
+   gen_data['astralspinnertotem'] = [
+    'greed-punishing',
+    'voracious',
+    'phasing',
+    'patient',
+    'sacred',
     'taboo',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
