@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert rocky mountain
+tags: monster beast  desert rocky mountain underdark
 permalink: /monsters/dragon-red
 title: Dragon, Red
 ---
