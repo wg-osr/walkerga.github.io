@@ -48,7 +48,7 @@ gen_data['mainweird'] = [
   ];    
       
   gen_data['chaostaint'] = [
-    'mutated chitin-weapons on their body',
+    'mutated chitin weapons on their body',
     'grew a balloon-like head',
     'mutated beyond recognition',
   ];    
