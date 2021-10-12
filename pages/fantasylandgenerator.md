@@ -14,10 +14,13 @@
 
   let gen_data = {};
 
-      gen_data['main'] = [
+     gen_data['main'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}'
  ];
-      
+  
+     gen_data['darkmain'] = [
+    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+  ];
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -28,7 +31,7 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos! {chaosadjective} its {arcticfeature}. Beware, for there are {arcticobstacle} that {chaoschazard} in the area. It is inhabited by {chaostaint} {arcticmonster}, and also {chaosmonster}.'
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} its {arcticfeature}. Beware, for there are {arcticobstacle} that {chaoschazard} in the area. It is inhabited by {chaostaint} {arcticmonster}, and also {chaosmonster}.'
   ];
 
  gen_data['chaosadjective'] = [
@@ -50,9 +53,6 @@ gen_data['mainweird'] = [
       
 gen_data['maindarkgate'] = [
     'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
-  ];
-gen_data['darkmain'] = [
-    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
     'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs', 'Rats', 'Spiders'
