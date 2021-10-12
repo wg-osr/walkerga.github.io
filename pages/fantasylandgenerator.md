@@ -39,24 +39,44 @@ gen_data['mainweird'] = [
     'Countless weapons impale',
     'A fallen star has crashed in',
     'Fleshy tumors have grown on',
+    'Demons have trampled',
+    'Feces and rotten meat are covering',
+    'Rot has taken over',
+    'A strange, flaming rot is sprouting from',
+    'Opaque dark water submerge',
   ];
       
  gen_data['chaoschazard'] = [
     'sprout tendrils of flaying magical darkness',
     'emit a strange fear-inducing light',
     'radiate weird energies that could provoke mutations',
+    'attract hordes of stampeding demons',
+    'sprout rusty meathooks',
+    'emit unbreathable spore clouds',
+    'carry firerot spores',
+    'whisper your deepest fear',
   ];    
       
   gen_data['chaostaint'] = [
     'mutated chitin weapons on their body',
     'grew a balloon-like head',
     'mutated beyond recognition',
+    'became doomed ghosts',
+    'mutated porcine features',
+    'became host of Centipede Swarms',
+    'became covered in a flame producing rash',
+    'became flat and leathery',
   ];    
  
   gen_data['chaosmonster'] = [
     'a {abhirclue} Abhir demon',
     '{abysmalclue} aberrations known as Abysmals',
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
+    'Bestial Terrors who {bestialterrorwants}',
+    'Calytaurs who {calytaurculture} {calytaurproblem}',
+    '{centipedetotem} Centipedes',
+    '{reddracopedetotem} Red Dracopedes',
+    '{cloakerclue} aberrations known as the Cloakers',
 
  ];
       
