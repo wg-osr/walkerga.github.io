@@ -172,7 +172,7 @@ gen_data['tunnelfeature'] = [
     'warrens',
     'tunnels leading to a bathhouse',
     'pleasure dens',
-    'tunnels leadingto a planar hotel',
+    'tunnels leading to a planar hotel',
     'crystal fields',
     'ruins of a cursed of civilization',
   ];
