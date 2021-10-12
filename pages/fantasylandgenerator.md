@@ -2238,7 +2238,7 @@ gen_data['arcticadjective'] = [
    gen_data['goblinculture'] = [
     'live in the trash pits of another civilization',
     'hide in tunnels',
-    'hide their huts high in trees',
+    'hide their huts high',
     'joined the Great Horde',
     'serve the Hobgoblin legion',
     'are enslaved',
