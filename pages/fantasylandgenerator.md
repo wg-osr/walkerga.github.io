@@ -44,6 +44,7 @@ gen_data['mainweird'] = [
       
   gen_data['chaostaint'] = [
     'chitin-clawed',
+  ];    
  
   gen_data['chaosmonster'] = [
      'a {abhirclue} Abhir demon',
