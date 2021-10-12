@@ -22,7 +22,33 @@
     'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
       
-     
+// - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+gen_data['mainweird'] = [
+    '{mainchaos}',
+  ];
+      
+// - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainchaos'] = [
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} its {arcticfeature}. Beware, for there are {arcticobstacle} that {chaoschazard} in the area. It is inhabited by {chaostaint} {arcticmonster}, and also {chaosmonster}.'
+  ];
+
+ gen_data['chaosadjective'] = [
+    'Countless weapons impale',
+  ];
+      
+ gen_data['chaoschazard'] = [
+    'sprout tendrils of flaying magical darkness',
+  ];    
+      
+  gen_data['chaostaint'] = [
+    'chitin-clawed',
+ 
+  gen_data['chaosmonster'] = [
+     'a {abhirclue} Abhir demon',
+ ];
+      
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maindarkgate'] = [
