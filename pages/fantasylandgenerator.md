@@ -25,7 +25,7 @@ gen_data['maindarkgate'] = [
     'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
   ];
 gen_data['darkmain'] = [
-    'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+    'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} fond there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
     'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs', 'Rats', 'Spiders'
@@ -104,7 +104,7 @@ gen_data['darkgatecomplication'] = [
     'the rubbles covering it',
   ];
 gen_data['tunneladjective'] = [
-    'melted-weapons',
+    'amalgamated weapons',
     'fleshy',
     'petrified',
     'dark',
@@ -156,7 +156,7 @@ gen_data['tunnelfeature'] = [
     'underground seashores',
     'saltwater pools',
     'ossuaries',
-    'temple complex',
+    'tunnels  to temple complex',
     'veins',
     'dumps',
     'tunnels to dour fortress',
@@ -177,18 +177,18 @@ gen_data['tunnelfeature'] = [
     'ruins of a cursed of civilization',
   ];
 gen_data['tunnelhazard'] = [
-    'their sharp, cutting',
-    'their paranoia-inducing',
+    'sharp, cutting',
+    'paranoia-inducing',
     'corrosive',
-    'their narrow',
+    'narrow',
     'snow-clogged',
     'sound-sentititve',
-    'their wide',
+    'wide',
     'light-sucking',
     'slippery',
     'tangling',
-    'their fragile',
-    'their burning',
+    'fragile',
+    'burning',
     'collapsing',
     'terror-causing',
     'coarse',
@@ -248,7 +248,7 @@ gen_data['tunnelobstacle'] = [
     'lucid dreams',
     'silver threads',
     'power crystals',
-    'treasures found here',
+    'treasures',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
