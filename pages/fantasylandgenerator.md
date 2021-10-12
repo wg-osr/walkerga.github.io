@@ -38,8 +38,8 @@ gen_data['mainweird'] = [
     'This {1d10hexes}-hex grassland is corrupted by chaos. {chaosadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {plainsmonster} {chaostaint}.',
     'This one-hex mountain is corrupted by chaos. {chaosadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {mountainmonster} {chaostaint}.',
     'This {1d10hexes}-hex rocky land is corrupted by chaos. {chaosadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {rockymonster} {chaostaint}.',
-    'This {1d10hexes}-hex swamp land is corrupted by chaos. {chaosadjective} the {swampfeature} there. Beware of the {swampobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {swampmonster} {chaostaint}.',
-    'This {1d10hexes}-hex jungle land is corrupted by chaos. {chaosadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {junglemonster} {chaostaint}.',
+    'This {1d10hexes}-hex swamp is corrupted by chaos. {chaosadjective} the {swampfeature} there. Beware of the {swampobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {swampmonster} {chaostaint}.',
+    'This {1d10hexes}-hex jungle is corrupted by chaos. {chaosadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {junglemonster} {chaostaint}.',
    ];
 
  gen_data['chaosadjective'] = [
