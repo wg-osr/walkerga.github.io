@@ -2379,7 +2379,7 @@ gen_data['arcticadjective'] = [
     'drowns people',
     'kills people in their sleep',
   ];  
-   gen_data['redragontotem'] = [
+   gen_data['reddragontotem'] = [
     'treasure-hoarding',
     'cataclysmic',
     'tyranic',
@@ -2387,7 +2387,7 @@ gen_data['arcticadjective'] = [
     'powerful',
     'sacred',
   ]; 
-   gen_data['redragonwants'] = [
+   gen_data['reddragonwants'] = [
     'had its treasure stolen',
     'rules the area',
     'demands virginal sacrifices',
