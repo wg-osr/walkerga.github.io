@@ -19,7 +19,7 @@
  ];
   
      gen_data['darkmain'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and   {arcticmonster} {chaostaint}.'
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {arcticmonster} {chaostaint}.'
 
   ];
       
@@ -38,21 +38,26 @@ gen_data['mainweird'] = [
  gen_data['chaosadjective'] = [
     'Countless weapons impale',
     'A fallen star has crashed in',
+    'Fleshy tumors have grown on',
   ];
       
  gen_data['chaoschazard'] = [
     'sprout tendrils of flaying magical darkness',
     'emit a strange fear-inducing light',
+    'radiate weird energies that could provoke mutations',
   ];    
       
   gen_data['chaostaint'] = [
     'mutated chitin-weapons on their body',
     'grew a balloon-like head',
+    'mutated beyond recognition',
   ];    
  
   gen_data['chaosmonster'] = [
     'a {abhirclue} Abhir demon',
     '{abysmalclue} aberrations known as Abysmals',
+    '{abyssalwretchclue} aberrations known as Abyssal Wretches',
+
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
