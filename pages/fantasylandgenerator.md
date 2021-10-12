@@ -156,7 +156,7 @@ gen_data['tunnelfeature'] = [
     'underground seashores',
     'saltwater pools',
     'ossuaries',
-    'tunnels  to temple complex',
+    'tunnels leading to temple complex',
     'veins',
     'dumps',
     'tunnels leading to a dour fortress',
