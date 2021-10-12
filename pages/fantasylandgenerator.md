@@ -31,23 +31,27 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} its {arcticfeature}. Beware, for there are {arcticobstacle} that {chaoschazard} in the area. It is inhabited by {chaostaint} {arcticmonster}, and also {chaosmonster}.'
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and   {arcticmonster} {chaostaint}.'
   ];
 
  gen_data['chaosadjective'] = [
     'Countless weapons impale',
+    'A fallen star has crashed in',
   ];
       
  gen_data['chaoschazard'] = [
     'sprout tendrils of flaying magical darkness',
+    'emit a strange fear-inducing light',
   ];    
       
   gen_data['chaostaint'] = [
-    'chitin-clawed',
+    'mutated chitin-weapons on their body',
+    'grew a balloon-like head',
   ];    
  
   gen_data['chaosmonster'] = [
-     'a {abhirclue} Abhir demon',
+    'a {abhirclue} Abhir demon',
+    '{abysmalclue} aberrations known as Abysmals',
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
