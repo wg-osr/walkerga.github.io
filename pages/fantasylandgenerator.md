@@ -160,7 +160,7 @@ gen_data['tunnelfeature'] = [
     'veins',
     'dumps',
     'tunnels leading to a dour fortress',
-    'void',
+    'void spheres',
     'hot springs',
     'infinite waterfalls',
     'goblin slums',
