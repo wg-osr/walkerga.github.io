@@ -198,7 +198,7 @@ gen_data['tunnelhazard'] = [
     'toxic',
     'weaponized',
     'desintegrating',
-    'their scalding',
+    'scalding',
     'flooding',
     'rickety',
     'protective',
