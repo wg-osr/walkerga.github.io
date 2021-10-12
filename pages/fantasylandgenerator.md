@@ -19,7 +19,8 @@
  ];
   
      gen_data['darkmain'] = [
-    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and   {arcticmonster} {chaostaint}.'
+
   ];
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -31,8 +32,8 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and   {arcticmonster} {chaostaint}.'
-  ];
+    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+   ];
 
  gen_data['chaosadjective'] = [
     'Countless weapons impale',
