@@ -19,7 +19,7 @@
  ];
   
      gen_data['darkmain'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {arcticmonster} {chaostaint}.'
+    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
 
   ];
       
@@ -32,7 +32,14 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
-    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {arcticmonster} {chaostaint}.',
+    'This {1d10hexes}-hex desert is corrupted by chaos. {chaosadjective} the {desertfeature} there. Beware of the {desertobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {desertmonster} {chaostaint}.',
+    'This {1d10hexes}-hex forest is corrupted by chaos. {chaosadjective} the {forestfeature} there. Beware of the {forestobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {forestmonster} {chaostaint}.',
+    'This {1d10hexes}-hex grassland is corrupted by chaos. {chaosadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {plainsmonster} {chaostaint}.',
+    'This one-hex mountain is corrupted by chaos. {chaosadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {mountainmonster} {chaostaint}.',
+    'This {1d10hexes}-hex rocky land is corrupted by chaos. {chaosadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {rockymonster} {chaostaint}.',
+    'This {1d10hexes}-hex swamp land is corrupted by chaos. {chaosadjective} the {swampfeature} there. Beware of the {swampobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {swampmonster} {chaostaint}.',
+    'This {1d10hexes}-hex jungle land is corrupted by chaos. {chaosadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {junglemonster} {chaostaint}.',
    ];
 
  gen_data['chaosadjective'] = [
@@ -49,6 +56,8 @@ gen_data['mainweird'] = [
     'There’s a new, twisted copy of',
     'Vats full of green liquid have appeared on',
     'Pus is oozing out of',
+    'There is nothing left of',
+    'A pleasure cult twisted',
   ];
       
  gen_data['chaoschazard'] = [
@@ -65,6 +74,8 @@ gen_data['mainweird'] = [
     'will create an evil clone of yourself',
     'emit poisonous fumes',
     'belch toxic sludge',
+    'make every surfaces sticky',
+    'create depraved illusions',
   ];    
       
   gen_data['chaostaint'] = [
@@ -78,9 +89,11 @@ gen_data['mainweird'] = [
     'became flat and leathery',
     'died by suicide',
     'became weird fleshy half-trees',
-    'lost most of their features',
+    'lost all features',
     'grew green scales and fins',
     'grew stinky gas sacks',
+    'lost many limbs',
+    'became hungry faint shadows',
   ];    
  
   gen_data['chaosmonster'] = [
@@ -97,7 +110,8 @@ gen_data['mainweird'] = [
     '{doppelgangerclue} aberrations known as Doppelgangers',
     '{greenspawnclue} Greenspawn Mutants',
     '{dretchclue} Dretch demons',
-
+    '{egarustotem} Egarus Fungi',
+    'Elven Shadows who {elfshadowwants}',
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
