@@ -44,6 +44,11 @@ gen_data['mainweird'] = [
     'Rot has taken over',
     'A strange, flaming rot is sprouting from',
     'Opaque dark water submerge',
+    'A wicked cult has taken over',
+    'Human faces are growing on',
+    'There’s a new, twisted copy of',
+    'Vats full of green liquid have appeared on',
+    'Pus is oozing out of',
   ];
       
  gen_data['chaoschazard'] = [
@@ -55,6 +60,11 @@ gen_data['mainweird'] = [
     'emit unbreathable spore clouds',
     'carry firerot spores',
     'whisper your deepest fear',
+    'reverbate with mad chanting',
+    'sprout grasping human hands',
+    'will create an evil clone of yourself',
+    'emit poisonous fumes',
+    'belch toxic sludge',
   ];    
       
   gen_data['chaostaint'] = [
@@ -63,9 +73,14 @@ gen_data['mainweird'] = [
     'mutated beyond recognition',
     'became doomed ghosts',
     'mutated porcine features',
-    'became host of Centipede Swarms',
+    'became parasited by Centipedes',
     'became covered in a flame producing rash',
     'became flat and leathery',
+    'died by suicide',
+    'became weird fleshy half-trees',
+    'lost most of their features',
+    'grew green scales and fins',
+    'grew stinky gas sacks',
   ];    
  
   gen_data['chaosmonster'] = [
@@ -77,6 +92,11 @@ gen_data['mainweird'] = [
     '{centipedetotem} Centipedes',
     '{reddracopedetotem} Red Dracopedes',
     '{cloakerclue} aberrations known as the Cloakers',
+    'a{cult} Cult that {cultwants}',
+    'a {deathsheadtotem} Death’s Head Tree',
+    '{doppelgangerclue} aberrations known as Doppelgangers',
+    '{greenspawnclue} Greenspawn Mutants',
+    '{dretchclue} Dretch demons',
 
  ];
       
@@ -2946,6 +2966,14 @@ gen_data['arcticadjective'] = [
     'patient',
     'sacred',
     'taboo',
+  ]; 
+   gen_data['greenspawnclue'] = [
+    'deformed',
+    'poisonous',
+    'draconic',
+    'brutish',
+    'amphibious',
+    'tortured',
   ]; 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
