@@ -24,7 +24,7 @@
 gen_data['maindarkgate'] = [
     'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
   ];
-gen_data['maintunnel'] = [
+gen_data['darkmain'] = [
     'These {2d4hexes}-hex underground {tunneladjective} {tunnelfeature} are dangerous because of {tunnelhazard} {tunnelobstacle}. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
 gen_data['tunnelbeast'] = [
