@@ -25,9 +25,75 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-    '{mainchaos}', '{maincursed}',
+    '{mainchaos}', '{maincursed}', '{maindivine}',
   ];
       
+// - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['maindivine'] = [
+    'This {1d10hexes}-hex cold region is part of the divine dominion. {divineadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {arcticmonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex desert is part of the divine dominion. {divineadjective} the {desertfeature} there. Beware of the {desertobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {desertmonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex forest is part of the divine dominion. {divineadjective} the {forestfeature} there. Beware of the {forestobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {forestmonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex grassland is part of the divine dominion. {divineadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {plainsmonster} {divinetaint} in this land.',
+    'This one-hex mountain is part of the divine dominion. {divineadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {mountainmonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex rocky land is part of the divine dominion. {divineadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {rockymonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex swamp is part of the divine dominion. {divineadjective} the {swampfeature} there. Beware of the {swampobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {swampmonster} {divinetaint} in this land.',
+    'This {1d10hexes}-hex jungle is part of the divine dominion. {divineadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {divinechazard}. There has been sightings of {divinemonster} in the area. Also, know that {junglemonster} {divinetaint} in this land.',
+   ];
+
+ gen_data['divineadjective'] = [
+    'Forbidden spells are sealed in',
+    'Everwatching statues observe',
+    'Time is frozen at',
+    'The gods created a time loop around',
+    'An infernal battalion is stationed in',
+    'Souls are massing a the gate to the underworld located at',
+    'There's a sealed hellgate in',
+    'An Infernal Cult has taken over',
+    'The souls of sinners are bound to',
+    'A humongous temple dwarfs',
+  ];
+      
+ gen_data['divinechazard'] = [
+    'spout divine lightning',
+    'attract the attention of the Eye in the sky',
+    'trigger an alarm',
+    'might bring karmic punishment',
+    'prevent nearby crucified sinners from dying',
+    'are tended by souls awaiting judgement',
+    'turn rations into ash',
+    'are diabolical',
+    'speak with the voices of damned souls',
+    'will only let faithful pass',
+  ];    
+      
+  gen_data['divinetaint'] = [
+    'became lightning-infused minions of a wizard-hunting sect',
+    'transmuted into amber automatons',
+    'transmuted into animated pieces of furniture',
+    'grew bitter and resentful',
+    'joined the Holy Crusade',
+    'joined an infernal legion',
+    'became minions of an archdevil',
+    'tormented sinners for generations',
+    'started wailing for the salvation of sinners',
+    'joined the Church',
+
+  ];    
+ 
+  gen_data['divinemonster'] = [
+    'a Blue Abishai on a divine mission to {blueabishaiquest}',
+    '{amberprowlerown} Amber Prowlers',
+    '{animatedrugown} Animated Rugs',
+    'a {animusown} Animus',
+    'Barbazus on a divine mission to {barbazuquest}',
+    'Bestial Terrors who {bestialterrorwants}',
+    'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
+    'an Heretic Cult that {cultwants}',
+    'a {deathsheadtotem} Death’s Head Tree',
+    'church-owned Stone Golems',
+ ];
+
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maincursed'] = [
@@ -48,7 +114,7 @@ gen_data['mainweird'] = [
     'A grand ball of departed souls haunts',
     'Rot has taken over',
     'Thousands of skulls cover',
-    'A death cult has taken over',
+    'A Death Cult has taken over',
     'All plants are dead beyond',
     'A forbiddent tomb sits below',
     'A terrible plague has struck',
@@ -129,7 +195,7 @@ gen_data['mainweird'] = [
     'Rot has taken over',
     'A strange, flaming rot is sprouting from',
     'Opaque dark water submerge',
-    'A wicked cult has taken over',
+    'A Wicked Cult has taken over',
     'Human faces are growing on',
     'There’s a new, twisted copy of',
     'Vats full of green liquid have appeared on',
