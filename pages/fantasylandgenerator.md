@@ -48,7 +48,7 @@ gen_data['mainweird'] = [
     'The gods created a time loop around',
     'An infernal battalion is stationed in',
     'Souls are massing a the gate to the underworld located at',
-    'There's a sealed hellgate in',
+    'There is a sealed hellgate in',
     'An Infernal Cult has taken over',
     'The souls of sinners are bound to',
     'A humongous temple dwarfs',
