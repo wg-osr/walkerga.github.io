@@ -111,14 +111,14 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
-    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {arcticmonster} {chaostaint}.',
-    'This {1d10hexes}-hex desert is corrupted by chaos. {chaosadjective} the {desertfeature} there. Beware of the {desertobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {desertmonster} {chaostaint}.',
-    'This {1d10hexes}-hex forest is corrupted by chaos. {chaosadjective} the {forestfeature} there. Beware of the {forestobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {forestmonster} {chaostaint}.',
-    'This {1d10hexes}-hex grassland is corrupted by chaos. {chaosadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {plainsmonster} {chaostaint}.',
-    'This one-hex mountain is corrupted by chaos. {chaosadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {mountainmonster} {chaostaint}.',
-    'This {1d10hexes}-hex rocky land is corrupted by chaos. {chaosadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {rockymonster} {chaostaint}.',
-    'This {1d10hexes}-hex swamp is corrupted by chaos. {chaosadjective} the {swampfeature} there. Beware of the {swampobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {swampmonster} {chaostaint}.',
-    'This {1d10hexes}-hex jungle is corrupted by chaos. {chaosadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area, and {junglemonster} {chaostaint}.',
+    'This {1d10hexes}-hex cold region is corrupted by chaos. {chaosadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {arcticmonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex desert is corrupted by chaos. {chaosadjective} the {desertfeature} there. Beware of the {desertobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {desertmonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex forest is corrupted by chaos. {chaosadjective} the {forestfeature} there. Beware of the {forestobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {forestmonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex grassland is corrupted by chaos. {chaosadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {plainsmonster} {chaostaint} in this land.',
+    'This one-hex mountain is corrupted by chaos. {chaosadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {mountainmonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex rocky land is corrupted by chaos. {chaosadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {rockymonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex swamp is corrupted by chaos. {chaosadjective} the {swampfeature} there. Beware of the {swampobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {swampmonster} {chaostaint} in this land.',
+    'This {1d10hexes}-hex jungle is corrupted by chaos. {chaosadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {chaoschazard} now. There has been sightings of {chaosmonster} in the area. Also, know that {junglemonster} {chaostaint} in this land.',
    ];
 
  gen_data['chaosadjective'] = [
