@@ -3101,7 +3101,9 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/swamp">Swamp climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/jungle">Tropical climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/underdark">Underdark climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/urban">Urban climate monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/urban">Urban climate monster list</a></li> <br>
+    <li><a href="https://saltygoo.github.io/list/chaos">Corrupted monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/urban">Cursed monster list</a></li>
     </ol>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
