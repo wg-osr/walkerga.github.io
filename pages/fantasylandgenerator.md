@@ -19,16 +19,47 @@
  ];
   
      gen_data['darkmain'] = [
-    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+    '{mainchaos}', '{maincursed}',
 
   ];
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-    '{mainchaos}',
+    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
       
+// - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['maincursed'] = [
+    'This {1d10hexes}-hex cold region is cursed. {cursedadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {arcticmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex desert is cursed. {cursedadjective} the {desertfeature} there. Beware of the {desertobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {desertmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex forest is cursed. {cursedadjective} the {forestfeature} there. Beware of the {forestobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {forestmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex grassland is cursed. {cursedadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {plainsmonster} {cursedtaint}.',
+    'This one-hex mountain is cursed. {cursedadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {mountainmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex rocky land is cursed. {cursedadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {rockymonster} {cursedtaint}.',
+    'This {1d10hexes}-hex swamp is cursed. {cursedadjective} the {swampfeature} there. Beware of the {swampobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {swampmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex jungle is cursed. {cursedadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {junglemonster} {cursedtaint}.',
+   ];
+
+ gen_data['cursedadjective'] = [
+    'A dark manor casts a shadow over',
+  ];
+      
+ gen_data['cursedchazard'] = [
+    'give an evil intent to the weather',
+
+  ];    
+      
+  gen_data['cursedtaint'] = [
+    'were instrumental in settling an old grudge',
+  ];    
+ 
+  gen_data['cursedmonster'] = [
+    'a {animusown} Animus',
+
+ ];
+
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainchaos'] = [
