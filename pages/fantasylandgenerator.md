@@ -32,14 +32,14 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maincursed'] = [
-    'This {1d10hexes}-hex cold region is cursed. {cursedadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {arcticmonster} {cursedtaint}.',
-    'This {1d10hexes}-hex desert is cursed. {cursedadjective} the {desertfeature} there. Beware of the {desertobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {desertmonster} {cursedtaint}.',
-    'This {1d10hexes}-hex forest is cursed. {cursedadjective} the {forestfeature} there. Beware of the {forestobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {forestmonster} {cursedtaint}.',
-    'This {1d10hexes}-hex grassland is cursed. {cursedadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {plainsmonster} {cursedtaint}.',
-    'This one-hex mountain is cursed. {cursedadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {mountainmonster} {cursedtaint}.',
-    'This {1d10hexes}-hex rocky land is cursed. {cursedadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {rockymonster} {cursedtaint}.',
-    'This {1d10hexes}-hex swamp is cursed. {cursedadjective} the {swampfeature} there. Beware of the {swampobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {swampmonster} {cursedtaint}.',
-    'This {1d10hexes}-hex jungle is cursed. {cursedadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area, and {junglemonster} {cursedtaint}.',
+    'This {1d10hexes}-hex cold region is cursed. {cursedadjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {arcticmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex desert is cursed. {cursedadjective} the {desertfeature} there. Beware of the {desertobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {desertmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex forest is cursed. {cursedadjective} the {forestfeature} there. Beware of the {forestobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {forestmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex grassland is cursed. {cursedadjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {plainsmonster} {cursedtaint}.',
+    'This one-hex mountain is cursed. {cursedadjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {mountainmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex rocky land is cursed. {cursedadjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {rockymonster} {cursedtaint}.',
+    'This {1d10hexes}-hex swamp is cursed. {cursedadjective} the {swampfeature} there. Beware of the {swampobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {swampmonster} {cursedtaint}.',
+    'This {1d10hexes}-hex jungle is cursed. {cursedadjective} the {junglefeature} there. Beware of the {jungleobstacle} that {cursedchazard} now. There has been sightings of {cursedmonster} in the area. Also, know that {junglemonster} {cursedtaint}.',
    ];
 
  gen_data['cursedadjective'] = [
