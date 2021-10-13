@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  rocky jungle mountain underdark
+tags: monster beast  rocky jungle mountain underdark chaos
 permalink: /monsters/centipede-dracopede-red
 title: Centipede, Dracopede, Red
 ---
