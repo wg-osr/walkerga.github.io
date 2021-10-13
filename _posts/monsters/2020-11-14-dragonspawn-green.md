@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration hostile
+tags: monster aberration chaos
 permalink: /monsters/dragonspawn-green
 title: Dragonspawn, Green
 ---
