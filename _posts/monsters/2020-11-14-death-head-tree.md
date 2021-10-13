@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant  forest rocky jungle swamp
+tags: monster plant  forest rocky jungle swamp chaos
 permalink: /monsters/death-head-tree
 title: Death's Head Tree
 ---
