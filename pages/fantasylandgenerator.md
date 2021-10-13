@@ -2312,9 +2312,9 @@ gen_data['arcticadjective'] = [
     'are roaming monster slayers',
   ];  
    gen_data['hilldwarfproblem'] = [
-    'while drunk',
+    'while being always drunk',
     'because they are exiles from the mountains',
-    'hoping to retake their ancestral clanland',
+    'and hope to retake their ancestral clanland',
     'and war against the fey',
     'and ride goats and dogs',
     'and worship a giant Earth Elemental',
