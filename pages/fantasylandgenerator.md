@@ -19,14 +19,13 @@
  ];
   
      gen_data['darkmain'] = [
-    '{mainchaos}', '{maincursed}',
-
+    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-    'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
+    '{mainchaos}', '{maincursed}',
   ];
       
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
