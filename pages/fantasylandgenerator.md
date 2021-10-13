@@ -44,19 +44,67 @@ gen_data['mainweird'] = [
 
  gen_data['cursedadjective'] = [
     'A dark manor casts a shadow over',
+    'Sunlight never reaches',
+    'A terrible war has ravaged',
+    'A grand ball of departed souls haunts',
+    'Rot has taken over',
+    'Thousands of skulls cover',
+    'A death cult has taken over',
+    'All plants are dead beyond',
+    'A forbiddent tomb sits below',
+    'A terrible plague has struck',
+    'Elven ruins doomed',
+    'Silver threads bind all the souls at',
+    'Parts of the Old Kingdom used to be situated at',
   ];
       
  gen_data['cursedchazard'] = [
     'give an evil intent to the weather',
+    'are swarmed by Bats',
+    'summon Ghosts from the war',
+    'are used by partying Ghosts',
+    'are infested with Centipedes',
+    'are spawned from cackling skulls',
+    'raise the dead',
+    'will grapple you with dead roots',
+    'are protecting a tomb',
+    'carry the plague',
+    'manifest memories of a decadent past',
+    'are actually the small manifested parts of an invisible ghostly structure',
+    'make the dead come back as Specters',
 
   ];    
       
   gen_data['cursedtaint'] = [
-    'were instrumental in settling an old grudge',
+    'became instrumental in settling an old grudge',
+    'cannot tolerate the sun now',
+    'became bound to recreate the most violent scenes from the war every night',
+    'cannot move on to the other side',
+    'became parasited by Centipedes',
+    'started building piramids of skulls',
+    'started filling a mass grave',
+    'started feeding blood to the plants',
+    'protected a tomb for generations',
+    'got infected by the plague',
+    'became magic-starved shadows',
+    'became semi-ethereal',
+    'became specters',
   ];    
  
   gen_data['cursedmonster'] = [
     'a {animusown} Animus',
+    '{battotem} Bats',
+    'Bestial Terrors who {bestialterrorwants}',
+    'Cadejos who {cadejowants}',
+    '{centipedetotem} Centipedes',
+    '{braincrabtotem} Brain Crabs',
+    'a Death Cult that {cultwants}',
+    'a {deathsheadtotem} Death’s Head Tree',
+    '{stonegolemown} Stone Golems',
+    '{rattotem} Rats',
+    'Elven Shadows who {elfshadowwants}',
+    '{astralspinnertotem} Astral Spinners',
+    'a Wraith that {wraithwants}',
 
  ];
 
@@ -408,7 +456,8 @@ gen_data['tunnelmonster'] = [
     'Elven Shadows who {elfshadowwants}',
     '{astralspinnertotem} Astral Spinners',
     'a Sorcerous Cabbal that {sorcererwants}',
-    'a Wraith that {wraithwants}', ];
+    'a Wraith that {wraithwants}',
+ ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
