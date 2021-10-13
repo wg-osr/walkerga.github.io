@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant fauna underdark
+tags: monster plant fauna underdark chaos
 permalink: /monsters/egarus-fungus
 title: Egarus Fungus
 ---
