@@ -2889,12 +2889,12 @@ gen_data['arcticadjective'] = [
     'cabbal-owned',
     'spy-owned',
     'mob-owned',
-    'church',
+    'church-owned',
     'noble-owned',
   ]; 
    gen_data['animatedrugown'] = [
     'merchant-owned',
-    'guild',
+    'guild-owned',
     'spy-owned',
     'mob-owned',
     'wizard-owned',
