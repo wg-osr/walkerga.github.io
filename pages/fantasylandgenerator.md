@@ -42,24 +42,33 @@ gen_data['mainweird'] = [
    ];
 
  gen_data['enchantedadjective'] = [
-    'Wind',
+    'wind',
+    'amber',
+    'luxuriously furnished',
   ];
   
  gen_data['enchantedchazard'] = [
     'joyful',
+    'chasing',
+    'shrinking',
   ];    
       
  gen_data['enchantedobstacle'] = [
     'winds',
+    'cages',
+    'doors',
   ]; 
       
   gen_data['enchantedtaint'] = [
     'can dance in the clouds',
-
+    'became made of amber',
+    'became animated pieces of furniture',
   ];    
  
   gen_data['enchantedmonster'] = [
     'Airwalkers who {airwalkerwants}',
+    'feral Amber Prowlers',
+    'sociable Animated Rugs',
  ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
 
