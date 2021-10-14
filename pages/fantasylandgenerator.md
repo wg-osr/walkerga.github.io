@@ -31,31 +31,35 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This {1d10hexes}-hex cold region is enchanted. It is know for its {enchantedadjective} {arcticfeature}. Beware of the {arcticobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex desert is enchanted. It is know for its {enchantedadjective} {desertfeature}. Beware of the {desertobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex forest is enchanted. It is know for its {enchantedadjective} {forestfeature} there. Beware of the {forestobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex grassland is enchanted. It is know for its {enchantedadjective} {plainsfeature}. Beware of the {plainsobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
-    'This one-hex mountain is enchanted. It is know for its {enchantedadjective} {mountainfeature}. Beware of the {mountainobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex rocky land is enchanted. It is know for its {enchantedadjective} {rockyfeature}. Beware of the {rockyobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex swamp is enchanted. It is know for its {enchantedadjective} {swampfeature}. Beware of the {swampobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex jungle is enchanted. It is know for its {enchantedadjective} {junglefeature}. Beware of the {jungleobstacle} that {enchantedchazard}. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex cold region is enchanted. It is know for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex desert is enchanted. It is know for its {enchantedadjective} {desertfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex forest is enchanted. It is know for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex grassland is enchanted. It is know for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
+    'This one-hex mountain is enchanted. It is know for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex rocky land is enchanted. It is know for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex swamp is enchanted. It is know for its {enchantedadjective} {swampfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex jungle is enchanted. It is know for its {enchantedadjective} {junglefeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
     'Wind',
   ];
-      
+  
  gen_data['enchantedchazard'] = [
-    'spout enchanted lightning',
+    'joyful',
   ];    
       
+ gen_data['enchantedobstacle'] = [
+    'winds',
+  ]; 
+      
   gen_data['enchantedtaint'] = [
-    'became lightning-infused minions of a wizard-hunting sect',
+    'can dance in the clouds',
 
   ];    
  
   gen_data['enchantedmonster'] = [
-    'a Blue Abishai on a enchanted mission to {blueabishaiquest}',
+    'Airwalkers who {airwalkerwants}',
  ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
 
