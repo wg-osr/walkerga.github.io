@@ -409,7 +409,7 @@ gen_data['tunneladjective'] = [
     'gravelly',
     'fiery',
     'oozing',
-    'mirrorer',
+    'mirrored',
     'derelict',
     'magmatic',
     'abandonned drow',
