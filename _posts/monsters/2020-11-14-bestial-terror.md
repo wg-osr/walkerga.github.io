@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead arctic desert plains chaos cursed
+tags: monster undead arctic desert plains chaos cursed holy
 permalink: /monsters/bestial-terror
 title: Bestial Terror
 ---
