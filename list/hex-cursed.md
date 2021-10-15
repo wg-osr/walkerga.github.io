@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /list/cursed
-title: Land of the Dead Monsters
+title: Cursed Monsters
 ---
 
 {% capture posts %}
