@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct  city
+tags: monster construct  city holy
 permalink: /monsters/amber-prowler
 title: Amber Prowler
 ---
