@@ -45,30 +45,50 @@ gen_data['mainweird'] = [
     'wind',
     'amber',
     'luxuriously furnished',
+    'bitter sentient',
+    'fruit-shaped',
+    'sculpture-filled',
+    'giant snow globe encasing its',
   ];
   
  gen_data['enchantedchazard'] = [
     'joyful',
-    'chasing',
+    'obsesssive',
     'shrinking',
+    'karmic',
+    'addictive',
+    'petrifying',
+    'freezing',
   ];    
       
  gen_data['enchantedobstacle'] = [
     'winds',
     'cages',
     'doors',
+    'time loops',
+    'fruits',
+    'statues',
+    'snowflakes',
   ]; 
       
   gen_data['enchantedtaint'] = [
     'can dance in the clouds',
     'became made of amber',
     'became animated pieces of furniture',
+    'became bitter because of an Archfey’s cruel joke',
+    'became half-fruits',
+    'decided to become blind',
+    'cannot tolerate heat anymore',
   ];    
  
   gen_data['enchantedmonster'] = [
     'Airwalkers who {airwalkerwants}',
     'feral Amber Prowlers',
     'sociable Animated Rugs',
+    'a {animusown} Animus',
+    'Azizas who {azizawants}',
+    'a {basilisktotem} Basilisk',
+    '{arcticbattotem} Arctic Bats',
  ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
 
