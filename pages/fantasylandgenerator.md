@@ -1025,7 +1025,7 @@ gen_data['swampadjective'] = [
     'are sacred for the locals',
     'augment magic',
     'make the ground unstable',
-    'crackling with power',
+    'are crackling with power',
     'are observing you',
       
   ];
@@ -1161,7 +1161,7 @@ gen_data['plainsadjective'] = [
   ];
   gen_data['plainshazard'] = [
     'could make you fall',
-    'crackling with power',
+    'are crackling with power',
     'are corrosive',
     'are hidden behind leafy bushes',
     'are carrying the eye rot disease',
