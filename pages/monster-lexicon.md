@@ -6,10 +6,10 @@ permalink: /monsters/lexicon
 
 The monsters stat blocs are written to be easily adaptable into many OSR-sphere systems. I wrote in *italic* the philosophy behind each stat so that GMs reverse engineer them into other systems.
 
-**HD:** Hit Dice. Roll as many D6s for the monster's HP.
+**HD:** Hit Dice. Roll as many D6s for the monster's HP. <br>
 *note - The highest HD is 10 and the lowest is 0. Roll D8s for old school DnD. Multiply by 3 for 5e.*
 
-**Armor:** damage resistance: leather (1), chain (2), plate (3).
+**Armor:** damage resistance: leather (1), chain (2), plate (3). <br>
 *note - I dont use armor class, but you can easily replace these with whatever these armors do in your system.*
 
 **Size:** tiny (cat and smaller), small (kid), medium (adult), large (horse, ogre), huge (elephant, windmill), gargantuan (whale and bigger)
