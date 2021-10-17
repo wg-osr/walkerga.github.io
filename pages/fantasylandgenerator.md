@@ -17,7 +17,7 @@
      gen_data['main'] = [
    '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}'
  ];
-  
+ 
      gen_data['darkmain'] = [
     'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
@@ -31,14 +31,14 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This {1d10hexes}-hex cold region is enchanted. It is know for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex desert is enchanted. It is know for its {enchantedadjective} {desertfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex forest is enchanted. It is know for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex grassland is enchanted. It is know for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
-    'This one-hex mountain is enchanted. It is know for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex rocky land is enchanted. It is know for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex swamp is enchanted. It is know for its {enchantedadjective} {swampfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex jungle is enchanted. It is know for its {enchantedadjective} {junglefeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex cold region is enchanted. It is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex desert is enchanted. It is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex forest is enchanted. It is known for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex grassland is enchanted. It is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
+    'This one-hex mountain is enchanted. It is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex rocky land is enchanted. It is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex swamp is enchanted. It is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex jungle is enchanted. It is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
@@ -50,10 +50,10 @@ gen_data['mainweird'] = [
     'sculpture-filled',
     'giant snow globe encasing its',
   ];
-  
+ 
  gen_data['enchantedchazard'] = [
     'joyful',
-    'obsesssive',
+    'obsessive',
     'shrinking',
     'karmic',
     'addictive',
@@ -69,7 +69,7 @@ gen_data['mainweird'] = [
     'fruits',
     'statues',
     'snowflakes',
-  ]; 
+  ];
       
   gen_data['enchantedtaint'] = [
     'can dance in the clouds',
@@ -109,7 +109,7 @@ gen_data['mainweird'] = [
     'Time is frozen at',
     'The gods created a time loop around',
     'An infernal battalion is stationed in',
-    'Souls are massing a the gate to the underworld located at',
+    'Souls are massing at the gate to the underworld located at',
     'There is a sealed hellgate in',
     'An Infernal Cult has taken over',
     'The souls of sinners are bound to',
@@ -123,7 +123,7 @@ gen_data['mainweird'] = [
     'might bring karmic punishment',
     'prevent nearby crucified sinners from dying',
     'are tended by souls awaiting judgement',
-    'turn rations into ash',
+    'turn food into ash',
     'are diabolical',
     'speak with the voices of damned souls',
     'will only let faithful pass',
@@ -178,7 +178,7 @@ gen_data['mainweird'] = [
     'Thousands of skulls cover',
     'A Death Cult has taken over',
     'All plants are dead beyond',
-    'A forbiddent tomb sits below',
+    'A forbidden tomb sits below',
     'A terrible plague has struck',
     'Elven ruins doomed',
     'Silver threads bind all the souls at',
@@ -207,8 +207,8 @@ gen_data['mainweird'] = [
     'cannot tolerate the sun now',
     'became bound to recreate the most violent scenes from the war every night',
     'cannot move on to the other side',
-    'became parasited by Centipedes',
-    'started building piramids of skulls',
+    'became infested with Centipedes',
+    'started building pyramids of skulls',
     'started filling a mass grave',
     'started feeding blood to the plants',
     'protected a tomb for generations',
@@ -275,12 +275,12 @@ gen_data['mainweird'] = [
     'emit unbreathable spore clouds',
     'carry firerot spores',
     'whisper your deepest fear',
-    'reverbate with mad chanting',
+    'reverberate with mad chanting',
     'sprout grasping human hands',
     'will create an evil clone of yourself',
     'emit poisonous fumes',
     'belch toxic sludge',
-    'make every surfaces sticky',
+    'make every surface sticky',
     'create depraved illusions',
   ];    
       
@@ -290,7 +290,7 @@ gen_data['mainweird'] = [
     'mutated beyond recognition',
     'became doomed ghosts',
     'mutated porcine features',
-    'became parasited by Centipedes',
+    'became infested with Centipedes',
     'became covered in a flame producing rash',
     'became flat and leathery',
     'died by suicide',
@@ -334,14 +334,14 @@ gen_data['darkgate'] = [
     'petrified snake mouth',
     'cave',
     'icy cave',
-    'irridescent crawlspace',
+    'iridescent crawlspace',
     'tepid mud pit',
     'crashed astral ship',
     'earthy hole under an old tree',
     'rotting root network',
     'melting ice wall',
     'sulfurous vent',
-    'abandonned mine',
+    'abandoned mine',
     'giant wurm nest',
     'briny pool',
     'mass grave',
@@ -358,7 +358,7 @@ gen_data['darkgate'] = [
     'fire shrine',
     'tar pit',
     'magical mirror',
-    'basement of the abandonned house',
+    'basement of the abandoned house',
     'magma pool',
     'ruined elven temple',
     'astral crystal',
@@ -366,7 +366,7 @@ gen_data['darkgate'] = [
     'ruined tower',
   ];
 gen_data['darkgatecomplication'] = [
-    'the sound of brutal swordfighting coming from it',
+    'the sound of brutal sword fighting coming from it',
     'the irresistible unnatural terror it provokes',
     'the scalding steam rising from it',
     'the fact that it is hidden behind a waterfall',
@@ -381,7 +381,7 @@ gen_data['darkgatecomplication'] = [
     'the special gong that needs to be rang to scare the monsters',
     'the fact that it is deep underwater',
     'the razor-sharp barnacles that cover it',
-    'the inumerable skulls clogging it',
+    'the innumerable skulls clogging it',
     'the sacrifice required to open it',
     'the lava overflowing from it',
     'the trash blocking it',
@@ -432,7 +432,7 @@ gen_data['tunneladjective'] = [
     'mirrored',
     'derelict',
     'magmatic',
-    'abandonned drow',
+    'abandoned drow',
     'silver',
     'arcane',
     'cursed',
@@ -472,7 +472,7 @@ gen_data['tunnelfeature'] = [
     'pleasure dens',
     'tunnels leading to a planar hotel',
     'crystal fields',
-    'ruins of a cursed of civilization',
+    'ruins of a cursed civilization',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -480,7 +480,7 @@ gen_data['tunnelhazard'] = [
     'corrosive',
     'narrow',
     'snow-clogged',
-    'sound-sentititve',
+    'sound-sensitive',
     'wide',
     'light-sucking',
     'slippery',
@@ -495,7 +495,7 @@ gen_data['tunnelhazard'] = [
     'surprising',
     'toxic',
     'weaponized',
-    'desintegrating',
+    'disintegrating',
     'scalding',
     'flooding',
     'rickety',
@@ -526,7 +526,7 @@ gen_data['tunnelobstacle'] = [
     'lava pits',
     'walls',
     'vibrating crystals',
-    'saltstones',
+    'salt stones',
     'bone carpets',
     'grotesque idols',
     'lava floods',
@@ -582,7 +582,7 @@ gen_data['tunnelmonster'] = [
     'Salamanders who {salamanderwants}',
     'Elven Shadows who {elfshadowwants}',
     '{astralspinnertotem} Astral Spinners',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
  ];
 
@@ -683,7 +683,7 @@ gen_data['seaadjective'] = [
     'Steam Elementals who {steamelementalwants}',
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
     'Nereids who {nereidwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'an Undine who {undinewants}',
     'the Warrior Tribe of the {seabeast} {warriorwants}',
 
@@ -701,7 +701,7 @@ gen_data['cityadjective'] = [
     'brutal',
     'archmage’s',
     'doomed',
-    'surveiled',
+    'surveilled',
     'magically operated',
     'long-forgotten',
     'brutally repressed',
@@ -788,7 +788,7 @@ gen_data['cityadjective'] = [
     'fanatical crowds',
     'rampaging Giant {citybeast}',
     'friendly faces',
-    'poluted sludge puddles',
+    'polluted sludge puddles',
     'certain events',
     'large barrels',
     'hidden pit traps',
@@ -821,7 +821,7 @@ gen_data['cityadjective'] = [
     'recklessly cast spells',
     'require balance to navigate',
     'could curse you',
-    'could make building collapse',
+    'could make buildings collapse',
     'hide a spy',
     'could poison you',
     'could provoke a slave revolt',
@@ -868,7 +868,7 @@ gen_data['cityadjective'] = [
     'an Oni that {oniwants}',
     '{rattotem} Rats',
     'Elven Shadows who {elfshadowwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
 
   ];
@@ -887,7 +887,7 @@ gen_data['swampadjective'] = [
     'dark',
     'gnarly',
     'mud-caked',
-    'vine-strangeld',
+    'vine-strangled',
     'blood-red',
     'bird-infested',
     'ochre',
@@ -916,7 +916,7 @@ gen_data['swampadjective'] = [
     'big',
     'misty',
     'oozing',
-  
+ 
   ];
   gen_data['swampfeature'] = [
     'mangrove',
@@ -1060,7 +1060,7 @@ gen_data['swampadjective'] = [
     '{rattotem} Rats',
     '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {swampbeast} {warriorwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
     'Athachs who {athachculture} {athachproblem}',
     'Ooze Mephits who {oozemephitwants}',
@@ -1101,7 +1101,7 @@ gen_data['plainsadjective'] = [
     'big',
     'dusty',
     'arid',
-  
+ 
   ];
   gen_data['plainsfeature'] = [
     'sky shrine',
@@ -1173,7 +1173,7 @@ gen_data['plainsadjective'] = [
     'are unstable',
     'you will need to fly over',
     'could provoke a stampede',
-    'could make you trip',
+    'could make you trip and fall',
     'could kill your mount',
     'could curse you',
     'attract Goblins',
@@ -1206,7 +1206,7 @@ gen_data['plainsadjective'] = [
     'a Donestre who {donestrewants}, but {donestredo}',
     'Goblins who {goblinculture} {goblinproblem}',
     '{copperbacktotem} Copperback Snakes',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'the Great Horde and their War {plainsbeast}',
     'the Warrior Tribe of the {plainsbeast} {warriorwants}',
     'Ogres who {ogreculture} {ogreproblem}',
@@ -1218,10 +1218,10 @@ gen_data['plainsadjective'] = [
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainmountain'] = [
-     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.' 
+     'This {1d10hexes}-hex mountain range is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.'
   ];
 gen_data['mountainbeast'] = [
-    'Bears', 'Wolf', 'Goats', 'Cats', 'Bats', 'Crows', 'Vultures', 'Blue Dracopedes'
+    'Bears', 'Wolf', 'Goats', 'Cats', 'Bats', 'Crows', 'Vultures'
   ];
 gen_data['mountainadjective'] = [
     'big',    
@@ -1317,7 +1317,7 @@ gen_data['mountainadjective'] = [
     'make the air unbreathable',
     'are hard to navigate',
     'are freezing cold',
-    'are treatcherous',
+    'are treacherous',
     'are surprisingly deep',
     'could distract you',
     'could slow you down',
@@ -1361,7 +1361,7 @@ gen_data['mountainadjective'] = [
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
     'an Oni that {oniwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'the Warrior Tribe of the {mountainbeast} {warriorwants}',
     'Water Elementals who {waterelementalwants}',
     'Steam Elementals who {steamelementalwants}',
@@ -1372,10 +1372,10 @@ gen_data['mountainadjective'] = [
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainjungle'] = [
-     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.' 
+     'This {2d4hexes}-hex jungle is known for its {jungleadjective} {junglefeature}. Beware, for there are {jungleobstacle} that {junglehazard} in the area. It is inhabited by {junglemonster}, and also {junglemonster}.'
   ];
 gen_data['junglebeast'] = [
-    'Crocodiles', 'Centipedes', 'Panthers', 'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Casowaries', 'Flamingos', 'Dingoneks'
+    'Crocodiles', 'Centipedes', 'Panthers', 'Elephants', 'Snakes', 'Parrots', 'Aqraseths', 'Bats', 'Basilisks', 'Beetles', 'Cassowaries', 'Flamingos', 'Dingoneks'
   ];
 gen_data['jungleadjective'] = [
     'aquatic',
@@ -1550,17 +1550,17 @@ gen_data['jungleadjective'] = [
     'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
     '{copperbacktotem} Copperback Snakes',
     'the Warrior Tribe of the {junglebeast} {warriorwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainrocky'] = [
-    'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.' 
+    'This {2d4hexes}-hex rocky land is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'
   ];
 gen_data['rockybeast'] = [
-    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures', 'Cougars', 'Centipedes', 'Bloodbeasts', 'Rats'
+    'Goats', 'Boars', 'Bears', 'Wolves', 'Bats', 'Basilisk', 'Crows', 'Vultures', 'Cougars', 'Centipedes', 'Rats'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
@@ -1651,7 +1651,7 @@ gen_data['rockyadjective'] = [
     'patches of snow',  
     'sheep herds',  
     'thorny bushes',  
-    'vicous rusty traps',  
+    'vicious rusty traps',  
     'narrow passages',  
     'dirt roads',  
     'mossy patches',  
@@ -1740,7 +1740,7 @@ gen_data['rockyadjective'] = [
     'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Goblins who {goblinculture} {goblinproblem}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
     'the Great Horde and their War {rockybeast}',
     'the Warrior Tribe of the {rockybeast} {warriorwants}',
@@ -1903,7 +1903,7 @@ gen_data['forestadjective'] = [
     'Water Elementals who {waterelementalwants}',
     'Ogres who {ogreculture} {ogreproblem}',
     'Elven Shadows who {elfshadowwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
 
   ];
 
@@ -1913,7 +1913,7 @@ gen_data['forestadjective'] = [
     'This {2d6hexes}-hex desert is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Bloodbeasts', 'Warthogs'
+    'Camels', 'Hyenas', 'Antelopes', 'Basilisks', 'Bats', 'Beetles', 'Vultures', 'Ostriches', 'Centipedes', 'Cats', 'Warthogs'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -2030,7 +2030,7 @@ gen_data['desertadjective'] = [
     'are near precipices',
     'could dehydrate you',
     'shelter insects',
-    'could make you trip',
+    'could make you trip and fall',
     'could provoke a stampede',
     'could curse you',
     'could block your path',
@@ -2072,7 +2072,7 @@ gen_data['desertadjective'] = [
     'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
     'Goblins who {goblinculture} {goblinproblem}',
     'Earth Mephits who {earthmephitwants}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'the Great Horde and their War {desertbeast}',
     'the Warrior Tribe of the {desertbeast} {warriorwants}',
     '{bloodbeasttotem} Bloodbeasts',
@@ -2087,7 +2087,7 @@ gen_data['mainarctic'] = [
     'This {2d6hexes}-hex cold region is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by {arcticmonster}, and also {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
-    'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Whooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats', 'Dracopedes',  'Geese',
+    'Elks', 'Yaks', 'Bears', 'Penguins', 'Wolves', 'Mammoths', 'Wooly Rhinos', 'Seals', 'Boars', 'Arassas', 'Ravens', 'Seagulls', 'Sabertooth Cats',  'Geese',
   ];
 gen_data['arcticadjective'] = [
     'wind-swept',
@@ -2217,7 +2217,7 @@ gen_data['arcticadjective'] = [
     'Hill Dwarves who {hilldwarfculture} {hilldwarfproblem}',
     'Steam Elementals who {steamelementalwants}',
     'Goblins who {goblinculture} {goblinproblem}',
-    'a Sorcerous Cabbal that {sorcererwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
     'the Great Horde and their War {arcticbeast}',
     'the Warrior Tribe of the {arcticbeast} {warriorwants}',
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2251,7 +2251,7 @@ gen_data['arcticadjective'] = [
     '84-92': 'ten',
     '93-97': 'eleven',
     '98-00': 'twelve'
-  }; 
+  };
    gen_data['4d6hexes'] = {
     '01-03': 'four',
     '04-08': 'six',
@@ -2434,7 +2434,7 @@ gen_data['arcticadjective'] = [
     'protect a passage to the land of the dead',
     'can only be seen when drunk',
     'kill the blissful and protect the weary',
-  ]; 
+  ];
    gen_data['sabertoothcattotem'] = [
     'brave',
     'raging',
@@ -2442,7 +2442,7 @@ gen_data['arcticadjective'] = [
     'pack-hunting',
     'royal',
     'sacred',
-  ]; 
+  ];
    gen_data['centaurculture'] = [
     'follow the migration of giant herds',
     'live off raiding and pillaging',
@@ -2458,7 +2458,7 @@ gen_data['arcticadjective'] = [
     'under the leadership of a Chevall',
     'after the collapse of their civilization',
     'and despise settlers',
-  ]; 
+  ];
    gen_data['bluedracopedetotem'] = [
     'draconic',
     'elemental',
@@ -2466,15 +2466,15 @@ gen_data['arcticadjective'] = [
     'shy',
     'sheltered',
     'sacred',
-  ]; 
+  ];
    gen_data['cultwants'] = [
     'performs sacrifices for their patron',
-    'agressively seeks more members',
+    'aggressively seeks more members',
     'hunts rare materials for a ritual',
     'sells weird trinkets',
     'murders those who know too much',
     'puts bounties on ex members',
-  ]; 
+  ];
    gen_data['cyclopsculture'] = [
     'live peacefully with their sheep',
     'herald the collapse of civilization',
@@ -2482,12 +2482,12 @@ gen_data['arcticadjective'] = [
     'joined the Great Horde',
     'built the biggest {cyclopsstructure} of the world',
     'are feral',
-  ]; 
+  ];
    gen_data['cyclopsstructure'] = [
     'wall', 'fortress', 'maze', 'mill',
   ];
    gen_data['cyclopsproblem'] = [
-    'and are actually good intended',
+    'and are actually well intended',
     'because the gods can see through their eyes',
     'and are worshiped by Orcs',
     'and take nothing seriously',
@@ -2513,7 +2513,7 @@ gen_data['arcticadjective'] = [
    gen_data['hilldwarfculture'] = [
     'recently moved in to prospect',
     'run a big foundry',
-    'run a a legendary brewery',
+    'run a legendary brewery',
     'live in an old mine',
     'are part of an archeological expedition',
     'are roaming monster slayers',
@@ -2554,7 +2554,7 @@ gen_data['arcticadjective'] = [
     'craves endless power',
     'hides among normal people',
     'transcended to another state of being',
-    'agressively fights all trespassers',
+    'aggressively fights all trespassers',
     'hunts down those who persecuted them',
     'pursues sensory pleasures',
   ];  
@@ -2581,7 +2581,7 @@ gen_data['arcticadjective'] = [
     'with Goblins as their intellectual leaders',
     'and live like kings',
     'and are actually pretty sweet',
-  ]; 
+  ];
    gen_data['basilisktotem'] = [
     'deadly',
     'humidity-hating',
@@ -2613,7 +2613,7 @@ gen_data['arcticadjective'] = [
     'swarming',
     'blood-drinking',
     'cursed',
-  ]; 
+  ];
    gen_data['boltforagertotem'] = [
     'sickly',
     'sunset-colored',
@@ -2629,7 +2629,7 @@ gen_data['arcticadjective'] = [
     'drunken',
     'witchy',
     'sacred',
-  ]; 
+  ];
    gen_data['gianttressymtotem'] = [
     'wise',
     'elegant',
@@ -2645,7 +2645,7 @@ gen_data['arcticadjective'] = [
     'medicinal',
     'earthy',
     'taboo',
-  ]; 
+  ];
    gen_data['blackdracopedetotem'] = [
     'draconic',
     'deadly',
@@ -2653,7 +2653,7 @@ gen_data['arcticadjective'] = [
     'shy',
     'shade-loving',
     'sacred',
-  ]; 
+  ];
    gen_data['chevallwants'] = [
     'try to free all domesticated horses',
     'test the bonds between riders and mounts',
@@ -2661,7 +2661,7 @@ gen_data['arcticadjective'] = [
     'kidnap horse-loving kids to transform them into chevalls',
     'hunger for a rare fruit',
     'give rides to an archfeyʼs ball',
-  ]; 
+  ];
    gen_data['donestrewants'] = [
     'wants to be accepted by the locals',
     'longs for a gift',
@@ -2681,11 +2681,11 @@ gen_data['arcticadjective'] = [
    gen_data['reddragontotem'] = [
     'treasure-hoarding',
     'cataclysmic',
-    'tyranic',
+    'tyrannic',
     'metal-melting',
     'powerful',
     'sacred',
-  ]; 
+  ];
    gen_data['reddragonwants'] = [
     'had its treasure stolen',
     'rules the area',
@@ -2697,8 +2697,8 @@ gen_data['arcticadjective'] = [
    gen_data['earthmephitwants'] = [
     'deliver messages from their Earth Elemental master',
     'have complex aristocratic pedigrees',
-    'need to cover the region in earth before the arrival of their master',
-    'are hiding from their autoritative master back in the plane of earth',
+    'need to cover the region with dirt before the arrival of their master',
+    'are hiding from their authoritative master back in the plane of earth',
     'recently spawned from the ground',
     'are gathering information for their stoic master',
   ];  
@@ -2719,7 +2719,7 @@ gen_data['arcticadjective'] = [
     'sacred',
   ];
    gen_data['calytaurculture'] = [
-    'ritually soil beautiful things',
+    'ritualy deface beautiful things',
     'lead a fertility cult',
     'hate all the gods',
     'are known for their cuisine',
@@ -2727,13 +2727,13 @@ gen_data['arcticadjective'] = [
     'avoid strangers like plague',
   ];  
    gen_data['calytaurproblem'] = [
-    'under the leardership a Pig-like Cambion',
+    'under the leadership a Pig-like Cambion',
     'and make charcuterie from human flesh',
     'because they want to summon a Nalfeshnee',
     'and were once humans',
     'and steal human babies',
     'and are obsessed with hygiene',
-  ]; 
+  ];
    gen_data['greendracopedetotem'] = [
     'draconic',
     'territorial',
@@ -2749,7 +2749,7 @@ gen_data['arcticadjective'] = [
     'tragic',
     'taboo',
     'holy',
-  ]; 
+  ];
    gen_data['greendragontotem'] = [
     'deadly',
     'forest-dwelling',
@@ -2757,7 +2757,7 @@ gen_data['arcticadjective'] = [
     'suave',
     'dreaming',
     'worshipped',
-  ]; 
+  ];
    gen_data['greendragonwants'] = [
     'collects humanoids as pets',
     'plots against a rival',
@@ -2773,7 +2773,7 @@ gen_data['arcticadjective'] = [
     'longs for love',
     'is mustering an army of beasts',
     'shelters wounded animals',
-  ]; 
+  ];
    gen_data['mutteringsperpantstotem'] = [
     'contrarian',
     'half-real',
@@ -2781,7 +2781,7 @@ gen_data['arcticadjective'] = [
     'lonely',
     'taboo',
     'venerated',
-  ]; 
+  ];
    gen_data['mutteringsperpantswants'] = [
     'goads people into making bad decisions',
     'is removing all traces of its existence',
@@ -2797,12 +2797,12 @@ gen_data['arcticadjective'] = [
     'peaceful',
     'scheming',
     'sacred',
-  ]; 
+  ];
    gen_data['azizawants'] = [
     'feed travelers for fear of being eaten themselves',
     'grow fruits with faces',
     'channel sunlight into magical fruits',
-    'ride Giant Bees to pollenise giant flowers',
+    'ride Giant Bees to pollinate giant flowers',
     'are addicted to powdered luck',
     'protect a giant fruit',
   ];
@@ -2821,7 +2821,7 @@ gen_data['arcticadjective'] = [
     'vampiric',
     'nightmarish',
     'cursed',
-  ]; 
+  ];
    gen_data['waterelementalwants'] = [
     'want to submerge the area',
     'protect a sacred source',
@@ -2829,7 +2829,7 @@ gen_data['arcticadjective'] = [
     'fight forest fires',
     'dig out the earth',
     'want to return to the plane of water',
-  ]; 
+  ];
    gen_data['lizardfolkculture'] = [
     'carry woven portable houses',
     'live in caves only accessible underwater',
@@ -2837,7 +2837,7 @@ gen_data['arcticadjective'] = [
     'live in the sewers of another civilization',
     'live atop Giant Tortoises',
     'settled the edges of a bottomless pit',
-  ]; 
+  ];
    gen_data['lizardfolkproblem'] = [
     'and believe the apocalypse can be delayed by sacrificing humans',
     'and herd dinosaurs',
@@ -2845,15 +2845,15 @@ gen_data['arcticadjective'] = [
     'because they are only here for their coming of age journey',
     'with their advanced technology',
     'and worship a demon in disguise',
-  ]; 
+  ];
    gen_data['elfshadowwants'] = [
-    'despair to weild magic again',
+    'despair to wield magic again',
     'are in eternal agony',
     'long to experience the pleasures of flesh again',
     'long to be freed from their torment',
     'wish to finish the dark ritual that cursed them',
     'serve a demon of lust',
-  ]; 
+  ];
    gen_data['reddracopedetotem'] = [
     'draconic',
     'fiery',
@@ -2861,7 +2861,7 @@ gen_data['arcticadjective'] = [
     'discreet',
     'heat-loving',
     'sacred',
-  ]; 
+  ];
    gen_data['wraithwants'] = [
     'is on the hunt for a powerful artifact that would allow its master to rule the world',
     'is mad and babbling about long dead enemies',
@@ -2869,7 +2869,7 @@ gen_data['arcticadjective'] = [
     'haunts a collapsed keep',
     'is absorbed by its forbidden studies',
     'is training an apprentice to the dark arts',
-  ]; 
+  ];
    gen_data['rattotem'] = [
     'filthy',
     'plagued',
@@ -2877,7 +2877,7 @@ gen_data['arcticadjective'] = [
     'industrious',
     'vicious',
     'intelligent',
-  ]; 
+  ];
    gen_data['oniwants'] = [
     'kidnaps local children',
     'corrupted the local church',
@@ -2885,7 +2885,7 @@ gen_data['arcticadjective'] = [
     'is a fey bounty hunter',
     'has been stealing from a petty god',
     'trains heroes in martial arts',
-  ]; 
+  ];
    gen_data['aqrasethtotem'] = [
     'patient',
     'clever',
@@ -2893,7 +2893,7 @@ gen_data['arcticadjective'] = [
     'aquatic',
     'ambushing',
     'sacred',
-  ]; 
+  ];
    gen_data['kongamatototem'] = [
     'blindness-causing',
     'boat-flipping',
@@ -2901,7 +2901,7 @@ gen_data['arcticadjective'] = [
     'amphibious',
     'stygian',
     'cursed',
-  ]; 
+  ];
    gen_data['giantflayertotem'] = [
     'brain-sucking',
     'flea-like',
@@ -2909,7 +2909,7 @@ gen_data['arcticadjective'] = [
     'idot-killing',
     'swarming',
     'cursed',
-  ]; 
+  ];
    gen_data['adarnabirdtotem'] = [
     'beautiful',
     'judgemental',
@@ -2917,15 +2917,15 @@ gen_data['arcticadjective'] = [
     'superficial',
     'gorgeous',
     'sacred',
-  ]; 
+  ];
    gen_data['adarnabirdwants'] = [
-    'makes ephemerally beautiful flower arangements',
+    'makes ephemerally beautiful flower arrangements',
     'seeks to be captured by an impossibly good person',
     'never stays the same color',
     'tries to clean everything',
     'would freeze a person at its beauty peak',
     'seeks a singing partner',
-  ]; 
+  ];
    gen_data['blindfiretotem'] = [
     'spicy',
     'voracious',
@@ -2933,7 +2933,7 @@ gen_data['arcticadjective'] = [
     'volcanic',
     'tasty',
     'sacred',
-  ]; 
+  ];
    gen_data['chokerclue'] = [
     'rubbery',
     'sound-sensitive',
@@ -2941,7 +2941,7 @@ gen_data['arcticadjective'] = [
     'backstabbing',
     'agile',
     'boneless',
-  ]; 
+  ];
    gen_data['braincrabtotem'] = [
     'skull-dwelling',
     'cancerous',
@@ -2949,7 +2949,7 @@ gen_data['arcticadjective'] = [
     'surgical',
     'gruesome',
     'taboo',
-  ]; 
+  ];
    gen_data['dingonektotem'] = [
     'combative',
     'armored',
@@ -2957,7 +2957,7 @@ gen_data['arcticadjective'] = [
     'stupid',
     'lumbering',
     'sacred',
-  ]; 
+  ];
    gen_data['salamanderwants'] = [
     'are just here to enjoy hot baths',
     'are mining a mineral only valuable in the other planes',
@@ -2965,7 +2965,7 @@ gen_data['arcticadjective'] = [
     'are partying tourists',
     'are collecting gifts for their Shah',
     'are forging weapons for a mysterious general',
-  ]; 
+  ];
    gen_data['crabtotem'] = [
     'musical',
     'posturing',
@@ -2973,7 +2973,7 @@ gen_data['arcticadjective'] = [
     'armored',
     'delicious',
     'sacred',
-  ]; 
+  ];
    gen_data['oozemephitwants'] = [
     'need to deliver an important message to their filthy master',
     'love to make pranks',
@@ -2981,7 +2981,7 @@ gen_data['arcticadjective'] = [
     'are in hiding from the plane of earth',
     'were recently born and are very naive',
     'spy for their sloshy liege',
-  ]; 
+  ];
    gen_data['abhirclue'] = [
     'war-obsessed',
     'shadowy',
@@ -2989,7 +2989,7 @@ gen_data['arcticadjective'] = [
     'indescribable',
     'soul-assessing',
     'warmongering',
-  ]; 
+  ];
    gen_data['blueabishaiquest'] = [
     'censor a spell powerful enough to wipe an army',
     'execute an Archmage who knows too much',
@@ -2997,13 +2997,13 @@ gen_data['arcticadjective'] = [
     'execute the apprentice of an Ancient Dragon',
     'subdue a powerful Mage',
     'confiscate a legendary artifact',
-  ]; 
+  ];
    gen_data['dragonage'] = [
     'wyrmling',
     'young',
     'adult',
     'ancient',
-  ]; 
+  ];
    gen_data['abyssalwretchclue'] = [
     'gruesome',
     'doomed',
@@ -3011,15 +3011,15 @@ gen_data['arcticadjective'] = [
     'mutating',
     'feral',
     'pitiful',
-  ]; 
+  ];
    gen_data['amberprowlerown'] = [
     'police-operated',
-    'cabbal-owned',
+    'Cabal-owned',
     'spy-owned',
     'mob-owned',
     'church-owned',
     'noble-owned',
-  ]; 
+  ];
    gen_data['animatedrugown'] = [
     'merchant-owned',
     'guild-owned',
@@ -3027,7 +3027,7 @@ gen_data['arcticadjective'] = [
     'mob-owned',
     'wizard-owned',
     'noble-owned',
-  ]; 
+  ];
    gen_data['animusown'] = [
     'cursed',
     'infamous',
@@ -3035,7 +3035,7 @@ gen_data['arcticadjective'] = [
     'hidden',
     'cruel',
     'spiteful',
-  ]; 
+  ];
    gen_data['barbazuquest'] = [
     'massacre the members of a{cult} Cult',
     'corral runaway Lemures',
@@ -3043,7 +3043,7 @@ gen_data['arcticadjective'] = [
     'find and capture {1d10hexes} demon cultist',
     'dislodge dead souls clinging to this world',
     'recruit 66 souls for the Holy Crusade',
-  ]; 
+  ];
    gen_data['cambionfeature'] = [
     'n overconfident',
     ' delusional',
@@ -3051,7 +3051,7 @@ gen_data['arcticadjective'] = [
     ' manipulated',
     ' decadent',
     ' lazy',
-  ]; 
+  ];
    gen_data['cambionculture'] = [
     'is destined to rule the world',
     'is gonna be worshiped like a god',
@@ -3059,7 +3059,7 @@ gen_data['arcticadjective'] = [
     'will lead a crusade in the Abyss',
     'will lead a crusade against the gods',
     'will forge a deadly weapon',
-  ]; 
+  ];
    gen_data['cambionquest'] = [
     'kills the Paladin hunting it',
     'manages to open a special gate',
@@ -3067,15 +3067,15 @@ gen_data['arcticadjective'] = [
     'sacrifices six specific individuals',
     'starts a cult in another town',
     'frees some cultists from jail',
-  ]; 
+  ];
    gen_data['cattotem'] = [
     'precious',
     'clever',
     'jinxing',
     'graceful',
-    'supersticious',
+    'superstitious',
     'sacred',
-  ]; 
+  ];
    gen_data['tressymtotem'] = [
     'magical',
     'lucky',
@@ -3083,7 +3083,7 @@ gen_data['arcticadjective'] = [
     'witchy',
     'pet',
     'sacred',
-  ]; 
+  ];
    gen_data['doppelgangerclue'] = [
     'shapeshifting',
     'elusive',
@@ -3091,7 +3091,7 @@ gen_data['arcticadjective'] = [
     'faceless',
     'plotting',
     'inconspicuous',
-  ]; 
+  ];
    gen_data['dretchclue'] = [
     'miserable',
     'stinky',
@@ -3099,7 +3099,7 @@ gen_data['arcticadjective'] = [
     'dirty',
     'monkey-like',
     'gassy',
-  ]; 
+  ];
    gen_data['dvergrculture'] = [
     'have a massive fortress deep underground',
     'live in a caravan of giant drilling machines',
@@ -3123,7 +3123,7 @@ gen_data['arcticadjective'] = [
     'tomb-guarding',
     'military',
     'noble-protecting',
-  ]; 
+  ];
    gen_data['nereidwants'] = [
     'are looking for new pieces of art',
     'muster the local sealife against the surface-dwellers',
@@ -3131,15 +3131,15 @@ gen_data['arcticadjective'] = [
     'want to free one of their captured sisters',
     'are universe-famous dancers',
     'collect surface playthings',
-  ]; 
+  ];
    gen_data['undinewants'] = [
     'wants to become mortal after receiving a true-love’s kiss',
     'is collecting curios from the surface',
     'asks for gifts for safe passage',
-    'is lookign for a way to walk the surface without dying',
+    'is looking for a way to walk the surface without dying',
     'is curious about your culture',
     'will trade her voice for a mortal soul',
-  ]; 
+  ];
    gen_data['abysmalclue'] = [
     'face-stealing',
     'fear-eating',
@@ -3147,7 +3147,7 @@ gen_data['arcticadjective'] = [
     'horrible',
     'silent',
     'bloated',
-  ]; 
+  ];
    gen_data['brainbatclue'] = [
     'body-snatching',
     'puppeteering',
@@ -3155,7 +3155,7 @@ gen_data['arcticadjective'] = [
     'parasitic',
     'amphibious',
     'face-hugging',
-  ]; 
+  ];
    gen_data['cloakerclue'] = [
     'silent',
     'flying',
@@ -3163,7 +3163,7 @@ gen_data['arcticadjective'] = [
     'disguising',
     'amphibious',
     'shadowy',
-  ]; 
+  ];
    gen_data['egarustotem'] = [
     'world-eating',
     'apocalyptic',
@@ -3171,7 +3171,7 @@ gen_data['arcticadjective'] = [
     'sticky',
     'deadly',
     'taboo',
-  ]; 
+  ];
    gen_data['firemephitwants'] = [
     'deliver important messages from their fiery master',
     'love to fight, but not to the death',
@@ -3187,7 +3187,7 @@ gen_data['arcticadjective'] = [
     'patient',
     'sacred',
     'taboo',
-  ]; 
+  ];
    gen_data['greenspawnclue'] = [
     'deformed',
     'poisonous',
@@ -3195,7 +3195,7 @@ gen_data['arcticadjective'] = [
     'brutish',
     'amphibious',
     'tortured',
-  ]; 
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>    
   </head>
@@ -3209,7 +3209,7 @@ gen_data['arcticadjective'] = [
     <option value="main">Surface</option>
     <option value="darkmain">Underdark</option>
   </select>
-</form> 
+</form>
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
     <p><input type="button" value="Generate" onclick="more_random();" /></p>
     <script src="data:text/javascript;base64,Ly8gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtCi8vIHJhbmRvbS5qcwovLwovLyB3cml0dGVuIGFuZCByZWxlYXNlZCB0byB0aGUgcHVibGljIGRvbWFpbiBieSBkcm93IDxkcm93QGJpbi5zaD4KLy8gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLwoKJ3VzZSBzdHJpY3QnOwpmdW5jdGlvbiBtb3JlX3JhbmRvbSgpCgl7bGV0IGE9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoIm91dHB1dCIpOwoJdmFyIGI9MTsKCXZhciBlPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsYW5kc2NhcGUiKTsKCXZhciBjaG9pY2U9ZS52YWx1ZTsKCWI9Z2VuZXJhdGVfbGlzdChjaG9pY2UsYik7CglhLnZhbHVlPWIuam9pbigiXG4iKX0KZnVuY3Rpb24gZ2VuZXJhdGVfdGV4dChhKQoJe2lmKGE9Z2VuX2RhdGFbYV0pCgkJaWYoYT1zZWxlY3RfZnJvbShhKSkKCQkJcmV0dXJuIGV4cGFuZF90b2tlbnMoYSk7CgkJcmV0dXJuIiJ9CmZ1bmN0aW9uIGdlbmVyYXRlX2xpc3QoYSxiKQoJe2xldCBjPVtdLGQ7Cglmb3IoZD0wOyBkPGI7IGQrKykKCQljLnB1c2goZ2VuZXJhdGVfdGV4dChhKSk7CgkJcmV0dXJuIGN9CmZ1bmN0aW9uIHNlbGVjdF9mcm9tKGEpCgl7cmV0dXJuIGEuY29uc3RydWN0b3I9PUFycmF5P3NlbGVjdF9mcm9tX2FycmF5KGEpOnNlbGVjdF9mcm9tX3RhYmxlKGEpfQpmdW5jdGlvbiBzZWxlY3RfZnJvbV9hcnJheShhKQoJe3JldHVybiBhW01hdGguZmxvb3IoCglNYXRoLnJhbmRvbSgpKmEubGVuZ3RoKV19CmZ1bmN0aW9uIHNlbGVjdF9mcm9tX3RhYmxlKGEpe3ZhciBiO2lmKGI9c2NhbGVfdGFibGUoYSkpe2I9TWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKmIpKzE7bGV0IGM7Zm9yKGMgaW4gYSl7bGV0IGQ9a2V5X3JhbmdlKGMpO2lmKGI+PWRbMF0mJmI8PWRbMV0pcmV0dXJuIGFbY119fXJldHVybiIifQpmdW5jdGlvbiBzY2FsZV90YWJsZShhKXtsZXQgYj0wLGM7Zm9yKGMgaW4gYSlhPWtleV9yYW5nZShjKSxhWzFdPmImJihiPWFbMV0pO3JldHVybiBifQpmdW5jdGlvbiBrZXlfcmFuZ2UoYSl7bGV0IGI7cmV0dXJuKGI9LyhcZCspLTAwLy5leGVjKGEpKT9bcGFyc2VJbnQoYlsxXSksMTAwXTooYj0vKFxkKyktKFxkKykvLmV4ZWMoYSkpP1twYXJzZUludChiWzFdKSxwYXJzZUludChiWzJdKV06IjAwIj09YT9bMTAwLDEwMF06W3BhcnNlSW50KGEpLHBhcnNlSW50KGEpXX0KZnVuY3Rpb24gZXhwYW5kX3Rva2VucyhhKQoJe2Zvcih2YXIgYjtiPS97KFx3Kyl9Ly5leGVjKGEpOykKCQl7Yj1iWzFdOwoJCWxldCBjOwoJCWE9KGM9Z2VuZXJhdGVfdGV4dChiKSk/YS5yZXBsYWNlKCJ7IitiKyJ9IixjKTphLnJlcGxhY2UoInsiK2IrIn0iLGIpfQoJcmV0dXJuIGF9Cm1vcmVfcmFuZG9tKCk7"></script>
