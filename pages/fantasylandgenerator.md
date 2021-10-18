@@ -15,7 +15,7 @@
   let gen_data = {};
 
      gen_data['main'] = [
-'{mainenchanted}',
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
       ];
  
      gen_data['darkmain'] = [
@@ -28,21 +28,17 @@ gen_data['mainweird'] = [
       '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
   ];
       
-gen_data['mainmain'] = [      
-             '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
-  ];
-
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This enchanted {1d10hexes}-hex cold region is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {arcticmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex desert is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {desertmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex forest is known for its {enchantedadjective} {forestfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {forestmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex grassland is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {plainsmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex mountain chain is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {mountainmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex rocky region is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {rockymonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex swamp is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {swampmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex jungle is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {junglemonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex cold region is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {arcticmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex desert is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {desertmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex forest is known for its {enchantedadjective} {forestfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {forestmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex grassland is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {plainsmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex mountain chain is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {mountainmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex rocky region is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {rockymonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex swamp is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {swampmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex jungle is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
