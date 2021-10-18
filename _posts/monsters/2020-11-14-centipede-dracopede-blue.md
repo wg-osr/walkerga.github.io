@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic mountain underdark
+tags: monster beast arctic mountain underdark enchanted
 permalink: /monsters/centipede-dracopede-blue
 title: Centipede, Dracopede, Blue
 ---
