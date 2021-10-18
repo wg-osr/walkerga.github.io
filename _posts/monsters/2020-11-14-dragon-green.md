@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  forest jungle swamp
+tags: monster beast  forest jungle swamp enchanted
 permalink: /monsters/dragon-green
 title: Dragon, Green
 ---
