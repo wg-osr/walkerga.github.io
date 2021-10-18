@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant  jungle swamp
+tags: monster plant  jungle swamp enchanted
 permalink: /monsters/blindfire-vine
 title: Blindfire Vine
 ---
