@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  forest jungle plains swamp underdark
+tags: monster beast  forest jungle plains swamp underdark enchanted
 permalink: /monsters/snake-copperback
 title: Snake, Copperback
 ---
