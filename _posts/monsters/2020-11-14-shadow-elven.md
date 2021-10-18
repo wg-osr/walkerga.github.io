@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead forest city underdark chaos cursed
+tags: monster undead forest city underdark chaos cursed enchanted
 permalink: /monsters/shadow-elven
 title: Shadow, Elven
 ---
