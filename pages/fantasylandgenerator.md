@@ -35,8 +35,8 @@ gen_data['mainmain'] = [
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This {1d10hexes}-hex cold region is enchanted. It now has {enchantedadjective} {arcticfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. There has been sightings of {enchantedmonster} in the area. Also, know that in this land, {arcticmonster} {enchantedtaint}.',
-    'This {1d10hexes}-hex desert is enchanted. It now has {enchantedadjective} {desertfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. There has been sightings of {enchantedmonster} in the area. Also, know that in this land, {desertmonster} {enchantedtaint}.',
+    'This enchanted {1d10hexes}-hex cold region has {enchantedadjective} {arcticfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say the magic here is the work of {enchantedmonster}. Because of that {arcticmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex desert has {enchantedadjective} {desertfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say the magic here is the work of {enchantedmonster}. Because of that {desertmonster} {enchantedtaint} in this land.',
     'This {1d10hexes}-hex forest is enchanted. It is known for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
     'This {1d10hexes}-hex grassland is enchanted. It is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
     'This one-hex mountain is enchanted. It is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
