@@ -31,14 +31,14 @@ gen_data['mainweird'] = [
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This {1d10hexes}-hex cold region is enchanted. It is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex desert is enchanted. It is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex forest is enchanted. It is known for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex grassland is enchanted. It is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
-    'This one-hex mountain is enchanted. It is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex rocky land is enchanted. It is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex swamp is enchanted. It is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
-    'This {1d10hexes}-hex jungle is enchanted. It is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedchazard} {enchantedobstacle}. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex cold region is enchanted. It is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {arcticmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex desert is enchanted. It is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {desertmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex forest is enchanted. It is known for its {enchantedadjective} {forestfeature} there. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {forestmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex grassland is enchanted. It is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {plainsmonster} {enchantedtaint} in this land.',
+    'This one-hex mountain is enchanted. It is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {mountainmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex rocky land is enchanted. It is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {rockymonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex swamp is enchanted. It is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {swampmonster} {enchantedtaint} in this land.',
+    'This {1d10hexes}-hex jungle is enchanted. It is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedchazard} {enchantedobstacle} here. There has been sightings of {enchantedmonster} in the area. Also, know that {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
@@ -56,15 +56,15 @@ gen_data['mainweird'] = [
     'hallucinogenic',
     'flying',
     'gargantuan acacia with branches like',
-    'ice flowers nested in the',
-    'flame flowers nested in the',
-    'illusory horses running in the',
+    'ice flowers nested in its',
+    'flame flowers nested in its',
+    'illusory horses running in its',
     'face-shaped',
     'crying',
     'mirrored',
-    'hedge maze hiding the',
+    'hedge maze hiding its',
     'giant oak by the',
-    'galant court being held at the',
+    'galant court being held at its',
     'forking',
     'sea-water',
     'cherry blossom',
@@ -3364,7 +3364,7 @@ gen_data['arcticadjective'] = [
  
     <br>
     <br>
-    All the monsters named above are described and credited in these lists:<br>
+    Dont know a monster? They are descibed here!<br>
     <ol>
     <li><a href="https://saltygoo.github.io/list/arctic">Cold climate monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a></li>
@@ -3380,6 +3380,7 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/chaos">Corrupted by Chaos monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/urban">Cursed by Death monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/holy">Divine Order monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/enchanted">Enchanted Dream monster list</a></li>
     </ol>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
