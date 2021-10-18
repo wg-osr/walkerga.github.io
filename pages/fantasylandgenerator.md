@@ -138,9 +138,9 @@ gen_data['mainweird'] = [
     'mist',
     'powdered drug',
     '{color} poppy',
-    'rattles,
-    'threads,
-    'fountains,
+    'rattles',
+    'threads',
+    'fountains',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -173,7 +173,7 @@ gen_data['mainweird'] = [
     'started to discociate from their shadows',
     'stopped dreaming',
     'vanished to the astral world',
-    'became mute and beautiful,
+    'became mute and beautiful',
   ];    
  
   gen_data['enchantedmonster'] = [
