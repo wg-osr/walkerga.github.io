@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct  city holy
+tags: monster construct  city holy enchanted
 permalink: /monsters/animated-rug
 title: Animated Object, Rug of Smothering
 ---
