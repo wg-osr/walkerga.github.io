@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration fauna
+tags: monster aberration fauna enchanted
 permalink: /monsters/ooze-orange-sludge
 title: Ooze, Orange Sludge
 ---
