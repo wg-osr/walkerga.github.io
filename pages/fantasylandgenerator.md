@@ -15,7 +15,7 @@
   let gen_data = {};
 
      gen_data['main'] = [
-{mainenchanted}',
+'{mainenchanted}',
       ];
  
      gen_data['darkmain'] = [
@@ -25,10 +25,13 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-       '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
       '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
   ];
       
+gen_data['mainmain'] = [      
+             '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
+  ];
+
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
