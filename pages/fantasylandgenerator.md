@@ -59,6 +59,12 @@ gen_data['mainweird'] = [
     'ice flowers nested in the',
     'flame flowers nested in the',
     'illusory horses running in the',
+    'face-shaped',
+    'crying',
+    'mirrored',
+    'hedge maze hiding the',
+    'giant oak by the',
+    'galant court being held at the',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -79,6 +85,12 @@ gen_data['mainweird'] = [
     'crystalline',
     'incendiary',
     'horse-like',
+    'moaning',
+    'lonely',
+    'mimicking',
+    'dreaming',
+    'plant-controlling',
+    'season-changing',
   ];    
       
  gen_data['enchantedobstacle'] = [
@@ -98,7 +110,13 @@ gen_data['mainweird'] = [
     'vistas',
     'ice sculptures',
     'pyres',
-    'grass',
+    '{color} grass',
+    'trees',
+    'floating heads',
+    'mirrors',
+    '{color} fumes',
+    '{color} leaves',
+    'music',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -119,6 +137,11 @@ gen_data['mainweird'] = [
     'became trapped in ice cages',
     'became hypnotized by fire',
     'gained horse-like features',
+    'became half-trees',
+    'became agressively anti-social',
+    'became replaced by a Doppelganger',
+    'cannot wake up',
+    'became entertainment for a fairy court',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -139,6 +162,12 @@ gen_data['mainweird'] = [
     '{bluedracopedetotem} Blue Dracopedes',
     '{reddracopedetotem} Red Dracopedes',
     'Chevalls who {chevallwants}',
+    'a {deathsheadtotem} Death’s Head Tree',
+    'a Donestre who {donestrewants}, but {donestredo}',
+    '{doppelgangerclue} aberrations known as Doppelgangers',
+    'a {greendragontotem} {dragonage} Green Dragon who {greendragonwants}',
+    'a Dryad who {dryadwants}',
+    'Eladrins who {eladrinculture} {eladrinproblem}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3251,8 +3280,24 @@ gen_data['arcticadjective'] = [
     'amphibious',
     'tortured',
   ];
+   gen_data['eladrinculture'] = [
+    'act as cold and aloof as winter within mirrored halls',
+    'are as romantic as springtime love in curated gardens',
+    'live the abandon of summer abondance during countless fairs',
+    'are as melancholic as autumn in forested banquet halls',
+    'are as dark and imperious as monsson season in gloomy, lush towers',
+    'live the numbing heat of the dry season in vapor sky-barges',
+  ];
+   gen_data['eladrinproblem'] = [
+    'where only beauty is allowed',
+    'where an Archfey is soon to visit and be assassinated',
+    'where they plan to invade and reform the uglies',
+    'where there is a new law every day and following it is forbidden',
+    'which they plan to move somewhere else',
+    'that are only superficially beautiful',
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>    
+    </script>
   </head>
   <body>
     
