@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental arctic desert mountain plains sea
+tags: monster elemental arctic desert mountain plains sea enchanted
 permalink: /monsters/airwalker
 title: Airwalker
 ---
