@@ -25,7 +25,7 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-    '{mainchaos}', '{maincursed}', '{maindivine}',
+    '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
   ];
       
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -49,6 +49,16 @@ gen_data['mainweird'] = [
     'fruit-shaped',
     'sculpture-filled',
     'giant snow globe encasing its',
+    'song',
+    'vine-choked',
+    'famous festival of at the',
+    'cat-shaped',
+    'hallucinogenic',
+    'flying',
+    'gargantuan acacia with branches like',
+    'ice flowers nested in the',
+    'flame flowers nested in the',
+    'illusory horses running in the',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -59,6 +69,16 @@ gen_data['mainweird'] = [
     'addictive',
     'petrifying',
     'freezing',
+    'mesmerizing',
+    'tangling',
+    'drunken',
+    'feline',
+    'hallucinogenic',
+    'flying',
+    'sky-high',
+    'crystalline',
+    'incendiary',
+    'horse-like',
   ];    
       
  gen_data['enchantedobstacle'] = [
@@ -66,9 +86,19 @@ gen_data['mainweird'] = [
     'cages',
     'doors',
     'time loops',
-    'fruits',
+    '{color} fruits',
     'statues',
     'snowflakes',
+    '{color} orchids',
+    '{color} peppers',
+    'barrels of ale',
+    'smiles',
+    'tumbleweed',
+    'yarn',
+    'vistas',
+    'ice sculptures',
+    'pyres',
+    'grass',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -79,6 +109,16 @@ gen_data['mainweird'] = [
     'became half-fruits',
     'decided to become blind',
     'cannot tolerate heat anymore',
+    'became unfathomably beautiful',
+    'started growing plants on their bodies',
+    'started seeing ghosts when drunk',
+    'became mind-controlled by cats',
+    'became addicted to the specific flower’s nectar',
+    'became scared of cats',
+    'started living as high as possible',
+    'became trapped in ice cages',
+    'became hypnotized by fire',
+    'gained horse-like features',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -89,7 +129,18 @@ gen_data['mainweird'] = [
     'Azizas who {azizawants}',
     'a {basilisktotem} Basilisk',
     '{arcticbattotem} Arctic Bats',
- ];
+    'a {adarnabirdtotem} Adarna Bird who {adarnabirdwants}',
+    '{blindfiretotem} Blindfire Vines',
+    'Cadejos who {cadejowants}',
+    '{cattotem} Cats',
+    '{cactuscattotem} Cactus Cats',
+    '{tressymtotem} Tressyms',
+    '{gianttressymtotem} Giant Tressyms',
+    '{bluedracopedetotem} Blue Dracopedes',
+    '{reddracopedetotem} Red Dracopedes',
+    'Chevalls who {chevallwants}',
+
+      ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['maindivine'] = [
@@ -2267,6 +2318,10 @@ gen_data['arcticadjective'] = [
   };      
   gen_data['cult'] = [
     ' Fey', 'n Elemental', ' Demonic', 'n Ancient', 'n Eldritch', ' Death', ' Drug',
+  ];
+      
+  gen_data['color'] = [
+    'red', 'pink', 'yellow', 'green', 'orange', 'blue', 'violet', 'black', 'white', 
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
