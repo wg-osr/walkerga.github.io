@@ -40,9 +40,9 @@ gen_data['mainmain'] = [
     'This enchanted {1d10hexes}-hex forest has {enchantedadjective} {forestfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {forestmonster} {enchantedtaint} in this land.',
     'This enchanted {1d10hexes}-hex grassland has {enchantedadjective} {plainsfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {plainsmonster} {enchantedtaint} in this land.',
     'This enchanted {1d10hexes}-hex mountain chain has {enchantedadjective} {mountainfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {mountainmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex rocky region chain has {enchantedadjective} {rockyfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {rockymonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex swamp chain has {enchantedadjective} {swampfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {swampmonster} {enchantedtaint} in this land.',
-    'This enchanted {1d10hexes}-hex jungle chain has {enchantedadjective} {junglefeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {junglemonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex rocky region has {enchantedadjective} {rockyfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {rockymonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex swamp has {enchantedadjective} {swampfeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {swampmonster} {enchantedtaint} in this land.',
+    'This enchanted {1d10hexes}-hex jungle has {enchantedadjective} {junglefeature}. Beware! The {enchantedobstacle} are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
