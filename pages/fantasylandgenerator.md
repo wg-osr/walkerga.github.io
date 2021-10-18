@@ -65,6 +65,14 @@ gen_data['mainweird'] = [
     'hedge maze hiding the',
     'giant oak by the',
     'galant court being held at the',
+    'forking',
+    'sea-water',
+    'cherry blossom',
+    'amber-trapped',
+    'ruined elven',
+    'copper',
+    'silver-sewn',
+    'trinket-covered',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -91,6 +99,14 @@ gen_data['mainweird'] = [
     'dreaming',
     'plant-controlling',
     'season-changing',
+    'insecure',
+    'drowning',
+    'abducting',
+    'magic-twisting',
+    'decadent',
+    'copper',
+    'silver',
+    'clingy',
   ];    
       
  gen_data['enchantedobstacle'] = [
@@ -117,6 +133,14 @@ gen_data['mainweird'] = [
     '{color} fumes',
     '{color} leaves',
     'music',
+    'glass animals',
+    'foam',
+    'mist',
+    'powdered drug',
+    '{color} poppy',
+    'rattles,
+    'threads,
+    'fountains,
   ];
       
   gen_data['enchantedtaint'] = [
@@ -142,6 +166,14 @@ gen_data['mainweird'] = [
     'became replaced by a Doppelganger',
     'cannot wake up',
     'became entertainment for a fairy court',
+    'became paranoid',
+    'became unable to breath outside of water',
+    'became manipulated by an Oni',
+    'can polymorph into jelly',
+    'started to discociate from their shadows',
+    'stopped dreaming',
+    'vanished to the astral world',
+    'became mute and beautiful,
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -168,6 +200,14 @@ gen_data['mainweird'] = [
     'a {greendragontotem} {dragonage} Green Dragon who {greendragonwants}',
     'a Dryad who {dryadwants}',
     'Eladrins who {eladrinculture} {eladrinproblem}',
+    'a {mutteringsperpantstotem} Muttering Serpent who {mutteringsperpantswants}',
+    'Nereids who {nereidwants}',
+    'an Oni that {oniwants}',
+    'Orange Sludges who {orangesludgewants}',
+    'Elven Shadows who {elfshadowwants}',
+    '{copperbacktotem} Copperback Snakes',
+    '{astralspinnertotem} Astral Spinners',
+    'an Undine who {undinewants}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3296,8 +3336,16 @@ gen_data['arcticadjective'] = [
     'which they plan to move somewhere else',
     'that are only superficially beautiful',
   ];
+   gen_data['orangesludgewants'] = [
+    'were once decadent elves',
+    'are addicted to party drugs',
+    'hate beauty',
+    'sometimes take vague humanoid shapes',
+    'stain all they touch',
+    'freeze under sunlight',
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> 
   </head>
   <body>
     
