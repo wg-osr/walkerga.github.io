@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant  forest rocky jungle swamp chaos cursed holy
+tags: monster plant  forest rocky jungle swamp chaos cursed holy enchanted
 permalink: /monsters/death-head-tree
 title: Death's Head Tree
 ---
