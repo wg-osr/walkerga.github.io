@@ -15,8 +15,8 @@
   let gen_data = {};
 
      gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}'
- ];
+{mainenchanted}',
+      ];
  
      gen_data['darkmain'] = [
     'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
@@ -25,7 +25,8 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-    '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
+       '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
+      '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
   ];
       
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
