@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  desert  plains
+tags: monster beast  desert  plains enchanted
 permalink: /monsters/cat-cactus
 title: Cat, Cactus
 ---
