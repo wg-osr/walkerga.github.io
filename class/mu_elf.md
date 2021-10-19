@@ -28,7 +28,7 @@ Roll on this list when you level up:
 1. [Ghost Orchestra](/2020/11/13/ghost-orchestra)
 
 <ins>Perk</ins><br>
-You may add +1 SD to a spell if you are touching a large tree (at least 50’ high, roots count). This extra SD does not return to your pool or trigger catastrophes.
+You have one extra SD as long as you are not wounded and you have all your HP.
 
 <ins>Drawback</ins><br>
 If you are scarred, disfigured, or filthy you must save each morning or be unable to cast spells that day.
