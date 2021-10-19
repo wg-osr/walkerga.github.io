@@ -5,11 +5,11 @@ title: Transmigration
 ---
 D: Sigil
 
-Prepared canopic jars and paraphernalia must be available, loaded with organs and marked by your Sigil before the casting of this spell. 
+Prepared canopic jars and paraphernalia must be available, loaded with the organs of a person slain in the last [dice] days, and marked by your Sigil before the casting of this spell. 
 
-Using the remains, a ritual of three days and three nights may then be performed that slowly gathers a new body around the soul still contained a brains and viscera as fresh as [dice] days. 
+Using the remains, a ritual of three days and three nights may then be performed that slowly gathers a new body around the soul still contained in the brains and viscera. 
 
-This new body should be determined randomly. There is [dice] chance out of 4 that the knowledge, self, and memories of the slain person are preserved.
+There is [dice] chance out of 4 that the knowledge, self, and memories of the slain person are preserved.
 
 If your Sigil would be to disapear, the new body would quickly start to rot.
 
