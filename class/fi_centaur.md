@@ -31,10 +31,10 @@ For every Centaur template you have, increase your HP and Movement by 1.
 You can attack with your hooves, inflicting 1D6 damage and shoving on a failed save.
 
 ## Ride or Die
-You and your rider can take a hit for one another. You also take your turn at the same time, using the best initiative.
+You and your rider can take a hit for one another.
 
 ## Star Map
-You and your team can travel twice as fast through arctic, desert and plains hexes. Once per travel day, you can choose to not roll for encounters in one of these hexes.
+Once per day, you and your team can skip through a arctic, desert or grassland hex when you travel.
 
 ## Charge
 If you charge in a straight line towards a target, you and your rider's next melee attack against it this turn inflicts an extra 1D6 damage and you can use your MOV score instead of your STR for your attack roll.
