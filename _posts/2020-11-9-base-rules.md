@@ -39,20 +39,20 @@ Choose a [class](https://saltygoo.github.io/classes/). Add the class’s startin
 
 <ins>Intelligence</ins> represents your knowledge and capacity to learn. It affects the number of skills you can have.
 
-<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects your combat order.
+<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects the number of spells you can know.
 
-<ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can hav.
+<ins>Charisma</ins> represents your personality. It is used to for social intereactions and affects the number of followers you can have.
 
-<ins>HP</ins> (or Hit Points) is the amount of hits you can take before getting [Wounded](#dying--healing).
+<ins>HP</ins> (or Hit Points) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
-<ins>Movement</ins> might be for climbing, jumping, or rolled against a monster’s movement when trying to escape it. When trying to escape, failure means the battle has simply moved to another location.
+<ins>Movement</ins> might be for climbing, jumping, or to escape a monster. When trying to escape, failure means the battle has simply moved to another location.
 
 <details markdown="1">
 <summary>Example</summary>
 *Beau is running away from a troll. He rolls his movement and gets 17, this is higher than 15 and means that beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room the dungeon.*
 </details>
 
-<ins>Armor</ins> is the amount of damage you ignore on each attack, to a minimum of 1.
+<ins>Armor</ins> is the amount of damage you ignore on each attack.
 
 A <ins>Skill</ins> can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Intelligence.
 
@@ -74,7 +74,7 @@ For easy situations, the referee might have you roll higher than 10. For hard si
 *A troll is roughly as fast as a human. When trying to escape one, Beau had to roll above 15. He rolled 12 and added his movement score of 5, for a total of 17, and thus escaped the troll. He ran into a bunch of slow zombies and doesn't want to fight them. It's gonna be an easy escape and the referee decides Beau only has to beat 10 to run away.*
 </details>
 
-A referee should only call for a roll when both success and failure have interesting consequences. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
+A referee should only call for a roll when both success and failure have interesting consequences. Sometimes, failure only means that it takes 10 minutes to achieve the action isntead of a few seconds. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
 Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacle (shooting from very far, attacking under water, etc).
 
@@ -161,7 +161,7 @@ must take one action to recharge
 
 **Armor:**
 
-All armor pieces reduce damage by 2, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors. Damage cannot be reduced below 1.
+All armor pieces reduce damage by 1, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armors.
 
 ---
 
