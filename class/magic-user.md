@@ -53,7 +53,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 
 ## Familiar
 
-One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve for free at will albeit with a [dice] and a [sum] of 1. You dont know the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
+One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve with 1SD once per Day. You dont know the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
 
 Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat's. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
 
