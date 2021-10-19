@@ -4,7 +4,10 @@ title: The Pigfolk
 permalink: /class/specialist/pigfolk
 ---
 
-<span class="alchemy"> *This was initially a monster class for the [Calytaur](https://saltygoo.github.io/monsters/calytaur). I really like how many OSR systems represents exta weight as inventory slots and I wanted to play with this mechanic for a class based on the tropes of the pigs. The end result is, I hope, a pretty versatile and fun class with a twist on resource management. — SaltyGoo* </span>
+<details markdown="1">
+<summary>Design Notes</summary>
+This was initially a monster class for the [Calytaur](https://saltygoo.github.io/monsters/calytaur). I really like how many OSR systems represents exta weight as inventory slots and I wanted to play with this mechanic for a class based on the tropes of the pigs. The end result is, I hope, a pretty versatile and fun class with a twist on resource management.
+</details>
 
 <ins>Starting Equipment</ins><br>
 Lumberjack axe or meat cleaver, leather armor, jug of mud.
