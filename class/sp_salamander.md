@@ -6,7 +6,9 @@ permalink: /class/specialist/salamander
 
 <details markdown="1">
 <summary>Design Notes</summary>
-*This is a monster class for the [salamander](https://saltygoo.github.io/monsters/salamander). I base my designs upon Jojiro's [philosophy](https://dungeonantology.com/2020/08/09/glog-class-design/). This class is special because it changes the way environment is percieved: it takes two common barriers for adventurers (fire and metal) and opens them up, while making water a terrifying one. Templates C and D make the salamander a deadly fighter in melee, but it lacks the durability to truely abuse it. — SaltyGoo*
+*This is a monster class for the [salamander](https://saltygoo.github.io/monsters/salamander). I base my designs upon Jojiro's [philosophy](https://dungeonantology.com/2020/08/09/glog-class-design/). This class is special because it changes the way environment is percieved: it takes two common barriers for adventurers (fire and metal) and opens them up, while making water a terrifying one. Templates C and D make the salamander a deadly fighter in melee, but it lacks the durability to truely abuse it.
+
+The power of this class relies on the interactions between all its abilities: the fire damage boost improves Fire is Art, Metalbending and Molten Molting, and Snatching Tongue is a good way to touch something for more than a round and trigger Fire is Art. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
