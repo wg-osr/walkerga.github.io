@@ -25,13 +25,13 @@ For every Dwarf template you have, increase the number of [armor pieces](/2020/1
 You can smell/taste craftsmanship within 10’. This may be hampered by other overwhelming odors.
 
 ## Stony Recovery
-When you die from poison or disease, you are petrified for a session, then return to life at 1 HP, purified of the malady.
+When you would die from poison or disease, you are petrified instead. You can be "resurected" if you are doused in alcohol.
 
 ## Obsession
-Every time you end a session in a civilized location, roll wisdom. On a failure, spend the next session making an object of power related to your story or profession. Then roll 1D4 to see how many [Treasures](/2020/11/10/extra-rules#treasures) you spend doing this (you might go in debt). Describe what you’d like it to be and the GM will describe what it actually is.
+Every time you end a session in a civilized location, roll wisdom. On a failure, you must sell 1D4 items from your inventory and spend the profits to craft as many items related to your profession of equivalent value. Describe what you’d like them to be and the GM will describe what they actually are.
 
 ## Greed
-Gain a +1 bonus to saves for each inventory slot filled with [Treasure](/2020/11/10/extra-rules#treasures).
+Gain a +1 bonus to all saves for each inventory slot filled with [Treasure](/2020/11/10/extra-rules#treasures).
 
 ## Heart of the Mountain
 Always knows when all the secret doors and passages on a floor have been discovered.
