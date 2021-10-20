@@ -15,7 +15,7 @@
   let gen_data = {};
 
      gen_data['main'] = [
-'{mainmagical}'
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
       ];
  
      gen_data['darkmain'] = [
@@ -45,6 +45,8 @@ gen_data['mainweird'] = [
     'A floating vault seals',
     'A device attracts shooting stars to',
     'An sickly green glow emanates from',
+    'A flying island hosts',
+    'Clouds lift',
  
   ];
  
@@ -52,6 +54,8 @@ gen_data['mainweird'] = [
     'prevent the casting of spells',
     'radiate fear',
     'provoke mutations from exposure',
+    'are on the flying islets that pepper the region',
+    'surround cloud portals',
 
   ];    
             
@@ -59,12 +63,16 @@ gen_data['mainweird'] = [
     'started hunting wizards',
     'started speaking of people in the stars',
     'mutated',
+    'started hiding from an invisible killer',
+    'started living in the clouds',
   ];    
  
   gen_data['magicalmonster'] = [
     'a Blue Abishai on a divine mission to {blueabishaiquest}',
     '{abysmalclue} aberrations known as Abysmals',
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
+    'an Aerial Servant who {aerialservantwants}',
+    'Airwalkers who {airwalkerwants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -3381,6 +3389,21 @@ gen_data['arcticadjective'] = [
     'sometimes take vague humanoid shapes',
     'stain all they touch',
     'freeze under sunlight',
+  ];
+   gen_data['aerialservantwants'] = [
+    'wants to kill its summoner and everybody in its way',
+    'wants to capture a {prisoner} for its master',
+    'is moving geological features to change the direction of the wind',
+    'is clearing the path for the arrival of a petty god',
+    'is harvesting breezes to serve it at a divine banquet',
+    'is feral',
+  ];
+   gen_data['prisoner'] = [
+    'scorned lover',
+    'slave',
+    'hated rival',
+    'apprentice',
+    'rich hostage',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
