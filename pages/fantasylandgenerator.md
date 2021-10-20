@@ -39,7 +39,7 @@ gen_data['mainweird'] = [
     'Magic has altered this {1d10hexes}-hex rocky land. {magicaladjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {rockymonster} {magicaltaint} in this land.',
     'Magic has altered this {1d10hexes}-hex swamp. {magicaladjective} the {swampfeature} there. Beware of the {swampobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {swampmonster} {magicaltaint} in this land.',
     'Magic has altered this {1d10hexes}-hex jungle. {magicaladjective} the {junglefeature} there. Beware of the {jungleobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {junglemonster} {magicaltaint} in this land.',
-   ];   ];
+   ];
 
  gen_data['magicaladjective'] = [
     'A floating vault seals',
@@ -65,7 +65,6 @@ gen_data['mainweird'] = [
     'a Blue Abishai on a divine mission to {blueabishaiquest}',
     '{abysmalclue} aberrations known as Abysmals',
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
-
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
