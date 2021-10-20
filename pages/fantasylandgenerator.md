@@ -25,9 +25,40 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-      '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}',
+      '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}', '{mainmagical}',
   ];
       
+// - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainmagical'] = [
+   'Magic has altered this {1d10hexes}-hex cold region. {magicaladjective} the {arcticfeature} there. Beware of the {arcticobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {arcticmonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex desert. {magicaladjective} the {desertfeature} there. Beware of the {desertobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {desertmonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex forest. {magicaladjective} the {forestfeature} there. Beware of the {forestobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {forestmonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex grassland. {magicaladjective} the {plainsfeature} there. Beware of the {plainsobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {plainsmonster} {magicaltaint} in this land.',
+    'Magic has altered this one-hex mountain. {magicaladjective} the {mountainfeature} there. Beware of the {mountainobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {mountainmonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex rocky land. {magicaladjective} the {rockyfeature} there. Beware of the {rockyobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {rockymonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex swamp. {magicaladjective} the {swampfeature} there. Beware of the {swampobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {swampmonster} {magicaltaint} in this land.',
+    'Magic has altered this {1d10hexes}-hex jungle. {magicaladjective} the {junglefeature} there. Beware of the {jungleobstacle} that {magicalchazard} now. There has been sightings of {magicalmonster} in the area. Also, know that {junglemonster} {magicaltaint} in this land.',
+   ];   ];
+
+ gen_data['magicaladjective'] = [
+    'A floating vault seals',
+ 
+  ];
+ 
+ gen_data['magicalhazard'] = [
+    'prevent the casting of spells',
+
+  ];    
+            
+  gen_data['magicaltaint'] = [
+    'started hunting wizards',
+  ];    
+ 
+  gen_data['magicalmonster'] = [
+    'a Blue Abishai on a divine mission to {blueabishaiquest}',
+
+      ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
@@ -2406,14 +2437,14 @@ gen_data['arcticadjective'] = [
   gen_data['arassastotem'] = [
     'elusive',
     'furious',
-    'blizzard-calling',
+    'blizzard-summoning',
     'royal',
     'strong',
     'sacred',
   ];
   gen_data['athachculture'] = [
     'follow ley lines to the birthplace of the world',
-    'herd sheep',
+    'herd livestock',
     'grow iron fruits',
     'practice rituals to provoke a new geological era',
     'violently protect the secrets of the druids',
@@ -2428,7 +2459,7 @@ gen_data['arcticadjective'] = [
     'and love human flesh',
   ];
    gen_data['arcticbattotem'] = [
-    'night-bringing',
+    'noctnurnal',
     'snowy',
     'ominous',
     'food-preserving',
@@ -2537,7 +2568,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['cacusculture'] = [
     'live on the edge of settlements',
-    'control all the cattle',
+    'control all the livestock',
     'train promising athletes',
     'lead a famous crime family',
     'are oil wrestling champions',
@@ -2600,7 +2631,7 @@ gen_data['arcticadjective'] = [
     'puts bounties on ex members',
   ];
    gen_data['cyclopsculture'] = [
-    'live peacefully with their sheep',
+    'live peacefully with their livestock',
     'herald the collapse of civilization',
     'hate the gods',
     'joined the Great Horde',
