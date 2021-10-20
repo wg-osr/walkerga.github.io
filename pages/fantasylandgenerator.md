@@ -15,7 +15,7 @@
   let gen_data = {};
 
      gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
+'{mainmagical}'
       ];
  
      gen_data['darkmain'] = [
@@ -43,20 +43,28 @@ gen_data['mainweird'] = [
 
  gen_data['magicaladjective'] = [
     'A floating vault seals',
+    'A device attracts shooting stars to',
+    'An sickly green glow emanates from',
  
   ];
  
  gen_data['magicalhazard'] = [
     'prevent the casting of spells',
+    'radiate fear',
+    'provoke mutations from exposure',
 
   ];    
             
   gen_data['magicaltaint'] = [
     'started hunting wizards',
+    'started speaking of people in the stars',
+    'mutated',
   ];    
  
   gen_data['magicalmonster'] = [
     'a Blue Abishai on a divine mission to {blueabishaiquest}',
+    '{abysmalclue} aberrations known as Abysmals',
+    '{abyssalwretchclue} aberrations known as Abyssal Wretches',
 
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
