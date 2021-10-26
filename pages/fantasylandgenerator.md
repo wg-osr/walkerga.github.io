@@ -3529,6 +3529,7 @@ gen_data['arcticadjective'] = [
     <li><a href="https://saltygoo.github.io/list/urban">Cursed by Death monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/holy">Divine Order monster list</a></li>
     <li><a href="https://saltygoo.github.io/list/enchanted">Enchanted Dream monster list</a></li>
+    <li><a href="https://saltygoo.github.io/list/magical">Arcane monster list</a></li>
     </ol>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
