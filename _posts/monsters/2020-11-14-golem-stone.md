@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct  city underdark cursed holy
+tags: monster construct  city underdark cursed holy magical
 permalink: /monsters/golem-stone
 title: Golem, Stone
 ---
