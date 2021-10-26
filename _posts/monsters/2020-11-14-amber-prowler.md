@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct  city holy enchanted
+tags: monster construct  city holy enchanted magical
 permalink: /monsters/amber-prowler
 title: Amber Prowler
 ---
