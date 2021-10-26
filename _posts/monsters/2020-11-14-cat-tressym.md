@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast city enchanted
+tags: monster beast city enchanted magical
 permalink: /monsters/cat-tressym
 title: Cat, Tressym
 ---
