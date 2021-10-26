@@ -47,6 +47,15 @@ gen_data['mainweird'] = [
     'An sickly green glow emanates from',
     'A flying island hosts',
     'Clouds lift',
+    'There is a special prison for wizards in',
+    'Many elements of the landscape are animated in',
+    'A time loop traps',
+    'Dark energy is siphoned in',
+    'Cats have taken over',
+    'Excentric alterations have been made to',
+    'An Old-One is sealed below',
+    'The body of an ancient dragon is being experimented upon in',
+    'A forbidden stone tower stands in',
  
   ];
  
@@ -56,7 +65,15 @@ gen_data['mainweird'] = [
     'provoke mutations from exposure',
     'are on the flying islets that pepper the region',
     'surround cloud portals',
-
+    'are used to spy on you',
+    'are the only way to unlock a doorway here',
+    'trigger 30-minutes time loops',
+    'are surrounded by brimstone',
+    'are summoned by familiars',
+    'make things levitate',
+    'whisper wicked thoughts',
+    'spray acid',
+    'will alert the Golems',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -65,6 +82,15 @@ gen_data['mainweird'] = [
     'mutated',
     'started hiding from an invisible killer',
     'started living in the clouds',
+    'can smell magic users',
+    'became animated pieces of furniture',
+    'unconsciously move animated objects with their emotions',
+    'became instrumental in powering a dangerous weapon',
+    'became mind-controlled by cats',
+    'became just silly',
+    'joined a{cult} Cult',
+    'gained draconic features',
+    'became drones',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -73,6 +99,16 @@ gen_data['mainweird'] = [
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
     'an Aerial Servant who {aerialservantwants}',
     'Airwalkers who {airwalkerwants}',
+    '{amberprowlerown} Amber Prowlers',
+    '{animatedrugown} Animated Rugs',
+    'a {animusown} Animus',
+    'a{cambionfeature} Cambion who {cambionculture} if it {cambionquest}',
+    '{cattotem} Cats',
+    '{tressymtotem} Tressyms',
+    'a{cult} Cult that {cultwants}',
+    '{greenspawnclue} Greenspawn Mutants',
+    '{stonegolemown} Stone Golems',
+    
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
