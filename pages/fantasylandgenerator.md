@@ -59,7 +59,16 @@ gen_data['mainweird'] = [
     'A crater has replaced',
     'Steaming chimneys have been built in',
     'Aquamarine crystals grow in',
-    'Gravel has drowned',
+    'Earth portals have been seen in',
+    'There is something annoyingly perfect with',
+    'Fire portals have been seen in',
+    'Ooze is seeping out of',
+    'A magical drug den is hidden in',
+    'Arcane furnaces heat',
+    'Ancient elven ruins were discovered by',
+    'A maelstrom of arcane energy ravages',
+    'The astral sea is visible from',
+    'A magical fountain floods',
   ];
  
  gen_data['magicalhazard'] = [
@@ -81,6 +90,15 @@ gen_data['mainweird'] = [
     'spit boiling water',
     'trigger water vortexes',
     'spit gravel',
+    'come from the dream world',
+    'spit fire',
+    'spit ooze',
+    'cover everything in a sheet of amber crystals',
+    'burn everything they touch',
+    'are attracted to spells',
+    'augment magic',
+    'are partly in the astral sea',
+    'can make you amnesiac',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -101,7 +119,16 @@ gen_data['mainweird'] = [
     'started to cultivate strange fungi',
     'adapted to survive scalding steam',
     'adapted to survive underwater',
-    'migrated to the plane of earth',
+    'started to be regulated by earth imps',
+    'might be just dreams',
+    'started to be harassed by fiery imps',
+    'started to be mocked by ooze imps',
+    'became addicted to dream smoke',
+    'became bound by overheating slave collars',
+    'started to eat spellcasters',
+    'became imbued with wild magic',
+    'came from a parallel universe',
+    'can only exist in water reflections',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -123,6 +150,16 @@ gen_data['mainweird'] = [
     'Steam Elementals who {steamelementalwants}',     
     'Water Elementals who {waterelementalwants}',    
     'Earth Mephits who {earthmephitwants}',
+    'Eladrins who {eladrinculture} {eladrinproblem}',
+    'Fire Mephits who {firemephitwants}',
+    'Ooze Mephits who {oozemephitwants}',
+    'Orange Sludges who {orangesludgewants}',
+    'Salamanders who {salamanderwants}',
+    'Elven Shadows who {elfshadowwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
+    '{astralspinnertotem} Astral Spinners',
+    'an Undine who {undinewants}',
+  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
