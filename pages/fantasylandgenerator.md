@@ -56,7 +56,10 @@ gen_data['mainweird'] = [
     'An Old-One is sealed below',
     'The body of an ancient dragon is being experimented upon in',
     'A forbidden stone tower stands in',
- 
+    'A crater has replaced',
+    'Steaming chimneys have been built in',
+    'Aquamarine crystals grow in',
+    'Gravel has drowned',
   ];
  
  gen_data['magicalhazard'] = [
@@ -74,6 +77,10 @@ gen_data['mainweird'] = [
     'whisper wicked thoughts',
     'spray acid',
     'will alert the Golems',
+    'suck everything inside like a black hole',
+    'spit boiling water',
+    'trigger water vortexes',
+    'spit gravel',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -91,6 +98,10 @@ gen_data['mainweird'] = [
     'joined a{cult} Cult',
     'gained draconic features',
     'became drones',
+    'started to cultivate strange fungi',
+    'adapted to survive scalding steam',
+    'adapted to survive underwater',
+    'migrated to the plane of earth',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -108,7 +119,10 @@ gen_data['mainweird'] = [
     'a{cult} Cult that {cultwants}',
     '{greenspawnclue} Greenspawn Mutants',
     '{stonegolemown} Stone Golems',
-    
+    '{egarustotem} Egarus Fungi',
+    'Steam Elementals who {steamelementalwants}',     
+    'Water Elementals who {waterelementalwants}',    
+    'Earth Mephits who {earthmephitwants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -458,7 +472,7 @@ gen_data['mainweird'] = [
     'Feces and rotten meat are covering',
     'Rot has taken over',
     'A strange, flaming rot is sprouting from',
-    'Opaque dark water submerge',
+    'Opaque dark water submerges',
     'A Wicked Cult has taken over',
     'Human faces are growing on',
     'There’s a new, twisted copy of',
