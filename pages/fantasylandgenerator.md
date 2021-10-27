@@ -3548,12 +3548,12 @@ gen_data['arcticadjective'] = [
     <br>
     <br>
     Dont know a monster? They are descibed by climate here!<br>
-    **Surface:**  <a href="https://saltygoo.github.io/list/urban">City</a>, <a href="https://saltygoo.github.io/list/arctic">Cold Region</a>, <a href="https://saltygoo.github.io/list/desert">Desert</a>, <a href="https://saltygoo.github.io/list/forest">Forest</a>, <a href="https://saltygoo.github.io/list/plains">Grassland</a>,   <a href="https://saltygoo.github.io/list/jungle">Jungle</a>, <a href="https://saltygoo.github.io/list/mountain">Mountain</a>, <a href="https://saltygoo.github.io/list/hills">Rocky Region</a>, <a href="https://saltygoo.github.io/list/sea">Sea</a>, <a href="https://saltygoo.github.io/list/swamp">Swamp</a>,
+    Surface: <a href="https://saltygoo.github.io/list/urban">City</a>, <a href="https://saltygoo.github.io/list/arctic">Cold Region</a>, <a href="https://saltygoo.github.io/list/desert">Desert</a>, <a href="https://saltygoo.github.io/list/forest">Forest</a>, <a href="https://saltygoo.github.io/list/plains">Grassland</a>,   <a href="https://saltygoo.github.io/list/jungle">Jungle</a>, <a href="https://saltygoo.github.io/list/mountain">Mountain</a>, <a href="https://saltygoo.github.io/list/hills">Rocky Region</a>, <a href="https://saltygoo.github.io/list/sea">Sea</a>, <a href="https://saltygoo.github.io/list/swamp">Swamp</a>,
     <br>
-    **Underdark:**  <a href="https://saltygoo.github.io/list/underdark">Underdark</a>
+    Underdark:  <a href="https://saltygoo.github.io/list/underdark">Underdark</a>
     <br>
-    **Weird:** <a href="https://saltygoo.github.io/list/chaos">Chaos</a>, <a href="https://saltygoo.github.io/list/urban">Cursed</a>, <a href="https://saltygoo.github.io/list/holy">Divine</a> (Hell), <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a>, <a href="https://saltygoo.github.io/list/magical">Magic</a>
-
+    Weird: <a href="https://saltygoo.github.io/list/chaos">Chaos</a>, <a href="https://saltygoo.github.io/list/urban">Cursed</a>, <a href="https://saltygoo.github.io/list/holy">Divine</a>, <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a>, <a href="https://saltygoo.github.io/list/magical">Magic</a>
+    <br>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
     </body>
