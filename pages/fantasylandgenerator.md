@@ -3547,25 +3547,13 @@ gen_data['arcticadjective'] = [
  
     <br>
     <br>
-    Dont know a monster? They are descibed here!<br>
-    <ol>
-    <li><a href="https://saltygoo.github.io/list/arctic">Cold climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/desert">Desert climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/forest">Forest climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/plains">Grassland climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/mountain">Mountainous climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/hills">Rocky climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/sea">Sea climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/swamp">Swamp climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/jungle">Tropical climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/underdark">Underdark climate monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/urban">Urban climate monster list</a></li> <br>
-    <li><a href="https://saltygoo.github.io/list/chaos">Corrupted by Chaos monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/urban">Cursed by Death monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/holy">Divine Order monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/enchanted">Enchanted Dream monster list</a></li>
-    <li><a href="https://saltygoo.github.io/list/magical">Arcane monster list</a></li>
-    </ol>
+    Dont know a monster? They are descibed by climate here!<br>
+    **Surface:**  <a href="https://saltygoo.github.io/list/urban">City</a>, <a href="https://saltygoo.github.io/list/arctic">Cold Region</a>, <a href="https://saltygoo.github.io/list/desert">Desert</a>, <a href="https://saltygoo.github.io/list/forest">Forest</a>, <a href="https://saltygoo.github.io/list/plains">Grassland</a>,   <a href="https://saltygoo.github.io/list/jungle">Jungle</a>, <a href="https://saltygoo.github.io/list/mountain">Mountain</a>, <a href="https://saltygoo.github.io/list/hills">Rocky Region</a>, <a href="https://saltygoo.github.io/list/sea">Sea</a>, <a href="https://saltygoo.github.io/list/swamp">Swamp</a>,
+    <br>
+    **Underdark:**  <a href="https://saltygoo.github.io/list/underdark">Underdark</a>
+    <br>
+    **Weird:** <a href="https://saltygoo.github.io/list/chaos">Chaos</a>, <a href="https://saltygoo.github.io/list/urban">Cursed</a>, <a href="https://saltygoo.github.io/list/holy">Divine</a> (Hell), <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a>, <a href="https://saltygoo.github.io/list/magical">Magic</a>
+
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
     </body>
