@@ -25,9 +25,44 @@
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
-      '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}', '{mainmagical}',
+      '{mainchaos}', '{maincursed}', '{maindivine}', '{mainenchanted}', '{mainmagical}', '{mainelemental}',
   ];
       
+// - - - - - - - - - - E - L - E - M - E - N - T - A - L - - - - - - - - - - - - - - - - - - - - - - -
+
+ gen_data['mainelemental'] = [
+      '{mainair}',
+   ];
+
+  gen_data['mainair'] = [
+   'Elemental air is overflowing in this {1d10hexes}-hex cold region. {airadjective} {arcticfeature} there and the dangerous {arcticobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {arcticmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex desert. {airadjective} {desertfeature} there and the dangerous {desertobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex forest. {airadjective} {forestfeature} there and the dangerous {forestobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex grassland. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this one-hex mountain. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {mountainmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex rocky land. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex swamp. {airadjective} {swampfeature} there and the dangerous {swampobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex jungle. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
+   ];
+      
+   gen_data['airadjective'] = [
+    'Celestial lightning strikes the metallic',
+
+  ];
+ 
+ gen_data['airhazard'] = [
+    'siphon kinetic energy',
+
+  ];    
+            
+  gen_data['airtaint'] = [
+    'started hunting wizards',
+  ];    
+ 
+  gen_data['airmonster'] = [
+    'a Blue Abishai on a divine mission to {blueabishaiquest}',
+  
+      ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainmagical'] = [
