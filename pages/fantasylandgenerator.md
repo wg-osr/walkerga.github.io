@@ -36,13 +36,13 @@ gen_data['mainweird'] = [
 
   gen_data['mainair'] = [
    'Elemental air is overflowing in this {1d10hexes}-hex cold region. {airadjective} {arcticfeature} there and the dangerous {arcticobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {arcticmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex desert. {airadjective} {desertfeature} there and the dangerous {desertobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex forest. {airadjective} {forestfeature} there and the dangerous {forestobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex grassland. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this one-hex mountain. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {mountainmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex rocky land. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex swamp. {airadjective} {swampfeature} there and the dangerous {swampobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this {1d10hexes}-hex jungle. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} that {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex desert. {airadjective} {desertfeature} there and the dangerous {desertobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex forest. {airadjective} {forestfeature} there and the dangerous {forestobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex grassland. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this one-hex mountain. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {mountainmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex rocky land. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex swamp. {airadjective} {swampfeature} there and the dangerous {swampobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this {1d10hexes}-hex jungle. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
    ];
       
    gen_data['airadjective'] = [
@@ -56,7 +56,7 @@ gen_data['mainweird'] = [
   ];    
             
   gen_data['airtaint'] = [
-    'started hunting wizards',
+    'can spit lightning',
   ];    
  
   gen_data['airmonster'] = [
@@ -3548,11 +3548,7 @@ gen_data['arcticadjective'] = [
     <br>
     <br>
     Dont know a monster? They are descibed by climate here!<br>
-    Surface: <a href="https://saltygoo.github.io/list/urban">City</a>, <a href="https://saltygoo.github.io/list/arctic">Cold Region</a>, <a href="https://saltygoo.github.io/list/desert">Desert</a>, <a href="https://saltygoo.github.io/list/forest">Forest</a>, <a href="https://saltygoo.github.io/list/plains">Grassland</a>,   <a href="https://saltygoo.github.io/list/jungle">Jungle</a>, <a href="https://saltygoo.github.io/list/mountain">Mountain</a>, <a href="https://saltygoo.github.io/list/hills">Rocky Region</a>, <a href="https://saltygoo.github.io/list/sea">Sea</a>, <a href="https://saltygoo.github.io/list/swamp">Swamp</a>,
-    <br>
-    Underdark:  <a href="https://saltygoo.github.io/list/underdark">Underdark</a>
-    <br>
-    Weird: <a href="https://saltygoo.github.io/list/chaos">Chaos</a>, <a href="https://saltygoo.github.io/list/urban">Cursed</a>, <a href="https://saltygoo.github.io/list/holy">Divine</a>, <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a>, <a href="https://saltygoo.github.io/list/magical">Magic</a>
+   <a href="https://saltygoo.github.io/list/urban">City</a> • <a href="https://saltygoo.github.io/list/arctic">Cold Region</a> • <a href="https://saltygoo.github.io/list/desert">Desert</a> • <a href="https://saltygoo.github.io/list/forest">Forest</a> • <a href="https://saltygoo.github.io/list/plains">Grassland</a> •  <a href="https://saltygoo.github.io/list/jungle">Jungle</a> • <a href="https://saltygoo.github.io/list/mountain">Mountain</a> • <a href="https://saltygoo.github.io/list/hills">Rocky Region</a> • <a href="https://saltygoo.github.io/list/sea">Sea</a> • <a href="https://saltygoo.github.io/list/swamp">Swamp</a> • <a href="https://saltygoo.github.io/list/underdark">Underdark</a> • <a href="https://saltygoo.github.io/list/chaos">Chaos</a> • <a href="https://saltygoo.github.io/list/urban">Cursed</a> • <a href="https://saltygoo.github.io/list/holy">Divine</a> • <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a> • <a href="https://saltygoo.github.io/list/magical">Magic</a>
     <br>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
