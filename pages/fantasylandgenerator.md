@@ -30,12 +30,9 @@ gen_data['mainweird'] = [
       
 // - - - - - - - - - - E - L - E - M - E - N - T - A - L - - - - - - - - - - - - - - - - - - - - - - -
 
- gen_data['mainelemental'] = [
-      '{mainair}',
-   ];
 
-  gen_data['mainair'] = [
-   'Elemental air is overflowing in this {1d10hexes}-hex cold region. {airadjective} {arcticfeature} there and the dangerous {arcticobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {arcticmonster} {airtaint} in this land.',
+gen_data['mainelemental'] = [
+    'Elemental air is overflowing in this {1d10hexes}-hex cold region. {airadjective} {arcticfeature} there and the dangerous {arcticobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {arcticmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex desert. {airadjective} {desertfeature} there and the dangerous {desertobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex forest. {airadjective} {forestfeature} there and the dangerous {forestobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex grassland. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
@@ -47,21 +44,53 @@ gen_data['mainweird'] = [
       
    gen_data['airadjective'] = [
     'Celestial lightning strikes the metallic',
+    'An sky princess has set her court over the',
+    'Flying islets hover above the',
+    'An eternal blizzard swallowed the',
+    'A floating island hosts the',
+    'A barren crater has replaced the',
+    'Giant clouds float with the',
+    'A mysterious tower attracts storms by the',
+    'A sky-temple was built beyond the',
+
 
   ];
  
  gen_data['airhazard'] = [
     'siphon kinetic energy',
+    'will summon gusts to split your party',
+    'can open portals to the sky',
+    'freeze everything',
+    'are hidden behind flying rocks',
+    'vaporize mineral matter that gets too close',
+    'hide in clouds',
+    'augment air magic',
+    'attract Air Elementals',
 
   ];    
             
   gen_data['airtaint'] = [
     'can spit lightning',
+    'started to serve a sky princess',
+    'can fly extremely fast',
+    'adapted to the extremely cold climate',
+    'grew extra feathery wings',
+    'started living in force bubbles',
+    'adapted to withstand scalding steam',
+    'can cast wind magic',
+    'started worshipping a giant Air Elemental',
   ];    
  
   gen_data['airmonster'] = [
     'a Blue Abishai on a divine mission to {blueabishaiquest}',
-  
+    'an Aerial Servant who {aerialservantwants}',
+    'Airwalkers who {airwalkerwants}',
+    '{arcticbattotem} Arctic Bats',
+    '{gianttressymtotem} Giant Tressyms',
+    '{egarustotem} Egarus Fungi',
+    'Steam Elementals who {steamelementalwants}',     
+    'an Air Cult that {cultwants}',
+    'a Sorcerous Cabal that {sorcererwants}',  
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
