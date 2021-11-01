@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental rival magical
+tags: monster elemental rival magical air
 permalink: /monsters/aerial-servant
 title: Aerial Servant
 ---
