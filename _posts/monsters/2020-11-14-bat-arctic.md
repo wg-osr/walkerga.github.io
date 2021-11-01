@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast arctic mountain underdark enchanted
+tags: monster beast arctic mountain underdark enchanted air
 permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
