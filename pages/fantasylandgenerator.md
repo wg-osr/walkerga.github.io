@@ -40,7 +40,64 @@ gen_data['mainelemental'] = [
     'Elemental air is overflowing in this {1d10hexes}-hex rocky land. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex swamp. {airadjective} {swampfeature} there and the dangerous {swampobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex jungle. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex cold region. {earthadjective} {arcticfeature} there and the dangerous {arcticobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {arcticmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex desert. {earthadjective} {desertfeature} there and the dangerous {desertobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {desertmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex forest. {earthadjective} {forestfeature} there and the dangerous {forestobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {forestmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex grassland. {earthadjective} {plainsfeature} there and the dangerous {plainsobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {plainsmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this one-hex mountain. {earthadjective} {mountainfeature} there and the dangerous {mountainobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {mountainmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex rocky land. {earthadjective} {rockyfeature} there and the dangerous {rockyobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {rockymonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex swamp. {earthadjective} {swampfeature} there and the dangerous {swampobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {swampmonster} {earthtaint} in this land.',
+    'Elemental earth is overflowing in this {1d10hexes}-hex jungle. {earthadjective} {junglefeature} there and the dangerous {jungleobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {junglemonster} {earthtaint} in this land.',
    ];
+      
+   gen_data['earthadjective'] = [
+    'Toxic mud drowns the',
+    'Black soot covers the coal',
+    'The ground has caved in below the',
+    'A sea of gravel has swallowed the',
+    'Ooze seeps out of the',
+    'Turquoise rust has colored the copper',
+    'Silver grass grows near the',
+    'A mysterious tower attracts earthquakes to the',
+    'An earth-temple was built beyond the',
+  ];
+ 
+ gen_data['earthhazard'] = [
+    'emit toxic dust',
+    'are triggered by the drilling operation there',
+    'cause earth to sink',
+    'spit gravel',
+    'spit ooze',
+    'are highly conductive of electricity',
+    'can transform people into silver',
+    'augment earth magic',
+    'attract Earth Elementals',
+  ];    
+            
+  gen_data['earthtaint'] = [
+    'reverted to a primordial sludge',
+    'became enslaved in a mine',
+    'can only feed off a strange mineral fungi',
+    'turned out to be earth puppets',
+    'turned out to be oozed puppets',
+    'grew a copper skin',
+    'can only feed off silver',
+    'can cast earth magic',
+    'started worshipping a giant Earth Elemental',
+  ];    
+ 
+  gen_data['earthmonster'] = [
+    '{dretchclue} Dretch demons',
+    'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
+    '{egarustotem} Egarus Fungi',
+    'Earth Mephits who {earthmephitwants}',
+    'Ooze Mephits who {oozemephitwants}',
+    '{copperbacktotem} Copperback Snakes',
+    '{astralspinnertotem} Astral Spinners',
+    'an Earth Cult that {cultwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
+      ];
+
       
    gen_data['airadjective'] = [
     'Celestial lightning strikes the metallic',
@@ -52,8 +109,6 @@ gen_data['mainelemental'] = [
     'Giant clouds float with the',
     'A mysterious tower attracts storms by the',
     'A sky-temple was built beyond the',
-
-
   ];
  
  gen_data['airhazard'] = [
