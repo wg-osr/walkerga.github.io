@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster celestial  city holy magical
+tags: monster celestial  city holy magical air
 permalink: /monsters/abishai-blue
 title: Abishai, Blue
 ---
