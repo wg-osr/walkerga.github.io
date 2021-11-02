@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental faction underdark magical
+tags: monster elemental faction underdark magical fire
 permalink: /monsters/mephit-fire
 title: Mephit, Fire
 ---
