@@ -48,8 +48,57 @@ gen_data['mainelemental'] = [
     'Elemental earth is overflowing in this {1d10hexes}-hex rocky land. {earthadjective} {rockyfeature} there and the dangerous {rockyobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {rockymonster} {earthtaint} in this land.',
     'Elemental earth is overflowing in this {1d10hexes}-hex swamp. {earthadjective} {swampfeature} there and the dangerous {swampobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {swampmonster} {earthtaint} in this land.',
     'Elemental earth is overflowing in this {1d10hexes}-hex jungle. {earthadjective} {junglefeature} there and the dangerous {jungleobstacle} {earthhazard} now. Some say {earthmonster} might be at the center of this. Also, know that {junglemonster} {earthtaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex cold region. {fireadjective} {arcticfeature} there and the dangerous {arcticobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {arcticmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex desert. {fireadjective} {desertfeature} there and the dangerous {desertobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {desertmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex forest. {fireadjective} {forestfeature} there and the dangerous {forestobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {forestmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex grassland. {fireadjective} {plainsfeature} there and the dangerous {plainsobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {plainsmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this one-hex mountain. {fireadjective} {mountainfeature} there and the dangerous {mountainobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {mountainmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex rocky land. {fireadjective} {rockyfeature} there and the dangerous {rockyobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {rockymonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex swamp. {fireadjective} {swampfeature} there and the dangerous {swampobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {swampmonster} {firetaint} in this land.',
+    'Elemental fire is overflowing in this {1d10hexes}-hex jungle. {fireadjective} {junglefeature} there and the dangerous {jungleobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {junglemonster} {firetaint} in this land.',
    ];
       
+   gen_data['fireadjective'] = [
+    'A mysterious tower floats above the magmatic',
+    'An fire temple was built beyond the',
+    'Scalding coal carpets the',
+    'Liquid gold covers the',
+    'Scalding steam is escaping from the',
+    'Dancing flames have swallowed the',
+    'Brass towers surround the magma',
+  ];
+ 
+ gen_data['firehazard'] = [
+    'augment fire magic',
+    'attract Fire Elementals',
+    'makes the flame orchids blossom',
+    'spits liquid gold',
+    'are boilling',
+    'are set up by a Flame Princess',
+    'create magma bubbles',
+  ];    
+            
+  gen_data['firetaint'] = [
+    'can cast fire magic',
+    'started worshipping a giant Fire Elemental',
+    'became covered in burn scars',
+    'started to serve a wicked Ancient Red Dragon',
+    'can breathe hot steam',
+    'turned out to be flame illusions',
+    'became enslaved by Salamanders',
+  ];    
+ 
+  gen_data['firemonster'] = [
+    'a Fire Cult that {cultwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
+    '{reddracopedetotem} Red Dracopedes',
+    'a {reddragontotem} {dragonage} Red Dragon who {reddragonwants}',
+    'Steam Elementals who {steamelementalwants}',     
+    'Fire Mephits who {firemephitwants}',
+    'Salamanders who {salamanderwants}',
+      ];
+
+ 
    gen_data['earthadjective'] = [
     'Toxic mud drowns the',
     'Black soot covers the coal',
