@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental arctic forest jungle mountain swamp sea underdark magical air
+tags: monster elemental arctic forest jungle mountain swamp sea underdark magical air fire
 permalink: /monsters/elemental-steam
 title: Elemental, Steam
 ---
