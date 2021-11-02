@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental  swamp underdark magical earth
+tags: monster elemental  swamp underdark magical earth water
 permalink: /monsters/mephit-ooze
 title: Mephit, Ooze
 ---
