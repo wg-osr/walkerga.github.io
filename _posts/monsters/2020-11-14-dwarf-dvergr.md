@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid  city underdark
+tags: monster humanoid  city underdark earth
 permalink: /monsters/dwarf-dvergr
 title: Dwarf, Dvergr
 ---
