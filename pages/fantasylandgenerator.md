@@ -56,8 +56,60 @@ gen_data['mainelemental'] = [
     'Elemental fire is overflowing in this {1d10hexes}-hex rocky land. {fireadjective} {rockyfeature} there and the dangerous {rockyobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {rockymonster} {firetaint} in this land.',
     'Elemental fire is overflowing in this {1d10hexes}-hex swamp. {fireadjective} {swampfeature} there and the dangerous {swampobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {swampmonster} {firetaint} in this land.',
     'Elemental fire is overflowing in this {1d10hexes}-hex jungle. {fireadjective} {junglefeature} there and the dangerous {jungleobstacle} {firehazard} now. Some say {firemonster} might be at the center of this. Also, know that {junglemonster} {firetaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex cold region. {wateradjective} {arcticfeature} there and the dangerous {arcticobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {arcticmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex desert. {wateradjective} {desertfeature} there and the dangerous {desertobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {desertmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex forest. {wateradjective} {forestfeature} there and the dangerous {forestobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {forestmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex grassland. {wateradjective} {plainsfeature} there and the dangerous {plainsobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {plainsmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this one-hex mountain. {wateradjective} {mountainfeature} there and the dangerous {mountainobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {mountainmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex rocky land. {wateradjective} {rockyfeature} there and the dangerous {rockyobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {rockymonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex swamp. {wateradjective} {swampfeature} there and the dangerous {swampobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {swampmonster} {watertaint} in this land.',
+    'Elemental water is overflowing in this {1d10hexes}-hex jungle. {wateradjective} {junglefeature} there and the dangerous {jungleobstacle} {waterhazard} now. Some say {watermonster} might be at the center of this. Also, know that {junglemonster} {watertaint} in this land.',
    ];
       
+   gen_data['wateradjective'] = [
+    'A mysterious tower pours endless water over the',
+    'An water temple was built beyond the',
+    'The whole area is drowned under opaque, still water except the',
+    'Clouds of steam rise from the',
+    'A giant whirlpool is swallowing the',
+    'The earth has become muddy around the',
+    'Coral is growing all over the',
+    'People and object lost at sea seem to be transported to the',
+  ];
+ 
+ gen_data['waterhazard'] = [
+    'augment water magic',
+    'attract Water Elementals',
+    'might reduce your visibility',
+    'are cloaked by scalding steam',
+    'trigger flash floods',
+    'are hidden by mud',
+    'spit foam everywhere',
+    'might cause the floor collapse',
+  ];    
+            
+  gen_data['watertaint'] = [
+    'can cast water magic',
+    'started worshipping a giant Water Elemental',
+    'grew leathery stingray-like fins',
+    'dissapeared in the mist',
+    'adapted to life under water',
+    'became harassed by mud imps',
+    'became thralls of a Nereid',
+    'could be an illusion caused by an eerie song heard',
+  ];    
+ 
+  gen_data['watermonster'] = [
+    'a Water Cult that {cultwants}',
+    'a Sorcerous Cabal that {sorcererwants}',
+    '{cloakerclue} aberrations known as the Cloakers',
+    'Steam Elementals who {steamelementalwants}',     
+    'Water Elementals who {waterelementalwants}',    
+    'Ooze Mephits who {oozemephitwants}',
+    'Nereids who {nereidwants}',
+    'an Undine who {undinewants}',
+     ];
+
    gen_data['fireadjective'] = [
     'A mysterious tower floats above the magmatic',
     'An fire temple was built beyond the',
@@ -84,7 +136,7 @@ gen_data['mainelemental'] = [
     'became covered in burn scars',
     'started to serve a wicked Ancient Red Dragon',
     'can breathe hot steam',
-    'turned out to be flame illusions',
+    'turned out to be illusions',
     'became enslaved by Salamanders',
   ];    
  
