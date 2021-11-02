@@ -22,6 +22,10 @@
     'These {2d4hexes}-hex {tunneladjective} {tunnelfeature} are dangerous because of the {tunnelhazard} {tunnelobstacle} found there. They are roamed by {tunnelmonster}, and also {tunnelmonster}.'
   ];
       
+     gen_data['astralmain'] = [
+    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that the {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralhazard} {astralobstacle} when you travel here. 
+  ];
+      
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 gen_data['mainweird'] = [
@@ -1016,7 +1020,7 @@ gen_data['tunnelobstacle'] = [
     'shortcuts',
     'rat colonies',
     'bubbles',
-    'lucid dreams',
+    'illusions',
     'silver threads',
     'power crystals',
     'treasures',
