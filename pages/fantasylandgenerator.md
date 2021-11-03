@@ -23,33 +23,51 @@
   ];
       
      gen_data['astralmain'] = [
-    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} when you travel here.'
+    'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} when you travel.'
   ];
       
 // - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
       
    gen_data['astrallandscape'] = [
     'stars',
+    'stormy clouds',
+    'void',
+    'tendrils',
   ];      
    
+   gen_data['astralfeature'] = [
+    '{astraladjective} giant weapons float',
+    'a wizard’s vault is {astraladjective}',
+    'a dead god’s head is {astraladjective}',
+    '{astraladjective} fragments of a lost world drift',
+  ]; 
+      
    gen_data['astraladjective'] = [
     'shattered',
+    'electrified',
+    'corrupted',
+    'tumorous',
   ];
-
-   gen_data['astralfeature'] = [
-    'giant weapons',
-  ]; 
 
    gen_data['astralobstacle'] = [
     'weapons',
+    'force barriers',
+    'low frequencies',
+    'radiations',
   ];
       
    gen_data['astralhazard'] = [
     'that rain from the sky',
+    'blocking the path',
+    'used by evil clones of yourself',
+    'that are sentient and evil',
   ];
 
    gen_data['astralmonster'] = [
     'a {abhirclue} Abhir demon',
+    'a Blue Abishai on a divine mission to {blueabishaiquest}',
+    '{abysmalclue} aberrations known as Abysmals',
+    '{abyssalwretchclue} aberrations known as Abyssal Wretches',
   ]; 
       
       
