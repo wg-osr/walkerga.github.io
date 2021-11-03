@@ -85,7 +85,7 @@
     'opening portals to the elemental planes',
     'poisoning the air',
     'falling from above',
-    'could be on a collision course',
+    'that could be on a collision course',
   ];
 
    gen_data['astralmonster'] = [
