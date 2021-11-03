@@ -23,8 +23,35 @@
   ];
       
      gen_data['astralmain'] = [
-    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that the {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralhazard} {astralobstacle} when you travel here.'
+    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} when you travel here.'
   ];
+      
+// - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
+      
+   gen_data['astrallandscape'] = [
+    'stars',
+  ];      
+   
+   gen_data['astraladjective'] = [
+    'shattered',
+  ];
+
+   gen_data['astralfeature'] = [
+    'giant weapons',
+  ]; 
+
+   gen_data['astralobstacle'] = [
+    'weapons',
+  ];
+      
+   gen_data['astralhazard'] = [
+    'that rain from the sky',
+  ];
+
+   gen_data['astralmonster'] = [
+    'a {abhirclue} Abhir demon',
+  ]; 
+      
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
