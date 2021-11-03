@@ -15,7 +15,7 @@
   let gen_data = {};
 
      gen_data['main'] = [
-   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}', 
+   '{mainarctic}', '{maindesert}', '{mainforest}', '{mainrocky}', '{mainjungle}', '{mainmountain}', '{mainplains}', '{mainswamp}', '{maincity}', '{mainsea}', '{maindarkgate}', '{mainweird}',
       ];
  
      gen_data['darkmain'] = [
@@ -23,7 +23,7 @@
   ];
       
      gen_data['astralmain'] = [
-    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that the {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralhazard} {astralobstacle} when you travel here. 
+    'It is in this {2d4hexes}-hex dreamy expanse of {color} {astrallandscape} that the {astraladjective} {astralfeature} can be found. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralhazard} {astralobstacle} when you travel here.'
   ];
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -40,7 +40,7 @@ gen_data['mainelemental'] = [
     'Elemental air is overflowing in this {1d10hexes}-hex desert. {airadjective} {desertfeature} there and the dangerous {desertobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex forest. {airadjective} {forestfeature} there and the dangerous {forestobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex grassland. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
-    'Elemental air is overflowing in this one-hex mountain. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {mountainmonster} {airtaint} in this land.',
+    'Elemental air is overflowing in this one-hex mountain. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} {airhazard} now. Some say {airmonster} might be at the centaer of this. Also, know that {mountainmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex rocky land. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex swamp. {airadjective} {swampfeature} there and the dangerous {swampobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
     'Elemental air is overflowing in this {1d10hexes}-hex jungle. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
@@ -78,7 +78,7 @@ gen_data['mainelemental'] = [
     'A giant whirlpool is swallowing the',
     'The earth has become muddy around the',
     'Coral is growing all over the',
-    'People and object lost at sea seem to be transported to the',
+    'People and objects lost at sea seem to be transported to the',
   ];
  
  gen_data['waterhazard'] = [
@@ -96,7 +96,7 @@ gen_data['mainelemental'] = [
     'can cast water magic',
     'started worshipping a giant Water Elemental',
     'grew leathery stingray-like fins',
-    'dissapeared in the mist',
+    'disappeared in the mist',
     'adapted to life under water',
     'became harassed by mud imps',
     'became thralls of a Nereid',
@@ -129,7 +129,7 @@ gen_data['mainelemental'] = [
     'attract Fire Elementals',
     'makes the flame orchids blossom',
     'spits liquid gold',
-    'are boilling',
+    'are boiling',
     'are set up by a Flame Princess',
     'create magma bubbles',
   ];    
@@ -276,7 +276,7 @@ gen_data['mainelemental'] = [
     'A time loop traps',
     'Dark energy is siphoned in',
     'Cats have taken over',
-    'Excentric alterations have been made to',
+    'Eccentric alterations have been made to',
     'An Old-One is sealed below',
     'The body of an ancient dragon is being experimented upon in',
     'A forbidden stone tower stands in',
@@ -383,7 +383,7 @@ gen_data['mainelemental'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     '{astralspinnertotem} Astral Spinners',
     'an Undine who {undinewants}',
-  
+ 
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -405,10 +405,10 @@ gen_data['mainelemental'] = [
     'bitter sentient',
     'fruit-shaped',
     'sculpture-filled',
-    'giant snow globe encasing its',
+    'giant snow globe encasing it',
     'song',
     'vine-choked',
-    'famous festival of at the',
+    'famous festival of the',
     'cat-shaped',
     'hallucinogenic',
     'flying',
@@ -519,7 +519,7 @@ gen_data['mainelemental'] = [
     'became hypnotized by fire',
     'gained horse-like features',
     'became half-trees',
-    'became agressively anti-social',
+    'became aggressively anti-social',
     'became replaced by a Doppelganger',
     'cannot wake up',
     'became entertainment for a fairy court',
@@ -527,7 +527,7 @@ gen_data['mainelemental'] = [
     'became unable to breath outside of water',
     'became manipulated by an Oni',
     'can polymorph into jelly',
-    'started to discociate from their shadows',
+    'started to dissociate from their shadows',
     'stopped dreaming',
     'vanished to the astral world',
     'became mute and beautiful',
@@ -2747,7 +2747,7 @@ gen_data['arcticadjective'] = [
   ];
       
   gen_data['color'] = [
-    'red', 'pink', 'yellow', 'green', 'orange', 'blue', 'violet', 'black', 'white', 
+    'red', 'pink', 'yellow', 'green', 'orange', 'blue', 'violet', 'black', 'white',
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -3717,7 +3717,7 @@ gen_data['arcticadjective'] = [
     'rich hostage',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>
   </head>
   <body>
     
