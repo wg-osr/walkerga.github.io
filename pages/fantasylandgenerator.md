@@ -1199,7 +1199,7 @@ gen_data['maincity'] = [
     'This hex holds a city known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} there. Its streets are roamed by {citymonster}, and also {citymonster}.'
   ];
 gen_data['citybeast'] = [
-    'Rats', 'Horses', 'Bats', 'Cats', 'Pigeons', 'Raven', 'Seagulls'
+    'Rats', 'Horses', 'Bats', 'Cats', 'Pigeons', 'Ravens', 'Seagulls'
   ];
 gen_data['cityadjective'] = [
     'brutal',
@@ -1383,7 +1383,7 @@ gen_data['mainswamp'] = [
     'This {2d4hexes}-hex swamp is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
-    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Raven', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards'
+    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Ravens', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards'
   ];
 gen_data['swampadjective'] = [
     'submerged',
