@@ -35,21 +35,27 @@
     'tendrils',
     'fluffly clouds',
     'sky',
-    'dew',
-    'dust',
+    'floating dew',
+    'airborne dust',
     'space',
+    'darkness',
+    'water',
+    'sand',
   ];      
    
    gen_data['astralfeature'] = [
     '{astraladjective} giant weapons float',
-    'a wizard’s vault is {astraladjective}',
-    'a dead god’s head is {astraladjective}',
+    'a wizard’s {astraladjective} vault floats',
+    'a dead god’s {astraladjective} head drifts',
     '{astraladjective} fragments of a lost world drift',
     '{astraladjective} clouds are coalescing',
     '{astraladjective} {color} crystals swirl',
-    'a colossal hive is {astraladjective}',
+    'a colossal {astraladjective} hive orbits',
     'countless {astraladjective} asteroids float around',
-    'a small planet is {astraladjective}',
+    'a small {astraladjective} planet orbits',
+    'a lone {astraladjective} asteroid drifts',
+    '{astraladjective} spires loom',
+    'a lone {astraladjective} cave seem carved from nowhere',
  ]; 
       
    gen_data['astraladjective'] = [
@@ -62,6 +68,9 @@
     'vibrating',
     'rocky',
     'abandoned',
+    'hollow',
+    'upside-down',
+    'isolated',
   ];
 
    gen_data['astralobstacle'] = [
@@ -74,6 +83,9 @@
     'choking spores',
     'asteroids',
     'shipwrecks',
+    'mesmerizing shapes',
+    'frightening shadows',
+    'stygian water',
   ];
       
    gen_data['astralhazard'] = [
@@ -86,6 +98,9 @@
     'poisoning the air',
     'falling from above',
     'that could be on a collision course',
+    'pouring out from holes',
+    'clinging to you',
+    'that could bring you back to your starting point',
   ];
 
    gen_data['astralmonster'] = [
@@ -98,6 +113,9 @@
     '{giantflayertotem} Giant Flayers',
     '{bloodbeasttotem} Bloodbeasts',
     '{brainbatclue} aberrations known as the Brain-Bats',
+    '{chokerclue} aberrations known as Chokers',
+    '{cloakerclue} aberrations known as the Cloakers',
+    'a Donestre who {donestrewants}, but {donestredo}',
   ]; 
       
       
