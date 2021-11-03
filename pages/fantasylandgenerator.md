@@ -3755,6 +3755,7 @@ gen_data['arcticadjective'] = [
   <select id="landscape" name="landscape">
     <option value="main">Surface</option>
     <option value="darkmain">Underdark</option>
+    <option value="astralmain">Astral</option>
   </select>
 </form>
     <p><textarea id="output" cols="90" rows="4" readonly></textarea></p>
