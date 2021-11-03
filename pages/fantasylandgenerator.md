@@ -3480,7 +3480,7 @@ gen_data['arcticadjective'] = [
     'brain-sucking',
     'flea-like',
     'operatic',
-    'idot-killing',
+    'idiot-killing',
     'swarming',
     'cursed',
   ];
