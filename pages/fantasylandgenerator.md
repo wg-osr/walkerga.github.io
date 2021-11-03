@@ -3390,7 +3390,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['bloodbeasttotem'] = [
     'medicinal',
-    'sucking',
+    'lamprey-like',
     'filthy',
     'vampiric',
     'nightmarish',
