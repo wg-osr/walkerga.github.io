@@ -23,7 +23,7 @@
   ];
       
      gen_data['astralmain'] = [
-    'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} when you travel.'
+    'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} here.'
   ];
       
 // - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -33,6 +33,11 @@
     'stormy clouds',
     'void',
     'tendrils',
+    'fluffly clouds',
+    'sky',
+    'dew',
+    'dust',
+    'space',
   ];      
    
    gen_data['astralfeature'] = [
@@ -40,13 +45,23 @@
     'a wizard’s vault is {astraladjective}',
     'a dead god’s head is {astraladjective}',
     '{astraladjective} fragments of a lost world drift',
-  ]; 
+    '{astraladjective} clouds are coalescing',
+    '{astraladjective} {color} crystals swirl',
+    'a colossal hive is {astraladjective}',
+    'countless {astraladjective} asteroids float around',
+    'a small planet is {astraladjective}',
+ ]; 
       
    gen_data['astraladjective'] = [
     'shattered',
-    'electrified',
+    'electrically supercharged',
     'corrupted',
     'tumorous',
+    'thunderous',
+    'translucent',
+    'vibrating',
+    'rocky',
+    'abandoned',
   ];
 
    gen_data['astralobstacle'] = [
@@ -54,13 +69,23 @@
     'force barriers',
     'low frequencies',
     'radiations',
+    'fog clouds',
+    '{color} crystals',
+    'choking spores',
+    'asteroids',
+    'shipwrecks',
   ];
       
    gen_data['astralhazard'] = [
-    'that rain from the sky',
+    'raining from the sky',
     'blocking the path',
     'used by evil clones of yourself',
     'that are sentient and evil',
+    'lowering the visibility',
+    'opening portals to the elemental planes',
+    'poisoning the air',
+    'falling from above',
+    'could be on a collision course',
   ];
 
    gen_data['astralmonster'] = [
@@ -68,6 +93,11 @@
     'a Blue Abishai on a divine mission to {blueabishaiquest}',
     '{abysmalclue} aberrations known as Abysmals',
     '{abyssalwretchclue} aberrations known as Abyssal Wretches',
+    'an Aerial Servant who {aerialservantwants}',
+    'Airwalkers who {airwalkerwants}',
+    '{giantflayertotem} Giant Flayers',
+    '{bloodbeasttotem} Bloodbeasts',
+    '{brainbatclue} aberrations known as the Brain-Bats',
   ]; 
       
       
