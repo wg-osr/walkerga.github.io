@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  jungle underdark
+tags: monster beast  jungle underdark astral
 permalink: /monsters/beetle-giant-flayer
 title: Beetle, Giant Flayer
 ---
