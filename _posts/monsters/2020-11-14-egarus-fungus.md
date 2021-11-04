@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster plant fauna underdark chaos magical air earth
+tags: monster plant fauna underdark chaos magical air earth astral
 permalink: /monsters/egarus-fungus
 title: Egarus Fungus
 ---
