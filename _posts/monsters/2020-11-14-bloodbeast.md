@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast desert rocky jungle swamp underdark
+tags: monster beast desert rocky jungle swamp underdark astral
 permalink: /monsters/bloodbeast
 title: Bloodbeast
 ---
