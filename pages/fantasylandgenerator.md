@@ -42,6 +42,7 @@
     'still water',
     'sand',
     'reflective water',
+    'foam',
   ];      
    
    gen_data['astralfeature'] = [
@@ -58,6 +59,7 @@
     '{astraladjective} spires loom',
     'a lone {astraladjective} cave seem carved from nowhere',
     'a strange {astraladjective} salon where secret are traded stands',
+    'there is a {astraladjective} dump where the trash of countless astral travelers is acumulating',
  ]; 
       
    gen_data['astraladjective'] = [
@@ -74,6 +76,7 @@
     'upside-down',
     'isolated',
     'mirrored',
+    'rotting',
   ];
 
    gen_data['astralobstacle'] = [
@@ -90,6 +93,7 @@
     'frightening shadows',
     'stygian water',
     'strangers',
+    'trash from other travelers',
   ];
       
    gen_data['astralhazard'] = [
@@ -106,6 +110,7 @@
     'clinging to you',
     'that could bring you back to your starting point',
     'stealing your face',
+    'carry skin diseases',
   ];
 
    gen_data['astralmonster'] = [
@@ -122,6 +127,7 @@
     '{cloakerclue} aberrations known as the Cloakers',
     'a Donestre who {donestrewants}, but {donestredo}',
     '{doppelgangerclue} aberrations known as Doppelgangers',
+    '{dretchclue} Dretch demons',
   ]; 
       
       
