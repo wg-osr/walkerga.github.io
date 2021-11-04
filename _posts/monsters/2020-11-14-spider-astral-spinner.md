@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast  underdark cursed enchanted magical earth
+tags: monster beast  underdark cursed enchanted magical earth astral
 permalink: /monsters/spider-astral-spinner
 title: Spider, Astral Spinner
 ---
