@@ -3767,7 +3767,7 @@ gen_data['arcticadjective'] = [
     'wizard-operated',
     'tomb-guarding',
     'military',
-    'noble-protecting',
+    'nobility-protecting',
   ];
    gen_data['nereidwants'] = [
     'are looking for new pieces of art',
