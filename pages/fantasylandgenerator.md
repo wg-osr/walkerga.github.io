@@ -77,7 +77,7 @@
     '{astraladjective} bubbles float',
     '{astraladjective} chunks of earth crash into each other',
     'a dim {astraladjective} dwarf star burns',
-    '{astraladjective} spheres float',
+    'many {astraladjective} spheres float',
     '{astraladjective} threads crisscross the air ',
     'a big {astraladjective} power nexus disturbs travels',
  ]; 
