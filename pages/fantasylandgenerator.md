@@ -33,7 +33,7 @@
     'stormy clouds',
     'void',
     'tendrils',
-    'fluffly clouds',
+    'fluffy clouds',
     'sky',
     'floating dew',
     'airborne dust',
@@ -44,7 +44,7 @@
     'reflective water',
     'foam',
     'smoke',
-    'emptyness',
+    'emptiness',
     'moonlight',
     'steam',
     'rain',
@@ -67,8 +67,8 @@
     'a small {astraladjective} planet orbits',
     'a lone {astraladjective} asteroid drifts',
     '{astraladjective} spires loom',
-    'a lone {astraladjective} cave seem carved from nowhere',
-    'a strange {astraladjective} salon where secret are traded stands',
+    'a lone {astraladjective} cave seems carved from nowhere',
+    'a strange {astraladjective} salon where secrets are traded stands',
     'there is a big {astraladjective} dump where the trash of countless astral travelers is acumulating',
     'a dark {astraladjective} astral prison looms',
     'a reality-warping {astraladjective} hole sucks everything in',
@@ -80,7 +80,7 @@
     'many {astraladjective} spheres float',
     '{astraladjective} threads crisscross the air ',
     'a big {astraladjective} power nexus disturbs travels',
- ]; 
+ ];
       
    gen_data['astraladjective'] = [
     'shattered',
@@ -187,7 +187,7 @@
     'Ooze Mephits who {oozemephitwants}',
     '{astralspinnertotem} Astral Spinners',
     'a Sorcerous Cabal that {sorcererwants}',
-  ]; 
+  ];
       
       
 // - - - - - - - - - - W - E - I - R - D - - - - - - - - - - - - - - - - - - - - - - - - - - -
