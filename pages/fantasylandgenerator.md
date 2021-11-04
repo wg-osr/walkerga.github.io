@@ -39,8 +39,9 @@
     'airborne dust',
     'space',
     'darkness',
-    'water',
+    'still water',
     'sand',
+    'reflective water',
   ];      
    
    gen_data['astralfeature'] = [
@@ -56,6 +57,7 @@
     'a lone {astraladjective} asteroid drifts',
     '{astraladjective} spires loom',
     'a lone {astraladjective} cave seem carved from nowhere',
+    'a strange {astraladjective} salon where secret are traded stands',
  ]; 
       
    gen_data['astraladjective'] = [
@@ -71,6 +73,7 @@
     'hollow',
     'upside-down',
     'isolated',
+    'mirrored',
   ];
 
    gen_data['astralobstacle'] = [
@@ -86,6 +89,7 @@
     'mesmerizing shapes',
     'frightening shadows',
     'stygian water',
+    'strangers',
   ];
       
    gen_data['astralhazard'] = [
@@ -101,6 +105,7 @@
     'pouring out from holes',
     'clinging to you',
     'that could bring you back to your starting point',
+    'stealing your face',
   ];
 
    gen_data['astralmonster'] = [
@@ -116,6 +121,7 @@
     '{chokerclue} aberrations known as Chokers',
     '{cloakerclue} aberrations known as the Cloakers',
     'a Donestre who {donestrewants}, but {donestredo}',
+    '{doppelgangerclue} aberrations known as Doppelgangers',
   ]; 
       
       
