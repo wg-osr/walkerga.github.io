@@ -23,7 +23,7 @@
   ];
       
      gen_data['astralmain'] = [
-    'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Thread carefully around the {astralobstacle} {astralhazard} here.'
+    'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Tread carefully around the {astralobstacle} {astralhazard} here.'
   ];
       
 // - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -43,6 +43,16 @@
     'sand',
     'reflective water',
     'foam',
+    'smoke',
+    'emptyness',
+    'moonlight',
+    'steam',
+    'rain',
+    'debris',
+    'flames',
+    'bubbles',
+    'space',
+    'stars',
   ];      
    
    gen_data['astralfeature'] = [
@@ -59,7 +69,17 @@
     '{astraladjective} spires loom',
     'a lone {astraladjective} cave seem carved from nowhere',
     'a strange {astraladjective} salon where secret are traded stands',
-    'there is a {astraladjective} dump where the trash of countless astral travelers is acumulating',
+    'there is a big {astraladjective} dump where the trash of countless astral travelers is acumulating',
+    'a dark {astraladjective} astral prison looms',
+    'a reality-warping {astraladjective} hole sucks everything in',
+    'a dreamy {astraladjective} garden stands',
+    'a giant {astraladjective} gas planet orbits',
+    '{astraladjective} bubbles float',
+    '{astraladjective} chunks of earth crash into each other',
+    'a dim {astraladjective} dwarf star burns',
+    '{astraladjective} spheres float',
+    '{astraladjective} threads crisscross the air ',
+    'a big {astraladjective} power nexus disturbs travels',
  ]; 
       
    gen_data['astraladjective'] = [
@@ -77,6 +97,16 @@
     'isolated',
     'mirrored',
     'rotting',
+    'industrial',
+    'black',
+    'elegant',
+    'steaming',
+    'water',
+    'dirt',
+    'fiery',
+    'gelatinous',
+    'silver',
+    'arcane',
   ];
 
    gen_data['astralobstacle'] = [
@@ -92,8 +122,17 @@
     'mesmerizing shapes',
     'frightening shadows',
     'stygian water',
-    'strangers',
+    'spelljammer ship',
     'trash from other travelers',
+    'exploding contraptions',
+    'parasitic fungi',
+    '{color} vapors',
+    'strange clouds',
+    'small rocks',
+    'jets of flame',
+    'staining jelly',
+    'silver threads',
+    'wild magic',
   ];
       
    gen_data['astralhazard'] = [
@@ -110,7 +149,17 @@
     'clinging to you',
     'that could bring you back to your starting point',
     'stealing your face',
-    'carry skin diseases',
+    'carrying skin diseases',
+    'placed to destroy spelljammers',
+    'carrying antimatter',
+    'that can manifest your dreams',
+    'changing the temperature',
+    'coming from the plane of water',
+    'bouncing around',
+    'dancing around',
+    'multiplying',
+    'that might capture you',
+    'augmenting magic',
   ];
 
    gen_data['astralmonster'] = [
@@ -128,6 +177,16 @@
     'a Donestre who {donestrewants}, but {donestredo}',
     '{doppelgangerclue} aberrations known as Doppelgangers',
     '{dretchclue} Dretch demons',
+    'Dvergr Dwarves who {dvergrculture} {dvergrproblem}',
+    '{egarustotem} Egarus Fungi',
+    'Eladrins who {eladrinculture} {eladrinproblem}',
+    'Steam Elementals who {steamelementalwants}',     
+    'Water Elementals who {waterelementalwants}',    
+    'Earth Mephits who {earthmephitwants}',
+    'Fire Mephits who {firemephitwants}',
+    'Ooze Mephits who {oozemephitwants}',
+    '{astralspinnertotem} Astral Spinners',
+    'a Sorcerous Cabal that {sorcererwants}',
   ]; 
       
       
