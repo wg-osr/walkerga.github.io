@@ -25,9 +25,88 @@
      gen_data['astralmain'] = [
     'In this {2d4hexes}-hex expanse of {color} {astrallandscape}, {astralfeature}. It is inhabited by {astralmonster}, and also {astralmonster}. Tread carefully around the {astralobstacle} {astralhazard} here.'
   ];
+     
+     gen_data['deepmain'] = [
+    'These {2d4hexes}-hex {deepmood} {deepdepth} hold {deepadjective} {deepfeature}. It is inhabited by {deepmonster}, and also {deepmonster}. Tread carefully around the {deepobstacle} {deephazard} here.'
+  ];
+     
+// - - - - - - - - - - D - E - E - P - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+   gen_data['deepdepth'] = [
+    'shallows',
+    'depths',
+    'abysses',
+  ];      
+   
+   gen_data['deepmood'] = [
+    'dark',
+    'silent',
+    'rocky',
+    'bone-littered',
+    'tumultuous',
+    'bubbling',
+    'lush',
+    'turquoise',
+ ];
       
+   gen_data['deepadjective'] = [
+    'weird', 
+    'moaning', 
+    'barnacle-clad', 
+    'bone-littered', 
+    'swirling', 
+    'steaming', 
+    'overgrown', 
+    'enshrined', 
+  ];
+
+   gen_data['deepfeature'] = [
+    'mud pyramids',
+    'spire citadel',
+    'reef',
+    'shipwreck',
+    'whirlpool',
+    'vents',
+    'kelp forest',
+    'sunken palace from the surface',
+  ];
+      
+   gen_data['deepobstacle'] = [
+    'otherworldy contraptions',
+    'deep sea vibrations',
+    'razor-sharp barnacles',
+    'skeletons',
+    'currents',
+    'gas vents',
+    'giant kelps',
+    'bubbles',
+  ];
+
+   gen_data['deephazard'] = [
+    'that emit sonic blasts',
+    'that cause primal fear',
+    'that hide in the rocks',
+    'that hide crabs',
+    'that are treacherous',
+    'that are superheated',
+    'that could prevent you from reaching the surface',
+    'that can induce amnesia',
+  ];
+
+   gen_data['deepmonster'] = [
+    '{brainbatclue} aberrations known as the Brain-Bats',
+    '{cloakerclue} aberrations known as the Cloakers',
+    '{crabtotem} Crabs',
+    '{braincrabtotem} Brain Crabs',
+    'Water Elementals who {waterelementalwants}', 
+    'Steam Elementals who {steamelementalwants}',     
+    'Nereids who {nereidwants}',
+    'an Undine who {undinewants}',
+ ];
+      
+   
 // - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
-      
+
    gen_data['astrallandscape'] = [
     'stars',
     'stormy clouds',
