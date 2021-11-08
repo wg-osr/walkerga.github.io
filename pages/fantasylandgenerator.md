@@ -132,6 +132,7 @@
     'bubbles',
     'space',
     'stars',
+    'ice',
   ];      
    
    gen_data['astralfeature'] = [
@@ -146,7 +147,7 @@
     'a small {astraladjective} planet orbits',
     'a lone {astraladjective} asteroid drifts',
     '{astraladjective} spires loom',
-    'a lone {astraladjective} cave seems carved from nowhere',
+    'a lone {astraladjective} cave seems carved out from nowhere',
     'a strange {astraladjective} salon where secrets are traded stands',
     'there is a big {astraladjective} dump where the trash of countless astral travelers is acumulating',
     'a dark {astraladjective} astral prison looms',
@@ -159,6 +160,7 @@
     'many {astraladjective} spheres float',
     '{astraladjective} threads crisscross the air ',
     'a big {astraladjective} power nexus disturbs travels',
+    'a {astraladjective} crescent moon floats',
  ];
       
    gen_data['astraladjective'] = [
@@ -186,6 +188,7 @@
     'gelatinous',
     'silver',
     'arcane',
+    'ice',
   ];
 
    gen_data['astralobstacle'] = [
@@ -212,6 +215,7 @@
     'staining jelly',
     'silver threads',
     'wild magic',
+    '{color} lights',
   ];
       
    gen_data['astralhazard'] = [
@@ -239,6 +243,7 @@
     'multiplying',
     'that might capture you',
     'augmenting magic',
+    'that make the temperature drop',
   ];
 
    gen_data['astralmonster'] = [
@@ -266,6 +271,7 @@
     'Ooze Mephits who {oozemephitwants}',
     '{astralspinnertotem} Astral Spinners',
     'a Sorcerous Cabal that {sorcererwants}',
+    'a Bralani who {bralaniwants}',    
   ];
       
       
@@ -449,7 +455,7 @@ gen_data['mainelemental'] = [
       
    gen_data['airadjective'] = [
     'Celestial lightning strikes the metallic',
-    'An sky princess has set her court over the',
+    'An sky [noble] has set her court over the',
     'Flying islets hover above the',
     'An eternal blizzard swallowed the',
     'A floating island hosts the',
@@ -457,6 +463,7 @@ gen_data['mainelemental'] = [
     'Giant clouds float with the',
     'A mysterious tower attracts storms by the',
     'A sky-temple was built beyond the',
+    'Flying icebergs host the',
   ];
  
  gen_data['airhazard'] = [
@@ -469,6 +476,7 @@ gen_data['mainelemental'] = [
     'hide in clouds',
     'augment air magic',
     'attract Air Elementals',
+    'create blizzards around them',
 
   ];    
             
@@ -482,6 +490,7 @@ gen_data['mainelemental'] = [
     'adapted to withstand scalding steam',
     'can cast wind magic',
     'started worshipping a giant Air Elemental',
+    'became hunted by the Winter Court',
   ];    
  
   gen_data['airmonster'] = [
@@ -494,6 +503,7 @@ gen_data['mainelemental'] = [
     'Steam Elementals who {steamelementalwants}',     
     'an Air Cult that {cultwants}',
     'a Sorcerous Cabal that {sorcererwants}',  
+    'a Bralani who {bralaniwants}',    
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -673,6 +683,7 @@ gen_data['mainelemental'] = [
     'copper',
     'silver-sewn',
     'trinket-covered',
+    'winter',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -706,7 +717,7 @@ gen_data['mainelemental'] = [
     'decadent',
     'copper',
     'silver',
-    'clingy',
+    'mournful',
   ];    
       
  gen_data['enchantedobstacle'] = [
@@ -741,6 +752,7 @@ gen_data['mainelemental'] = [
     'rattles',
     'threads',
     'fountains',
+    '{color} lights',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -774,6 +786,7 @@ gen_data['mainelemental'] = [
     'stopped dreaming',
     'vanished to the astral world',
     'became mute and beautiful',
+    'became gloomy',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -808,6 +821,7 @@ gen_data['mainelemental'] = [
     '{copperbacktotem} Copperback Snakes',
     '{astralspinnertotem} Astral Spinners',
     'an Undine who {undinewants}',
+    'a Bralani who {bralaniwants}',    
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2811,7 +2825,7 @@ gen_data['arcticbeast'] = [
   ];
 gen_data['arcticadjective'] = [
     'wind-swept',
-    'ice-covered',
+    'frozen',
     'mist-cloaked',
     'snow',
     'vast',
@@ -2835,6 +2849,7 @@ gen_data['arcticadjective'] = [
     'hillside',
     'fishing',
     'slushy',
+    'melancholic',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -2862,6 +2877,7 @@ gen_data['arcticadjective'] = [
     'mounds',
     'strait',
     'shacks',
+    'ice spires',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -2889,6 +2905,7 @@ gen_data['arcticadjective'] = [
     'rockfalls',
     'giant nests',
     'vicious rusty bear traps',  
+    'breezes',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -2916,6 +2933,7 @@ gen_data['arcticadjective'] = [
     'could crush you',
     'near the sea',
     'could maim you',
+    'lead to the fey world',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2943,9 +2961,10 @@ gen_data['arcticadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     '{pelicantotem} Giant Pelicans',
     'Calytaurs who {calytaurculture} {calytaurproblem}',
+    'a Bralani who {bralaniwants}',    
   ];
       
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
+// - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
       
    gen_data['2d4hexes'] = {
     '01-06': 'two',
@@ -2991,6 +3010,10 @@ gen_data['arcticadjective'] = [
       
   gen_data['color'] = [
     'red', 'pink', 'yellow', 'green', 'orange', 'blue', 'violet', 'black', 'white',
+  ];
+
+  gen_data['noble'] = [
+    'prince', 'princess', 'count', 'countess', 'marquis', 'marquess'
   ];
       
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -      
@@ -3959,6 +3982,15 @@ gen_data['arcticadjective'] = [
     'apprentice',
     'rich hostage',
   ];
+   gen_data['bralaniwants'] = [
+    'wants to hunt down the ugly monster who permanently defaced something crafted by the eladrin',
+    'is a fey [noble] on a hunting trip',
+    'is heralding the harshest of winters',
+    'is leading the gerilla against a local despot',
+    'is preparing the grand winter ball in honor of the dead',
+    'is on a mission to rescue an hostage',
+  ];
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>
