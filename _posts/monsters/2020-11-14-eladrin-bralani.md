@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: monster fey faction enchanted air cold astral
-permalink: /monsters/eladrin
+permalink: /monsters/eladrin-bralani
 title: Eladrin, Bralani
 ---
 
