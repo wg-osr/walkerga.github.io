@@ -455,7 +455,7 @@ gen_data['mainelemental'] = [
       
    gen_data['airadjective'] = [
     'Celestial lightning strikes the metallic',
-    'An sky [noble] has set her court over the',
+    'An sky {noble} has set her court over the',
     'Flying islets hover above the',
     'An eternal blizzard swallowed the',
     'A floating island hosts the',
@@ -3984,7 +3984,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['bralaniwants'] = [
     'wants to hunt down the ugly monster who permanently defaced something crafted by the eladrin',
-    'is a fey [noble] on a hunting trip',
+    'is a fey {noble} on a hunting trip',
     'is heralding the harshest of winters',
     'is leading the gerilla against a local despot',
     'is preparing the grand winter ball in honor of the dead',
