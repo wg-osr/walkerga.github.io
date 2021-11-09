@@ -4033,12 +4033,12 @@ gen_data['arcticadjective'] = [
     'tortured',
   ];
    gen_data['eladrinculture'] = [
-    'act as cold and aloof as winter within mirrored halls',
-    'are as romantic as springtime love in curated gardens',
+    'act as cold and aloof as winter within their mirrored halls',
+    'are as romantic as springtime love in their curated gardens',
     'live the abandon of summer abondance during countless fairs',
-    'are as melancholic as autumn in forested banquet halls',
-    'are as dark and imperious as monsoon season in gloomy, lush towers',
-    'live the numbing heat of the dry season in vapor sky-barges',
+    'are as melancholic as autumn in their forested banquet halls',
+    'are as dark and imperious as monsoon season in their gloomy, lush towers',
+    'live the numbing heat of the dry season in their vapor sky-barges',
   ];
    gen_data['eladrinproblem'] = [
     'where only beauty is allowed',
