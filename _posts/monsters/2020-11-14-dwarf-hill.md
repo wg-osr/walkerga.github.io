@@ -23,7 +23,7 @@ Their alcohol-soaked coal heart make them resistant to poisons.
 
 <ins>Crossbow.</ins> The hill dwarf  makes a ranged attack (1D12). It must take a turn recharging the crossbow before using it again.
 
-<ins>Dwarven Spirits (1/day).</ins> The hill dwarf takes a sip of fortifying alcohol. It can be brought below 1HP until the end of its next turn.
+<ins>Dwarven Spirits (1/day).</ins> The hill dwarf takes a sip of fortifying alcohol. It cant be brought below 1HP until the end of its next turn.
 
 <br>
 
