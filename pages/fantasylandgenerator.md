@@ -4037,7 +4037,7 @@ gen_data['arcticadjective'] = [
     'are as romantic as springtime love in curated gardens',
     'live the abandon of summer abondance during countless fairs',
     'are as melancholic as autumn in forested banquet halls',
-    'are as dark and imperious as monsson season in gloomy, lush towers',
+    'are as dark and imperious as monsoon season in gloomy, lush towers',
     'live the numbing heat of the dry season in vapor sky-barges',
   ];
    gen_data['eladrinproblem'] = [
