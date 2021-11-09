@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: monster elemental 
+tags: monster elemental desert forest plains jungle mountain rocky underdark magical earth astral
 permalink: /monsters/elemental-earth
-title: Elemental, Water
+title: Elemental, Earth
 ---
 
 Sentient earth. An earth elemental.
