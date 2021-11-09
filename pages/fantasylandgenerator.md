@@ -4033,18 +4033,18 @@ gen_data['arcticadjective'] = [
     'tortured',
   ];
    gen_data['eladrinculture'] = [
-    'act as cold and aloof as winter within their mirrored halls',
-    'are as romantic as springtime love in their curated gardens',
-    'live the abandon of summer abondance during countless fairs',
-    'are as melancholic as autumn in their forested banquet halls',
-    'are as dark and imperious as monsoon season in their gloomy, lush towers',
-    'live the numbing heat of the dry season in their vapor sky-barges',
+    'act cold and aloof in their mirrored winter halls',
+    'act romantic in their curated springtime gardens',
+    'live with abandon during countless summer fairs',
+    'act melancholic during their forested autumn banquets',
+    'act imperious in their gloomy, wet towers',
+    'lounge in their hot sky-barges',
   ];
    gen_data['eladrinproblem'] = [
     'where only beauty is allowed',
-    'where an Archfey is soon to visit and be assassinated',
-    'where they plan to invade and reform the uglies',
-    'where there is a new law every day and following it is forbidden',
+    'where an Archfey is soon to be assassinated',
+    'where they plan their war against the uglies',
+    'with a new law every day that is forbidden to follow',
     'which they plan to move somewhere else',
     'that are only superficially beautiful',
   ];
