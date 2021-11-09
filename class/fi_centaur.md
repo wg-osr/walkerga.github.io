@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Centaur
+title: The Horse
 permalink: /class/fighter/centaur
 ---
 
@@ -15,14 +15,14 @@ A waterskin and two of the followings: a Bow (and 12 arrows), a Saddle, or a Son
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Outdoors, Horse Life or Archery.
 
-For every Centaur template you have, increase your HP and Movement by 1.
+For every Horse template you have, increase your HP and Movement by 1.
 
-**A:** Half-Horse, Hooves I<br>
+**A:** Horse, Hooves I<br>
 **B:** Ride or Die, Star Map<br>
 **C:** Charge, Mentor of Heroes<br>
 **D:** Hooves II<br>
 
-## Half-Horse
+## Horse
 - You can have one human sized rider OR carry as many extra inventory slots as your STR.
 - You do not add your movement score to climbing, crawling, and swimming rolls.
 - You do not fit in crawl spaces.
