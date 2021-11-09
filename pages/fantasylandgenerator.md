@@ -134,6 +134,7 @@
     'stars',
     'ice',
     'thin clouds',
+    'rocks',
   ];      
    
    gen_data['astralfeature'] = [
@@ -163,6 +164,7 @@
     'a big {astraladjective} power nexus disturbs travels',
     'a {astraladjective} crescent moon floats',
     'a massive {astraladjective} storm looms',
+    'a massive {astraladjective} sandstorm looms',
  ];
       
    gen_data['astraladjective'] = [
@@ -192,6 +194,7 @@
     'arcane',
     'ice',
     'wind',
+    'granite',
   ];
 
    gen_data['astralobstacle'] = [
@@ -220,6 +223,7 @@
     'wild magic',
     '{color} lights',
     'astral winds',
+    'flying boulders',
   ];
       
    gen_data['astralhazard'] = [
@@ -249,6 +253,7 @@
     'augmenting magic',
     'that make the temperature drop',
     'pushing you back',
+    'crashing into you',
   ];
 
    gen_data['astralmonster'] = [
@@ -278,6 +283,7 @@
     'a Sorcerous Cabal that {sorcererwants}',
     'a Bralani who {bralaniwants}',    
     'Air Elementals who {airelementalwants}',
+    'Earth Elementals who {earthelementalwants}',
   ];
       
       
@@ -420,6 +426,7 @@ gen_data['mainelemental'] = [
     'Silver grass grows near the',
     'A mysterious tower attracts earthquakes to the',
     'An earth-temple was built beyond the',
+    'A giant earth maw has swallowed the',
   ];
  
  gen_data['earthhazard'] = [
@@ -432,6 +439,7 @@ gen_data['mainelemental'] = [
     'can transform people into silver',
     'augment earth magic',
     'attract Earth Elementals',
+    'cause earthquakes',
   ];    
             
   gen_data['earthtaint'] = [
@@ -444,6 +452,7 @@ gen_data['mainelemental'] = [
     'can only feed off silver',
     'can cast earth magic',
     'started worshipping a giant Earth Elemental',
+    'became displaced here because of an earthquake in their homeland',
   ];    
  
   gen_data['earthmonster'] = [
@@ -456,6 +465,7 @@ gen_data['mainelemental'] = [
     '{astralspinnertotem} Astral Spinners',
     'an Earth Cult that {cultwants}',
     'a Sorcerous Cabal that {sorcererwants}',
+    'Earth Elementals who {earthelementalwants}',
       ];
 
       
@@ -557,6 +567,7 @@ gen_data['mainelemental'] = [
     'The astral sea is visible from',
     'A magical fountain floods',
     'Giant balloons have lifted in the sky the part of the area with the',
+    'Granite obelisks surround the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -588,6 +599,7 @@ gen_data['mainelemental'] = [
     'are partly in the astral sea',
     'can make you amnesiac',
     'summon wind walls',
+    'cause earthquakes',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -619,6 +631,7 @@ gen_data['mainelemental'] = [
     'came from a parallel universe',
     'can only exist in water reflections',
     'adapted to life in the sky',
+    'turned into stone',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -650,6 +663,7 @@ gen_data['mainelemental'] = [
     '{astralspinnertotem} Astral Spinners',
     'an Undine who {undinewants}',
     'Air Elementals who {airelementalwants}',
+    'Earth Elementals who {earthelementalwants}',
  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -1112,6 +1126,7 @@ gen_data['darkgate'] = [
     'astral crystal',
     'power nexus',
     'ruined tower',
+    'stone maw',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1148,6 +1163,7 @@ gen_data['darkgatecomplication'] = [
     'silver webs entangling it',
     'the wild magic energies around it',
     'the rubbles covering it',
+    'the tremors that make it unstable',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1184,6 +1200,7 @@ gen_data['tunneladjective'] = [
     'silver',
     'arcane',
     'cursed',
+    'grumbling',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1221,6 +1238,7 @@ gen_data['tunnelfeature'] = [
     'tunnels leading to a planar hotel',
     'crystal fields',
     'ruins of a cursed civilization',
+    'fault line',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1258,6 +1276,7 @@ gen_data['tunnelhazard'] = [
     'astral',
     'magic hightening',
     'cursed',
+    'violent',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1295,6 +1314,7 @@ gen_data['tunnelobstacle'] = [
     'silver threads',
     'power crystals',
     'treasures',
+    'earthquakes',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1332,6 +1352,7 @@ gen_data['tunnelmonster'] = [
     '{astralspinnertotem} Astral Spinners',
     'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
+    'Earth Elementals who {earthelementalwants}',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1855,6 +1876,7 @@ gen_data['plainsadjective'] = [
     'dusty',
     'arid',
     'windy',
+    'rocky',
  
   ];
   gen_data['plainsfeature'] = [
@@ -1883,6 +1905,7 @@ gen_data['plainsadjective'] = [
     'hills',
     'tree',
     'fields',
+    'fault line',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -1912,6 +1935,7 @@ gen_data['plainsadjective'] = [
     'carrion grubs',
     'cacti',
     'tornadoes',
+    'earthquakes',
 
   ];
   gen_data['plainshazard'] = [
@@ -1941,6 +1965,7 @@ gen_data['plainsadjective'] = [
     'carry parasites',
     'are hallucinogenic',
     'make walking difficult',
+    'could make the ground collapse',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -1969,6 +1994,7 @@ gen_data['plainsadjective'] = [
     '{boltforagertotem} Boltforagers',
     '{cactuscattotem} Cactus Cats',
     'Air Elementals who {airelementalwants}',
+    'Earth Elementals who {earthelementalwants}',
 
   ];
       
@@ -2009,6 +2035,7 @@ gen_data['mountainadjective'] = [
     'gravelly',
     'volcanic',
     'cloudy',
+    'rumbling',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2039,6 +2066,7 @@ gen_data['mountainadjective'] = [
     'earth shrine',
     'lava river',
     'peaks',
+    'mountain',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2069,6 +2097,7 @@ gen_data['mountainadjective'] = [
     'gravel pits',
     'brimstones',
     'updrafts',
+    'earthquakes',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2099,6 +2128,7 @@ gen_data['mountainadjective'] = [
     'are sentient',
     'could fall on you',
     'are near cliffs',
+    'could make the ground collapse',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2129,6 +2159,7 @@ gen_data['mountainadjective'] = [
     'Earth Mephits who {earthmephitwants}',
     'Salamanders who {salamanderwants}',
     'Air Elementals who {airelementalwants}',
+    'Earth Elementals who {earthelementalwants}',
 
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2173,6 +2204,7 @@ gen_data['jungleadjective'] = [
     'settled',
     'stormy',
     'big',    
+    'rocky',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2209,6 +2241,7 @@ gen_data['jungleadjective'] = [
     'village with stilted huts',
     'power stones',
     'inn',
+    'fault line',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2244,6 +2277,7 @@ gen_data['jungleadjective'] = [
     'sacred {junglebeast}',
     'strange energies',
     'boulders',
+    'earthquakes',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2279,6 +2313,7 @@ gen_data['jungleadjective'] = [
     'are sacred for the locals',
     'augment magic',
     'could hide ambushers',
+    'could make trees fall',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem} Aqraseths',
@@ -2314,6 +2349,7 @@ gen_data['jungleadjective'] = [
     'the Warrior Tribe of the {junglebeast} {warriorwants}',
     'a Sorcerous Cabal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
+    'Earth Elementals who {earthelementalwants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2360,6 +2396,7 @@ gen_data['rockyadjective'] = [
     'silent',
     'hillside',
     'gravelly',
+    'granite',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2398,6 +2435,7 @@ gen_data['rockyadjective'] = [
     'spirit shrine',
     'mounds',
     'earth shrine',
+    'fault line',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2436,6 +2474,7 @@ gen_data['rockyadjective'] = [
     'chimes',
     'boulders',
     'gravel pits',
+    'earthquakes',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2474,6 +2513,7 @@ gen_data['rockyadjective'] = [
     'are bad luck',  
     'attract brigands',  
     'are sentient',  
+    'can make the ground collapse',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2511,6 +2551,7 @@ gen_data['rockyadjective'] = [
     'an Oni that {oniwants}',
     'Ogres who {ogreculture} {ogreproblem}',
     'Earth Mephits who {earthmephitwants}',
+    'Earth Elementals who {earthelementalwants}',
 
   ];
 
@@ -2550,6 +2591,7 @@ gen_data['forestadjective'] = [
     'hillside',
     'eerie',
     'stormy',
+    'rocky',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -2579,6 +2621,7 @@ gen_data['forestadjective'] = [
     'mounds',
     'elven ruins',
     'power stones',
+    'fault line',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -2608,6 +2651,7 @@ gen_data['forestadjective'] = [
     'boulders',  
     'elven runes',  
     'strange energies',  
+    'earthquake',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -2637,6 +2681,7 @@ gen_data['forestadjective'] = [
     'attract Brigands',
     'could drive you mad',
     'augment magic',
+    'could make trees fall',
   ];
   gen_data['forestmonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2666,6 +2711,7 @@ gen_data['forestadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     'Elven Shadows who {elfshadowwants}',
     'a Sorcerous Cabal that {sorcererwants}',
+    'Earth Elementals who {earthelementalwants}',
 
   ];
 
@@ -2710,6 +2756,7 @@ gen_data['desertadjective'] = [
     'bone-filled',
     'hillside',
     'windy',
+    'stone',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2744,6 +2791,7 @@ gen_data['desertadjective'] = [
     'mud huts',
     'mounds',
     'flat land',
+    'fault line',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -2778,6 +2826,7 @@ gen_data['desertadjective'] = [
     'snare traps',  
     'rockfalls',  
     'howling winds',  
+    'earthquakes',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -2812,6 +2861,7 @@ gen_data['desertadjective'] = [
     'are set up by lizard people',
     'could crush you',
     'make walking difficult',
+    'make objects fall',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2846,6 +2896,7 @@ gen_data['desertadjective'] = [
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
     'Ogres who {ogreculture} {ogreproblem}',
     'Air Elementals who {airelementalwants}',
+    'Earth Elementals who {earthelementalwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4035,6 +4086,14 @@ gen_data['arcticadjective'] = [
     'snuff all flames',
     'erode the earth',
     'want to return to the plane of air',
+  ];
+   gen_data['earthelementalwants'] = [
+    'grow a mountain',
+    'protect a cave',
+    'fill in all bodies of water',
+    'snuff all flames',
+    'fill the air with dust',
+    'want to return to the plane of earth',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
