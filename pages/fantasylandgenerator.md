@@ -133,6 +133,7 @@
     'space',
     'stars',
     'ice',
+    'thin clouds',
   ];      
    
    gen_data['astralfeature'] = [
@@ -161,6 +162,7 @@
     '{astraladjective} threads crisscross the air ',
     'a big {astraladjective} power nexus disturbs travels',
     'a {astraladjective} crescent moon floats',
+    'a massive {astraladjective} storm looms',
  ];
       
    gen_data['astraladjective'] = [
@@ -189,6 +191,7 @@
     'silver',
     'arcane',
     'ice',
+    'wind',
   ];
 
    gen_data['astralobstacle'] = [
@@ -216,6 +219,7 @@
     'silver threads',
     'wild magic',
     '{color} lights',
+    'astral winds',
   ];
       
    gen_data['astralhazard'] = [
@@ -244,6 +248,7 @@
     'that might capture you',
     'augmenting magic',
     'that make the temperature drop',
+    'pushing you back',
   ];
 
    gen_data['astralmonster'] = [
@@ -272,6 +277,7 @@
     '{astralspinnertotem} Astral Spinners',
     'a Sorcerous Cabal that {sorcererwants}',
     'a Bralani who {bralaniwants}',    
+    'Air Elementals who {airelementalwants}',
   ];
       
       
@@ -464,6 +470,7 @@ gen_data['mainelemental'] = [
     'A mysterious tower attracts storms by the',
     'A sky-temple was built beyond the',
     'Flying icebergs host the',
+    'A hurricane has its eye set on the',
   ];
  
  gen_data['airhazard'] = [
@@ -477,6 +484,7 @@ gen_data['mainelemental'] = [
     'augment air magic',
     'attract Air Elementals',
     'create blizzards around them',
+    'carried by the wind',
 
   ];    
             
@@ -491,6 +499,7 @@ gen_data['mainelemental'] = [
     'can cast wind magic',
     'started worshipping a giant Air Elemental',
     'became hunted by the Winter Court',
+    'started riding tornadoes',
   ];    
  
   gen_data['airmonster'] = [
@@ -504,6 +513,7 @@ gen_data['mainelemental'] = [
     'an Air Cult that {cultwants}',
     'a Sorcerous Cabal that {sorcererwants}',  
     'a Bralani who {bralaniwants}',    
+    'Air Elementals who {airelementalwants}',
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -546,6 +556,7 @@ gen_data['mainelemental'] = [
     'A maelstrom of arcane energy ravages',
     'The astral sea is visible from',
     'A magical fountain floods',
+    'Giant balloons have lifted in the sky the part of the area with the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -576,6 +587,7 @@ gen_data['mainelemental'] = [
     'augment magic',
     'are partly in the astral sea',
     'can make you amnesiac',
+    'summon wind walls',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -606,6 +618,7 @@ gen_data['mainelemental'] = [
     'became imbued with wild magic',
     'came from a parallel universe',
     'can only exist in water reflections',
+    'adapted to life in the sky',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -636,6 +649,7 @@ gen_data['mainelemental'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     '{astralspinnertotem} Astral Spinners',
     'an Undine who {undinewants}',
+    'Air Elementals who {airelementalwants}',
  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -1355,6 +1369,7 @@ gen_data['seaadjective'] = [
     'stormy',
     'lovely',
     'settled',
+    'tumultuous',
  
   ];
   gen_data['seafeature'] = [
@@ -1372,6 +1387,7 @@ gen_data['seaadjective'] = [
     'power stones',
     'creeks',
     'coastal village',
+    'cyclone',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1387,6 +1403,7 @@ gen_data['seaadjective'] = [
     'strange magical energies',
     'floatsams',
     'sacred {seabeast}',
+    'cyclones',
 
   ];
   gen_data['seahazard'] = [
@@ -1403,6 +1420,7 @@ gen_data['seaadjective'] = [
     'augment magic',
     'are prized by undersea creatures',
     'are sacred for the locals',
+    'could strand you',
       
   ];
   gen_data['seamonster'] = [
@@ -1420,6 +1438,7 @@ gen_data['seaadjective'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'an Undine who {undinewants}',
     'the Warrior Tribe of the {seabeast} {warriorwants}',
+    'Air Elementals who {airelementalwants}',
 
   ];
 
@@ -1835,6 +1854,7 @@ gen_data['plainsadjective'] = [
     'big',
     'dusty',
     'arid',
+    'windy',
  
   ];
   gen_data['plainsfeature'] = [
@@ -1862,7 +1882,7 @@ gen_data['plainsadjective'] = [
     'yurt village',
     'hills',
     'tree',
-    'acacias',
+    'fields',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -1891,6 +1911,7 @@ gen_data['plainsadjective'] = [
     'boulders',
     'carrion grubs',
     'cacti',
+    'tornadoes',
 
   ];
   gen_data['plainshazard'] = [
@@ -1919,6 +1940,7 @@ gen_data['plainsadjective'] = [
     'could crush you',
     'carry parasites',
     'are hallucinogenic',
+    'make walking difficult',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -1946,6 +1968,7 @@ gen_data['plainsadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     '{boltforagertotem} Boltforagers',
     '{cactuscattotem} Cactus Cats',
+    'Air Elementals who {airelementalwants}',
 
   ];
       
@@ -1985,6 +2008,7 @@ gen_data['mountainadjective'] = [
     'steaming',
     'gravelly',
     'volcanic',
+    'cloudy',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2014,6 +2038,7 @@ gen_data['mountainadjective'] = [
     'hot springs',
     'earth shrine',
     'lava river',
+    'peaks',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2043,6 +2068,7 @@ gen_data['mountainadjective'] = [
     'vapors',
     'gravel pits',
     'brimstones',
+    'updrafts',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2072,6 +2098,7 @@ gen_data['mountainadjective'] = [
     'are boiling',
     'are sentient',
     'could fall on you',
+    'are near cliffs',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2101,6 +2128,7 @@ gen_data['mountainadjective'] = [
     'Steam Elementals who {steamelementalwants}',
     'Earth Mephits who {earthmephitwants}',
     'Salamanders who {salamanderwants}',
+    'Air Elementals who {airelementalwants}',
 
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2681,6 +2709,7 @@ gen_data['desertadjective'] = [
     'dusty',
     'bone-filled',
     'hillside',
+    'windy',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2714,6 +2743,7 @@ gen_data['desertadjective'] = [
     'bushes',
     'mud huts',
     'mounds',
+    'flat land',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -2747,6 +2777,7 @@ gen_data['desertadjective'] = [
     'tiny flies',  
     'snare traps',  
     'rockfalls',  
+    'howling winds',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -2780,6 +2811,7 @@ gen_data['desertadjective'] = [
     'can make you itchy',
     'are set up by lizard people',
     'could crush you',
+    'make walking difficult',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2813,6 +2845,7 @@ gen_data['desertadjective'] = [
     '{boartotem} Warthogs',
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
     'Ogres who {ogreculture} {ogreproblem}',
+    'Air Elementals who {airelementalwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2850,6 +2883,7 @@ gen_data['arcticadjective'] = [
     'fishing',
     'slushy',
     'melancholic',
+    'windy',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -2878,6 +2912,7 @@ gen_data['arcticadjective'] = [
     'strait',
     'shacks',
     'ice spires',
+    'lowlands',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -2906,6 +2941,7 @@ gen_data['arcticadjective'] = [
     'giant nests',
     'vicious rusty bear traps',  
     'breezes',  
+    'shifting winds',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -2931,9 +2967,10 @@ gen_data['arcticadjective'] = [
     'attract Scouts riding {arcticbeast}',
     'are sacred for the locals',
     'could crush you',
-    'near the sea',
+    'are near the sea',
     'could maim you',
     'lead to the fey world',
+    'make walking difficult',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2962,6 +2999,7 @@ gen_data['arcticadjective'] = [
     '{pelicantotem} Giant Pelicans',
     'Calytaurs who {calytaurculture} {calytaurproblem}',
     'a Bralani who {bralaniwants}',    
+    'Air Elementals who {airelementalwants}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -3990,9 +4028,17 @@ gen_data['arcticadjective'] = [
     'is preparing the grand winter ball in honor of the dead',
     'is on a mission to rescue an hostage',
   ];
+   gen_data['airelementalwants'] = [
+    'destroy all static ojects',
+    'protect the sky',
+    'prevent rainclouds from coming',
+    'snuff all flames',
+    'erode the earth',
+    'want to return to the plane of air',
+  ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script>
+    </script> 
   </head>
   <body>
     
