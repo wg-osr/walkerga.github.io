@@ -19,7 +19,7 @@ Bats have a very keen hearing, allowing them to easily spot their preys and pred
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. The olitiau makes a melee attack (x), on a hit the target must save vs poison or start dying. 
+<ins>Rake</ins>. The olitiau makes a melee attack (1), on a hit the target must save vs poison or start dying. 
 
 <span class="alchemy"> **Olitiau Venom**. Save or start dying. </span>
 
@@ -41,7 +41,7 @@ In a swarm, Olitiau Bats are immune to being grappled or attacked by single targ
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. The Olitiau Swarm makes a melee attack (1D6) with reach using its HP as its attack stat.  If you have been bitten by a bat, roll a D10 before you rest. On a hit the target must save vs poison or start dying.
+<ins>Rake</ins>. The Olitiau Swarm makes a melee attack (1D6) with reach using its HP as its attack stat. On a hit the target must save vs poison or start dying.
 <br>
 
 ---
