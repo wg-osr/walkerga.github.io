@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Oiled-up Muscle Giant
+title: The Bodybuilder
 permalink: /class/fighter/cacus
 ---
 
@@ -15,7 +15,7 @@ Shepherd staff, Loincloth, Sheep.
 <ins>Starting Skills (+5)</ins><br>
 Wrestling, and your choice of Herding, Mythology or Modeling
 
-For every Oiled-up Muscle Giant template you have, increase your wrestling skill by 1.
+For every Bodybuilder template you have, increase your wrestling skill by 1.
 
 **A:** Body Oil, Oiled Up I<br>
 **B:** Oiled Up II, Scoundrel<br>
