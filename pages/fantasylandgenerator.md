@@ -1437,7 +1437,7 @@ gen_data['seaadjective'] = [
     'could lead you to the plane of water',
     'reduce visibility',
     'could slow you down',
-    'could make you stuck',
+    'could make you stuck there',
     'augment magic',
     'are prized by undersea creatures',
     'are sacred for the locals',
