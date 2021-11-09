@@ -8,8 +8,8 @@ The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
   - The [Barbarian](/class/fighter/barbarian)
-  - The [Bodybuilder/Cacus](/class/fighter/cacus)
-  - The [Centaur/Horse](/class/fighter/centaur)
+  - The [Bodybuilder](/class/fighter/cacus)
+  - The [Horse / Horsefolk](/class/fighter/centaur)
   - The [Cyclops](/class/fighter/cyclopskin)
   - The [Lizardfolk](/class/fighter/lizardfolk)
   - The [Mutant](/class/fighter/mutant)
@@ -36,7 +36,7 @@ The [Specialist](/class/specialist)
   <summary>Specialist-Type Classes</summary>
   - The [Dwarf](/class/specialist/dwarf)
   - The [Goblins](/class/specialist/many-goblins)
-  - The [Pigfolk](/class/specialist/pigfolk)
+  - The [Butcher / Pigfolk](/class/specialist/pigfolk)
   - The [Salamander](/class/specialist/salamander)
   - The [Three-Armed Giant Baby](/class/specialist/athach)
 </details>
