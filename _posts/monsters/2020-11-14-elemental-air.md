@@ -2,7 +2,7 @@
 layout: post
 tags: monster elemental arctic desert plains mountain sea magical air astral
 permalink: /monsters/elemental-air
-title: Elemental, Steam
+title: Elemental, Air
 ---
 
 Sentient wind. An air elemental.
