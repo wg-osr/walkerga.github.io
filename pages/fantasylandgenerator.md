@@ -700,7 +700,7 @@ gen_data['mainelemental'] = [
     'bitter sentient',
     'fruit-shaped',
     'sculpture-filled',
-    'giant snow globe encasing it',
+    'giant snow globe encasing its',
     'song',
     'vine-choked',
     'famous festival of the',
