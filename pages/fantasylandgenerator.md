@@ -2676,7 +2676,7 @@ gen_data['forestadjective'] = [
     'boulders',  
     'elven runes',  
     'strange energies',  
-    'earthquake',  
+    'earthquakes',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
