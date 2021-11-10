@@ -135,6 +135,7 @@
     'ice',
     'thin clouds',
     'rocks',
+    'flames',
   ];      
    
    gen_data['astralfeature'] = [
@@ -158,13 +159,14 @@
     'a giant {astraladjective} gas planet orbits',
     '{astraladjective} bubbles float',
     '{astraladjective} chunks of earth crash into each other',
-    'a dim {astraladjective} dwarf star burns',
+    'a small dim {astraladjective} star burns',
     'many {astraladjective} spheres float',
     '{astraladjective} threads crisscross the air ',
     'a big {astraladjective} power nexus disturbs travels',
     'a {astraladjective} crescent moon floats',
     'a massive {astraladjective} storm looms',
     'a massive {astraladjective} sandstorm looms',
+    'a {astraladjective} sun shines',
  ];
       
    gen_data['astraladjective'] = [
@@ -195,6 +197,7 @@
     'ice',
     'wind',
     'granite',
+    'burning',
   ];
 
    gen_data['astralobstacle'] = [
@@ -224,6 +227,7 @@
     '{color} lights',
     'astral winds',
     'flying boulders',
+    'flames',
   ];
       
    gen_data['astralhazard'] = [
@@ -254,6 +258,7 @@
     'that make the temperature drop',
     'pushing you back',
     'crashing into you',
+    'coming from below',
   ];
 
    gen_data['astralmonster'] = [
@@ -284,6 +289,7 @@
     'a Bralani who {bralaniwants}',    
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
+    'Fire Elementals who {fireelementalwants}',
   ];
       
       
@@ -383,6 +389,7 @@ gen_data['mainelemental'] = [
     'Scalding steam is escaping from the',
     'Dancing flames have swallowed the',
     'Brass towers surround the magma',
+    'Unextinguishable flames engulf the',
   ];
  
  gen_data['firehazard'] = [
@@ -391,8 +398,9 @@ gen_data['mainelemental'] = [
     'makes the flame orchids blossom',
     'spits liquid gold',
     'are boiling',
-    'are set up by a Flame Princess',
+    'are set up by a fire {noble}',
     'create magma bubbles',
+    'set everything they touch ablaze',
   ];    
             
   gen_data['firetaint'] = [
@@ -403,6 +411,7 @@ gen_data['mainelemental'] = [
     'can breathe hot steam',
     'turned out to be illusions',
     'became enslaved by Salamanders',
+    'are ablaze',
   ];    
  
   gen_data['firemonster'] = [
@@ -413,6 +422,7 @@ gen_data['mainelemental'] = [
     'Steam Elementals who {steamelementalwants}',     
     'Fire Mephits who {firemephitwants}',
     'Salamanders who {salamanderwants}',
+    'Fire Elementals who {fireelementalwants}',
       ];
 
  
@@ -568,6 +578,7 @@ gen_data['mainelemental'] = [
     'A magical fountain floods',
     'Giant balloons have lifted in the sky the part of the area with the',
     'Granite obelisks surround the',
+    'Fire lakes simmer under the flying',
   ];
  
  gen_data['magicalhazard'] = [
@@ -600,6 +611,7 @@ gen_data['mainelemental'] = [
     'can make you amnesiac',
     'summon wind walls',
     'cause earthquakes',
+    'are on fire',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -632,6 +644,7 @@ gen_data['mainelemental'] = [
     'can only exist in water reflections',
     'adapted to life in the sky',
     'turned into stone',
+    'became encased in fire-protecting gear',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -664,6 +677,7 @@ gen_data['mainelemental'] = [
     'an Undine who {undinewants}',
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
+    'Fire Elementals who {fireelementalwants}',
  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -1127,6 +1141,7 @@ gen_data['darkgate'] = [
     'power nexus',
     'ruined tower',
     'stone maw',
+    'fiery pit',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1164,6 +1179,7 @@ gen_data['darkgatecomplication'] = [
     'the wild magic energies around it',
     'the rubbles covering it',
     'the tremors that make it unstable',
+    'the flames coming from it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1201,6 +1217,7 @@ gen_data['tunneladjective'] = [
     'arcane',
     'cursed',
     'grumbling',
+    'blazing',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1239,6 +1256,7 @@ gen_data['tunnelfeature'] = [
     'crystal fields',
     'ruins of a cursed civilization',
     'fault line',
+    'gas vents',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1277,6 +1295,7 @@ gen_data['tunnelhazard'] = [
     'magic hightening',
     'cursed',
     'violent',
+    'burning',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1315,6 +1334,7 @@ gen_data['tunnelobstacle'] = [
     'power crystals',
     'treasures',
     'earthquakes',
+    'braziers',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1353,6 +1373,7 @@ gen_data['tunnelmonster'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
     'Earth Elementals who {earthelementalwants}',
+    'Fire Elementals who {fireelementalwants}',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2036,6 +2057,7 @@ gen_data['mountainadjective'] = [
     'volcanic',
     'cloudy',
     'rumbling',
+    'coal',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2067,6 +2089,7 @@ gen_data['mountainadjective'] = [
     'lava river',
     'peaks',
     'mountain',
+    'tar pits',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2098,6 +2121,7 @@ gen_data['mountainadjective'] = [
     'brimstones',
     'updrafts',
     'earthquakes',
+    'tar puddles',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2129,6 +2153,7 @@ gen_data['mountainadjective'] = [
     'could fall on you',
     'are near cliffs',
     'could make the ground collapse',
+    'are aflame',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2160,7 +2185,7 @@ gen_data['mountainadjective'] = [
     'Salamanders who {salamanderwants}',
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
-
+    'Fire Elementals who {fireelementalwants}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2757,6 +2782,7 @@ gen_data['desertadjective'] = [
     'hillside',
     'windy',
     'stone',
+    'burning',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2792,6 +2818,7 @@ gen_data['desertadjective'] = [
     'mounds',
     'flat land',
     'fault line',
+    'tar pits',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -2827,6 +2854,7 @@ gen_data['desertadjective'] = [
     'rockfalls',  
     'howling winds',  
     'earthquakes',  
+    'tar pits',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -2862,6 +2890,7 @@ gen_data['desertadjective'] = [
     'could crush you',
     'make walking difficult',
     'make objects fall',
+    'are highly flammable',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2895,8 +2924,9 @@ gen_data['desertadjective'] = [
     '{boartotem} Warthogs',
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
     'Ogres who {ogreculture} {ogreproblem}',
-    'Air Elementals who {airelementalwants}',
+    'Air Elementals who {airelementalwants}', 
     'Earth Elementals who {earthelementalwants}',
+    'Fire Elementals who {fireelementalwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4094,6 +4124,14 @@ gen_data['arcticadjective'] = [
     'snuff all flames',
     'fill the air with dust',
     'want to return to the plane of earth',
+  ];
+   gen_data['fireelementalwants'] = [
+    'burn the land',
+    'protect a volcano',
+    'evaporate all water',
+    'summon a volcano',
+    'fill the air with smoke',
+    'want to return to the plane of fire',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
