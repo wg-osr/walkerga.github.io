@@ -1868,7 +1868,7 @@ gen_data['mainplains'] = [
     'This {2d6hexes}-hex grassland is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
   ];
 gen_data['plainsbeast'] = [
-    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards', 'Vultures', 'Terror Birds', 'Snakes'
+    'Horses', 'Buffalos', 'Rhinoceros', 'Elephant', 'Wolves', 'Lions', 'Bats', 'Lizards', 'Vultures', 'Terror Birds', 'Snakes', 'Elks', 'Antelopes'
   ];
 gen_data['plainsadjective'] = [
     'wind-swept',
@@ -1898,6 +1898,7 @@ gen_data['plainsadjective'] = [
     'arid',
     'windy',
     'rocky',
+    'arid',
  
   ];
   gen_data['plainsfeature'] = [
@@ -1927,6 +1928,7 @@ gen_data['plainsadjective'] = [
     'tree',
     'fields',
     'fault line',
+    'shrubs',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -1957,6 +1959,7 @@ gen_data['plainsadjective'] = [
     'cacti',
     'tornadoes',
     'earthquakes',
+    'rivers',
 
   ];
   gen_data['plainshazard'] = [
@@ -1987,6 +1990,7 @@ gen_data['plainsadjective'] = [
     'are hallucinogenic',
     'make walking difficult',
     'could make the ground collapse',
+    'are hard to cross',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2016,7 +2020,7 @@ gen_data['plainsadjective'] = [
     '{cactuscattotem} Cactus Cats',
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
-
+    '{elktotem}{giant}Antelopes',
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2422,6 +2426,7 @@ gen_data['rockyadjective'] = [
     'hillside',
     'gravelly',
     'granite',
+    'lichen-covered',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2461,6 +2466,7 @@ gen_data['rockyadjective'] = [
     'mounds',
     'earth shrine',
     'fault line',
+    'vales',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2500,6 +2506,7 @@ gen_data['rockyadjective'] = [
     'boulders',
     'gravel pits',
     'earthquakes',
+    'shrubs',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2539,6 +2546,7 @@ gen_data['rockyadjective'] = [
     'attract brigands',  
     'are sentient',  
     'can make the ground collapse',  
+    'attract carnivores',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2577,7 +2585,7 @@ gen_data['rockyadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     'Earth Mephits who {earthmephitwants}',
     'Earth Elementals who {earthelementalwants}',
-
+    '{elktotem}{giant}Antelopes',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2617,6 +2625,7 @@ gen_data['forestadjective'] = [
     'eerie',
     'stormy',
     'rocky',
+    'peaceful',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -2647,6 +2656,7 @@ gen_data['forestadjective'] = [
     'elven ruins',
     'power stones',
     'fault line',
+    'maples',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -2677,6 +2687,7 @@ gen_data['forestadjective'] = [
     'elven runes',  
     'strange energies',  
     'earthquakes',  
+    'sap leaks',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -2707,6 +2718,7 @@ gen_data['forestadjective'] = [
     'could drive you mad',
     'augment magic',
     'could make trees fall',
+    'are very sticky',
   ];
   gen_data['forestmonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2737,6 +2749,7 @@ gen_data['forestadjective'] = [
     'Elven Shadows who {elfshadowwants}',
     'a Sorcerous Cabal that {sorcererwants}',
     'Earth Elementals who {earthelementalwants}',
+    '{elktotem}{giant}Elks',
 
   ];
 
@@ -2783,6 +2796,7 @@ gen_data['desertadjective'] = [
     'windy',
     'stone',
     'burning',
+    'arid',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2819,6 +2833,7 @@ gen_data['desertadjective'] = [
     'flat land',
     'fault line',
     'tar pits',
+    'shrubs',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -2855,6 +2870,7 @@ gen_data['desertadjective'] = [
     'howling winds',  
     'earthquakes',  
     'tar pits',  
+    'srhubs',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -2891,6 +2907,7 @@ gen_data['desertadjective'] = [
     'make walking difficult',
     'make objects fall',
     'are highly flammable',
+    'attract carnivores',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2927,6 +2944,7 @@ gen_data['desertadjective'] = [
     'Air Elementals who {airelementalwants}', 
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
+    '{elktotem}{giant}Antelopes',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2965,6 +2983,7 @@ gen_data['arcticadjective'] = [
     'slushy',
     'melancholic',
     'windy',
+    'wooded',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -2994,6 +3013,7 @@ gen_data['arcticadjective'] = [
     'shacks',
     'ice spires',
     'lowlands',
+    'pastures',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3023,6 +3043,7 @@ gen_data['arcticadjective'] = [
     'vicious rusty bear traps',  
     'breezes',  
     'shifting winds',  
+    'rivers',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3052,6 +3073,7 @@ gen_data['arcticadjective'] = [
     'could maim you',
     'lead to the fey world',
     'make walking difficult',
+    'are difficult to cross',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3081,6 +3103,7 @@ gen_data['arcticadjective'] = [
     'Calytaurs who {calytaurculture} {calytaurproblem}',
     'a Bralani who {bralaniwants}',    
     'Air Elementals who {airelementalwants}',
+    '{elktotem}{giant}Elks',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4136,6 +4159,14 @@ gen_data['arcticadjective'] = [
     'summon a volcano',
     'fill the air with smoke',
     'want to return to the plane of fire',
+  ];
+   gen_data['elktotem'] = [
+    'regal',
+    'bush',
+    'hunted',
+    'migrating',
+    'virile',
+    'sacred',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
