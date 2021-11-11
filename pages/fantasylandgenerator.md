@@ -726,6 +726,7 @@ gen_data['mainelemental'] = [
     'silver-sewn',
     'trinket-covered',
     'winter',
+    'tropical',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -760,7 +761,8 @@ gen_data['mainelemental'] = [
     'copper',
     'silver',
     'mournful',
-  ];    
+    'mossy',
+   ];    
       
  gen_data['enchantedobstacle'] = [
     'winds',
@@ -795,6 +797,7 @@ gen_data['mainelemental'] = [
     'threads',
     'fountains',
     '{color} lights',
+    'doors in stumps',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -829,6 +832,7 @@ gen_data['mainelemental'] = [
     'vanished to the astral world',
     'became mute and beautiful',
     'became gloomy',
+    'learned to never travel alone',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -864,6 +868,7 @@ gen_data['mainelemental'] = [
     '{astralspinnertotem} Astral Spinners',
     'an Undine who {undinewants}',
     'a Bralani who {bralaniwants}',    
+    'an Eloko who {elokowants}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1711,6 +1716,7 @@ gen_data['swampadjective'] = [
     'big',
     'misty',
     'oozing',
+    'unnaturally warm',
  
   ];
   gen_data['swampfeature'] = [
@@ -1748,6 +1754,7 @@ gen_data['swampadjective'] = [
     'rock mounds',
     'loch',
     'rot shrine',
+    'hunting grounds',
  
   ];
   gen_data['swampobstacle'] = [
@@ -1785,6 +1792,7 @@ gen_data['swampadjective'] = [
     'uprooted trees',
     'ley lines',
     'ooze bubbles',
+    'tree stumps',
 
   ];
   gen_data['swamphazard'] = [
@@ -1822,6 +1830,7 @@ gen_data['swampadjective'] = [
     'make the ground unstable',
     'are crackling with power',
     'are observing you',
+    'could split the party',
       
   ];
   gen_data['swampmonster'] = [
@@ -1859,6 +1868,7 @@ gen_data['swampadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     'Athachs who {athachculture} {athachproblem}',
     'Ooze Mephits who {oozemephitwants}',
+    'an Eloko who {elokowants}',
 
   ];
       
@@ -2234,6 +2244,7 @@ gen_data['jungleadjective'] = [
     'stormy',
     'big',    
     'rocky',    
+    'flooded',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2271,6 +2282,7 @@ gen_data['jungleadjective'] = [
     'power stones',
     'inn',
     'fault line',
+    'hunting grounds',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2307,6 +2319,7 @@ gen_data['jungleadjective'] = [
     'strange energies',
     'boulders',
     'earthquakes',
+    'tree stumps',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2343,6 +2356,7 @@ gen_data['jungleadjective'] = [
     'augment magic',
     'could hide ambushers',
     'could make trees fall',
+    'could split the party',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}Aqraseths',
@@ -2379,6 +2393,7 @@ gen_data['jungleadjective'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'Ogres who {ogreculture} {ogreproblem}',
     'Earth Elementals who {earthelementalwants}',
+    'an Eloko who {elokowants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4167,6 +4182,14 @@ gen_data['arcticadjective'] = [
     'migrating',
     'virile',
     'sacred',
+  ];
+   gen_data['elokowants'] = [
+    'wants to make people fearful of strangers',
+    'is looking for a surrogate parent (to eat it)',
+    'wants to make a friend, and kill their friend’s friends',
+    'is making sure no one is out during the day',
+    'is making sure no one is out during the night',
+    'is making sure everyone stays alone',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
