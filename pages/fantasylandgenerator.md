@@ -579,6 +579,7 @@ gen_data['mainelemental'] = [
     'Giant balloons have lifted in the sky the part of the area with the',
     'Granite obelisks surround the',
     'Fire lakes simmer under the flying',
+    'An ivory tower rises above the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -612,6 +613,7 @@ gen_data['mainelemental'] = [
     'summon wind walls',
     'cause earthquakes',
     'are on fire',
+    'shimmer in a hypnitizing kaleidoscope of lights',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -645,6 +647,7 @@ gen_data['mainelemental'] = [
     'adapted to life in the sky',
     'turned into stone',
     'became encased in fire-protecting gear',
+    'became servant to the Elven High Mages',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -678,6 +681,7 @@ gen_data['mainelemental'] = [
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
+    'High Elves who {highelfculture} {highelfproblem}',
  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -727,6 +731,7 @@ gen_data['mainelemental'] = [
     'trinket-covered',
     'winter',
     'tropical',
+    'gorgeous',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -762,6 +767,7 @@ gen_data['mainelemental'] = [
     'silver',
     'mournful',
     'mossy',
+    'ivory',
    ];    
       
  gen_data['enchantedobstacle'] = [
@@ -798,6 +804,7 @@ gen_data['mainelemental'] = [
     'fountains',
     '{color} lights',
     'doors in stumps',
+    'spires',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -833,6 +840,7 @@ gen_data['mainelemental'] = [
     'became mute and beautiful',
     'became gloomy',
     'learned to never travel alone',
+    'started to worship elves',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -869,6 +877,7 @@ gen_data['mainelemental'] = [
     'an Undine who {undinewants}',
     'a Bralani who {bralaniwants}',    
     'an Eloko who {elokowants}',
+    'High Elves who {highelfculture} {highelfproblem}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1417,6 +1426,7 @@ gen_data['seaadjective'] = [
     'lovely',
     'settled',
     'tumultuous',
+    'sunny',
  
   ];
   gen_data['seafeature'] = [
@@ -1435,6 +1445,7 @@ gen_data['seaadjective'] = [
     'creeks',
     'coastal village',
     'cyclone',
+    'high sea port',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1451,6 +1462,7 @@ gen_data['seaadjective'] = [
     'floatsams',
     'sacred {seabeast}',
     'cyclones',
+    'elven fleet',
 
   ];
   gen_data['seahazard'] = [
@@ -1468,6 +1480,7 @@ gen_data['seaadjective'] = [
     'are prized by undersea creatures',
     'are sacred for the locals',
     'could strand you',
+    'could chase you',
       
   ];
   gen_data['seamonster'] = [
@@ -1486,6 +1499,7 @@ gen_data['seaadjective'] = [
     'an Undine who {undinewants}',
     'the Warrior Tribe of the {seabeast} {warriorwants}',
     'Air Elementals who {airelementalwants}',
+    'High Elves who {highelfculture} {highelfproblem}',
 
   ];
 
@@ -1530,6 +1544,7 @@ gen_data['cityadjective'] = [
     'old, elven',
     'arcane',
     'Witch King’s',
+    'ivory',
  
   ];
   gen_data['cityfeature'] = [
@@ -1565,6 +1580,7 @@ gen_data['cityadjective'] = [
     'pleasure dens',
     'duel culture',
     'ruins',
+    'towers',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1600,6 +1616,7 @@ gen_data['cityadjective'] = [
     'corrupted officials',
     'strange magical energies',
     'soulless passersby',
+    'fragile artworks',
 
   ];
   gen_data['cityhazard'] = [
@@ -1635,7 +1652,7 @@ gen_data['cityadjective'] = [
     'could make your life difficult with the authorities',
     'augment magic',
     'carry an ancient curse',
-      
+    'are vectors for spells', 
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1670,6 +1687,7 @@ gen_data['cityadjective'] = [
     'Elven Shadows who {elfshadowwants}',
     'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
+    'High Elves who {highelfculture} {highelfproblem}',
 
   ];
 
@@ -2072,6 +2090,7 @@ gen_data['mountainadjective'] = [
     'cloudy',
     'rumbling',
     'coal',
+    'white',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2104,6 +2123,7 @@ gen_data['mountainadjective'] = [
     'peaks',
     'mountain',
     'tar pits',
+    'tower',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2136,6 +2156,7 @@ gen_data['mountainadjective'] = [
     'updrafts',
     'earthquakes',
     'tar puddles',
+    'fog clouds',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2168,6 +2189,7 @@ gen_data['mountainadjective'] = [
     'are near cliffs',
     'could make the ground collapse',
     'are aflame',
+    'shimmer with hypnotizing colors',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2200,6 +2222,7 @@ gen_data['mountainadjective'] = [
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
+    'High Elves who {highelfculture} {highelfproblem}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2999,6 +3022,7 @@ gen_data['arcticadjective'] = [
     'melancholic',
     'windy',
     'wooded',
+    'white',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3029,6 +3053,7 @@ gen_data['arcticadjective'] = [
     'ice spires',
     'lowlands',
     'pastures',
+    'tower',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3059,6 +3084,7 @@ gen_data['arcticadjective'] = [
     'breezes',  
     'shifting winds',  
     'rivers',  
+    'auroras',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3089,6 +3115,7 @@ gen_data['arcticadjective'] = [
     'lead to the fey world',
     'make walking difficult',
     'are difficult to cross',
+    'shimmer with hypnotizing colors',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3119,6 +3146,7 @@ gen_data['arcticadjective'] = [
     'a Bralani who {bralaniwants}',    
     'Air Elementals who {airelementalwants}',
     '{elktotem}{giant}Elks',
+    'High Elves who {highelfculture} {highelfproblem}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4190,6 +4218,22 @@ gen_data['arcticadjective'] = [
     'is making sure no one is out during the day',
     'is making sure no one is out during the night',
     'is making sure everyone stays alone',
+  ];
+     gen_data['highelfculture'] = [
+    'live in flying towers',
+    'live in towers protected by magical fog',
+    'live in luxurious oases',
+    'are served by elegant constructs',
+    'who live under a glass dome',
+    'have a legendary queen',
+  ];
+   gen_data['highelfproblem'] = [
+    'that they cant leave lest they die',
+    'and are rumored to be nearly extinct',
+    'which they use to probe the thoughts of all visitors',
+    'whose overuse of magic is behind most of the land’s problems',
+    'whose beauty has destroyed nations',
+    'and coexist with dragons',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
