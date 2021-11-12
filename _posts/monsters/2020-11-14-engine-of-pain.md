@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster construct  city underdark cursed holy magical
+tags: monster construct  city underdark holy magical astral
 permalink: /monsters/engine-of-pain
 title: Engine of Pain
 ---
