@@ -431,7 +431,6 @@ gen_data['mainelemental'] = [
     'Fire Elementals who {fireelementalwants}',
       ];
 
- 
    gen_data['earthadjective'] = [
     'Toxic mud drowns the',
     'Black soot covers the coal',
@@ -656,7 +655,7 @@ gen_data['mainelemental'] = [
     'turned into stone',
     'became encased in fire-protecting gear',
     'became servant to the Elven High Mages',
-    'fled the new construction,
+    'fled the new construction',
   ];    
  
   gen_data['magicalmonster'] = [
