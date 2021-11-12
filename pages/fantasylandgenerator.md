@@ -108,7 +108,7 @@
 // - - - - - - - - - - A - S - T - R - A - L - - - - - - - - - - - - - - - - - - - - - - - - - -
 
    gen_data['astrallandscape'] = [
-    'stars',
+    'starry sky',
     'stormy clouds',
     'void',
     'tendrils',
@@ -131,11 +131,12 @@
     'flames',
     'bubbles',
     'space',
-    'stars',
+    'starry sky',
     'ice',
     'thin clouds',
     'rocks',
     'flames',
+    'starry sky',
   ];      
    
    gen_data['astralfeature'] = [
@@ -167,6 +168,7 @@
     'a massive {astraladjective} storm looms',
     'a massive {astraladjective} sandstorm looms',
     'a {astraladjective} sun shines',
+    'a {astraladjective} astral shipyard stands',
  ];
       
    gen_data['astraladjective'] = [
@@ -198,6 +200,7 @@
     'wind',
     'granite',
     'burning',
+    'industrial',
   ];
 
    gen_data['astralobstacle'] = [
@@ -228,6 +231,7 @@
     'astral winds',
     'flying boulders',
     'flames',
+    'metal scraps',
   ];
       
    gen_data['astralhazard'] = [
@@ -259,6 +263,7 @@
     'pushing you back',
     'crashing into you',
     'coming from below',
+    'that could hurt you',
   ];
 
    gen_data['astralmonster'] = [
@@ -290,6 +295,7 @@
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
+    'Engines of Pain {engineofpainown}',
   ];
       
       
@@ -580,6 +586,7 @@ gen_data['mainelemental'] = [
     'Granite obelisks surround the',
     'Fire lakes simmer under the flying',
     'An ivory tower rises above the',
+    'A crystal-harvesting open-air mine has dug out the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -614,6 +621,7 @@ gen_data['mainelemental'] = [
     'cause earthquakes',
     'are on fire',
     'shimmer in a hypnitizing kaleidoscope of lights',
+    'have become toxic from industrial waste',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -648,6 +656,7 @@ gen_data['mainelemental'] = [
     'turned into stone',
     'became encased in fire-protecting gear',
     'became servant to the Elven High Mages',
+    'fled the new construction,
   ];    
  
   gen_data['magicalmonster'] = [
@@ -682,6 +691,7 @@ gen_data['mainelemental'] = [
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     'High Elves who {highelfculture} {highelfproblem}',
+    'Engines of Pain {engineofpainown}',
  
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
@@ -904,6 +914,7 @@ gen_data['mainelemental'] = [
     'An Infernal Cult has taken over',
     'The souls of sinners are bound to',
     'A humongous temple dwarfs',
+    'A pharaonic structure is being built passed',
   ];
       
  gen_data['divinechazard'] = [
@@ -917,6 +928,7 @@ gen_data['mainelemental'] = [
     'are diabolical',
     'speak with the voices of damned souls',
     'will only let faithful pass',
+    'are near the immensely high wall',
   ];    
       
   gen_data['divinetaint'] = [
@@ -930,6 +942,7 @@ gen_data['mainelemental'] = [
     'tormented sinners for generations',
     'started wailing for the salvation of sinners',
     'joined the Church',
+    'became cursed to repeat a sisyphian task',
 
   ];    
  
@@ -944,6 +957,7 @@ gen_data['mainelemental'] = [
     'an Heretic Cult that {cultwants}',
     'a {deathsheadtotem} Death’s Head Tree',
     'church-owned Stone Golems',
+    'Engines of Pain {engineofpainown}',
  ];
 
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1156,6 +1170,7 @@ gen_data['darkgate'] = [
     'ruined tower',
     'stone maw',
     'fiery pit',
+    'dam',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1194,6 +1209,7 @@ gen_data['darkgatecomplication'] = [
     'the rubbles covering it',
     'the tremors that make it unstable',
     'the flames coming from it',
+    'sealed iron doors in it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1232,6 +1248,7 @@ gen_data['tunneladjective'] = [
     'cursed',
     'grumbling',
     'blazing',
+    'iron-reinforced',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1271,6 +1288,7 @@ gen_data['tunnelfeature'] = [
     'ruins of a cursed civilization',
     'fault line',
     'gas vents',
+    'mines',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1310,6 +1328,7 @@ gen_data['tunnelhazard'] = [
     'cursed',
     'violent',
     'burning',
+    'earth-spliting',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1349,6 +1368,7 @@ gen_data['tunnelobstacle'] = [
     'treasures',
     'earthquakes',
     'braziers',
+    'giant drills',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1388,6 +1408,7 @@ gen_data['tunnelmonster'] = [
     'a Wraith that {wraithwants}',
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
+    'Engines of Pain {engineofpainown}',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1533,7 +1554,7 @@ gen_data['cityadjective'] = [
     'cyclopean',
     'aristocratic',
     'polluted',
-    'dystopic',
+    'dystopian',
     'rowdy',
     'trashy',
     'ancient',
@@ -1545,6 +1566,7 @@ gen_data['cityadjective'] = [
     'arcane',
     'Witch King’s',
     'ivory',
+    'iron-clad',
  
   ];
   gen_data['cityfeature'] = [
@@ -1581,6 +1603,7 @@ gen_data['cityadjective'] = [
     'duel culture',
     'ruins',
     'towers',
+    'unfinished construction',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1617,6 +1640,7 @@ gen_data['cityadjective'] = [
     'strange magical energies',
     'soulless passersby',
     'fragile artworks',
+    'construction workers',
 
   ];
   gen_data['cityhazard'] = [
@@ -1653,6 +1677,7 @@ gen_data['cityadjective'] = [
     'augment magic',
     'carry an ancient curse',
     'are vectors for spells', 
+    'holding heavy construction materials', 
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1688,6 +1713,7 @@ gen_data['cityadjective'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'a Wraith that {wraithwants}',
     'High Elves who {highelfculture} {highelfproblem}',
+    'Engines of Pain {engineofpainown}',
 
   ];
 
@@ -4234,6 +4260,14 @@ gen_data['arcticadjective'] = [
     'whose overuse of magic is behind most of the land’s problems',
     'whose beauty has destroyed nations',
     'and coexist with dragons',
+  ];
+   gen_data['engineofpainown'] = [
+    'working on a megalomaniac infrastructure project',
+    'digging a tunnel',
+    'mining a rare and dangerous ore',
+    'expanding a prison complexe',
+    'assembling a massive weapon',
+    'attempting to destroy a fortress',
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
