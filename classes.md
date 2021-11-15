@@ -36,7 +36,7 @@ The [Specialist](/class/specialist)
   <summary>Specialist-Type Classes</summary>
   - The [Butcher / Pigfolk](/class/specialist/pigfolk)
   - The [Dwarf](/class/specialist/dwarf)
-  - The [Ettercap](/class/ettercap)
+  - The [Ettercap / Spîderfolk](/class/ettercap)
   - The [Goblins](/class/specialist/many-goblins)
   - The [Salamander](/class/specialist/salamander)
   - The [Three-Armed Giant Baby](/class/specialist/athach)
