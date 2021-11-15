@@ -34,9 +34,10 @@ The [Magic User](/class/magic-user)
 The [Specialist](/class/specialist)
 <details markdown="1">
   <summary>Specialist-Type Classes</summary>
-  - The [Dwarf](/class/specialist/dwarf)
-  - The [Goblins](/class/specialist/many-goblins)
   - The [Butcher / Pigfolk](/class/specialist/pigfolk)
+  - The [Dwarf](/class/specialist/dwarf)
+  - The [Ettercap](/class/ettercap)
+  - The [Goblins](/class/specialist/many-goblins)
   - The [Salamander](/class/specialist/salamander)
   - The [Three-Armed Giant Baby](/class/specialist/athach)
 </details>
