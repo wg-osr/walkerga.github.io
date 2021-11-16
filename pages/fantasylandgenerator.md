@@ -1170,6 +1170,7 @@ gen_data['darkgate'] = [
     'stone maw',
     'fiery pit',
     'dam',
+    'spider nest',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1209,6 +1210,7 @@ gen_data['darkgatecomplication'] = [
     'the tremors that make it unstable',
     'the flames coming from it',
     'sealed iron doors in it',
+    'sticky webs covering it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1248,6 +1250,7 @@ gen_data['tunneladjective'] = [
     'grumbling',
     'blazing',
     'iron-reinforced',
+    'web-tangled',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1288,6 +1291,7 @@ gen_data['tunnelfeature'] = [
     'fault line',
     'gas vents',
     'mines',
+    'dens',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1328,6 +1332,7 @@ gen_data['tunnelhazard'] = [
     'violent',
     'burning',
     'earth-spliting',
+    'falling',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1368,6 +1373,7 @@ gen_data['tunnelobstacle'] = [
     'earthquakes',
     'braziers',
     'giant drills',
+    'spider webs',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1408,6 +1414,7 @@ gen_data['tunnelmonster'] = [
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     'Engines of Pain {engineofpainown}',
+    'Ettercaps who {ettercapculture} {ettercapproblem}',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1566,6 +1573,7 @@ gen_data['cityadjective'] = [
     'Witch King’s',
     'ivory',
     'iron-clad',
+    'suspended',
  
   ];
   gen_data['cityfeature'] = [
@@ -1603,6 +1611,7 @@ gen_data['cityadjective'] = [
     'ruins',
     'towers',
     'unfinished construction',
+    'silk mills',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1640,6 +1649,7 @@ gen_data['cityadjective'] = [
     'soulless passersby',
     'fragile artworks',
     'construction workers',
+    'ziplines',
 
   ];
   gen_data['cityhazard'] = [
@@ -1677,6 +1687,7 @@ gen_data['cityadjective'] = [
     'carry an ancient curse',
     'are vectors for spells', 
     'holding heavy construction materials', 
+    'collapse at any time', 
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1713,6 +1724,7 @@ gen_data['cityadjective'] = [
     'a Wraith that {wraithwants}',
     'High Elves who {highelfculture} {highelfproblem}',
     'Engines of Pain {engineofpainown}',
+    'Ettercaps who {ettercapculture} {ettercapproblem}',
 
   ];
 
@@ -2293,6 +2305,7 @@ gen_data['jungleadjective'] = [
     'big',    
     'rocky',    
     'flooded',    
+    'high',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2331,6 +2344,7 @@ gen_data['jungleadjective'] = [
     'inn',
     'fault line',
     'hunting grounds',
+    'treetops',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2368,6 +2382,7 @@ gen_data['jungleadjective'] = [
     'boulders',
     'earthquakes',
     'tree stumps',
+    'spider webs',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2405,6 +2420,7 @@ gen_data['jungleadjective'] = [
     'could hide ambushers',
     'could make trees fall',
     'could split the party',
+    'you could run into',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}Aqraseths',
@@ -2442,6 +2458,7 @@ gen_data['jungleadjective'] = [
     'Ogres who {ogreculture} {ogreproblem}',
     'Earth Elementals who {earthelementalwants}',
     'an Eloko who {elokowants}',
+    'Ettercaps who {ettercapculture} {ettercapproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2689,6 +2706,7 @@ gen_data['forestadjective'] = [
     'stormy',
     'rocky',
     'peaceful',
+    'high',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -2720,6 +2738,7 @@ gen_data['forestadjective'] = [
     'power stones',
     'fault line',
     'maples',
+    'treetops',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -2751,6 +2770,7 @@ gen_data['forestadjective'] = [
     'strange energies',  
     'earthquakes',  
     'sap leaks',  
+    'spider webs',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -2782,6 +2802,7 @@ gen_data['forestadjective'] = [
     'augment magic',
     'could make trees fall',
     'are very sticky',
+    'you could run into',
   ];
   gen_data['forestmonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2813,7 +2834,7 @@ gen_data['forestadjective'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'Earth Elementals who {earthelementalwants}',
     '{elktotem}{giant}Elks',
-
+    'Ettercaps who {ettercapculture} {ettercapproblem}',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4268,7 +4289,22 @@ gen_data['arcticadjective'] = [
     'assembling a massive weapon',
     'attempting to destroy a fortress',
   ];
-
+     gen_data['ettercapculture'] = [
+    'live in silk huts',
+    'live in damp caves',
+    'live in camouflaged dens',
+    'live in dome-like silk factories',
+    'travel the world atop gigantic Daddy-Long-Legs',
+    'live among humans',
+  ];
+   gen_data['ettercapproblem'] = [
+    'and specialize in capturing fairies',
+    'and are the cursed human followers of the spired goddess',
+    'and are rich from the silk trade',
+    'as members of an assassin cult',
+    'split in two factions of ground-dwellers and ceiling-dwellers',
+    'as the {noble}'s official tailors',
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
   </head>
