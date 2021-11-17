@@ -1575,6 +1575,7 @@ gen_data['cityadjective'] = [
     'ivory',
     'iron-clad',
     'suspended',
+    'twin',
  
   ];
   gen_data['cityfeature'] = [
@@ -1613,6 +1614,7 @@ gen_data['cityadjective'] = [
     'towers',
     'unfinished construction',
     'silk mills',
+    'war lord',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1651,6 +1653,7 @@ gen_data['cityadjective'] = [
     'fragile artworks',
     'construction workers',
     'ziplines',
+    'heavy carts',
 
   ];
   gen_data['cityhazard'] = [
@@ -1688,7 +1691,8 @@ gen_data['cityadjective'] = [
     'carry an ancient curse',
     'are vectors for spells',
     'holding heavy construction materials',
-    'collapse at any time',
+    'could collapse at any time',
+    'race down the streets',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1726,6 +1730,7 @@ gen_data['cityadjective'] = [
     'High Elves who {highelfculture} {highelfproblem}',
     'Engines of Pain {engineofpainown}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
+    'Ettins {ettinculture} {ettinproblem}',
 
   ];
 
@@ -1965,6 +1970,7 @@ gen_data['plainsadjective'] = [
     'windy',
     'rocky',
     'arid',
+    'twin',
  
   ];
   gen_data['plainsfeature'] = [
@@ -1995,6 +2001,7 @@ gen_data['plainsadjective'] = [
     'fields',
     'fault line',
     'shrubs',
+    'rock',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2026,6 +2033,7 @@ gen_data['plainsadjective'] = [
     'tornadoes',
     'earthquakes',
     'rivers',
+    'heavy boulders',
 
   ];
   gen_data['plainshazard'] = [
@@ -2057,6 +2065,7 @@ gen_data['plainsadjective'] = [
     'make walking difficult',
     'could make the ground collapse',
     'are hard to cross',
+    'require a lot of strength to overcome',
   ];
   gen_data['plainsmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -2087,6 +2096,7 @@ gen_data['plainsadjective'] = [
     'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
     '{elktotem}{giant}Antelopes',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2129,6 +2139,7 @@ gen_data['mountainadjective'] = [
     'rumbling',
     'coal',
     'white',
+    'twin',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2162,6 +2173,7 @@ gen_data['mountainadjective'] = [
     'mountain',
     'tar pits',
     'tower',
+    'rock',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2195,6 +2207,7 @@ gen_data['mountainadjective'] = [
     'earthquakes',
     'tar puddles',
     'fog clouds',
+    'massive rocks',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2228,6 +2241,7 @@ gen_data['mountainadjective'] = [
     'could make the ground collapse',
     'are aflame',
     'shimmer with hypnotizing colors',
+    'require a lot of strength to overcome',
   ];
   gen_data['mountainmonster'] = [
     'Ogres who {ogreculture} {ogreproblem}',
@@ -2261,6 +2275,7 @@ gen_data['mountainadjective'] = [
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     'High Elves who {highelfculture} {highelfproblem}',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2307,6 +2322,7 @@ gen_data['jungleadjective'] = [
     'rocky',    
     'flooded',    
     'high',    
+    'twin',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2346,6 +2362,7 @@ gen_data['jungleadjective'] = [
     'fault line',
     'hunting grounds',
     'treetops',
+    'hills',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2384,6 +2401,7 @@ gen_data['jungleadjective'] = [
     'earthquakes',
     'tree stumps',
     'spider webs',
+    'fallen trees',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2422,6 +2440,7 @@ gen_data['jungleadjective'] = [
     'could make trees fall',
     'could split the party',
     'you could run into',
+    'require a lot of strength to overcome',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}Aqraseths',
@@ -2460,6 +2479,7 @@ gen_data['jungleadjective'] = [
     'Earth Elementals who {earthelementalwants}',
     'an Eloko who {elokowants}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2508,6 +2528,7 @@ gen_data['rockyadjective'] = [
     'gravelly',
     'granite',
     'lichen-covered',
+    'twin',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2548,6 +2569,7 @@ gen_data['rockyadjective'] = [
     'earth shrine',
     'fault line',
     'vales',
+    'rock',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2588,6 +2610,7 @@ gen_data['rockyadjective'] = [
     'gravel pits',
     'earthquakes',
     'shrubs',
+    'rock slabs',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2628,6 +2651,7 @@ gen_data['rockyadjective'] = [
     'are sentient',  
     'can make the ground collapse',  
     'attract carnivores',  
+    'require a lot of strength to overcome',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2667,6 +2691,7 @@ gen_data['rockyadjective'] = [
     'Earth Mephits who {earthmephitwants}',
     'Earth Elementals who {earthelementalwants}',
     '{elktotem}{giant}Antelopes',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2882,6 +2907,7 @@ gen_data['desertadjective'] = [
     'stone',
     'burning',
     'arid',
+    'twin',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2919,6 +2945,7 @@ gen_data['desertadjective'] = [
     'fault line',
     'tar pits',
     'shrubs',
+    'rock',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -2956,6 +2983,7 @@ gen_data['desertadjective'] = [
     'earthquakes',  
     'tar pits',  
     'shrubs',  
+    'heavy boulders',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -2993,6 +3021,7 @@ gen_data['desertadjective'] = [
     'make objects fall',
     'are highly flammable',
     'attract carnivores',
+    'require a lot of strength to overcome',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3030,6 +3059,7 @@ gen_data['desertadjective'] = [
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     '{elktotem}{giant}Antelopes',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3070,6 +3100,7 @@ gen_data['arcticadjective'] = [
     'windy',
     'wooded',
     'white',
+    'twin',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3101,6 +3132,7 @@ gen_data['arcticadjective'] = [
     'lowlands',
     'pastures',
     'tower',
+    'rock',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3123,7 +3155,7 @@ gen_data['arcticadjective'] = [
     'steam vents',
     'hidden pit traps',
     'wild energies',
-    'war banners',  
+    'tribal drums',  
     'sacred {arcticbeast}',
     'rockfalls',
     'giant nests',
@@ -3132,6 +3164,7 @@ gen_data['arcticadjective'] = [
     'shifting winds',  
     'rivers',  
     'auroras',  
+    'thin ice',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3163,6 +3196,7 @@ gen_data['arcticadjective'] = [
     'make walking difficult',
     'are difficult to cross',
     'shimmer with hypnotizing colors',
+    'will hinder heavy creatures',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3194,6 +3228,7 @@ gen_data['arcticadjective'] = [
     'Air Elementals who {airelementalwants}',
     '{elktotem}{giant}Elks',
     'High Elves who {highelfculture} {highelfproblem}',
+    'Ettins {ettinculture} {ettinproblem}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
