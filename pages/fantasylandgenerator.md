@@ -1,3 +1,4 @@
+ 
 <html>
   <head>
     <title>Fantasy Land Generator</title>
@@ -50,14 +51,14 @@
  ];
       
    gen_data['deepadjective'] = [
-    'weird', 
-    'moaning', 
-    'barnacle-clad', 
-    'bone-littered', 
-    'swirling', 
-    'steaming', 
-    'overgrown', 
-    'enshrined', 
+    'weird',
+    'moaning',
+    'barnacle-clad',
+    'bone-littered',
+    'swirling',
+    'steaming',
+    'overgrown',
+    'enshrined',
   ];
 
    gen_data['deepfeature'] = [
@@ -98,7 +99,7 @@
     '{cloakerclue} aberrations known as the Cloakers',
     '{crabtotem}{giant}Crabs',
     '{braincrabtotem} Brain Crabs',
-    'Water Elementals who {waterelementalwants}', 
+    'Water Elementals who {waterelementalwants}',
     'Steam Elementals who {steamelementalwants}',     
     'Nereids who {nereidwants}',
     'an Undine who {undinewants}',
@@ -153,7 +154,7 @@
     '{astraladjective} spires loom',
     'a lone {astraladjective} cave seems carved out from nowhere',
     'a strange {astraladjective} salon where secrets are traded stands',
-    'there is a big {astraladjective} dump where the trash of countless astral travelers is acumulating',
+    'there is a big {astraladjective} dump where the trash of countless astral travelers is accumulating',
     'a dark {astraladjective} astral prison looms',
     'a reality-warping {astraladjective} hole sucks everything in',
     'a dreamy {astraladjective} garden stands',
@@ -395,7 +396,7 @@ gen_data['mainelemental'] = [
     'Scalding steam is escaping from the',
     'Dancing flames have swallowed the',
     'Brass towers surround the magma',
-    'Unextinguishable flames engulf the',
+    'Inextinguishable flames engulf the',
   ];
  
  gen_data['firehazard'] = [
@@ -619,7 +620,7 @@ gen_data['mainelemental'] = [
     'summon wind walls',
     'cause earthquakes',
     'are on fire',
-    'shimmer in a hypnitizing kaleidoscope of lights',
+    'shimmer in a hypnotizing kaleidoscope of lights',
     'have become toxic from industrial waste',
   ];    
             
@@ -941,7 +942,7 @@ gen_data['mainelemental'] = [
     'tormented sinners for generations',
     'started wailing for the salvation of sinners',
     'joined the Church',
-    'became cursed to repeat a sisyphian task',
+    'became cursed to repeat a sisyphean task',
 
   ];    
  
@@ -1685,9 +1686,9 @@ gen_data['cityadjective'] = [
     'could make your life difficult with the authorities',
     'augment magic',
     'carry an ancient curse',
-    'are vectors for spells', 
-    'holding heavy construction materials', 
-    'collapse at any time', 
+    'are vectors for spells',
+    'holding heavy construction materials',
+    'collapse at any time',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -2954,7 +2955,7 @@ gen_data['desertadjective'] = [
     'howling winds',  
     'earthquakes',  
     'tar pits',  
-    'srhubs',  
+    'shrubs',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3025,7 +3026,7 @@ gen_data['desertadjective'] = [
     '{boartotem}{giant}Warthogs',
     'Lizardfolks who {lizardfolkculture} {lizardfolkproblem}',
     'Ogres who {ogreculture} {ogreproblem}',
-    'Air Elementals who {airelementalwants}', 
+    'Air Elementals who {airelementalwants}',
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     '{elktotem}{giant}Antelopes',
@@ -4223,12 +4224,12 @@ gen_data['arcticadjective'] = [
     'is heralding the harshest of winters',
     'is leading the gerilla against a local despot',
     'is preparing the grand winter ball in honor of the dead',
-    'is on a mission to rescue an hostage',
+    'is on a mission to rescue a hostage',
   ];
    gen_data['airelementalwants'] = [
-    'destroy all static ojects',
+    'destroy all static objects',
     'protect the sky',
-    'prevent rainclouds from coming',
+    'prevent rain clouds from coming',
     'snuff all flames',
     'erode the earth',
     'want to return to the plane of air',
@@ -4305,8 +4306,24 @@ gen_data['arcticadjective'] = [
     'split in two factions of ground-dwellers and ceiling-dwellers',
     'as the {noble}’s official tailors',
   ];
+     gen_data['ettinculture'] = [
+    'from the Great Horde',
+    'who are worshipped as oracles of Demogorgon',
+    'asking for a toll to use the road',
+    'guarding a {noble}',
+    'who are pet-things for feys',
+    'running an academy',
+  ];
+   gen_data['ettinproblem'] = [
+    'because they are blessed offsprings of Orcs',
+    'because they were two people cursed by a witch',
+    'because they are easily manipulated',
+    'and known for their operatic duets',
+    'and crave for human flesh',
+    'but are hindered by their constant bickering',
+  ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    </script> 
+    </script>
   </head>
   <body>
     
