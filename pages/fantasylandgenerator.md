@@ -4303,7 +4303,7 @@ gen_data['arcticadjective'] = [
     'and are rich from the silk trade',
     'as members of an assassin cult',
     'split in two factions of ground-dwellers and ceiling-dwellers',
-    'as the {noble}'s official tailors',
+    'as the {noble}’s official tailors',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script> 
