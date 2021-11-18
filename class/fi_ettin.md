@@ -6,7 +6,7 @@ permalink: /class/fighter/ettin
 
 <details markdown="1">
 <summary>Design Notes</summary>
-I nearly only play with rpg beginners, and even though the GLOG has the advantage of being easy to learn and run, some classes / blog posts can be very esoteric for people who are not diehard homebrewers. I'm trying to make this class a fun way for a player to bring a new friend to the table! The shared HP pool makes it durable and each of them can always multiclass after the first template to differenciate each other, but if both keep leveling in this class, each still become a powerful melee fighter.
+I nearly only play with rpg beginners, and even though the GLOG has the advantage of being easy to learn and run, some classes / blog posts can feel very esoteric for people who are new to the genre. I'm trying to make this class a fun way for a player to bring a new friend to the table! The shared HP pool makes it durable and each of them can always multiclass after the first template to differenciate each other, but if both keep leveling in this class, each still becomes a powerful melee fighter.
 </details>
 
 *THIS IS A CLASS FOR TWO PLAYERS PLAYING ONE CHARACTER*
