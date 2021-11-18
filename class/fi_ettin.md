@@ -25,7 +25,7 @@ For every Two-Headed Giant template you have, you gain 1 daily collaboration dic
 **D:** Us vs Them<br>
 
 ## Half of One
-You are half of a two-headed giant. You and your other half each have created a character with this class, but you share the same body. Because of that, you share HP and inventory, and take the space of two humans. However, you still have control of your own head and one arm: one of you is always awake, but you can only each use one-handed objects.
+You are one half of a two-headed giant. You and your other half each have created a character with this class, but you share the same body. Because of that, you share HP and inventory, and take the space of two humans. However, you still have control of your own head and one arm: one of you is always awake, but you can only each use one-handed objects.
 
 You must decide together where you move, but you otherwise each play your halves separately. Whenever one of you must make a movement/climb/swim/etc roll, the other must too. One failure means both fail. Coordinating those limbs is hard!
 
