@@ -14,6 +14,7 @@ The [Fighter](/class/fighter)
   - The [Lizardfolk](/class/fighter/lizardfolk)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
+  - The [Two-Headed Giant](/class/fighter/ettin)
 </details>
 
 The [Magic User](/class/magic-user)
