@@ -23,7 +23,7 @@ For every Cyclopskin template you have, increase your HP by 1.
 **D:** Evil Eye<br>
 
 ## One-Eyed
-You have disadvantage on attacks against faraway targets. (Targets you can't reach in melee this turn)
+You have disadvantage on attacks against faraway targets. (Targets that can't reach you in melee in one turn)
 
 ## Boulder Throw
 In your hands, heavy improvised weapons inflict 1D12 damage when thrown.
