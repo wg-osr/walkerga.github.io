@@ -17,13 +17,13 @@ Throwing, and your choice of Island life, Orc Culture, or Mountain Life.
 
 For every Cyclopskin template you have, increase your HP by 1.
 
-**A:** One-Eyed, Boulder Throw<br>
+**A:** One Big Eye, Boulder Throw<br>
 **B:** Blind Fury<br>
 **C:** Glaring Weakness<br>
 **D:** Evil Eye<br>
 
-## One-Eyed
-You have disadvantage on attacks against faraway targets. (Targets that can't reach you in melee in one turn)
+## One Big Eye
+Your gaze is powerful. You can make anyone aware that you are looking at them, even if they dont see you. However, entities have easier access to your soul.
 
 ## Boulder Throw
 In your hands, heavy improvised weapons inflict 1D12 damage when thrown.
