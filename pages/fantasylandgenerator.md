@@ -1701,7 +1701,7 @@ gen_data['cityadjective'] = [
     'augment magic',
     'carry an ancient curse',
     'are vectors for spells',
-    'holding heavy construction materials',
+    'hold heavy construction materials',
     'could collapse at any time',
     'race down the streets',
   ];
