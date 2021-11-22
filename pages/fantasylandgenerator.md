@@ -1130,7 +1130,7 @@ gen_data['maindarkgate'] = [
     'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
   ];
 gen_data['tunnelbeast'] = [
-    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs', 'Rats', 'Spiders'
+    'Bats', 'Wurms', 'Moles', 'Lizards', 'Centipedes', 'Crabs', 'Rats', 'Spiders', 'Cave Fishes'
   ];
 gen_data['darkgate'] = [
     'pit with bladed edges',
@@ -1172,6 +1172,7 @@ gen_data['darkgate'] = [
     'fiery pit',
     'dam',
     'spider nest',
+    'lake',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1212,6 +1213,7 @@ gen_data['darkgatecomplication'] = [
     'the flames coming from it',
     'sealed iron doors in it',
     'sticky webs covering it',
+    'rapids blocking the path',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1252,6 +1254,7 @@ gen_data['tunneladjective'] = [
     'blazing',
     'iron-reinforced',
     'web-tangled',
+    'flooded',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1293,6 +1296,7 @@ gen_data['tunnelfeature'] = [
     'gas vents',
     'mines',
     'dens',
+    'underground rivers',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1334,6 +1338,7 @@ gen_data['tunnelhazard'] = [
     'burning',
     'earth-spliting',
     'falling',
+    'underwater',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1375,6 +1380,7 @@ gen_data['tunnelobstacle'] = [
     'braziers',
     'giant drills',
     'spider webs',
+    'streams',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1416,6 +1422,7 @@ gen_data['tunnelmonster'] = [
     'Fire Elementals who {fireelementalwants}',
     'Engines of Pain {engineofpainown}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
+    '{fishtotem}{giant}Fishes',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1436,13 +1443,13 @@ gen_data['sea2'] = [
     'This {4d6hexes}-hex sea is known for its {seaadjective} {seafeature}. Beware of the {seaobstacle} that {seahazard}. Its waters are roamed by {seamonster}, and also {seamonster}.'
   ];
 gen_data['seabeast'] = [
-    'Dolphins', 'Whales', 'Sharks', 'Octopuses', 'Fishes', 'Pelicans', 'Seagulls'
+    'Dolphins', 'Whales', 'Sharks', 'Octopuses', 'Fishes', 'Pelicans', 'Seagulls', 'Herrings', 'Tuna', 'Sardine'
   ];
 gen_data['seaadjective'] = [
     'windy',
     'cold',
     'bird-infested',
-    'fishing',
+    'fish-rich',
     'rocky',
     'forbidden',
     'vast',
@@ -1455,6 +1462,7 @@ gen_data['seaadjective'] = [
     'settled',
     'tumultuous',
     'sunny',
+    'turquoise',
  
   ];
   gen_data['seafeature'] = [
@@ -1474,6 +1482,7 @@ gen_data['seaadjective'] = [
     'coastal village',
     'cyclone',
     'high sea port',
+    '{seabeast} feeding waters',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1491,6 +1500,7 @@ gen_data['seaadjective'] = [
     'sacred {seabeast}',
     'cyclones',
     'elven fleet',
+    'currents',
 
   ];
   gen_data['seahazard'] = [
@@ -1509,6 +1519,7 @@ gen_data['seaadjective'] = [
     'are sacred for the locals',
     'could strand you',
     'could chase you',
+    'that attact fishes',
       
   ];
   gen_data['seamonster'] = [
@@ -1528,7 +1539,7 @@ gen_data['seaadjective'] = [
     'the Warrior Tribe of the {seabeast} {warriorwants}',
     'Air Elementals who {airelementalwants}',
     'High Elves who {highelfculture} {highelfproblem}',
-
+    '{fishtotem}{giant}Fishes',
   ];
 
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1740,7 +1751,7 @@ gen_data['mainswamp'] = [
     'This {2d4hexes}-hex swamp is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
-    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Ravens', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards'
+    'Snakes', 'Crocodiles', 'Turtles', 'Toads', 'Beetles', 'Bats', 'Vultures', 'Geese', 'Ravens', 'Herons', 'Centipedes', 'Boars', 'Crabs', 'Rats', 'Lizards', 'Eels', 'Trout', 'Mudfish', 'Catfish', 'Carp'
   ];
 gen_data['swampadjective'] = [
     'submerged',
@@ -1778,6 +1789,7 @@ gen_data['swampadjective'] = [
     'misty',
     'oozing',
     'unnaturally warm',
+    'flooded',
  
   ];
   gen_data['swampfeature'] = [
@@ -1816,6 +1828,7 @@ gen_data['swampadjective'] = [
     'loch',
     'rot shrine',
     'hunting grounds',
+    'rivers',
  
   ];
   gen_data['swampobstacle'] = [
@@ -1854,6 +1867,7 @@ gen_data['swampadjective'] = [
     'ley lines',
     'ooze bubbles',
     'tree stumps',
+    'currents',
 
   ];
   gen_data['swamphazard'] = [
@@ -1892,6 +1906,7 @@ gen_data['swampadjective'] = [
     'are crackling with power',
     'are observing you',
     'could split the party',
+    'could drown you',
       
   ];
   gen_data['swampmonster'] = [
@@ -1930,8 +1945,8 @@ gen_data['swampadjective'] = [
     'Athachs who {athachculture} {athachproblem}',
     'Ooze Mephits who {oozemephitwants}',
     'an Eloko who {elokowants}',
-
-  ];
+    '{fishtotem}{giant}Fishes',
+  ]; 
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
@@ -4356,6 +4371,14 @@ gen_data['arcticadjective'] = [
     'and known for their operatic duets',
     'and crave for human flesh',
     'but are hindered by their constant bickering',
+  ];
+   gen_data['fishtotem'] = [
+    'shoaling',
+    'migrating',
+    'dumb',
+    'stinky',
+    'slippery',
+    'sacred',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
