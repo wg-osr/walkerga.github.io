@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Pigfolk / Butcher
+title: The Pigfolk
 permalink: /class/specialist/pigfolk
 ---
 
