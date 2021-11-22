@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ettercap / Spiderfolk
+title: The Spiderfolk
 permalink: /class/ettercap
 ---
 
@@ -10,7 +10,7 @@ A silk bag, A dessicated body.
 <ins>Starting Skills (+5)</ins><br>
 Ropes, and either Fairy Hunting, Canopy Life, or Sewing. 
 
-For every Ettercap template you have, you can produce an extra 30 ft of rope per day.
+For every Spiderfolk template you have, you can produce an extra 30 ft of rope per day.
 
 **A:** Spider Climb, Spider Sense<br>
 **B:** Patience<br>
