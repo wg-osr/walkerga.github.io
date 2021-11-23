@@ -29,6 +29,29 @@ Choices of Sacraments:
 - What is the Sacred Element? You can shape it like clay.
 - When half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
+<details markdown="1">
+<summary>1D20 Elements</summary> 
+1. Wind / Oxygen / Sound
+2. Stone / Sand / Earth
+3. Flames / Sparks / Explosion
+4. Water / Rain / Bubbles
+5. Magma / Coal / Glass
+6. Ice / Snow / Cold
+7. Ooze / Plant / Mud
+8. Smoke / Gas / Heat
+9. Positive Energy / Blood / Mind
+10. Negative Energy / Darkness / Rot
+11. Light / Star / Radium
+12. Metal / Gem / Alloy
+13. Lightning / Magnetism / Static
+14. Steam / Cloud / Vapor
+15. Salt / Oil / Mercury
+16. Dust / Bone / Debris
+17. Ash / Sulfur / Soot
+18. Vacuum / Antigravity / Ether
+19. Roll twice, choose one.
+20. Roll twice: it's both at the same time.
+</details>
 </details>
 
 <details markdown="1">
@@ -53,40 +76,18 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
-<summary><b>Prostrate yourself before the Authority</b></summary> 
-- You are considered judge, jury and executioner by the faithful.
-- When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
-- Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
-</details>
-
-<details markdown="1">
 <summary><b>Return the dead to Nature</b></summary> 
 - You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
 - You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
 
-<br><br>
 <details markdown="1">
-<summary>1D20 Elements</summary> 
-1. Wind / Oxygen / Sound
-2. Stone / Sand / Earth
-3. Flames / Sparks / Explosion
-4. Water / Rain / Bubbles
-5. Magma / Coal / Glass
-6. Ice / Snow / Cold
-7. Ooze / Plant / Mud
-8. Smoke / Gas / Heat
-9. Positive Energy / Blood / Mind
-10. Negative Energy / Darkness / Rot
-11. Light / Star / Radium
-12. Metal / Gem / Alloy
-13. Lightning / Magnetism / Static
-14. Steam / Cloud / Vapor
-15. Salt / Oil / Mercury
-16. Dust / Bone / Debris
-17. Ash / Sulfur / Soot
-18. Vacuum / Antigravity / Ether
-19. Roll twice, choose one.
-20. Roll twice: it's both at the same time.
+<summary><b>Burn books in auto-da-fé</b></summary> 
+- Idiots believe you.
+- When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
+- Roll 1D4, you gain the following spell: 1. [Pinky Knot](/2020/11/13/pinky-knot/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Servitude](/2020/11/12/servitude/), 4. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/)
 </details>
+
+<br><br>
+
