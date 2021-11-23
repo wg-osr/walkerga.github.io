@@ -4,7 +4,12 @@ title: The Priest
 permalink: /class/priest
 ---
 
-###### Adapted from A Blasted, Cratered Land's [version](https://crateredland.blogspot.com/2019/01/the-cleric.html)
+<details markdown="1">
+<summary>Design Notes</summary> 
+Inspired from A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it it my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!
+
+So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain condition. These rules are pretty abuseable by design though to encourage reckless fanatical behaviours. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just that were relevant to my current game.
+</details>
 
 <ins>Starting Equipment</ins><br>
 Holy Vestments (including Hat), a Censer, your Holy Book
@@ -21,14 +26,14 @@ Choices of Sacraments:
 
 <details markdown="1">
 <summary><b>Anoint the sword of the Conqueror</b></summary> 
-- You can roll Spell Dices as you attack and add the sum to your attack and damage rolls.
+- You can spend Spell Dices as you attack and add the sum to your attack and damage rolls.
 - When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
 - Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
 </details>
 
 <details markdown="1">
 <summary><b>Bathe in the Sacred Element</b></summary> 
-- What is the Sacred Element? You can shape it like clay.
+- Choose what is the Sacred Element. You can shape it like clay.
 - When half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
 <details markdown="1">
@@ -66,7 +71,7 @@ Choices of Sacraments:
 
 <details markdown="1">
 <summary><b>Commune with the Sacred Beast</b></summary> 
-- What kind of animal is the Sacred Beast? You can speak with this animal.
+- Choose what kind of animal is the Sacred Beast? You can speak with this animal.
 - When you act like the chosen animal, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell relating to the chosen animal: 1. [Animorph](/2020/11/12/animorph), 2. [Bestow Animal Aspect](/2020/11/12/bestow-aspect), 3. [The Animal Allure](/2020/11/12/animal-allure), 4. [Call of the Animal](/2020/11/12/call-of-the-animal).
 </details>
