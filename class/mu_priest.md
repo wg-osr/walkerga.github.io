@@ -32,7 +32,7 @@ Choices of Sacraments:
 - When half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
 <details markdown="1">
-<summary>1D20 Elements</summary> 
+<summary><i>1D20 Elements</i></summary> 
 1. Wind / Oxygen / Sound
 2. Stone / Sand / Earth
 3. Flames / Sparks / Explosion
@@ -54,6 +54,7 @@ Choices of Sacraments:
 19. Roll twice, choose one.
 20. Roll twice: it's both at the same time.
 </details>
+<br>
 </details>
 
 <details markdown="1">
