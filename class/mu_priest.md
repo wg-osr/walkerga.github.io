@@ -69,6 +69,20 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
+<summary><b>Contact the Voices-from-Beyond</b></summary> 
+- Roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
+- When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Dice to it.
+- Roll 1D4, you gain the following spell: 1. [Conjure](/2020/11/12/conjure/), 2. [Genoplasm](/2020/11/13/genoplasm/), 3. [Petition](/2020/11/12/petition/), 4. [Transcendence](/2020/11/13/transcendence/)
+</details>
+
+<details markdown="1">
+<summary><b>Drink the blood of your enemies/b></summary> 
+- Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
+- When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
+- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Petition](/2020/11/12/petition/), 3. [Relentless Vigor](/2020/11/13/relentless-vigor/), 4. [Undying Oath](/2020/11/13/undying-oath/)
+</details>
+
+<details markdown="1">
 <summary><b>Kiss the feet of the Infant and Elder.</b></summary> 
 - You gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) each time you end a session in a city.
 - Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
@@ -87,6 +101,13 @@ Choices of Sacraments:
 - You are considered judge, jury and executioner by the faithful.
 - When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
+</details>
+
+<details markdown="1">
+<summary><b>Read the 100 Great Wisdom</b></summary> 
+- If you would roll for a spell, roll twice and choose. You can do that retroactively for your other Sacraments.
+- Every session, you gain 1 Spell Dice (until you spend it).
+- Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Doom Foretold](/2020/11/13/doom-foretold/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/)
 </details>
 
 <details markdown="1">
