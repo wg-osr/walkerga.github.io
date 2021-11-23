@@ -79,6 +79,13 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
+<summary><b>Declaim the 100 Great Wisdoms</b></summary> 
+- If you would roll for a spell, roll twice and choose. You can do that retroactively for your other Sacraments.
+- Every session, you gain 1 Spell Dice (until you spend it).
+- Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Doom Foretold](/2020/11/13/doom-foretold/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/)
+</details>
+
+<details markdown="1">
 <summary><b>Drink the blood of your enemies</b></summary> 
 - Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
 - When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
@@ -111,13 +118,6 @@ Choices of Sacraments:
 - You are considered judge, jury and executioner by the faithful.
 - When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
-</details>
-
-<details markdown="1">
-<summary><b>Read the 100 Great Wisdoms</b></summary> 
-- If you would roll for a spell, roll twice and choose. You can do that retroactively for your other Sacraments.
-- Every session, you gain 1 Spell Dice (until you spend it).
-- Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Doom Foretold](/2020/11/13/doom-foretold/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/)
 </details>
 
 <details markdown="1">
