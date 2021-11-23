@@ -99,6 +99,13 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
+<summary><b>Parade the icons of the Faith</b></summary> 
+- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire on a number of believers equal to the Treasures you carry.
+- You can give a class level to your next follower.
+- You can command your followers as a group and they will follow your orders blindly.
+</details>
+
+<details markdown="1">
 <summary><b>Prostrate yourself before the Authority</b></summary> 
 - You are considered judge, jury and executioner by the faithful.
 - When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
@@ -118,4 +125,5 @@ Choices of Sacraments:
 - You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
+
 
