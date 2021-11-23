@@ -4,6 +4,8 @@ title: The Priest
 permalink: /class/priest
 ---
 
+###### Adapted from A Blasted, Cratered Land's [version](https://crateredland.blogspot.com/2019/01/the-cleric.html)
+
 <ins>Starting Equipment</ins><br>
 Holy Vestments (including Hat), a Censer, your Holy Book
 
