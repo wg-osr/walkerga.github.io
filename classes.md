@@ -20,16 +20,17 @@ The [Fighter](/class/fighter)
 The [Magic User](/class/magic-user)
 <details markdown="1">
   <summary>Magic User Subclasses</summary>
-  - **Spellcasting Classes**
+  - **Spellcasting Schools**
   - [Wizard](/class/magic-user/wizard)
   - [Cleric](/class/magic-user/cleric)
   - [Diabolist](/class/magic-user/diabolist)
   - [Necromancer](/class/magic-user/necromancer)
-  - **Monster Classes**
+  - **Other Magic Users**
   - The [Cambion](/class/magic-user/tiefling)
   - The [Elf](/class/magic-user/elf)
   - The [Goat](/class/magic-user/goat)
   - The [Nereid](/class/magic-user/nereid)
+  - The [Priest](/class/priest)
 </details>
 
 The [Specialist](/class/specialist)
