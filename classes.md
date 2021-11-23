@@ -22,7 +22,6 @@ The [Magic User](/class/magic-user)
   <summary>Magic User Subclasses</summary>
   - **Spellcasting Schools**
   - [Wizard](/class/magic-user/wizard)
-  - [Cleric](/class/magic-user/cleric)
   - [Diabolist](/class/magic-user/diabolist)
   - [Necromancer](/class/magic-user/necromancer)
   - **Other Magic Users**
