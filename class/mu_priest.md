@@ -55,6 +55,13 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
+<summary><b>Burn books in an auto-da-fé</b></summary> 
+- Idiots believe you.
+- When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
+- Roll 1D4, you gain the following spell: 1. [Pinky Knot](/2020/11/13/pinky-knot/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Servitude](/2020/11/12/servitude/), 4. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/)
+</details>
+
+<details markdown="1">
 <summary><b>Commune with the Sacred Beast</b></summary> 
 - What kind of animal is the Sacred Beast? You can speak with this animal.
 - When you act like the chosen animal, you have 1 additional Spell Dice.
@@ -66,6 +73,13 @@ Choices of Sacraments:
 - You gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) each time you end a session in a city.
 - Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Last Oath](/2020/11/13/last-oath/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Salvation](/2020/11/13/salvation/)
+</details>
+
+<details markdown="1">
+<summary><b>Meditate in isolation</b></summary> 
+- Each session, you can ask a Yes/No question to the referee. You will get the answer at the beginning of your next game.
+- At the end of a session, note 2 specific actions you want to do. The next time you play you have 1 additional Spell Dice when doing those actions.
+- Roll 1D4, you gain the following spell: 1. [Aura of Renewal](/2020/11/13/aura-of-renewal), 2. [Delay](/2020/11/13/delay), 3. [Indolence](/2020/11/13/indolence), 4. [Seal of Retribution](/2020/11/13/seal-of-retribution)
 </details>
 
 <details markdown="1">
@@ -81,13 +95,4 @@ Choices of Sacraments:
 - You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
-
-<details markdown="1">
-<summary><b>Burn books in auto-da-fé</b></summary> 
-- Idiots believe you.
-- When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
-- Roll 1D4, you gain the following spell: 1. [Pinky Knot](/2020/11/13/pinky-knot/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Servitude](/2020/11/12/servitude/), 4. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/)
-</details>
-
-<br><br>
 
