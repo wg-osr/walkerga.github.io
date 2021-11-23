@@ -22,7 +22,7 @@ Holy Vestments (including Hat), a Censer, your Holy Book
 For every Priest template you have, you gain one new **Sacrament**.
 
 ## Sacrament
-When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represent one facet of your faith. If a sacrament gives you a spell, it functions the same way as a [Magic User](https://saltygoo.github.io/class/magic-user) spell. The referee is the arbiter of the interpretation of the sacrament rules. You can cast each of your spells once between each rest.
+When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represent one facet of your faith. If a sacrament gives you a spell, it functions the same way as a [Magic User](https://saltygoo.github.io/class/magic-user) spell but you can cast it only once between each rest.
 
 Choices of Sacraments:
 
