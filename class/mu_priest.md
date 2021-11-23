@@ -87,7 +87,7 @@ Choices of Sacraments:
 
 <details markdown="1">
 <summary><b>Declaim the 100 Great Wisdoms</b></summary> 
-- If you would roll for a spell, roll twice and choose. You can do that retroactively for your other Sacraments.
+- If you would roll for a new spell, roll twice and choose. You can do that retroactively for your other Sacraments.
 - Every session, you gain 1 Spell Dice (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Doom Foretold](/2020/11/13/doom-foretold/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/)
 </details>
