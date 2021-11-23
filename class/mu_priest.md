@@ -8,7 +8,7 @@ permalink: /class/priest
 <summary>Design Notes</summary> 
 *Inspired from A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it it my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!*
 
-*So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain condition. These rules are pretty abuseable by design though to encourage reckless fanatical behaviours. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just that were relevant to my current game.*
+*So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain condition. These rules are pretty abuseable by design though to encourage reckless fanatical behaviours. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just the ones that were relevant to my current game.*
 
 *Also I might redo the wizard like that, but instead of sacraments they are different spellbooks!*
 </details>
