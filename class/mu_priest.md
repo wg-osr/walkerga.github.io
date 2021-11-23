@@ -22,7 +22,7 @@ Holy Vestments (including Hat), a Censer, your Holy Book
 For every Priest template you have, you gain one new **Sacrament**.
 
 ## Sacrament
-When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represent one facet of your faith. If a sacrament gives you a spell, it functions the same way as a [Magic User](https://saltygoo.github.io/class/magic-user) spell.
+When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represent one facet of your faith. If a sacrament gives you a spell, it functions the same way as a [Magic User](https://saltygoo.github.io/class/magic-user) spell. The referee is the arbiter of the interpretation of the sacrament rules. You can cast each of your spells once between each rest.
 
 Choices of Sacraments:
 
@@ -36,7 +36,7 @@ Choices of Sacraments:
 <details markdown="1">
 <summary><b>Bathe in the Sacred Element</b></summary> 
 - Choose what is the Sacred Element. You can shape it like clay.
-- When half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
+- If your body is covered in the Sacred Element, you have a free spell dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
 <details markdown="1">
 <summary><i>1D20 Elements</i></summary> 
@@ -74,7 +74,7 @@ Choices of Sacraments:
 <details markdown="1">
 <summary><b>Commune with the Sacred Beast</b></summary> 
 - Choose what kind of animal is the Sacred Beast. You can speak with this animal.
-- When you act like the chosen animal, you have 1 additional Spell Dice.
+- As long as you are behaving like the chosen animal you have at least 1 Spell Dice.
 - Roll 1D4, you gain the following spell relating to the chosen animal: 1. [Animorph](/2020/11/12/animorph), 2. [Bestow Animal Aspect](/2020/11/12/bestow-aspect), 3. [The Animal Allure](/2020/11/12/animal-allure), 4. [Call of the Animal](/2020/11/12/call-of-the-animal).
 </details>
 
