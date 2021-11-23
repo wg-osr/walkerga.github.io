@@ -76,14 +76,14 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
-<summary><b>Drink the blood of your enemies/b></summary> 
+<summary><b>Drink the blood of your enemies</b></summary> 
 - Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
 - When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Petition](/2020/11/12/petition/), 3. [Relentless Vigor](/2020/11/13/relentless-vigor/), 4. [Undying Oath](/2020/11/13/undying-oath/)
 </details>
 
 <details markdown="1">
-<summary><b>Kiss the feet of the Infant and Elder.</b></summary> 
+<summary><b>Kiss the feet of the Infant and Elder</b></summary> 
 - You gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) each time you end a session in a city.
 - Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Last Oath](/2020/11/13/last-oath/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Salvation](/2020/11/13/salvation/)
