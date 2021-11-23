@@ -26,8 +26,8 @@ Choices of Sacraments:
 
 <details markdown="1">
 <summary><b>Bathe in the Sacred Element</b></summary> 
-- What is the Sacred Element*? You can shape it like clay.
-- When at least half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
+- What is the Sacred Element? You can shape it like clay.
+- When half of your body is covered by the Sacred Element, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
 </details>
 
@@ -52,7 +52,19 @@ Choices of Sacraments:
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
 </details>
 
+<details markdown="1">
+<summary><b>Prostrate yourself before the Authority</b></summary> 
+- You are considered judge, jury and executioner by the faithful.
+- When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
+- Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
+</details>
 
+<details markdown="1">
+<summary><b>Return the dead to Nature</b></summary> 
+- You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
+- You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
+- Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
+</details>
 
 <br><br>
 <details markdown="1">
