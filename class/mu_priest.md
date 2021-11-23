@@ -16,11 +16,26 @@ For every Priest template you have, you gain one new **Sacrament**.
 When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represent one facet of your faith. If a sacrament gives you a spell, it functions the same way as a [Magic User](https://saltygoo.github.io/class/magic-user) spell.
 
 Choices of Sacraments:
+
+<details markdown="1">
+<summary><b>Anoint the sword of the Conqueror</b></summary> 
+- You can roll Spell Dices as you attack and add the sum to your attack and damage rolls.
+- When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
+- Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
+</details>
+
 <details markdown="1">
 <summary><b>Commune with the Sacred Beast</b></summary> 
 - What kind of animal is the Sacred Beast? You can speak with this animal.
 - When you act like it, you have 1 additional Spell Dice.
 - Roll 1D4, you gain the following spell relating to the chosen animal: 1. [Animorph](/2020/11/12/animorph), 2. [Bestow Animal Aspect](/2020/11/12/bestow-aspect), 3. [The Animal Allure](/2020/11/12/animal-allure), 4. [Call of the Animal](/2020/11/12/call-of-the-animal).
+</details>
+
+<details markdown="1">
+<summary><b>Kiss the feet of the Elderly.</b></summary> 
+- You gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) each time you end a session in a city.
+- Each person joining you in the casting of a spell (they dont have to be magic users) adds 0.5 Spell Dice to it.
+- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Last Oath](/2020/11/13/last-oath/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Salvation](/2020/11/13/salvation/)
 </details>
 
 <details markdown="1">
@@ -30,9 +45,4 @@ Choices of Sacraments:
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
 </details>
 
-<details markdown="1">
-<summary><b>Anoint the weapon of the Conqueror</b></summary> 
-- You can roll Spell Dices as you attack with a weapon and add the sum to your attack and damage roll.
-- When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
-- Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
-</details>
+
