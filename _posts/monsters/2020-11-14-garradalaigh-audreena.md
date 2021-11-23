@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey
+tags: monster fey enchanted magical
 permalink: /monsters/garradalaigh-audreena
 title: Garradalaigh, Audreena
 ---
@@ -65,9 +65,11 @@ Divination, Illusion
 
 So this thing was real in the end and you killed it. Its flesh is a potent hallucinogenic that last days.
 
+<span class="alchemy">**Garradalaigh Flesh**. You can see figments of your imagination as real for 1D4 days, but you can only describe them as subject and verb, with the referee finishing the description.</span>
 
 Accepting and audreena’s boon will inspire a wizard to write a spell with the word *Speach* in it.
-**Audreena Boon.** Allows to speak with all warm blooded creatures.
+
+<span class="alchemy">**Audreena Boon**.  Allows to speak with all warm blooded creatures.</span>
 
 </details>
 
