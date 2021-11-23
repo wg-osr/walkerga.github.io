@@ -587,6 +587,7 @@ gen_data['mainelemental'] = [
     'Fire lakes simmer under the flying',
     'An ivory tower rises above the',
     'A crystal-harvesting open-air mine has dug out the',
+    'A force field protects the idyllic',
   ];
  
  gen_data['magicalhazard'] = [
@@ -622,6 +623,7 @@ gen_data['mainelemental'] = [
     'are on fire',
     'shimmer in a hypnotizing kaleidoscope of lights',
     'have become toxic from industrial waste',
+    'were placed here by a heroic Archmage',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -657,6 +659,7 @@ gen_data['mainelemental'] = [
     'became encased in fire-protecting gear',
     'became servant to the Elven High Mages',
     'fled the new construction',
+    'can speak with all animals',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -692,7 +695,7 @@ gen_data['mainelemental'] = [
     'Fire Elementals who {fireelementalwants}',
     'High Elves who {highelfculture} {highelfproblem}',
     'Engines of Pain {engineofpainown}',
- 
+    'a rare Audreena who {audreenawants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -742,6 +745,7 @@ gen_data['mainelemental'] = [
     'winter',
     'tropical',
     'gorgeous',
+    'glittering',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -778,6 +782,7 @@ gen_data['mainelemental'] = [
     'mournful',
     'mossy',
     'ivory',
+    'too idyllic',
    ];    
       
  gen_data['enchantedobstacle'] = [
@@ -815,6 +820,7 @@ gen_data['mainelemental'] = [
     '{color} lights',
     'doors in stumps',
     'spires',
+    'windows',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -851,6 +857,7 @@ gen_data['mainelemental'] = [
     'became gloomy',
     'learned to never travel alone',
     'started to worship elves',
+    'saw a mysterious creature',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -888,6 +895,7 @@ gen_data['mainelemental'] = [
     'a Bralani who {bralaniwants}',    
     'an Eloko who {elokowants}',
     'High Elves who {highelfculture} {highelfproblem}',
+    'a rare Audreena who {audreenawants}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4379,6 +4387,14 @@ gen_data['arcticadjective'] = [
     'stinky',
     'slippery',
     'sacred',
+  ];
+   gen_data['audreenawants'] = [
+    'is thirsty for rare potions',
+    'seeks new spells',
+    'seeks a heroic Wizard',
+    'seeks the creator of a new spell',
+    'seeks a Wizard who escaped death',
+    'seeks an hermit',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
