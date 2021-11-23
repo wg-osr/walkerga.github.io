@@ -116,7 +116,7 @@ Choices of Sacraments:
 <details markdown="1">
 <summary><b>Prostrate yourself before the Authority</b></summary> 
 - You are considered judge, jury and executioner by the faithful.
-- When you punish someone from breaking the Law, you gain 1 Spell Dice (until you spend it).
+- When you punish someone for breaking the Law, you gain 1 Spell Dice (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
 </details>
 
