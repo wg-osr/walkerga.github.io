@@ -58,6 +58,13 @@ Spellbooks:
 - *of [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) fame.*
 - You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
-- Roll 1D4, you gain the following spell: 1. [Call of the Spider](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
+- Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
 </details>
 
+<details markdown="1">
+<summary><b>4. Diary of the Spider Queen</b></summary> 
+- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
+- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Silk".
+- You speak with spiders.
+- Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
+</details>
