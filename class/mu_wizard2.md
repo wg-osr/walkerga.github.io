@@ -90,3 +90,12 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 </details>
+
+<details markdown="1">
+<summary><b>7. Three Prayers to Baphomet</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark leather bound in bronze. Penned in blood.*
+- You can speak backward, a language only understood by exorcists and divine creatures.
+- Each time you study this book, increase any of your skills by 2, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take an additional 1 point of damage.
+- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/) 4. , [Petition](/2020/11/12/petition/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
+</details>
