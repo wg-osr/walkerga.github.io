@@ -57,7 +57,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 
 <details markdown="1">
 <summary><b>3. Severed Head of Davok</b></summary> 
-###### *Cumbersome, horrible and grey. Like human features on an elephant's skull.*
+  ##### *Cumbersome, horrible and grey. Like human features on an elephant's skull.*
 - You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
 - Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
