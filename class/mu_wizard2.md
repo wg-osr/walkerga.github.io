@@ -36,7 +36,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 ## Study
 You need a Spell book to study. You cannot take a Magic User template if you do not possess a spell book. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. As knowledge is a neverending quest, you can always spend a Treasure in town to study more.
 
-Spellbooks:
+**Spellbooks:**
 
 <details markdown="1">
 <summary><b>1. Tome of Basic Magic Practice</b></summary> 
