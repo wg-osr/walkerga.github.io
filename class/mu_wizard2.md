@@ -50,7 +50,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>2. Titardinal's Notes on Kastromancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Loosely-bound notes and floor plans with love poems written in the margins.*
 - Holds the deed of an abandonned tower.
-- Each time you study this book, you can recreate a dungeon trap you have overcome in a building you own.
+- For each time you studied this book, you can recreate a dungeon trap you have overcome in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
 ###### *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
 </details>
@@ -66,24 +66,27 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 
 <details markdown="1">
 <summary><b>4. Diary of the Spider Queen</b></summary> 
-- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Silk".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Semi-transluscent pages bound in black chitin. The text is embroidered*
 - You can speak with spiders.
+- Each time you study this book, you can produce a new silk piece of clothing that can double as a small mundane object of your choice.
 - Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
 
 <details markdown="1">
 <summary><b>5. The Wonder King's Edicts</b></summary> 
-- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Embalming".
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Three slabs of pink marble engraved in tiny faded cuneiform.*
 - You have learned to smell and detect the subtle fragrances of curses.
+- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. It will be freed if the tablet is broken.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
 
 <details markdown="1">
 <summary><b>6. Stories from my Mother</b></summary> 
-- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Cooking".
-- By boiling a creature, you can collect its venom and other similar properties.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Painted geese, children and frogs illustrate the cover. Pocket sized.*
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Cooking".
+- Each time you study this book, you gain the location of one of mother's friend's cabin in a wilderness area of your choice. They will be friendly to you, provide shelter and trade potions.
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 </details>
