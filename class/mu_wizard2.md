@@ -55,32 +55,32 @@ Spellbooks:
 
 <details markdown="1">
 <summary><b>3. Severed Head of Davok</b></summary> 
-- *of [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) fame.*
 - You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
 - Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
+###### *of [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) fame.*
 </details>
 
 <details markdown="1">
 <summary><b>4. Diary of the Spider Queen</b></summary> 
-- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Silk".
 - You can speak with spiders.
 - Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
 
 <details markdown="1">
 <summary><b>5. The Wonder King's Edicts</b></summary> 
-- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Embalming".
 - You have learned to smell and detect the subtle fragrances of curses.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
 
 <details markdown="1">
 <summary><b>6. Stories from my Mother</b></summary> 
-- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Cooking".
 - By boiling a creature, you can collect its venom and other similar properties.
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 </details>
