@@ -47,10 +47,10 @@ Spellbooks:
 
 <details markdown="1">
 <summary><b>2. Titardinal's Notes on Kastromancy</b></summary> 
-- *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Architecture".
 - You can spend [Treasures](/2020/11/10/extra-rules/#treasures) to reproduce a dungeon trap you overcame in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
+###### *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
 </details>
 
 <details markdown="1">
@@ -75,4 +75,12 @@ Spellbooks:
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Embalming".
 - You have learned to smell and detect the subtle fragrances of curses.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
+</details>
+
+<details markdown="1">
+<summary><b>6. Stories from my Mother</b></summary> 
+- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
+- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Cooking".
+- By boiling a creature, you can collect its venom and other similar properties.
+- Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 </details>
