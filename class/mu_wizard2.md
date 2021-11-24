@@ -72,7 +72,7 @@ Spellbooks:
 <details markdown="1">
 <summary><b>4. Funeral Papyrus of the Wonder King</b></summary> 
 - *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
-- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Curses".
-- You have learned to smell the subtle fragrances of curses.
+- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Embalming".
+- You have learned to smell and detect the subtle fragrances of curses.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 </details>
