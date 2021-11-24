@@ -65,6 +65,14 @@ Spellbooks:
 <summary><b>4. Diary of the Spider Queen</b></summary> 
 - *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Silk".
-- You speak with spiders.
+- You can speak with spiders.
 - Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
+</details>
+
+<details markdown="1">
+<summary><b>4. Funeral Papyrus of the Wonder King</b></summary> 
+- *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
+- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Curses".
+- You have learned to smell the subtle fragrances of curses.
+- Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 </details>
