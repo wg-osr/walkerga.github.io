@@ -17,7 +17,7 @@ Your choice of "University Graduate", "Alchemist", "Charlatan", "Forbidden Knowl
 For every Wizard template you have, you gain one extra **Spell Dice** and you **Study**.
 
 ## Spells
-Wizards get one for free at level 1. They’re stored in spellbooks and you spend Spell Dices to cast them.
+Wizards get a [random one](/list/spells) for free at level 1. They’re stored in spellbooks and you spend Spell Dices to cast them.
 <details markdown="1">
 <summary>How GLOG spells work</summary> 
 <ins>Spell Dice (SD)</ins><br>
