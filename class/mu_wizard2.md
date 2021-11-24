@@ -70,7 +70,7 @@ Spellbooks:
 </details>
 
 <details markdown="1">
-<summary><b>5. Funeral Papyrus of the Wonder King</b></summary> 
+<summary><b>5. Papyrus of the Wonder King's Edicts</b></summary> 
 - *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Embalming".
 - You have learned to smell and detect the subtle fragrances of curses.
