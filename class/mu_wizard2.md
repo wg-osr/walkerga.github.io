@@ -40,9 +40,9 @@ Spellbooks:
 
 <details markdown="1">
 <summary><b>1. Titardinal's Notes on Kastromancy</b></summary> 
-- *Of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
-- You gain a skill point in "Architecture".
-- Roll Spell Dices over a dungeon map. If a dice falls on the room you are, double its result.
+- *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
+- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Architecture".
+- You can spend [Treasures](/2020/11/10/extra-rules/#treasures) to reproduce a dungeon trap you overcame in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
 </details>
 
