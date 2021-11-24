@@ -12,7 +12,7 @@ permalink: /class/wizard
 A strange hat, ink and quill, a spellbook (see below)
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of "University Graduate", "Alchemist", "Charlatan", "Forbidden Knowledge"
+Your choice of "University Graduate", "Alchemist", "Charlatan" or "Forbidden Knowledge"
 
 For every Wizard template you have, you gain one extra **Spell Dice** and you **Study**.
 
