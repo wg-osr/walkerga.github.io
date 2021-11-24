@@ -19,7 +19,7 @@ For every Wizard template you have, you gain one extra **Spell Dice** and you **
 ## Spells
 Wizards get one for free at level 1. They’re stored in spellbooks and you spend Spell Dices to cast them.
 <details markdown="1">
-<summary>How GLOG spells work</b></summary> 
+<summary>How GLOG spells work</summary> 
 <ins>Spell Dice (SD)</ins><br>
 You get 1 per Wizard template. They are D6s. 
 
