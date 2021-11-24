@@ -39,7 +39,8 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 **Spellbooks:**
 
 <details markdown="1">
-<summary><b>1. Tome of Basic Magic Practice</b></summary> 
+<summary><b>1. Tome of Magic Practice</b></summary> 
+*A mass-produced folio with chipped edges passed-down by students.*
 - You receive an official licence to practice magic in public.
 - You can create candlelight from your fingertip.
 - Roll 1D4, you gain the following spell: 1. [Maleficence](/2020/11/13/maleficence/), 2. [Second Sight](/2020/11/12/second-sight/), 3. [Shroud](/2020/11/13/shroud/), 4. [Thaumaturgy](/2020/11/13/thaumaturgy/)
@@ -47,14 +48,16 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 
 <details markdown="1">
 <summary><b>2. Titardinal's Notes on Kastromancy</b></summary> 
-- You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Architecture".
-- You can spend [Treasures](/2020/11/10/extra-rules/#treasures) to reproduce a dungeon trap you overcame in a building you own.
+*Loosely-bound notes and floor plans with love poems written in the margin.*
+- Holds the deed of an abandonned tower.
+- Each time you study this book, you can recreate a dungeon trap you have overcome in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
 ###### *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
 </details>
 
 <details markdown="1">
 <summary><b>3. Severed Head of Davok</b></summary> 
+*Cumbersome, horrible and grey. Like human features on an elephant's skull.*
 - You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
 - Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
