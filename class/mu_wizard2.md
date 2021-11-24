@@ -39,7 +39,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 Spellbooks:
 
 <details markdown="1">
-<summary><b>1. Tome of Magic Practice</b></summary> 
+<summary><b>1. Tome of Basic Magic Practice</b></summary> 
 - You receive an official licence to practice magic in public.
 - You can create candlelight from your fingertip.
 - Roll 1D4, you gain the following spell: 1. [Maleficence](/2020/11/13/maleficence/), 2. [Second Sight](/2020/11/12/second-sight/), 3. [Shroud](/2020/11/13/shroud/), 4. [Thaumaturgy](/2020/11/13/thaumaturgy/)
@@ -51,5 +51,13 @@ Spellbooks:
 - You gain two [skill points](/2020/11/09/base-rules/#stats--skills) in "Architecture".
 - You can spend [Treasures](/2020/11/10/extra-rules/#treasures) to reproduce a dungeon trap you overcame in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
+</details>
+
+<details markdown="1">
+<summary><b>3. Severed Head of Davok</b></summary> 
+- *of [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) fame.*
+- You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
+- You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
+- Roll 1D4, you gain the following spell: 1. [Call of the Spider](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
 </details>
 
