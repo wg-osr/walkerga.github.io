@@ -96,7 +96,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark leather bound in bronze. Penned in blood.*
 - You can speak backward, a language only understood by exorcists and divine creatures.
 - Each time you study this book, increase any of your skills by 2, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take an additional 1 point of damage.
-- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/) 4. , [Petition](/2020/11/12/petition/)
+- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/), 4. [Petition](/2020/11/12/petition/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
 </details>
 
@@ -105,6 +105,15 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Adorned with four gems, its cover is made of gold.*
 - You can politely ask dirt and water to leave clothes and hair, and play wind instruments from afar.
 - Each time you study this book, you increase your unarmored movement speed by 1 (up to 10).
-- Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/) 4. , [Stormspeech](/2020/11/13/stormspeech/)
+- Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
+</details>
+
+<details markdown="1">
+<summary><b>9. O's Diary</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Elegant in its lack of features. Brown leather. Locked.*
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Ropes".
+- Each time you study this book, you find new ways to attach objects to you and gain 1 inventory slot.
+- Roll 1D4, you gain the following spell: 1. [A Rope Is Always Handy](/2020/11/13/a-rope-is-always-handy/), 2. [Length of a String](/2020/11/13/lenght-of-a-string/), 3. [Rope Bind](/2020/11/13/rope-bind/), 4. [The Rope Trick](/2020/11/13/the-rope-trick/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
 </details>
