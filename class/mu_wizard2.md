@@ -99,3 +99,12 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/) 4. , [Petition](/2020/11/12/petition/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
 </details>
+
+<details markdown="1">
+<summary><b>8. Voices of the Four Elements</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Adorned with four gems, its cover is made of gold.*
+- You can politely ask dirt and water to leave your clothes, and play wind instruments from afar.
+- You can ask the referee what lies in a direction of your choice. They will reply air, earth, fire or water.
+- Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/) 4. , [Stormspeech](/2020/11/13/stormspeech/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
+</details>
