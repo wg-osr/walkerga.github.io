@@ -153,3 +153,21 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Conduit](/2020/11/13/conduit/), 3. [Reality Shift](/2020/11/13/reality-shift/), 4. [Second Sight](/2020/11/12/second-sight/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Spiritualism.*
 </details>
+
+<details markdown="1">
+<summary><b>14. Translocalistic Memoir</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The size of a medallion. Opens as big as a grimoire.*
+- You know from sight if a portal leads neardby, far, or another dimension.
+- Each time you study this book, note the location. You can make a 1 hour ritual to teleport you and your party back there once as long as you all hold hands.
+- Roll 1D4, you gain the following spell: 1. [Fold Space](/2020/11/13/fold-space/), 2. [Revisitation](/2020/11/13/revisitation/), 3. [Recall](/2020/11/13/recall/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
+</details>
+
+<details markdown="1">
+<summary><b>15. Illustrated Grimoire of Vivimancy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A frog's skin is stretched across the cover. Crudely bound.*
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology".
+- For each time you studied this book, if you have a pet, you can give it the feature of another mundane animal.
+- Roll 1D4, you gain the following spell: 1. [Ravening](/2020/11/13/ravening/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
+</details>
