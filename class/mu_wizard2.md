@@ -135,3 +135,12 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Milk and Honey](/2020/11/13/milk-and-honey/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Potpourri](/2020/11/13/potpourri/), 4. [Salvific Apport](/2020/11/13/salvific-apport/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Physiurgy.*
 </details>
+
+<details markdown="1">
+<summary><b>12. Psychomantic Skullclamp</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metallic and cold headband. Text projected in the mind.*
+- You can communicate telepathically with people you can see.
+- Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic remotely controled version of it once per day for 10 minutes.
+- Roll 1D4, you gain the following spell: 1. [Command](/2020/11/13/command/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 4. [Telekinetic Burst](/2020/11/13/telekinetic-burst/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
+</details>
