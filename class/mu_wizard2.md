@@ -121,8 +121,17 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>10. Iron-Chained Black Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Shadrakul's post-mortem apprentice.*
-- You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none will make sense
+- You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none will make sense.
 - Each time you study this book, the number of answers that will make sense when you interrogate a spirit increases by 1.
 - Roll 1D4, you gain the following spell: 1. [Death Mask](/2020/11/13/death-mask/), 2. [Finger of Death](/2020/11/13/finger-of-death/), 3. [Ghost Orchestra](/2020/11/13/ghost-orchestra/), 4. [Lichcrat](/2020/11/13/lichcraft/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) .*
+</details>
+
+<details markdown="1">
+<summary><b>11. Manual of Physiurgy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Compiled by generations of midwives. Smells sweet.*
+- You receive an official licence to practice medicine.
+- For each time you studied this book, you can succeed on one roll to help stabilize a [dying friend](/2020/11/09/base-rules/#dying--healing).
+- Roll 1D4, you gain the following spell: 1. [Milk and Honey](/2020/11/13/milk-and-honey/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Potpourri](/2020/11/13/potpourri/), 4. [Salvific Apport](/2020/11/13/salvific-apport/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Physiurgy.*
 </details>
