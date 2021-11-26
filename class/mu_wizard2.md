@@ -36,7 +36,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 ## Study
 You need a Spell book to study. You cannot take a Magic User template if you do not possess a spell book. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a Treasure when you end a session in town to study again.
 
-**Spellbooks:**
+**Some Spellbooks:**
 
 <details markdown="1">
 <summary><b>1. Tome of Magic Practice</b></summary> 
@@ -140,7 +140,16 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>12. Psychomantic Skullclamp</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metallic and cold headband. Text projected in the mind.*
 - You can communicate telepathically with people you can see.
-- Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic remotely controled version of it once per day for 10 minutes.
+- Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic, remotely controled version of it once per day for 10 minutes.
 - Roll 1D4, you gain the following spell: 1. [Command](/2020/11/13/command/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 4. [Telekinetic Burst](/2020/11/13/telekinetic-burst/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
+</details>
+
+<details markdown="1">
+<summary><b>13. Treatise of Spiritual Understanding</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Salmon-pink and trimmed in irridescent metal. Perfectly square.*
+- You sleep your eyes open.
+- For each time you studied this book, you gain one extra SD while you are drugged or poisoned.
+- Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Conduit](/2020/11/13/conduit/), 3. [Reality Shift](/2020/11/13/reality-shift/), 4. [Second Sight](/2020/11/12/second-sight/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Spiritualism.*
 </details>
