@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spells diabolism
+tags: spell diabolism
 title: Call for Judgement
 ---
 
