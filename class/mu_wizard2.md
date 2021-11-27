@@ -287,7 +287,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 
 <details markdown="1">
-<summary><b>27. Tome of the Beast</b></summary> 
+<summary><b>28. Tome of the Beast</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Furry and toothy. Growls when touched.*
 - Your unarmed strike inflicts 1D4 damage.
 - Each time you study this book, choose a creature species. You can smell it.
