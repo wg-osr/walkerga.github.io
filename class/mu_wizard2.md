@@ -122,11 +122,11 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>10. Iron-Chained Black Grimoire</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Shadrakul's post-mortem apprentice.*
-- You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none will make sense.
-- Each time you study this book, the number of answers that will make sense when you interrogate a spirit increases by 1.
-- Roll 1D4, you gain the following spell: 1. [Death Mask](/2020/11/13/death-mask/), 2. [Finger of Death](/2020/11/13/finger-of-death/), 3. [Ghost Orchestra](/2020/11/13/ghost-orchestra/), 4. [Lichcrat](/2020/11/13/lichcraft/)
+<summary><b>10. Necronomicon</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Obviously bound in human skin. Held shut by a skeletal hand.*
+- Getting wounded does not make you fall unconscious. Medical care does not heal your Wounds.
+- Each time you study this book, you remove 5 wounds from yourself.
+- Roll 1D4, you gain the following spell: 1. [Death's Scythe](/2020/11/13/deaths-scythe/), 2. [Lichcrat](/2020/11/13/lichcraft/), 3. [Soul Transfer](/2020/11/13/souls-transfer/), 4. [Transmigration](/2020/11/13/transmigration/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) .*
 </details>
 
@@ -238,4 +238,13 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - For each time you study this book, choose an object or a creature not bigger than a baby. It is protected from harm as long as it is in your inventory.
 - Roll 1D4, you gain the following spell: 1. [Pack Neatly](/2020/11/13/pack-neatly/), 2. [Pinky Knot](/2020/11/13/pinky-knot/), 3. [The Cat's Cradle](/2020/11/13/the-cats-cradle/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
+</details>
+
+<details markdown="1">
+<summary><b>22. Ghost-Chained Black Grimoire</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Shadrakul's post-mortem apprentice.*
+- You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none will make sense.
+- Each time you study this book, the number of answers that will make sense when you interrogate a spirit increases by 1.
+- Roll 1D4, you gain the following spell: 1. [Death Mask](/2020/11/13/death-mask/), 2. [Finger of Death](/2020/11/13/finger-of-death/), 3. [Ghost Orchestra](/2020/11/13/ghost-orchestra/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).*
 </details>
