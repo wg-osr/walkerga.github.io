@@ -175,7 +175,24 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>16. The Companion of the Witch</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two cat eyes open from the cover when the book is held.*
-- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You dont know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
-
-Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
+- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You dont know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it. <br><br>Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
 </details>
+
+<details markdown="1">
+<summary><b>15. Book of Vermin</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
+- You can send an insect scout in the next room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
+- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but acts like a sentient smoke bomb.
+- Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
+</details>
+
+<details markdown="1">
+<summary><b>15. Book of Vermin</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
+- You can send an insect scout in the next room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
+- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but acts like a sentient smoke bomb.
+- Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
+</details>
+
