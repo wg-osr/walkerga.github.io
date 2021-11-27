@@ -171,7 +171,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A frog's skin is stretched across the cover. Crudely bound.*
 - You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology".
 - For each time you studied this book, if you have a pet, you can give it a feature from another mundane animal.
-- Roll 1D4, you gain the following spell: 1. [Ravening](/2020/11/13/ravening/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
+- Roll 1D4, you gain the following spell: 1. [Genoplasm](/2020/11/13/genoplasm/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
 </details>
 
@@ -268,7 +268,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>25. The Witch-Hunter's Manual</b></summary> 
+<summary><b>26. The Witch-Hunter's Manual</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavy, reinforced with cold iron, covered in wards.*
 - You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town.
 - Each time you study this book, you gain the location of a mad wizard.
@@ -277,10 +277,20 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>25. Spatial Geometry IV</b></summary> 
+<summary><b>27. Spatial Geometry IV</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in block.*
 - You can draw things in the air with your finger. The drawing lasts 10 minutes.
 - Each time you study this book, choose a mundane object in your inventory, you can fold it magically into a tiny size that doesnt take space.
 - Roll 1D4, you gain the following spell: 1. [Disconnection](/2020/11/13/disconnection/), 2. [Levitation](/2020/11/13/levitation/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Fold Space](/2020/11/13/fold-space/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
+</details>
+
+
+<details markdown="1">
+<summary><b>27. Tome of the Beast</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Furry and toothy. Growls when touched.*
+- Your unarmed strike inflicts 1D4 damage.
+- Each time you study this book, choose a creature species. You can smell it.
+- Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust/), 2. [Indolence](/2020/11/13/indolence/), 3. [Quickening](/2020/11/13/quickening/), 4. [Ravening](/2020/11/13/ravening/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
