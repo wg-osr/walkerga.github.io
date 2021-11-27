@@ -257,3 +257,12 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Blood Scabbard](/2020/11/13/blood-scabbard/), 2. [Death unto Life](/2020/11/13/death-unto-life/), 3. [Last Oath](/2020/11/13/last-oath/), 4. [Vascular Draining](/2020/11/13/vascular-draing/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Physiurgy.*
 </details>
+
+<details markdown="1">
+<summary><b>25. The Enchantress's Eyes</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden snake crawls elegantly on its red velvet cover.*
+- You can shape blood like clay.
+- Each time you study this book, increase your HP by 1.
+- Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dust of the Sandman](/2020/11/13/dust-of-the-sandman/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Hallucinogenesis](/2020/11/13/hallucinogenesis/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
+</details>
