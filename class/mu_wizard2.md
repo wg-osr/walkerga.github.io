@@ -241,10 +241,19 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>22. Ghost-Chained Black Grimoire</b></summary> 
+<summary><b>23. Ghost-Chained Black Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Shadrakul's post-mortem apprentice.*
 - You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none will make sense.
 - Each time you study this book, the number of answers that will make sense when you interrogate a spirit increases by 1.
 - Roll 1D4, you gain the following spell: 1. [Death Mask](/2020/11/13/death-mask/), 2. [Finger of Death](/2020/11/13/finger-of-death/), 3. [Ghost Orchestra](/2020/11/13/ghost-orchestra/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).*
+</details>
+
+<details markdown="1">
+<summary><b>24. Carmine Hubris</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black velvet. Opened by wiping a droplet of blood on it.*
+- You can shape blood like clay.
+- Each time you study this book, increase your HP by 1.
+- Roll 1D4, you gain the following spell: 1. [Blood Scabbard](/2020/11/13/blood-scabbard/), 2. [Death unto Life](/2020/11/13/death-unto-life/), 3. [Last Oath](/2020/11/13/last-oath/), 4. [Vascular Draining](/2020/11/13/vascular-draing/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Physiurgy.*
 </details>
