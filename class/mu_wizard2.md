@@ -221,11 +221,21 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>21. Hymns to the Winds
+<summary><b>21. Hymns of the Winds
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pale blue. Its pages scatter to the winds while open yet find their way back in when you close it.*
 - You can push objects not heavier than a helmet from afar.
 - For each time you study this book, you can avoid an encounter of your choice while piloting a wind-powered vehicle.
 - Roll 1D4, you gain the following spell: 1. [Chariot of Air](/2020/11/13/chariot-of-air/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Wind Barrier](/2020/11/13/wind-barrier/), 4. [Wind Salvation](/2020/11/13/wind-salvation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
+</details>
+
+<details markdown="1">
+<summary><b>22. A Parent's Guide to Sorcery
+</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark blue linen cover. The author is disillusioned.*
+- You can clean 5 square feet instantly every 10 minutes.
+- For each time you study this book, choose an object or a creature not bigger than a baby. It is protected from harm as long as it is in your inventory.
+- Roll 1D4, you gain the following spell: 1. [Pack Neatly](/2020/11/13/pack-neatly/), 2. [Pinky Knot](/2020/11/13/pinky-knot/), 3. [The Cat's Cradle](/2020/11/13/the-cats-cradle/), 4. [Universal Knot](/2020/11/13/universal-knot/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
 </details>
