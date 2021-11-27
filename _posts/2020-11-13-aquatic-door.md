@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spells elementalism
+tags: spell elementalism
 title: Aquatic Door
 ---
 
