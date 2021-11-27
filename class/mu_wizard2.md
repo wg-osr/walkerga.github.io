@@ -285,7 +285,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
 
-
 <details markdown="1">
 <summary><b>28. Tome of the Beast</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Furry and toothy. Growls when touched.*
