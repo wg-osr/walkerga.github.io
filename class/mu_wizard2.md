@@ -37,7 +37,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Study
-You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a Treasure when you end a session in town to study again.
+You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town to study again.
 
 **Some Spellbooks:**
 
@@ -162,7 +162,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The size of a medallion. Opens as big as a grimoire.*
 - You know from sight if a portal leads neardby, far, or another dimension.
 - Each time you study this book, note the location. You can make a 1 hour ritual to teleport you and your party back there once as long as you all hold hands.
-- Roll 1D4, you gain the following spell: 1. [Fold Space](/2020/11/13/fold-space/), 2. [Revisitation](/2020/11/13/revisitation/), 3. [Recall](/2020/11/13/recall/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
+- Roll 1D4, you gain the following spell: 1. [Transmit Breath](/2020/11/13/transmit-breath/), 2. [Revisitation](/2020/11/13/revisitation/), 3. [Recall](/2020/11/13/recall/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
 
@@ -265,4 +265,22 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html).
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dust of the Sandman](/2020/11/13/dust-of-the-sandman/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Hallucinogenesis](/2020/11/13/hallucinogenesis/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
+</details>
+
+<details markdown="1">
+<summary><b>25. The Witch-Hunter's Manual</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavy, reinforced with cold iron, covered in wards.*
+- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town.
+- Each time you study this book, you gain the location of a mad wizard.
+- Roll 1D4, you gain the following spell: 1. [Etheral Boundary](/2020/11/13/ethereal-boundary/), 2. [Hekaphage](/2020/11/13/hekaphage/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Second Sight](/2020/11/12/second-sight/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Spiritualism.*
+</details>
+
+<details markdown="1">
+<summary><b>25. Spatial Geometry</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in block.*
+- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town.
+- Each time you study this book, you gain the location of a mad wizard.
+- Roll 1D4, you gain the following spell: 1. [Disconnection](/2020/11/13/disconnection/), 2. [Levitation](/2020/11/13/levitation/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Fold Space](/2020/11/13/fold-space/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
