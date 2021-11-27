@@ -214,5 +214,5 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - You cannot be burned by flames smaller than a bonfire.
 - Each time you study this book, choose a sin. No mortal can see that sin in you.
 - Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Illusion of Youth](/2020/11/12/illusion-of-youth/), 3. [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/), 4. [Zizanny](/2020/11/12/zizanny/)
-###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness), [Elf from Coins & Scrolls](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)and Warlock from [Oblidisideryptch](https://oblidisideryptch.blogspot.com/2019/03/osr-class-warlock.html).*
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism and the Warlock from [Oblidisideryptch](https://oblidisideryptch.blogspot.com/2019/03/osr-class-warlock.html).*
 </details>
