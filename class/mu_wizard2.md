@@ -277,10 +277,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>25. Spatial Geometry</b></summary> 
+<summary><b>25. Spatial Geometry IV</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in block.*
-- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town.
-- Each time you study this book, you gain the location of a mad wizard.
+- You can draw things in the air with your finger. The drawing lasts 10 minutes.
+- Each time you study this book, choose a mundane object in your inventory, you can fold it magically into a tiny size that doesnt take space.
 - Roll 1D4, you gain the following spell: 1. [Disconnection](/2020/11/13/disconnection/), 2. [Levitation](/2020/11/13/levitation/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Fold Space](/2020/11/13/fold-space/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
