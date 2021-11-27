@@ -171,3 +171,11 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Ravening](/2020/11/13/ravening/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
 </details>
+
+<details markdown="1">
+<summary><b>16. The Companion of the Witch</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two cat eyes open from the cover when the book is held.*
+- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You dont know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
+
+Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
+</details>
