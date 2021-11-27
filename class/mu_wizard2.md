@@ -179,7 +179,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>15. Book of Vermin</b></summary> 
+<summary><b>17. Book of Vermin</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
 - You can send an insect scout in the next room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
 - Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but acts like a sentient smoke bomb.
@@ -188,11 +188,12 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>15. Book of Vermin</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
-- You can send an insect scout in the next room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
-- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but acts like a sentient smoke bomb.
-- Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
-###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
+<summary><b>18. Apotropaic Techniques
+</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicaced to Bilfred who wouldn't die.*
+- You can give yourself Doom Points to modify a D20 roll by the same amount.
+- Each time you study this book, you lose 1 Doom Point.
+- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Scapegoat](/2020/11/13/scapegoat/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Writ of the Underworld](/2020/11/13/writ-of-the-underworld/)
+###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
 
