@@ -219,3 +219,13 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Illusion of Youth](/2020/11/12/illusion-of-youth/), 3. [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/), 4. [Zizanny](/2020/11/12/zizanny/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism and the Warlock from [Oblidisideryptch](https://oblidisideryptch.blogspot.com/2019/03/osr-class-warlock.html).*
 </details>
+
+<details markdown="1">
+<summary><b>21. Hymns to the Winds
+</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pale blue. Its pages scatter to the winds while open yet find their way back in when you close it.*
+- You can push objects not heavier than a helmet from afar.
+- For each time you study this book, you can avoid an encounter of your choice while piloting a wind-powered vehicle.
+- Roll 1D4, you gain the following spell: 1. [Chariot of Air](/2020/11/13/chariot-of-air/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Wind Barrier](/2020/11/13/wind-barrier/), 4. [Wind Salvation](/2020/11/13/wind-salvation/)
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
+</details>
