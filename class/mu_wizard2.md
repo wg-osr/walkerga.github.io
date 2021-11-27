@@ -6,18 +6,18 @@ permalink: /class/wizard
 
 <details markdown="1">
 <summary>Design Notes</summary> 
-Inspired by my templateless [Priest](/class/priest) class. I thought that my previous GLOG wizard amalgam had too many features for my players. This one aims to focus on one thing at a time: spellbooks. It also allows the referee to add easily spellbooks to dungeons in a way that is flavourful and mechanically coherent. Most of all, it is my homage to the thing that drew me to the GLOG to begin with: its litteral hundreds of wizards! Most of the spellbooks described bellow are direct conversions from my favourites among them.
+Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more endible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the litteral hundreds of wizards classes! Most of the spellbooks described bellow are direct conversions from my favourites among them.
 
-So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains spell dices every level and can do whatever it wants with them, the priest gains spell dices each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its advantures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimied amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. 
+So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains SD every level and can do whatever it wants with them, while the priest gains SD each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its adventures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimied amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. 
 </details>
 
 <ins>Starting Equipment</ins><br>
 A strange hat, ink and quill, a spellbook (see below)
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of "University Graduate", "Alchemist", "Charlatan" or "Forbidden Knowledge"
+Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
 
-For every Wizard template you have, you gain one extra **Spell Dice** and you **Study**.
+For every Wizard template you have, you gain one extra **Spell Dice** (SD) and you **Study**.
 
 ## Spells
 Wizards get a [random one](/list/spells) for free at level 1. They’re stored in spellbooks and you spend Spell Dices to cast them.
@@ -37,7 +37,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Study
-You need a Spell book to study. You cannot take a Magic User template if you do not possess a spell book. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a Treasure when you end a session in town to study again.
+You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a Treasure when you end a session in town to study again.
 
 **Some Spellbooks:**
 
@@ -80,7 +80,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>5. The Wonder King's Edicts</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Three slabs of pink marble engraved in tiny faded cuneiform.*
 - You have learned to smell and detect the subtle fragrances of curses.
-- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. It will be freed if the tablet is broken.
+- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. Breaking the tablet releases the curse.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
@@ -89,7 +89,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>6. Stories from my Mother</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Painted geese, children and frogs illustrate the cover. Pocket sized.*
 - You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Cooking".
-- Each time you study this book, you gain the location of one of mother's friend's cabin in a wilderness area of your choice. They will be friendly to you, provide shelter and trade potions.
+- Each time you study this book, you learn the location of a hidden cabins in an area of your choice. One of Mother's friend lives there and can provide shelter and trade potions.
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 </details>
@@ -98,7 +98,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>7. Three Prayers to Baphomet</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark leather bound in bronze. Penned in blood.*
 - You can speak backward, a language only understood by exorcists and divine creatures.
-- Each time you study this book, increase any of your skills by 2, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take an additional 1 point of damage.
+- Each time you study this book, increase any of your skills by 2, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take 2 points of damage.
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/), 4. [Petition](/2020/11/12/petition/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
 </details>
@@ -106,7 +106,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>8. Voices of the Four Elements</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Adorned with four gems, its cover is made of gold.*
-- You can politely ask dirt and water to leave clothes and hair, and play wind instruments from afar.
+- You can politely ask dirt and water to leave clothes and hair, and can play wind instruments from afar.
 - Each time you study this book, you increase your unarmored movement speed by 1 (up to 10).
 - Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
@@ -142,7 +142,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>12. Psychomantic Skullclamp</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metallic and cold headband. Text projected in the mind.*
-- You can communicate telepathically with people you can see.
+- You can communicate telepathically with people you can see. Works one way only.
 - Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic, remotely controled version of it once per day for 10 minutes.
 - Roll 1D4, you gain the following spell: 1. [Command](/2020/11/13/command/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 4. [Telekinetic Burst](/2020/11/13/telekinetic-burst/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
@@ -170,7 +170,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <summary><b>15. Illustrated Grimoire of Vivimancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A frog's skin is stretched across the cover. Crudely bound.*
 - You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology".
-- For each time you studied this book, if you have a pet, you can give it the feature of another mundane animal.
+- For each time you studied this book, if you have a pet, you can give it a feature from another mundane animal.
 - Roll 1D4, you gain the following spell: 1. [Ravening](/2020/11/13/ravening/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
 </details>
@@ -184,8 +184,8 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>17. The Book of Vermin</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
-- You can send an insect scout in the next room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
-- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but acts like a sentient smoke bomb.
+- You can send an insect to investigate an adjacent room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
+- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but will obey you.
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
@@ -195,7 +195,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicaced to Bilfred who just wouldn't die.*
 - You can give yourself Doom Points to modify a D20 roll by the same amount.
-- Each time you study this book, you lose 1 Doom Point.
+- Each time you study this book, you lose 2 Doom Point.
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Scapegoat](/2020/11/13/scapegoat/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Writ of the Underworld](/2020/11/13/writ-of-the-underworld/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
@@ -203,10 +203,10 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>19. The Oaken Tome
 </b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicaced to Bilfred who wouldn't die.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover of bark. Pages of woven leaves.*
 - You can revitalize 1 square foot of plants per hour.
-- Each time you study this book, choose an animal species. Animals of that type wont attack you anymore unless in self defense.
-- Roll 1D4, you gain the following spell: 1. [Bramble Burrow](/2020/11/13/bramble-burrow/), 2. [Druidcraft](/2020/11/13/druidcraft/), 3. [The Old Rune](/2020/11/13/old-rune/), 4. [Floral Salvage](/2020/11/13/floral-salvage/)
+- Each time you study this book, choose an animal species. Animals of that type wont attack you anymore except in self defense.
+- Roll 1D4, you gain the following spell: 1. [Bramble Burrow](/2020/11/13/bramble-burrow/), 2. [Druidcraft](/2020/11/13/druidcraft/), 3. [Old Rune](/2020/11/13/old-rune/), 4. [Floral Salvage](/2020/11/13/floral-salvage/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Elf from Coins & Scrolls](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html).*
 </details>
 
@@ -215,7 +215,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Burned like its author, yet somewhat still readable.*
 - You cannot be burned by flames smaller than a bonfire.
-- Each time you study this book, choose a sin. No mortal can see that sin in you.
+- Each time you study this book, choose a sin. No mortal can see that sin in your personality.
 - Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Illusion of Youth](/2020/11/12/illusion-of-youth/), 3. [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/), 4. [Zizanny](/2020/11/12/zizanny/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism and the Warlock from [Oblidisideryptch](https://oblidisideryptch.blogspot.com/2019/03/osr-class-warlock.html).*
 </details>
@@ -235,7 +235,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark blue linen cover. The author is disillusioned.*
 - You can clean 5 square feet instantly every 10 minutes.
-- For each time you study this book, choose an object or a creature not bigger than a baby. It is protected from harm as long as it is in your inventory.
+- For each time you study this book, choose an object or a creature not bigger than a small children. It is protected from harm as long as it is in your inventory.
 - Roll 1D4, you gain the following spell: 1. [Pack Neatly](/2020/11/13/pack-neatly/), 2. [Pinky Knot](/2020/11/13/pinky-knot/), 3. [The Cat's Cradle](/2020/11/13/the-cats-cradle/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
 </details>
