@@ -259,7 +259,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 </details>
 
 <details markdown="1">
-<summary><b>25. The Enchantress's Eyes</b></summary> 
+<summary><b>25. The Enchantress's Kiss</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden snake crawls elegantly on its red velvet cover.*
 - You can shape blood like clay.
 - Each time you study this book, increase your HP by 1.
