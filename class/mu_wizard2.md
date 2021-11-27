@@ -261,8 +261,8 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 <details markdown="1">
 <summary><b>25. The Enchantress's Kiss</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden snake crawls elegantly on its red velvet cover.*
-- You can shape blood like clay.
-- Each time you study this book, increase your HP by 1.
+- You can change your features at will superficially. This effect cannot go beyond what makeup and a wig could do.
+- Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html).
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dust of the Sandman](/2020/11/13/dust-of-the-sandman/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Hallucinogenesis](/2020/11/13/hallucinogenesis/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
 </details>
