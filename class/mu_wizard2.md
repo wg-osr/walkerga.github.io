@@ -127,7 +127,7 @@ You need a Spell book to study. You cannot take a Magic User template if you do 
 - Getting wounded does not make you fall unconscious. Medical care does not heal your Wounds.
 - Each time you study this book, you remove 5 wounds from yourself.
 - Roll 1D4, you gain the following spell: 1. [Death's Scythe](/2020/11/13/deaths-scythe/), 2. [Lichcrat](/2020/11/13/lichcraft/), 3. [Soul Transfer](/2020/11/13/souls-transfer/), 4. [Transmigration](/2020/11/13/transmigration/)
-###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) .*
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Necromancy.*
 </details>
 
 <details markdown="1">
