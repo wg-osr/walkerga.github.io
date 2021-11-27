@@ -6,7 +6,9 @@ permalink: /class/wizard
 
 <details markdown="1">
 <summary>Design Notes</summary> 
-</details>
+Inspired by my templateless [Priest](/class/priest) class. I thought that my previous GLOG wizard amalgam had too many features for my players. This one aims to focus on one thing at a time: spellbooks. It also allows the referee to add easily spellbooks to dungeons in a way that is flavourful and mechanically coherent. Most of all, it is my homage to the thing that drew me to the GLOG to begin with: its litteral hundreds of wizards! Most of the spellbooks described bellow are direct conversions from my favourites among them.
+
+So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains spell dices every level and can do whatever it wants with them, the priest gains spell dices each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its advantures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimied amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. </details>
 
 <ins>Starting Equipment</ins><br>
 A strange hat, ink and quill, a spellbook (see below)
