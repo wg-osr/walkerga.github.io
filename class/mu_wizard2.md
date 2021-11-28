@@ -351,4 +351,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Dominate](/2020/11/13/dominate/), 2. [Geas](/2020/11/13/geas/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Poltergeist](/2020/11/13/poltergeist/)
 </details>
 
+<details markdown="1">
+<summary><b>35. Tome of Abjuration</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Wool cover. Protected by a silver lock.*
+- You can stretch a strand of your hair across a threshold. You'll receive a mental alarm sufficient to wake you up if the hair is crossed. 
+- Each time you study this book, you can create a token with one of your spells copied in it. It has one use and you can give it to others.
+- Roll 1D4, you gain the following spell: 1. [Against Prying Eyes](/2020/11/13/against-prying-eyes/), 2. [Deflection](/2020/11/13/deflection/), 3. [Return to Sender](/2020/11/13/return-to-sender/), 4. [Stasis](/2020/11/13/stasis/)
+###### *From Semiurge's [Abjuration Wizard](https://archonsmarchon.blogspot.com/2021/04/glog-class-abjurer-wizard.html)!*
+</details>
+
 
