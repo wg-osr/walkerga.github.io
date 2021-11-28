@@ -325,3 +325,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - For each time you studied this book, you can call a giant eagle. It will arrive after 1 hour and transport you back to a destination of your choice up to 3 days away in just 1 hour, and back in the day.
 - Roll 1D4, you gain the following spell: 1. [Covenant](/2020/11/12/covenant/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Blackstaff](/2020/11/13/blackstaff/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 </details>
+
+<details markdown="1">
+<summary><b>32. Treatise of Geometic Wizardry</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A compass is embedded in the cover. The text is on a grid*
+- As long as you carry no iron, your SD return to your pool on a roll of 1 to 4. 
+- Each time you study this book, choose a type of object or natural phenomenon and a quality. You have an encyclopedic knowledge of the object relating to the quality.
+- Roll 1D4, you gain the following spell: 1. [Command Iron](/2020/11/13/command-iron/), 2. [Magnetic Fissure](/2020/11/13/magnetic-fissure/), 3. [Moonlust](/2020/11/13/moon-lust/), 4. [Star Map](/2020/11/13/star-map/)
+###### *Inspired by Coins and Scrolls [Geometer Wizard](https://coinsandscrolls.blogspot.com/2019/10/osr-class-geometer-wizard.html).*
+</details>
