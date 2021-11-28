@@ -383,7 +383,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rolls of tanned skin painted with rust.*
 - You can consume a metallic object no smaller than a dagger as you cast a spell to recuperate a SD.
 - You can take 10 minutes to transform alcohol and a metallic object no smaller than a dagger into an incendiary charge (1D6). It burns as many rounds as the number of time you have studied this book.
-- Roll 1D4, you gain the following spell: 1. [Command Iron](/2020/11/13/command-iron/), 2. [Magnetic Fissure](/2020/11/13/magnetic-fissure/), 3. [Metallic Sensibility](/2020/11/13/metalic-sensibility/), 4. [Trap Lightning](/2020/11/13/trap-lightning/)
+- Roll 1D4, you gain the following spell: 1. [Command Iron](/2020/11/13/command-iron/), 2. [Magnetic Fissure](/2020/11/13/magnetic-fissure/), 3. [Metallic Sensibility](/2020/11/13/metallic-sensibility/), 4. [Trap Lightning](/2020/11/13/trap-lightning/)
 ###### *From Throne of Salt's [Allomancer](http://throneofsalt.blogspot.com/2018/05/class-allomancer.html)!*
 </details>
 
