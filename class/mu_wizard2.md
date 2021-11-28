@@ -369,4 +369,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Throne of Salt's [Adipomancer](http://throneofsalt.blogspot.com/2018/02/class-adipomancer.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>38. Alienistic Observations</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bloodstained. Has turned all its readers mad.*
+- Your eyes have stalks that can be extended 10'. 
+- While standing in the corner of a room, you are standing in all corners of the room.
+- Roll 1D4, you gain the following spell: 1. [Lengthen](/2020/11/13/lengthen/), 2. [Meat Hive](/2020/11/13/meat-hive/), 3. [Stone to Teeth](/2020/11/13/stone-to-teeth/), 4. [Unspeakeable Speech](/2020/11/13/unspeakable-speech/)
+###### *From Numbers Aren't Real's [Alienist](https://archonsmarchon.blogspot.com/2021/04/glog-class-abjurer-wizard.html)!*
+</details>
 
