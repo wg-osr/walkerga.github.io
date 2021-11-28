@@ -360,4 +360,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Semiurge's [Abjuration Wizard](https://archonsmarchon.blogspot.com/2021/04/glog-class-abjurer-wizard.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>37. Adipomantic Cookbook</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Twice bigger than expected. Soaked in juices like an old cutting board.*
+- Each SD you have takes 1 inventory slot (as a layer of fat) when not spent. You have +1 HP per unspent SD. 
+- You can spend a SD to give you advantage on any strength or melee related roll.
+- Roll 1D4, you gain the following spell: 1. [Aura of Warmth](/2020/11/13/aura-of-warmth/), 2. [Belly Drum](/2020/11/13/belly-drum/), 3. [Caloric Burn](/2020/11/13/caloric-burn/), 4. [Make Delicious](/2020/11/13/make-delicious/)
+###### *From Throne of Salt's [Adipomancer](http://throneofsalt.blogspot.com/2018/02/class-adipomancer.html)!*
+</details>
+
 
