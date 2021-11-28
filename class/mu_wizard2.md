@@ -350,3 +350,5 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Its mind is wiped and it cannot resist your spells.
 - Roll 1D4, you gain the following spell: 1. [Dominate](/2020/11/13/dominate/), 2. [Geas](/2020/11/13/geas/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Poltergeist](/2020/11/13/poltergeist/)
 </details>
+
+
