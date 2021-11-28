@@ -303,9 +303,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>30. Grimoire of the Fey</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Overly intricate cover of vines and leaves. Musical.*
-- You are immune to being charmed, except by people who know your real name.
-- Each time you study this book, invent a one-sentence fact about yourself. It becomes true, but only in the fey world, as interpreted by the wicked referee.
-- Roll 1D4, you gain the following spell: 1. [Fey Ring](/2020/11/13/fey-ring/), 2. [Mirror Road](/2020/11/13/mirror-road/), 3. [Gleam](/2020/11/12/gleam/), 4. [Speak with Birds](/2020/11/13/speak-with-birds/)
+<summary><b>30. Tattered Tome</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Seems the posession of an unfortunate adventuring wizard.*
+- You can lick an object to know if it is magical.
+- Each time you study this book, you learn the location of a dungeon.
+- Learn a [random spell](/list/spells). You can only learn 3 spells from this book. 
 </details>
