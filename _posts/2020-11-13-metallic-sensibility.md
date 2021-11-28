@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell elementalism
-title: Metalic Sensibility
+title: Metallic Sensibility
 ---
 R: 100'  D: [dice] x 10 minutes
 
