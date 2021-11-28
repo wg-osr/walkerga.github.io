@@ -327,10 +327,18 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>32. Geometer Encyclopedia</b></summary> 
+<summary><b>33. Geometer Encyclopedia</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A compass is embedded in the cover. The text is on a grid*
 - As long as you carry no iron, your SD return to your pool on a roll of 1 to 4. 
 - Each time you study this book, choose a type of object or natural phenomenon and a quality. You have an encyclopedic knowledge of the object relating to the quality.
 - Roll 1D4, you gain the following spell: 1. [Command Iron](/2020/11/13/command-iron/), 2. [Magnetic Fissure](/2020/11/13/magnetic-fissure/), 3. [Moonlust](/2020/11/13/moon-lust/), 4. [Star Map](/2020/11/13/star-map/)
 ###### *Inspired by Coins and Scrolls [Geometer Wizard](https://coinsandscrolls.blogspot.com/2019/10/osr-class-geometer-wizard.html).*
+</details>
+
+<details markdown="1">
+<summary><b>34. Ancient Tablets of Kha-B'ti</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Hieroglyphed. The size of a palm. They perfectly stack together.*
+- Each time you gain a Doom Point, recover one SD. 
+- For each time you studied this book, you can predict when one natural disaster will hit. At the end of a session, tell the referee. The next time you play, disaster will hit where you are.
+- Roll 1D4, you gain the following spell: 1. [Dust to Water](/2020/11/13/dust-to-water/), 2. [Serpent's Kiss](/2020/11/13/serpents-kiss/), 3. [Subterranean Gullet](/2020/11/13/subterranean-gullet/), 4. [Soul Harvest](/2020/11/13/soul-harvest/)
 </details>
