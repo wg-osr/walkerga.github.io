@@ -352,7 +352,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>35. Tome of Abjuration</b></summary> 
+<summary><b>36. Tome of Abjuration</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Wool cover. Protected by a silver lock.*
 - You can stretch a strand of your hair across a threshold. You'll receive a mental alarm sufficient to wake you up if the hair is crossed. 
 - Each time you study this book, you can create a token with one of your spells copied in it. It has one use and you can give it to others.
