@@ -342,3 +342,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - For each time you studied this book, you can predict when one natural disaster will hit. At the end of a session, tell the referee. The next time you play, disaster will hit where you are.
 - Roll 1D4, you gain the following spell: 1. [Dust to Water](/2020/11/13/dust-to-water/), 2. [Serpent's Kiss](/2020/11/13/serpents-kiss/), 3. [Subterranean Gullet](/2020/11/13/subterranean-gullet/), 4. [Soul Harvest](/2020/11/13/soul-harvest/)
 </details>
+
+<details markdown="1">
+<summary><b>35. Errings of a Shattered Mind</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mad ramblings scribbled on loose sheets and the cold assessments of an observer.*
+- Creatures who peek into your mind must save vs fear. 
+- Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Its mind is wiped and it cannot resist your spells.
+- Roll 1D4, you gain the following spell: 1. [Dominate](/2020/11/13/dominate/), 2. [Geas](/2020/11/13/geas/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Poltergeist](/2020/11/13/poltergeist/)
+</details>
