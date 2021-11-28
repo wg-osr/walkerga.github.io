@@ -225,7 +225,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pale blue. Its pages scatter to the winds while open yet find their way back in when you close it.*
 - You can push objects not heavier than a helmet from afar.
-- For each time you study this book, you can avoid an encounter of your choice while piloting a wind-powered vehicle.
+- For each time you studied this book, you can avoid one encounter of your choice while piloting a wind-powered vehicle.
 - Roll 1D4, you gain the following spell: 1. [Chariot of Air](/2020/11/13/chariot-of-air/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Wind Barrier](/2020/11/13/wind-barrier/), 4. [Wind Salvation](/2020/11/13/wind-salvation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
 </details>
@@ -235,7 +235,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark blue linen cover. The author is disillusioned.*
 - You can clean 5 square feet instantly every 10 minutes.
-- For each time you study this book, choose an object or a creature not bigger than a small children. It is protected from harm as long as it is in your inventory.
+- Each time you study this book, choose an object or a creature not bigger than a small children. It is protected from harm as long as it is in your inventory.
 - Roll 1D4, you gain the following spell: 1. [Pack Neatly](/2020/11/13/pack-neatly/), 2. [Pinky Knot](/2020/11/13/pinky-knot/), 3. [The Cat's Cradle](/2020/11/13/the-cats-cradle/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
 </details>
@@ -313,8 +313,15 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>31. Van Houtten's Advanced Anatomy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesome in its illustrations. Covered in stains, otherwise elegant and academic.*
-- You can take 1 hour to transfer to you as many Wounds from an allyas you like. 
+- You can take 1 hour to transfer to you as many Wounds from an ally as you like. 
 - Each time you study this book, you can swap body with a follower.
 - Roll 1D4, you gain the following spell: 1. [Life Channel](/2020/11/13/life-channel/), 2. [Living Gate](/2020/11/13/living-gate/), 3. [Restore](/2020/11/13/restore/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 </details>
 
+<details markdown="1">
+<summary><b>32. Tome of White Magic</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bearing the mark of the secret order. Lined with gold and twine.*
+- You can sense if your friends are in danger. 
+- For each time you studied this book, you can call a giant eagle. It will arrive after 1 hour and transport you back to a destination of your choice up to 3 days away in just 1 hour, and back in the day.
+- Roll 1D4, you gain the following spell: 1. [Covenant](/2020/11/12/covenant/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Blackstaff](/2020/11/13/blackstaff/), 4. [Watching Heads](/2020/11/13/watching-heads/)
+</details>
