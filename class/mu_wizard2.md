@@ -327,7 +327,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>32. Treatise of Geometic Wizardry</b></summary> 
+<summary><b>32. Treatise of Geometric Wizardry</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A compass is embedded in the cover. The text is on a grid*
 - As long as you carry no iron, your SD return to your pool on a roll of 1 to 4. 
 - Each time you study this book, choose a type of object or natural phenomenon and a quality. You have an encyclopedic knowledge of the object relating to the quality.
