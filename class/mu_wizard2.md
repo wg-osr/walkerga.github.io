@@ -309,3 +309,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Each time you study this book, you learn the location of a dungeon.
 - Learn a [random spell](/list/spells). You can only learn 3 spells from this book. 
 </details>
+
+<details markdown="1">
+<summary><b>31. Van Houtten's Advanced Anatomy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesome in its illustrations. Covered in stains, otherwise elegant and academic.*
+- You can take 1 hour to transfer to you as many Wounds from an allyas you like. 
+- Each time you study this book, you can swap body with a follower.
+- Roll 1D4, you gain the following spell: 1. [Life Channel](/2020/11/13/life-channel/), 2. [Living Gate](/2020/11/13/living-gate/), 3. [Restore](/2020/11/13/restore/), 4. [Watching Heads](/2020/11/13/watching-heads/)
+</details>
+
