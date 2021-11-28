@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell elementalism
+tags: spell vivimancy
 title: Caloric Burn
 ---
 
