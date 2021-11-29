@@ -392,6 +392,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style *know*. Extremely verbose. *
 - By closing your eyes, you can nullify as many of your senses as you wish.
 - Each time you study this book, choose an object in your inventory. Now think about the *idea* of that object. Transform that object into anything that would still match the *idea* of that object.
-- Roll 1D4, you gain the following spell: 1. [Lengthen](/2020/11/13/lengthen/), 2. [Meat Hive](/2020/11/13/meat-hive/), 3. [Stone to Teeth](/2020/11/13/stone-to-teeth/), 4. [Unspeakeable Speech](/2020/11/13/unspeakable-speech/)
+- Roll 1D4, you gain the following spell: 1. [Absolute Reality](/2020/11/13/absolute-reality/), 2. [Flower War](/2020/11/13/flower-war/), 3. [Metaphorical Edge](/2020/11/13/metaphorical-edge/), 4. [Palace of Thorns](/2020/11/13/palace-of-thorns/)
 ###### *From The Lovely Dark's [Anti Mage](https://thelovelydark.blogspot.com/2019/02/the-anti-wizard.html)!*
 </details>
