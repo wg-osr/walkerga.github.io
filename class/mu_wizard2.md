@@ -388,7 +388,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>40.Nihilistic Thesaurus</b></summary> 
+<summary><b>40. Nihilistic Thesaurus</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style *know*. Extremely verbose. *
 - By closing your eyes, you can nullify as many of your senses as you wish.
 - Each time you study this book, choose an object in your inventory. Now think about the *idea* of that object. Transform that object into anything that would still match the *idea* of that object.
