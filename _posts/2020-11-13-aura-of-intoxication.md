@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell Physiurgy
+tags: spell physiurgy
 title: Aura of Intoxication
 ---
 R: 30'  D:  [dice] * 10 minutes
