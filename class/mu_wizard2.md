@@ -389,9 +389,18 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>40. Nihilistic Thesaurus</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style *know*. Extremely verbose. *
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style *know*. Extremely verbose.*
 - By closing your eyes, you can nullify as many of your senses as you wish.
 - Each time you study this book, choose an object in your inventory. Now think about the *idea* of that object. Transform that object into anything that would still match the *idea* of that object.
 - Roll 1D4, you gain the following spell: 1. [Absolute Reality](/2020/11/13/absolute-reality/), 2. [Flower War](/2020/11/13/flower-war/), 3. [Metaphorical Edge](/2020/11/13/metaphorical-edge/), 4. [Palace of Thorns](/2020/11/13/palace-of-thorns/)
 ###### *From The Lovely Dark's [Anti Mage](https://thelovelydark.blogspot.com/2019/02/the-anti-wizard.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>41. Eight-Legged Whispers</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Like a cocoon with 4 beady eyes that you unravel.*
+- You have a pet spider the size of your hand (0 HP).
+- Each time you study this book, you can either resurect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
+- Roll 1D4, you gain the following spell: 1. [Absolute Reality](/2020/11/13/absolute-reality/), 2. [Flower War](/2020/11/13/flower-war/), 3. [Metaphorical Edge](/2020/11/13/metaphorical-edge/), 4. [Palace of Thorns](/2020/11/13/palace-of-thorns/)
+###### *From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)!*
 </details>
