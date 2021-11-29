@@ -400,7 +400,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>41. Eight-Legged Whispers</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Like a cocoon with 4 beady eyes that you unravel.*
 - You have a pet spider the size of your hand (0 HP).
-- Each time you study this book, you can either resurect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
-- Roll 1D4, you gain the following spell: 1. [Absolute Reality](/2020/11/13/absolute-reality/), 2. [Flower War](/2020/11/13/flower-war/), 3. [Metaphorical Edge](/2020/11/13/metaphorical-edge/), 4. [Palace of Thorns](/2020/11/13/palace-of-thorns/)
+- Each time you study this book after the first time, you can either resurect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
+- Roll 1D4, you gain the following spell: 1. [Arachnophobia](/2020/11/13/arachnophobia/), 2. [Bubble Helmet](/2020/11/13/bubble-coat/), 3. [Pass Without Trace](/2020/11/13/pass-without-trace/), 4. [Venom Bullet](/2020/11/13/venom-bullet/)
 ###### *From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)!*
 </details>
