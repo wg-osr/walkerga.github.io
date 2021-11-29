@@ -419,6 +419,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Must have been white before, now deep burgundy. Doesn't make much sense.*
 - SD return to your pool on a roll of 1 to 4 when drunk, they dont when sober.
 - Each time you study this book, you brew six bottles of alcohol of your choice.
-- Roll 1D4, you gain the following spell: 1. [Call of the Baboon](/2020/11/12/call-of-the-animal/), 2. [Elevate Beast](/2020/11/13/elevate-beast/), 3. [Possess Pet](/2020/11/13/possess-pet/), 4. [Shadoom's Serpication](/2020/11/13/shadooms-serpication/)
+- Roll 1D4, you gain the following spell: 1. [Aura of Intoxication](/2020/11/13/aura-of-intoxication/), 2. [Explode Alcohol](/2020/11/13/explode-alcohol/), 3. [Summon Party](/2020/11/13/summon-party/), 4. [Water to Wine](/2020/11/13/water-to-wine/)
 ###### *From Meandering Banter's [Beeromancer](https://meanderingbanter.blogspot.com/2019/06/narcomancer-beeromancer.html)!*
 </details>
