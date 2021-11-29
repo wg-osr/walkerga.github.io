@@ -406,10 +406,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>42. The Mandrill Manual</b></summary> 
+<summary><b>42. Shadoom's Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Grinning teeth are drawn on the cover, an ass on the back. Screams when opened, but only you can hear it.*
 - You can speak with monkeys.
-- Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Except it's a baboon disguised as that person. It cant speak, but can climb and throw things.
-- Roll 1D4, you gain the following spell: 1. [Arachnophobia](/2020/11/13/arachnophobia/), 2. [Bubble Helmet](/2020/11/13/bubble-coat/), 3. [Pass Without Trace](/2020/11/13/pass-without-trace/), 4. [Venom Bullet](/2020/11/13/venom-bullet/)
+- Each time you study this book, gain two new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Except they are baboons disguised as the people your rolled person. They cant speak, but can climb and throw things. They count as 1 follower.
+- Roll 1D4, you gain the following spell: 1. [Call of the Baboon](/2020/11/12/call-of-the-animal/), 2. [Elevate Beast](/2020/11/13/elevate-beast/), 3. [Possess Pet](/2020/11/13/possess-pet/), 4. [Shadoom's Serpication](/2020/11/13/shadooms-serpication/)
 ###### *From Goblin Punch's [Baboonist](https://goblinpunch.blogspot.com/2019/07/new-wizard-baboonist.html)!*
 </details>
