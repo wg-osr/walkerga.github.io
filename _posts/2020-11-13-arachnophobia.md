@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell animorph
+tags: spell animorphosis
 title: Arachnophobia
 ---
 R: Sight  D: [dice] * 10 minutes
