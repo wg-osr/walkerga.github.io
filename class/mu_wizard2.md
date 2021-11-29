@@ -426,8 +426,17 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>44. The Black Book</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
-- If someone makes a bargain with you and breaks it, you instantly know about it. Your spells can target parasites and unborn children without targeting their hosts.
+- If someone makes a bargain with you and breaks it, you instantly know about it.
 - Each time you study this book, you can transform into your witch form for an extra hour. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head.
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Deam Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>45. Sacrifices to Itza</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavily engraved and painted greenstone tablets.*
+- You regenerate 1 HP every hour.
+- You can take as much damage as times you've studied this book when casting a spell and and add as much to its [sum], or alternatively crush a fresh heart for the same benefits.
+- Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Deam Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
+###### *From Unlawful Games's [Blood Wizard](https://unlawfulgames.blogspot.com/2019/08/glog-blood-aspirant.html)!*
 </details>
