@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell animorphosis
+tags: spell apotropaism
 title: Sacrifice to the Sun
 ---
 
