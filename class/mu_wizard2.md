@@ -424,10 +424,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>43. The Black Book</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs.*
+<summary><b>44. The Black Book</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
 - If someone makes a bargain with you and breaks it, you instantly know about it. Your spells can target parasites and unborn children without targeting their hosts.
 - Each time you study this book, you can transform into your witch form for an extra hour. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head.
-- Roll 1D4, you gain the following spell: 1. [Aura of Intoxication](/2020/11/13/aura-of-intoxication/), 2. [Explode Alcohol](/2020/11/13/explode-alcohol/), 3. [Summon Party](/2020/11/13/summon-party/), 4. [Water to Wine](/2020/11/13/water-to-wine/)
+- Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Deam Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
 </details>
