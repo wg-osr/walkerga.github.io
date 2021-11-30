@@ -479,9 +479,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>51. Culinary Wizardry</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The portrait of a joyous chef is engraved on the cover. This is the thrid edition.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The portrait of a joyous chef is engraved on the cover. This is the third edition.*
 - You can add flavours to things you touch.
 - Each time you study this book, choose an object. Provided you have cooking tools, you can make edible rations out of this object.
-- Roll 1D4, you gain the following spell: 1. [All Things Adjacent](/2020/11/13/all-things-adjacent/), 2. [Calculate Probability](/2020/11/13/calculate-probability/), 3. [Focus Light](/2020/11/13/focus-light/), 4. [Teleportation](/2020/11/13/teleportation/)
+- Roll 1D4, you gain the following spell: 1. [Animate Food](/2020/11/13/animate-food/), 2. [Chef's Intention](/2020/11/13/chefs-intention/), 3. [Grease](/2020/11/13/grease/), 4. [Make Delicious](/2020/11/13/make-delicious/)
 ###### *From Remixes and Revelations's [Culinary Wizard](http://www.remixesandrevelations.com/2019/08/osr-culinary-wizard-and-cibopath.html)!*
 </details>
