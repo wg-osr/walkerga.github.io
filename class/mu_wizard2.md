@@ -464,6 +464,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Irridescent. Fashion of the time that has found academic respect a decade later.*
 - You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every five minutes you do this to keep your audience engaged.
 - Each time you study this book, you can alter the flavour of one spell you know to anything you would like. It does not change the spell's mechanical effect, but when cast by you, you can alter the [sum] by 1 point.
-- Roll 1D4, you gain the following spell: 1. [Cat Senses](/2020/11/13/cat-senses/), 2. [Contortion](/2020/11/13/contortion/), 3. [Feline Reflexes](/2020/11/13/feline-reflexes/), 4. [Nine Lives](/2020/11/12/nine-lives/)
+- Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
 ###### *From A Blasted Cratered Land's [Chromatomancer](https://crateredland.blogspot.com/2019/09/chromatomancy-colors-of-magic.html)!*
 </details>
