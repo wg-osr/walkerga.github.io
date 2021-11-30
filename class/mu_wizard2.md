@@ -485,3 +485,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Animate Food](/2020/11/13/animate-food/), 2. [Chef's Intention](/2020/11/13/chefs-intention/), 3. [Grease](/2020/11/13/grease/), 4. [Make Delicious](/2020/11/13/make-delicious/)
 ###### *From Remixes and Revelations's [Culinary Wizard](http://www.remixesandrevelations.com/2019/08/osr-culinary-wizard-and-cibopath.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>52. Tome of the Curse-Eater</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The portrait of a joyous chef is engraved on the cover. This is the third edition.*
+- You can take 1 SD from an adjacent wizard’s pool and add it to your spell. They know you have done this. On a roll of 1 to 3, the MD returns to their pool (as normal). If the MD does not return, you can choose to either heal the wizard for 1D6 HP or inflict 1D6 magic damage.
+- Each time you study this book, you gain a incurable wound. When you do, choose a person. You take all their sins upon yourself and remove all curses from them.
+- Roll 1D4, you gain the following spell: 1. [Animate Food](/2020/11/13/animate-food/), 2. [Chef's Intention](/2020/11/13/chefs-intention/), 3. [Grease](/2020/11/13/grease/), 4. [Make Delicious](/2020/11/13/make-delicious/)
+###### *From Coins and Scrolls's [Curse-Eater Wizard](https://coinsandscrolls.blogspot.com/2019/10/osr-class-curse-eater-wizard.html)!*
+</details>
