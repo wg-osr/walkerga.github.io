@@ -12,4 +12,4 @@ Focus all the light in the air into a single point.
 - At all other times it does [dice] fire damage and the target must save or be dazed for a round.    
 
 ###### concentrate + light
-###### From Remixes and Revelations's [Cosmomancer](https://thelovelydark.blogspot.com/2019/02/the-anti-wizard.html)
+###### From Remixes and Revelations's [Cosmomancer](http://www.remixesandrevelations.com/2017/10/osr-cosmomancer-scholars-of-stars.html)
