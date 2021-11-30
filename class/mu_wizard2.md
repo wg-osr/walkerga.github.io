@@ -460,10 +460,19 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>49. Chromatica</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Irridescent. Fashion of the time that has found academic respect a decade later.*
+<summary><b>49. Manifesto of Radical Aesthetic</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Irridescent. Fashion of the time that will find academic respect two decades later.*
 - You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every five minutes you do this to keep your audience engaged.
 - Each time you study this book, you can alter the flavour of one spell you know to anything you would like. It does not change the spell's mechanical effect, but when cast by you, you can alter the [sum] by 1 point.
 - Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
 ###### *From A Blasted Cratered Land's [Chromatomancer](https://crateredland.blogspot.com/2019/09/chromatomancy-colors-of-magic.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>49. Cosmos Described</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Written in gold on dark blue pages. Always cold to the touch.*
+- You know astral morse code and can make a star seem to blink in the sky. Often used to communicate across continents. You can pilot spelljammers.
+- Each time you study this book, roll a [random astral landscape](/pages/fantasylandgenerator/) and note it. You can tinker any pre-existing portal to lead there for 10 minutes once.
+- Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
+###### *From Remixes and Revelations's [Cosmomancer](http://www.remixesandrevelations.com/2017/10/osr-cosmomancer-scholars-of-stars.html)!*
 </details>
