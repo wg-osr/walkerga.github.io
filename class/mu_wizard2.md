@@ -455,6 +455,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Small notebook. The original owner's name has been scratched.*
 - You take half damage from falling.
 - Each time you study this book, you gain a pet cat.
-- Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Edit Spell](/2020/11/13/edit-spell/), 3. [Enforce Trope](/2020/11/13/enforce-trope/), 4. [Silence](/2020/11/13/silence/)
+- Roll 1D4, you gain the following spell: 1. [Cat Senses](/2020/11/13/cat-senses/), 2. [Contortion](/2020/11/13/contortion/), 3. [Feline Reflexes](/2020/11/13/feline-reflexes/), 4. [Nine Lives](/2020/11/12/nine-lives/)
 ###### *From the Library of Attnam's [Cat Wizard](https://attnam.blogspot.com/2019/01/class-cat-wizard.html)!*
 </details>
