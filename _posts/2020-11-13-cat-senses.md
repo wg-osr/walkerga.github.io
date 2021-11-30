@@ -16,4 +16,4 @@ Pick [dice] of the following options:
 1. You gain wizard vision.
 
 ###### Cat + Sense
-###### by SaltyGoo
+###### From The Library of Attnam's [Cat Wizard](https://attnam.blogspot.com/2019/01/class-cat-wizard.html)
