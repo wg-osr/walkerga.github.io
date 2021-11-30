@@ -10,4 +10,4 @@ You are adjacent to all things within your line of sight. You can punch anything
 Obviously, casting this spell within sight of the sun is instantly fatal.
  
 ###### all + adjacent
-###### From Remixes and Revelations's [Cosmomancer](https://thelovelydark.blogspot.com/2019/02/the-anti-wizard.html)
+###### From Remixes and Revelations's [Cosmomancer](http://www.remixesandrevelations.com/2017/10/osr-cosmomancer-scholars-of-stars.html)
