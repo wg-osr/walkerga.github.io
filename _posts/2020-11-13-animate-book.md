@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell trick
+tags: spell tricks
 title: Animate Book
 ---
 R: Touch  D:  [dice] x 10 minutes
