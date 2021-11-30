@@ -500,6 +500,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Encrusted with barnacles. Pungent.*
 - You can write with your fingertip, producing ink as you write.
 - You can hold your breath an additional 10 minutes for each time you have studied this book.
-- Roll 1D4, you gain the following spell: 1. [Death Ward](/2020/11/13/death-ward/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Choke Flames](/2020/11/13/choke-flames/), 4. [Fingerbreaker](/2020/11/13/fingerbreaker/)
+- Roll 1D4, you gain the following spell: 1. [Bestow Octopus Aspect](/2020/11/12/bestow-aspect/), 2. [Draw Depth](/2020/11/13/draw-depth/), 3. [Inkspray](/2020/11/13/inkspray/), 4. [Tentacle Arm](/2020/11/13/tentacle-arm/)
 ###### *From the Library of Attnam's [Deep Mage](https://attnam.blogspot.com/2018/07/class-deep-mage.html)!*
 </details>
