@@ -424,10 +424,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>44. The Black Book</b></summary> 
+<summary><b>44. Yubaba's Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
 - If someone makes a bargain with you and breaks it, you instantly know about it.
-- Each time you study this book, you can transform into your witch form for an extra hour per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head.
+- Each time you study this book, you can transform into your witch form for an extra hour per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form.
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Deam Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
 </details>
@@ -438,5 +438,14 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - You regenerate 1 HP every hour.
 - You can take as much damage as times you've studied this book when casting a spell and and add as much to its [sum], or alternatively crush a fresh heart for the same benefits.
 - Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Swarm of Jaguars](/2020/11/13/swarm-of-jaguars/)
-###### *From Unlawful Games's [Blood Wizard](https://unlawfulgames.blogspot.com/2019/08/glog-blood-aspirant.html)!*
+###### *From Unlawful Games's [Blood Aspirant](https://unlawfulgames.blogspot.com/2019/08/glog-blood-aspirant.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>46. The Librarian's Index</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *As big as a tombstone. Cumbersome. Earmarked and dusty.*
+- You can use books as weapons (1D8).
+- Each time you study this book, choose a spell you or another wizard with you knows. You find a spell scroll of another random spell in the same [magic school](/list/spells). (ctrl+f is your friend!)
+- Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Swarm of Jaguars](/2020/11/13/swarm-of-jaguars/)
+###### *From A Blasted Cratered Land's [Book Wizard](https://crateredland.blogspot.com/2019/07/pay-your-late-fees-book-wizard.html)!*
 </details>
