@@ -509,6 +509,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Green book. Extremely heavy for everyone else, light as a feather for you.*
 - You can hover at a distance of an inch from solid ground. Your passing still produces obvious noise (creaking of wooden floorboards, etc.).
 - Every time you study this book, permanently change the weight of one object in your inventory as you want.
-- Roll 1D4, you gain the following spell: 1. [Bestow Octopus Aspect](/2020/11/12/bestow-aspect/), 2. [Draw Depth](/2020/11/13/draw-depth/), 3. [Inkspray](/2020/11/13/inkspray/), 4. [Tentacle Arm](/2020/11/13/tentacle-arm/)
+- Roll 1D4, you gain the following spell: 1. [Stone Skin](/2020/11/13/stone-skin/), 2. [Change Mass](/2020/11/13/change-mass/), 3. [Hollow Bones](/2020/11/13/hollow-bones/), 4. [Disconnection](/2020/11/13/disconnection/)
 ###### *From the Man with a Hammer's [Densomancer](https://themanwithahammer.blogspot.com/2019/12/glog-wizard-densomancer.html)!*
 </details>
