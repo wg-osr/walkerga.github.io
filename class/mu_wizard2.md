@@ -446,6 +446,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *As big as a tombstone. Cumbersome. Earmarked and dusty.*
 - You can use books as weapons (1D8).
 - Each time you study this book, choose a spell you or another wizard with you knows. You find a spell scroll of another random spell in the same [magic school](/list/spells). (ctrl+f is your friend!)
-- Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Swarm of Jaguars](/2020/11/13/swarm-of-jaguars/)
+- Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Edit Spell](/2020/11/13/edit-spell/), 3. [Enforce Trope](/2020/11/13/enforce-trope/), 4. [Silence](/2020/11/13/silence/)
 ###### *From A Blasted Cratered Land's [Book Wizard](https://crateredland.blogspot.com/2019/07/pay-your-late-fees-book-wizard.html)!*
 </details>
