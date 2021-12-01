@@ -587,6 +587,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *More of a survival guide than a spellbook. Heavy and moldy. Pompous.*
 - You can soil things with your touch.
 - Each time you study this book, you gain a bag of garbage. You may decide later what one useful item is in it.
-- Roll 1D4, you gain the following spell: 1. [Bargain](/2020/11/13/bargain/), 2. [Hellforge](/2020/11/13/hellforge/), 3. [Metal to Flame](/2020/11/13/metal-to-flame/), 4. [Summon Lemures](/2020/11/13/summon-lemures/)
+- Roll 1D4, you gain the following spell: 1. [Become Disgusting](/2020/11/13/become-disgusting/), 2. [Floating Disk](/2020/11/13/floating-disk/), 3. [Fly Swarm](/2020/11/13/fly-swarm/), 4. [Garbage Armor](/2020/11/13/garbage-armor/)
 ###### *From the Seven Deadly Dungeons's [Garbage Wizard](https://sevendeadlydungeons.blogspot.com/2019/03/glog-garbage-wizard.html)!*
 </details>
