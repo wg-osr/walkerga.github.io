@@ -596,6 +596,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Looks serious with its engraved leather cove. Is actually a collection of loose sheets.*
 - Create a shower of illusory sparks or a puff of illusory smoke from your hands.
 - Each time you study this book, roll a [random spell](/list/spells). You dont know it, but you can make an illusion of it and its consequences that lasts as many rounds as the number of time you studied this book.
-- Roll 1D4, you gain the following spell: 1. [Become Disgusting](/2020/11/13/become-disgusting/), 2. [Floating Disk](/2020/11/13/floating-disk/), 3. [Fly Swarm](/2020/11/13/fly-swarm/), 4. [Garbage Armor](/2020/11/13/garbage-armor/)
+- Roll 1D4, you gain the following spell: 1. [Colour Spray](/2020/11/13/colour-spray/), 2. [Disguise](/2020/11/13/disguise/), 3. [Illusion](/2020/11/13/illusion/), 4. [Mirror Image](/2020/11/13/mirror-image/)
 ###### *From Coins and Scrolls's [Illusionist](https://coinsandscrolls.blogspot.com/2017/03/osr-illusionist-wizards.html)!*
 </details>
