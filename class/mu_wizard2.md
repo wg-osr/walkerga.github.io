@@ -572,3 +572,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 <br>
 </details>
+
+<details markdown="1">
+<summary><b>59. Inventory of the Hellforge</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Made of soot-blackened iron and melted blades.*
+- You can recall thrown metal objects to your hand.
+- Each time you study this book, you craft a platinum object of your choice no bigger than a breastplate.
+- Roll 1D4, you gain the following spell: 1. [Cloak of Electricity](/2020/11/13/cloak-of-element/), 2. [Reanimate](/2020/11/13/reanimate/), 3. [Spark of Life](/2020/11/13/spark-of-life2/), 4. [Yakob's Ladder](/2020/11/13/yakobs-ladder/)
+###### *From Through the Spyglass's [Forge Wizard](http://journeyintotheweird.blogspot.com/2018/09/glog-class-forge-wizard.html)!*
+</details>
