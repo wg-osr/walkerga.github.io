@@ -512,3 +512,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Stone Skin](/2020/11/13/stone-skin/), 2. [Change Mass](/2020/11/13/change-mass/), 3. [Hollow Bones](/2020/11/13/hollow-bones/), 4. [Disconnection](/2020/11/13/disconnection/)
 ###### *From the Man with a Hammer's [Densomancer](https://themanwithahammer.blogspot.com/2019/12/glog-wizard-densomancer.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>55. A Hundread Truth About the Future</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden lidless eye in a pyramid is engraved in the white cover. The book decides which page it opens at.*
+- You can see spirits. This has multiple uses: invisible creatures are visible to you as faintly glowing outlines; angels, demons and ghosts are translucent but visible even when immaterial; enchanted items and possessed or cursed creatures have a faint aura around them; spellcasters, undead and magical beasts radiate magic. When you search a room or observe a scen, roll 1D6. On a roll of 1, you are frightened by a random ghost.
+- For each time you study this book, you can predict the weather once. To do so, simply tell the referee which weather will happen the next day.
+- Roll 1D4, you gain the following spell: 1. [Stone Skin](/2020/11/13/stone-skin/), 2. [Change Mass](/2020/11/13/change-mass/), 3. [Hollow Bones](/2020/11/13/hollow-bones/), 4. [Disconnection](/2020/11/13/disconnection/)
+###### *From the Library of Attnam's [Diviner](https://attnam.blogspot.com/2018/07/class-diviner-wizard.html)!*
+</details>
