@@ -539,3 +539,36 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Cloak of Electricity](/2020/11/13/cloak-of-element/), 2. [Reanimate](/2020/11/13/reanimate/), 3. [Spark of Life](/2020/11/13/spark-of-life2/), 4. [Yakob's Ladder](/2020/11/13/yakobs-ladder/)
 ###### *From Coins and Scrolls's [Electric Wizard](https://coinsandscrolls.blogspot.com/2020/04/osr-class-electric-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>58. One of the Eighteen Elemental Tomes</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Each has a dyed leather cover and pages made of the book's element.*
+- Roll what Element is the book about. You can shape it like clay.
+- Roll what Element is taboo. You cant cast spells when in contact with it.
+- Each time you study this book, you take 2 less damage from the book's element.
+- Roll 1D4, you gain the following spell relating to the book's element: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [Maleficence](https://saltygoo.github.io/2020/11/13/maleficence/)
+<details markdown="1">
+<summary><i>1D20 Elements</i></summary> 
+1. Wind / Oxygen / Sound
+2. Stone / Sand / Earth
+3. Flames / Sparks / Explosion
+4. Water / Rain / Bubbles
+5. Magma / Coal / Glass
+6. Ice / Snow / Cold
+7. Ooze / Plant / Mud
+8. Smoke / Gas / Heat
+9. Positive Energy / Blood / Mind
+10. Negative Energy / Darkness / Rot
+11. Light / Star / Radium
+12. Metal / Gem / Alloy
+13. Lightning / Magnetism / Static
+14. Steam / Cloud / Vapor
+15. Salt / Oil / Mercury
+16. Dust / Bone / Debris
+17. Ash / Sulfur / Soot
+18. Vacuum / Antigravity / Ether
+19. Roll twice, choose one.
+20. Roll twice: it's both at the same time.
+</details>
+<br>
+</details>
