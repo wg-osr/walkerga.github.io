@@ -532,10 +532,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>57. The Cylinder of Power</b></summary> 
+<summary><b>57. The Cylinder of Yakob</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A tube of copper with tiny engraved text on it.*
 - Your unarmed attacks and attacks made with a metallic weapon inflict an extra 1 point of electrical damage.
 - Each time you study this book, choose a tool or household item. You create an electrical version of it that can only be powered by you.
-- Roll 1D4, you gain the following spell: 1. [Amplify Resonnance](/2020/11/13/amplify-resonnance/), 2. [Dessicate](/2020/11/13/dessicate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
+- Roll 1D4, you gain the following spell: 1. [Cloak of Electricity](/2020/11/13/cloak-of-element/), 2. [Reanimate](/2020/11/13/reanimate/), 3. [Spark of Life](/2020/11/13/spark-of-life2/), 4. [Yakob's Ladder](/2020/11/13/yakobs-ladder/)
 ###### *From Coins and Scrolls's [Electric Wizard](https://coinsandscrolls.blogspot.com/2020/04/osr-class-electric-wizard.html)!*
 </details>
