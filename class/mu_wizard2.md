@@ -604,8 +604,16 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>62. Magical Industrial Revolution</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Machine printed, perfect bound.*
 - You are the (co)owner of a factory somewhere of your choice. You have debts twice as big as its value.
-- Each time you study this book, mass produce an item in your inventory (gain 1D20 copies). It the item is magical, the effects are made barely useful.
+- Each time you study this book, mass produce an item in your inventory (gain 1D20 copies). If the item is magical, the effects are made barely useful.
 - Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
 ###### *From Coins and Scrolls's [Magical Industrial Revolution](https://coinsandscrolls.blogspot.com/2019/10/osr-magical-industrial-revolution.html) and Princesses & Pioneers [Industrial Wizard](https://princesses-and-pioneers.tumblr.com/post/612236592227270656/industrial-wizard-updated)!*
 </details>
 
+<details markdown="1">
+<summary><b>63. Screams of Malachi Draas</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Weighted with lead. Expressively written in black brush strokes.*
+- Your voice is always the loudest sound in your vincinity.
+- Each time you study this book, choose a sonic or visual effect. You can trigger this effect when you enter a room.
+- Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
+###### *From A Distant Chime's [Malachite](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
+</details>
