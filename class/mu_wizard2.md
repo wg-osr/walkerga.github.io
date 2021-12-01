@@ -614,6 +614,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Weighted with lead. Expressively written in black brush strokes.*
 - Your voice is always the loudest sound in your vincinity.
 - Each time you study this book, choose a sonic or visual effect. You can trigger this effect when you enter a room.
-- Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
+- Roll 1D4, you gain the following spell: 1. [Chastizing Tremor](/2020/11/13/chastising-tremor/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Thunderous Wave](/2020/11/13/thunderous-wave/), 4. [Unerring Seeker](/2020/11/13/unering-seeker/)
 ###### *From A Distant Chime's [Malachite](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
 </details>
