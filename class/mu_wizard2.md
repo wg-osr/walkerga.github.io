@@ -617,3 +617,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Chastizing Tremor](/2020/11/13/chastising-tremor/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Thunderous Wave](/2020/11/13/thunderous-wave/), 4. [Unerring Seeker](/2020/11/13/unering-seeker/)
 ###### *From A Distant Chime's [Malachite](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>64. Instructions from the Company</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Discreet, pocket sized, old and without an author.*
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Daggers". You can use this skill instead of your dexterity when dodging melee attacks.
+- Each time you study this book, you receive an anonymous instruction to meet a specific person during your next adventure. Roll 1D6: 1-3 You must plant an incriminating object on them and ensure their survival; 4-5, you must talk to them and identify yourself as an agent; 6; you must kill them and make it look like an accident. You cannot reveal your instructions to anybody. If you fail, you will be chased by assassins on each adventure, if you succeed, you will receive a magical gadget of your choice.
+- Roll 1D4, you gain the following spell: 1. [Chastizing Tremor](/2020/11/13/chastising-tremor/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Thunderous Wave](/2020/11/13/thunderous-wave/), 4. [Unerring Seeker](/2020/11/13/unering-seeker/)
+###### *From Numbers Aren't Real's [Metatron](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
+</details>
