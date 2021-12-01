@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell cunning
+tags: spell spiritualism
 title: Colour Spray
 ---
 D: 1D6 rounds
