@@ -626,3 +626,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 2. [Implant Idea](/2020/11/13/implant-idea/), 3. [Kill Idea](/2020/11/13/kill-idea/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
 ###### *From Numbers Aren't Real's [Metatron](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>65. Manual of Mind and Body</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Seven rolls of scrolls on a golden rod. Must be dramatically unraveled.*
+- Your unarmed strikes inflicts 1D4 damage.
+- Each time you study this book, you can make one extra unarmed strike or combat maneuver when you do an unarmed strike or a combat maneuver as your combat action.
+- Roll 1D4, you gain the following spell: 1. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 2. [Implant Idea](/2020/11/13/implant-idea/), 3. [Kill Idea](/2020/11/13/kill-idea/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
+###### *From Remixes and Revelations's [Monk](http://www.remixesandrevelations.com/2019/01/osr-monk.html)!*
+</details>
