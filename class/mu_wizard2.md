@@ -517,7 +517,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>55. A Hundread Truths</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden lidless eye in a pyramid is engraved in the white cover. The book decides which page it opens at.*
 - You can see spirits. This has multiple uses: invisible creatures are visible to you as faintly glowing outlines; angels, demons and ghosts are translucent but visible even when immaterial; enchanted items and possessed or cursed creatures have a faint aura around them; spellcasters, undead and magical beasts radiate magic. When you search a room or observe a scen, roll 1D6. On a roll of 1, you are frightened by a random ghost.
-- For each time you study this book, you can predict the weather once. To do so, simply tell the referee which weather will happen the next day.
+- For each time you studied this book, you can predict the weather once. To do so, simply tell the referee which weather will happen the next day.
 - Roll 1D4, you gain the following spell: 1. [Arcane Mark](/2020/11/13/arcane-mark/), 2. [Dream](/2020/11/13/dream/), 3. [Object Reading](/2020/11/13/object-reading/), 4. [Vision of Death](/2020/11/13/vision-of-death/)
 ###### *From the Library of Attnam's [Diviner](https://attnam.blogspot.com/2018/07/class-diviner-wizard.html)!*
 </details>
@@ -526,7 +526,16 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>56. Book of Old Anostos</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Must have been beautiful before the city was swallowed by the sea. Now faded.*
 - You lose all your SDs if you touch water and you sink. However, once you are out of SD, you can vomit one random barnacle-encrusted [object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
-- For each time you study this book, you discover a secret society of survivors of Anostos in city of your choice. You choose their expertise.
+- For each time you studied this book, you discover a secret society of survivors of Anostos in city of your choice. You choose their expertise.
 - Roll 1D4, you gain the following spell: 1. [Amplify Resonnance](/2020/11/13/amplify-resonnance/), 2. [Dessicate](/2020/11/13/dessicate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *From Coins and Scrolls's [Drowned Wizard](https://coinsandscrolls.blogspot.com/2017/06/osr-drowned-wizards.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>57. The Cylinder of Power</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A tube of copper with tiny engraved text on it.*
+- Your unarmed attacks and attacks made with a metallic weapon inflict an extra 1 point of electrical damage.
+- Each time you study this book, choose a tool or household item. You create an electrical version of it that can only be powered by you.
+- Roll 1D4, you gain the following spell: 1. [Amplify Resonnance](/2020/11/13/amplify-resonnance/), 2. [Dessicate](/2020/11/13/dessicate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
+###### *From Coins and Scrolls's [Electric Wizard](https://coinsandscrolls.blogspot.com/2020/04/osr-class-electric-wizard.html)!*
 </details>
