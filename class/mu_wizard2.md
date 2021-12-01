@@ -599,3 +599,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Colour Spray](/2020/11/13/colour-spray/), 2. [Disguise](/2020/11/13/disguise/), 3. [Illusion](/2020/11/13/illusion/), 4. [Mirror Image](/2020/11/13/mirror-image/)
 ###### *From Coins and Scrolls's [Illusionist](https://coinsandscrolls.blogspot.com/2017/03/osr-illusionist-wizards.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>62. Magical Industrial Revolution</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Machine printed, perfect bound.*
+- You are the (co)owner of a factory somewhere of your choice. You have debts twice as big as its value.
+- Each time you study this book, mass produce an item in your inventory (gain 1D20 copies). It the item is magical, the effects are made barely useful.
+- Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
+###### *From Coins and Scrolls's [Magical Industrial Revolution](https://coinsandscrolls.blogspot.com/2019/10/osr-magical-industrial-revolution.html) and Princesses & Pioneers [Industrial Wizard](https://princesses-and-pioneers.tumblr.com/post/612236592227270656/industrial-wizard-updated)!*
+</details>
+
