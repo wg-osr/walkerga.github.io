@@ -671,3 +671,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Dread Manifestation](/2020/11/13/dread-manifestation/), 2. [Occult Consultation](/2020/11/13/occult-consultation/), 3. [Skull Bomb](/2020/11/13/skull-bomb/), 4. [Skull Ghost](/2020/11/13/skull-ghost/)
 ###### *From Unlawful Games's [Skull Wizard](http://unlawfulgames.blogspot.com/2018/07/osr-skull-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>70. Teachings of the Snake</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Preserved in a giant snake's molt. Turquoise mosaic cover.*
+- You can crawl as fast as you can run without using your arms.
+- Each time you study this book, you can molt your skin. Remove all wounds and scars you dont want.
+- Roll 1D4, you gain the following spell: 1. [Bestow Snake Aspect](/2020/11/12/bestow-aspect/), 2. [Shuffle the Mortal Coils](/2020/11/13/shuffle-the-mortal-coils/), 3. [The Snake Allure](/2020/11/12/animal-allure/), 4. [Venomous Fangs](/2020/11/12/venomous-fangs/)
+###### *From Unlawful Games's [Snake Wizard](http://unlawfulgames.blogspot.com/2018/05/osr-snake-wizard.html)!*
+</details>
