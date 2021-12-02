@@ -680,3 +680,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Bestow Snake Aspect](/2020/11/12/bestow-aspect/), 2. [Shuffle the Mortal Coils](/2020/11/13/shuffle-the-mortal-coils/), 3. [The Snake Allure](/2020/11/12/animal-allure/), 4. [Venomous Fangs](/2020/11/12/venomous-fangs/)
 ###### *From Unlawful Games's [Snake Wizard](http://unlawfulgames.blogspot.com/2018/05/osr-snake-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>71. Veins of the Earth</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pages of fungi fibers, cover of weaved calcifications.*
+- You dont have a shadow nor a smell. You can touch stone to mark it with your sigil.
+- Each time you study this book, you can see in the dark an extra 10'.
+- Roll 1D4, you gain the following spell: 1. [Bestow Snake Aspect](/2020/11/12/bestow-aspect/), 2. [Shuffle the Mortal Coils](/2020/11/13/shuffle-the-mortal-coils/), 3. [The Snake Allure](/2020/11/12/animal-allure/), 4. [Venomous Fangs](/2020/11/12/venomous-fangs/)
+###### *From Coins and Scrolls's [Speleomage](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html) and [Veins of the Earth](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth)!*
+</details>
