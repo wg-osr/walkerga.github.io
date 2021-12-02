@@ -636,12 +636,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Remixes and Revelations's [Monk](http://www.remixesandrevelations.com/2019/01/osr-monk.html)!*
 </details>
 
-
 <details markdown="1">
 <summary><b>66. Tome of Grief</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black velvet bound by two human teeth tied on a rope.*
 - When you attract a follower, it a Ghoul on top of its other characteristics.
 - Each time you study this book, you make a magical candle with a hair or nail from somebody. The candle burns until this person dies. You can target this person with your spells through the candle.
-- Roll 1D4, you gain the following spell: 1. [Empty Palm](/2020/11/13/empty-palm/), 2. [Step of the Wind](/2020/11/13/step-of-the-wind/), 3. [Stunning Palm](/2020/11/13/stunning-palm/), 4. [Deflection](/2020/11/13/deflection/)
+- Roll 1D4, you gain the following spell: 1. [Danse Macabre](/2020/11/13/danse-macabre/), 2. [Ectoplasmogenesis](/2020/11/13/ectoplasmogenesis/), 3. [Wail of Grief](/2020/11/13/wail-of-grief/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 ###### *From Archons March On's [Necromancer](https://archonsmarchon.blogspot.com/2021/06/glog-class-necromancer-wizard.html)!*
 </details>
