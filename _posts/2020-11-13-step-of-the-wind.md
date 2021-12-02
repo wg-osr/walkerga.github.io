@@ -2,8 +2,7 @@
 layout: post
 tags: spell elementalism
 title: Step of the Wind
-
---- 
+---
 
 You move up to 60' as a free action. Your movement is so fast it appears instantaneous.
 
