@@ -686,6 +686,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pages of fungi fibers, cover of weaved calcifications.*
 - You dont have a shadow nor a smell. You can touch stone to mark it with your sigil.
 - Each time you study this book, you can see in the dark an extra 10'.
-- Roll 1D4, you gain the following spell: 1. [Bestow Snake Aspect](/2020/11/12/bestow-aspect/), 2. [Shuffle the Mortal Coils](/2020/11/13/shuffle-the-mortal-coils/), 3. [The Snake Allure](/2020/11/12/animal-allure/), 4. [Venomous Fangs](/2020/11/12/venomous-fangs/)
+- Roll 1D4, you gain the following spell: 1. [Blood to Rope](/2020/11/13/blood-to-rope/), 2. [Calcite Gap](/2020/11/13/calcite-gap/), 3. [Matchstick Men](/2020/11/13/matchstick-men/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/)
 ###### *From Coins and Scrolls's [Speleomage](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html) and [Veins of the Earth](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth)!*
 </details>
