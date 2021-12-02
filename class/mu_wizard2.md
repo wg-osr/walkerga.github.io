@@ -663,12 +663,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From the Library of Attman's [Shadow Wizard](https://attnam.blogspot.com/2018/10/class-shadow-wizard.html)!*
 </details>
 
-
 <details markdown="1">
-<summary><b>69. The Four Skulls of Ri-Ma</b></summary> 
+<summary><b>69. The Four Skulls</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Four skulls merged in one covered in writing and symbols.*
 - The meek are scared of you.
 - Each time you study this book, you can mark a skull with your sigil. You can speak through that skull.
-- Roll 1D4, you gain the following spell: 1. [Dread Manifestation](/2020/11/13/dread-manifestation/), 2. [Occult Consultation](/2020/11/13/occult-consultation/), 3. [Umbramorphosis](/2020/11/13/elementamorphosis/), 4. [Shadow Betrayal](/2020/11/13/shadow-betrayal/)
+- Roll 1D4, you gain the following spell: 1. [Dread Manifestation](/2020/11/13/dread-manifestation/), 2. [Occult Consultation](/2020/11/13/occult-consultation/), 3. [Skull Bomb](/2020/11/13/skull-bomb/), 4. [Skull Ghost](/2020/11/13/skull-ghost/)
 ###### *From Unlawful Games's [Skull Wizard](http://unlawfulgames.blogspot.com/2018/07/osr-skull-wizard.html)!*
 </details>
