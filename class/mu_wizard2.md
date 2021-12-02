@@ -689,3 +689,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Blood to Rope](/2020/11/13/blood-to-rope/), 2. [Calcite Gap](/2020/11/13/calcite-gap/), 3. [Matchstick Men](/2020/11/13/matchstick-men/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/)
 ###### *From Coins and Scrolls's [Speleomage](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html) and [Veins of the Earth](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth)!*
 </details>
+
+<details markdown="1">
+<summary><b>72. The Prince of Hounds</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Epic revolutionary allegory. The book itself is filled with marginalia of dogs eating wizards.*
+- You can free spells from the opression of wizards! When you physically destroy a scroll, tome, or other spell container, you release all the spells trapped inside. You may recruit any number of them immediately. <br> A freed spell has 1 HD and 1 SD and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When it is freed, you decide if it will be able to breathe under water, fly, or use objects.
+- Each time you study this book, all freed spells in your entourage gain +2 HP.
+###### *From Spiceomancy's [Spell-Blooded Prince](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html))!*
+</details>
