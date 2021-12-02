@@ -650,6 +650,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Small red velvet book stained with wax.*
 - You can fold any paper into tiny origami animals. These animals will animate for 10 minutes and behave as the animal in question would. They cannot deal any damage and are as durable as would be expected from origami.
 - From each time you studied this book, you can request an audience with the queen or one of her representative, whoever that is. You must be masked in her presence.
-- Roll 1D4, you gain the following spell: 1. [Danse Macabre](/2020/11/13/danse-macabre/), 2. [Ectoplasmogenesis](/2020/11/13/ectoplasmogenesis/), 3. [Wail of Grief](/2020/11/13/wail-of-grief/), 4. [Watching Heads](/2020/11/13/watching-heads/)
+- Roll 1D4, you gain the following spell: 1. [Candlemass](/2020/11/13/candlemass/), 2. [Loyal Steel](/2020/11/13/loyal-steel/), 3. [Death Mask](/2020/11/13/death-mask/), 4. [Shadow Betrayal](/2020/11/13/shadow-betrayal/)
 ###### *From the Library of Attman's [Queensmage](https://attnam.blogspot.com/2018/07/class-queensman-wizard.html)!*
 </details>
