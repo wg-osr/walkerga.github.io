@@ -653,3 +653,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Candlemass](/2020/11/13/candlemass/), 2. [Loyal Steel](/2020/11/13/loyal-steel/), 3. [Death Mask](/2020/11/13/death-mask/), 4. [Shadow Betrayal](/2020/11/13/shadow-betrayal/)
 ###### *From the Library of Attman's [Queensmage](https://attnam.blogspot.com/2018/07/class-queensman-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>68. Book of Vile Darkness</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Wrapped in strips of black linen. The inside is in braille.*
+- Candles and torches are snuffed when near you.
+- With concentration, you can move your shadow independently from you as many times per day as you have studied this book. It still cannot leave you. It's actions have real consequences.
+- Roll 1D4, you gain the following spell: 1. [Candlemass](/2020/11/13/candlemass/), 2. [Loyal Steel](/2020/11/13/loyal-steel/), 3. [Umbramorphosis](/2020/11/13/elementamorphosis/), 4. [Shadow Betrayal](/2020/11/13/shadow-betrayal/)
+###### *From the Library of Attman's [Shadow Wizard](https://attnam.blogspot.com/2018/10/class-shadow-wizard.html)!*
+</details>
