@@ -697,3 +697,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Each time you study this book, all freed spells in your entourage gain +2 HP.
 ###### *From Spiceomancy's [Spell-Blooded Prince](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html))!*
 </details>
+
+<details markdown="1">
+<summary><b>73. Tales of the Spell Thief</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentionned in hushed tones by wizards. This is a translation.*
+- You can steal spells by being hit by them. When you suffer some effect from an ability, roll intelligence. If you succeed (and don’t die), you copy the ability or spell in your brain.
+- For each time you have studied this book, you can eat the heart or essence of a creature and gain one of its passive features. These features count as spells.
+###### *From Type 1 Ninja's [Spell-Thief](https://github.com/valzi/GLOG-classes/wiki/Caster_Spellthief-Type1Ninja))!*
+</details>
