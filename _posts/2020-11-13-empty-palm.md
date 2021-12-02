@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: spell apotropaism
-title: Empty Palm
---- 
+title: Empty Palm 
+---
 
 R: 30'    D: [dice] rounds
 
