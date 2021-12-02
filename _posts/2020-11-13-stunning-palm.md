@@ -2,7 +2,7 @@
 layout: post
 tags: spell physiury
 title: Stunning Palm
---- 
+---
 
 R: Touch    D: [dice] rounds
 
