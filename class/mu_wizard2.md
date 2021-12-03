@@ -738,6 +738,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Olive and brown. Starched. Military in design.*
 - You can highlight a creature you can see so it cannot hide.
 - If you have tarot cards, you can spend 10 minutes to do cartomancy. Roll as many D4s as the number of times you have studied this book. You can ask as many questions as the highest number rolled and the referee will anwser yes or no.
-- Roll 1D4, you gain the following spell: 1. [Glasswarp](/2020/11/13/glasswarp/), 2. [Quickening](/2020/11/13/quickening/), 3. [Hekaphage](/2020/11/13/hekaphage/), 4. [Stormspeech](/2020/11/13/stormspeech/)
+- Roll 1D4, you gain the following spell: 1. [Alchemical Element](/2020/11/13/alchemical-elementalism/), 2. [Quickening](/2020/11/13/quickening/), 3. [Hekaphage](/2020/11/13/hekaphage/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
