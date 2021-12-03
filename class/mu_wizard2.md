@@ -729,6 +729,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Published by Potion Laboratory Guild of Endon.*
 - You can instantly bring a pot of water to a boil.
 - Each time you study this book, choose a substence or element. You can safely handle and store that substence.
-- Roll 1D4, you gain the following spell: 1. [Blink](/2020/11/13/blink/), 2. [Project Self](/2020/11/13/project-self/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
+- Roll 1D4, you gain the following spell: 1. [Glasswarp](/2020/11/13/glasswarp/), 2. [Restore](/2020/11/13/restore/), 3. [Transmit Breath](/2020/11/13/transmit-breath/), 4. [Vacuum](/2020/11/13/vacuum/)
 ###### *From Oblidisideryptch's [Toxinist](https://oblidisideryptch.blogspot.com/2018/06/5eglog-wizard-school-toxinist.html)!*
 </details>
