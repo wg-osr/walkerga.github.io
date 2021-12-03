@@ -778,4 +778,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>82. Industrial Alchemy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Entirely red to conceal blood stains. Soaked.*
+- You can tell the weakest point in a structure or an object.
+- Each time you study this book, name a handheld tool of your choice. Your hand can function as this tool.
+- Roll 1D4, you gain the following spell: 1. [Cure](/2020/11/13/cure/), 2. [Grow Organ](/2020/11/13/grow-organ/), 3. [Ravening](/2020/11/13/ravening/), 4. [Genoplasm](/2020/11/13/genoplasm/)
+###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
+</details>
 
