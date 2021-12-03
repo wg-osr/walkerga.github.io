@@ -804,3 +804,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Hibernation](/2020/11/13/hibernation/), 2. [Cloak of Ice](/2020/11/13/cloak-of-element/), 3. [Simulacrum](/2020/11/13/simulacrum/), 4. [Wall of Ice](/2020/11/13/wall-of-ice/)
 ###### *Library of Attnam's [Winter Witch](https://attnam.blogspot.com/2018/07/class-winter-witch.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>85. Tome of the Red Hand</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The imprint of a bloody hand marks an otherwise featureless cover.*
+- You can see through the eyes of any creature you touch.
+- For each time you studied this book, you can make someone drink your blood. You can cast spells through them as long as they are in the same hex.
+- Roll 1D4, you gain the following spell: 1. [Hibernation](/2020/11/13/hibernation/), 2. [Cloak of Ice](/2020/11/13/cloak-of-element/), 3. [Simulacrum](/2020/11/13/simulacrum/), 4. [Wall of Ice](/2020/11/13/wall-of-ice/)
+###### *Library of Attnam's [Wizard of the Red Hand](https://attnam.blogspot.com/2018/08/class-wizard-of-right-hand.html)!*
+</details>
