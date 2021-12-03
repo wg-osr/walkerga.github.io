@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell Elementalism
+tags: spell elementalism
 title: Cut the Wind
 ---
 D:  10 minutes
