@@ -787,3 +787,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>83. The Cunning Crafts</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A collection of writings by many women. Copiously illiustrated.*
+- You can spend five minutes to create a shamble, which allows you to detect if magic has been worked nearby. It will only tell you yes / no and relative strength.
+- Each time you study this book, roll a D6. That many women that are neither noble or clergy in the area owe you a favour for you have given them contraceptive, proconceptive, or contramenstrual help.
+- Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Circle of Protection](/2020/11/12/circle-of-protection/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
+###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
+</details>
