@@ -707,10 +707,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>75. Fechtbuch of Attnam</b></summary> 
+<summary><b>74. Fechtbuch of Attnam</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *There is no text in this book, only illustrations.*
 - You can burn SDs as you attack to add their [sum] to your attack roll.
 - Each time you study this book, you become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in a weapon of your choice.
-- Roll 1D4, you gain the following spell: 1. [Blood to Rope](/2020/11/13/blood-to-rope/), 2. [Calcite Gap](/2020/11/13/calcite-gap/), 3. [Matchstick Men](/2020/11/13/matchstick-men/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/)
+- Roll 1D4, you gain the following spell: 1. [Caloric Burn](/2020/11/13/caloric-burn/), 2. [Blade of Grass](/2020/11/13/blade-of-grass/), 3. [Cut the Wind](/2020/11/13/cut-the-wind/), 4. [Principle of Cutting](/2020/11/13/principle-of-cutting/)
 ###### *From the Library of Attnam's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html)!*
 </details>
