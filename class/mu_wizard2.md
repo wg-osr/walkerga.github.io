@@ -774,6 +774,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Entirely red to conceal blood stains. Soaked.*
 - Touch a piece of rotting organic matter. It will not decay for the next 24 hours.
 - For each time you studied this book, you can add or replace one internal organ of a willing or helpless creature with one you have preserved.
-- Roll 1D4, you gain the following spell: 1. [Animate Object](/2020/11/13/animate-object/), 2. [Dream](/2020/11/13/dream/), 3. [Illusion](/2020/11/13/illusion/), 4. [Surreal Form](/2020/11/13/surreal-form/)
+- Roll 1D4, you gain the following spell: 1. [Cure](/2020/11/13/cure/), 2. [Grow Organ](/2020/11/13/grow-organ/), 3. [Ravening](/2020/11/13/ravening/), 4. [Genoplasm](/2020/11/13/genoplasm/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
+
+
