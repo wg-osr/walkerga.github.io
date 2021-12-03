@@ -756,7 +756,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Violet. Ornamented with spikes and bones.*
 - You can see the cause of death of a body at a glance.
 - Each time you study this book, choose a number. When somebody near you rolls this number on a dice, they must roll again and choose the next result (even if its the same).
-- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/123/karmic-retribution/), 2. [Devour Light](/2020/11/13/devour-light/), 3. [Dominate](/2020/11/13/dominate/), 4. [Lichcraft](/2020/11/13/lichcraft/)
+- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Devour Light](/2020/11/13/devour-light/), 3. [Dominate](/2020/11/13/dominate/), 4. [Lichcraft](/2020/11/13/lichcraft/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
 
@@ -765,6 +765,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cyan and orange, covered in personalized shifting illusory patterns.*
 - You can induce an emotion at a touch, of magnitude similar to a dramatic play or a moving speech, for as long as you concentrate.
 - For each time you studied this book, you can create a floating candle light of the colour of your choice. Each can move 30' away from you.
-- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/123/karmic-retribution/), 2. [Dream](/2020/11/13/dream/), 3. [Illusion](/2020/11/13/illusion/), 4. [Surreal Form](/2020/11/13/surreal-form/)
+- Roll 1D4, you gain the following spell: 1. [Animate Object](/2020/11/13/animate-object/), 2. [Dream](/2020/11/13/dream/), 3. [Illusion](/2020/11/13/illusion/), 4. [Surreal Form](/2020/11/13/surreal-form/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
