@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell Cunning
+tags: spell cunning
 title: Blade of Grass
 ---
 R: Touch  D:  1 hour
