@@ -744,9 +744,18 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>78. Extraplanar Affairs</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Olive and brown. Starched. Military in design.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gold and navy. Embelished and flamboyant.*
 - You can trace glowing chalk lines with your finger.
 - Each time you study this book, you produce a cosmcally binding contract of your design.
 - Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Conjure](/2020/11/12/conjure/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Portal](/2020/11/13/portal/)
+###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>79. Dark Artes</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Violet. Ornamented with spikes and bones.*
+- You can see the cause of death of a body at a glance.
+- Each time you study this book, choose a number. When somebody near you rolls this number on a dice, they must roll again and choose the next result (even if its the same).
+- Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/123/karmic-retribution/), 2. [Devour Light](/2020/11/13/devour-light/), 3. [Dominate](/2020/11/13/dominate/), 4. [Lichcraft](/2020/11/133/lichcraft/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
