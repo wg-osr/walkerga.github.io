@@ -795,3 +795,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Folk Tongue](/2020/11/13/folk-tongue/), 2. [Circle of Protection](/2020/11/12/circle-of-protection/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
 ###### *From Throne of Salt's [Witch](http://throneofsalt.blogspot.com/2018/02/class-witch.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>84. The Fable of the Winter Witch</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The cover is made of never melting ice. A thin mist clouds it.*
+- You are immune to cold weather, exposure and hypothermia. You do not sink in snow or break ice as you walk.
+- Each time you study this book, you can create a mundane object of your choice out of never-melting ice.
+- Roll 1D4, you gain the following spell: 1. [Maleficence](/2020/11/13/maleficence/), 2. [Cloak of Ice](/2020/11/13/cloak-of-element/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
+###### *Library of Attnam's [Winter Witch](https://attnam.blogspot.com/2018/07/class-winter-witch.html)!*
+</details>
