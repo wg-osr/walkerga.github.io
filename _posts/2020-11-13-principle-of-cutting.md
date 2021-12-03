@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell Apotropaism
+tags: spell apotropaism
 title: Principle of Cutting
 ---
 R: Touch  D:  10 minutes
