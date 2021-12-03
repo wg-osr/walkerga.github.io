@@ -768,3 +768,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Animate Object](/2020/11/13/animate-object/), 2. [Dream](/2020/11/13/dream/), 3. [Illusion](/2020/11/13/illusion/), 4. [Surreal Form](/2020/11/13/surreal-form/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>81. Manual of Viscerology</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Entirely red to conceal blood stains. Soaked.*
+- Touch a piece of rotting organic matter. It will not decay for the next 24 hours.
+- For each time you studied this book, you can add or replace one internal organ of a willing or helpless creature with one you have preserved.
+- Roll 1D4, you gain the following spell: 1. [Animate Object](/2020/11/13/animate-object/), 2. [Dream](/2020/11/13/dream/), 3. [Illusion](/2020/11/13/illusion/), 4. [Surreal Form](/2020/11/13/surreal-form/)
+###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
+</details>
