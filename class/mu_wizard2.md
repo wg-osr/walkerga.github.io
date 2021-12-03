@@ -741,3 +741,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Alchemical Element](/2020/11/13/alchemical-elementalism/), 2. [Quickening](/2020/11/13/quickening/), 3. [Hekaphage](/2020/11/13/hekaphage/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>78. Extraplanar Affairs</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Olive and brown. Starched. Military in design.*
+- You can trace glowing chalk lines with your finger.
+- Each time you study this book, you produce a cosmcally binding contract of your design.
+- Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Conjure](/2020/11/12/conjure/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Portal](/2020/11/13/portal/)
+###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
+</details>
