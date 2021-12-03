@@ -714,3 +714,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Caloric Burn](/2020/11/13/caloric-burn/), 2. [Blade of Grass](/2020/11/13/blade-of-grass/), 3. [Cut the Wind](/2020/11/13/cut-the-wind/), 4. [Principle of Cutting](/2020/11/13/principle-of-cutting/)
 ###### *From the Library of Attnam's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>75. Lisamarie's Note On Transportation</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover and pages are pink. Extremely complex calculations.*
+- You can cast spells silently by spending, but it takes an extra round.
+- By focusing 10 minutes, you can teleport 1 foot for each time you've studied this book.
+- Roll 1D4, you gain the following spell: 1. [All Things Adjacent](/2020/11/13/all-things-adjacent/), 2. [Blade of Grass](/2020/11/13/blade-of-grass/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
+###### *From Princess a Pioneers's [Telemage](https://princesses-and-pioneers.tumblr.com/post/183711068718/telemancer)!*
+</details>
