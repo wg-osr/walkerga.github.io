@@ -720,6 +720,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover and pages are pink. Extremely complex calculations.*
 - You can cast spells silently by spending, but it takes an extra round.
 - By focusing 10 minutes, you can teleport 1 foot for each time you've studied this book.
-- Roll 1D4, you gain the following spell: 1. [All Things Adjacent](/2020/11/13/all-things-adjacent/), 2. [Blade of Grass](/2020/11/13/blade-of-grass/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
+- Roll 1D4, you gain the following spell: 1. [Blink](/2020/11/13/blink/), 2. [Project Self](/2020/11/13/project-self/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
 ###### *From Princess a Pioneers's [Telemage](https://princesses-and-pioneers.tumblr.com/post/183711068718/telemancer)!*
 </details>
