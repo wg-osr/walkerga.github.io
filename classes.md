@@ -17,17 +17,15 @@ The [Fighter](/class/fighter)
   - The [Two-Headed Giant](/class/fighter/ettin)
 </details>
 
-The [Magic User](/class/magic-user)
+The [Wizard](/class/wizard)
 <details markdown="1">
-  <summary>Magic User Subclasses</summary>
-  - **Spellcasting Schools**
-  - [Wizard](/class/magic-user/wizard)
-  - [Diabolist](/class/magic-user/diabolist)
-  - [Necromancer](/class/magic-user/necromancer)
-  - **Other Magic Users**
+<summary>Magic User Subclasses</summary>
+  - **[Magic User](/class/magic-user) Schools**
   - The [Cambion](/class/magic-user/tiefling)
+  - The [Diabolist](/class/magic-user/diabolist)
   - The [Elf](/class/magic-user/elf)
   - The [Goat](/class/magic-user/goat)
+  - The [Necromancer](/class/magic-user/necromancer)
   - The [Nereid](/class/magic-user/nereid)
   - The [Priest](/class/priest)
 </details>
