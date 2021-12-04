@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell elementalism
-title: Dessicate
+title: Desiccate
 ---
 R:  30'
 
