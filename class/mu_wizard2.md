@@ -849,3 +849,12 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Each time you study this book, you can combine any number of arcane word you know to create a spell of you choice. At the end of a session, tell the referee which words you want to mix and they'll design you a new spell for the next time you play. You can of course tell them your intent. 
 ###### *From A Swamp in Space's [Wordsmith](https://aswampinspace.blogspot.com/2018/08/wordsmith-wizards-practitioners-of.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>90. The Unreal Numbers</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sternly framed in gold. Written in tiny characters.*
+- You are officialy recognized as a banker. You are authorized to speak with dragons.
+- Each time you study this book, you gain one bag of silver for each bag of gold in your inventory.
+- Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Fumigate](/2020/11/13/fumigate/), 3. [Detonate Corpse](/2020/11/13/detonate-corpse/), 4. [Necrophone](/2020/11/13/necrophone/)
+###### *From Number Arent Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)!*
+</details>
