@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell tricks
-title: Amplify Resonnance
+title: Amplify Resonance
 ---
 R: Touch  D: [dice] days
 
