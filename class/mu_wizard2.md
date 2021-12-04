@@ -828,6 +828,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A very long scroll protected from the element in an ivory sheath.*
 - Messages-in-a-bottle that you send will always reach their recipient, but it will take 1d100 days. Messages-in-a-bottle sent to you will always reach you, though they too take 1d100 days.
 - For each time you studied this book, you can go one week without eating or drinking.
-- Roll 1D4, you gain the following spell: 1. [Gleam](/2020/11/12/gleam/), 2. [The Ten Wards](/2020/11/13/the-ten-wards/), 3. [Vigor](/2020/11/13/vigor/), 4. [White Hand of Discipline](/2020/11/13/white-hand-of-discipline/)
+- Roll 1D4, you gain the following spell: 1. [Circle of Sand](/2020/11/13/circle-of-sand/), 2. [Wind Barrier](/2020/11/13/wind-barrier/), 3. [Summon Water](/2020/11/13/summon-water/), 4. [Sand Step](/2020/11/13/sand-step/)
 ###### *From Caput Caprae's [Xeromancer](https://caput-caprae.blogspot.com/2020/12/glog-class-xeromancer-wizard.html)!*
 </details>
