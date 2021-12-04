@@ -855,6 +855,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sternly framed in gold. Written in tiny characters.*
 - You are officialy recognized as a banker. You are authorized to speak with dragons.
 - Each time you study this book, you gain one bag of silver for each bag of gold in your inventory.
-- Roll 1D4, you gain the following spell: 1. [Contact Dragon](/2020/11/13/contact-dragon/), 2. [Thief Trap](/2020/11/23/thief-trap/), 3. [Warning Light](/2020/11/13/warning-light/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
+- Roll 1D4, you gain the following spell: 1. [Contact Dragon](/2020/11/13/contact-dragon/), 2. [Thief Trap](/2020/11/13/thief-trap/), 3. [Warning Light](/2020/11/13/warning-light/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
 ###### *From Number Arent Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)!*
 </details>
