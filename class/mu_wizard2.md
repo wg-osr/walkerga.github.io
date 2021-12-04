@@ -816,9 +816,18 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>86. Tome of the White Hand</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The imprint of a bloody hand marks an otherwise featureless cover.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The outline of a hand is barely visible on this otherwise featureless cover.*
 - You can see through the eyes of any creature you touch.
 - For each time you studied this book, you can make someone drink your blood. You can cast spells through them as long as they are in the same hex.
 - Roll 1D4, you gain the following spell: 1. [Gleam](/2020/11/12/gleam/), 2. [The Ten Wards](/2020/11/13/the-ten-wards/), 3. [Vigor](/2020/11/13/vigor/), 4. [White Hand of Discipline](/2020/11/13/white-hand-of-discipline/)
 ###### *From Coins and Scroll's [Wizard of the White Hand](https://coinsandscrolls.blogspot.com/2018/01/osr-wizards-of-white-hand.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>87. Scrolls of the Desert</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A very long scroll protected from the element in an ivory sheath.*
+- Messages-in-a-bottle that you send will always reach their recipient, but it will take 1d100 days. Messages-in-a-bottle sent to you will always reach you, though they too take 1d100 days.
+- For each time you studied this book, you can go one week without eating or drinking.
+- Roll 1D4, you gain the following spell: 1. [Gleam](/2020/11/12/gleam/), 2. [The Ten Wards](/2020/11/13/the-ten-wards/), 3. [Vigor](/2020/11/13/vigor/), 4. [White Hand of Discipline](/2020/11/13/white-hand-of-discipline/)
+###### *From Caput Caprae's [Xeromancer](https://caput-caprae.blogspot.com/2020/12/glog-class-xeromancer-wizard.html)!*
 </details>
