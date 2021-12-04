@@ -6,9 +6,9 @@ permalink: /class/wizard
 
 <details markdown="1">
 <summary>Design Notes</summary> 
-Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more endible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the litteral hundreds of wizards classes! Most of the spellbooks described bellow are direct conversions from my favourites among them.
+Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more edible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the literal hundreds of wizards classes! Most of the spellbooks described bellow are direct conversions from my favourites among them.
 
-So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains SD every level and can do whatever it wants with them, while the priest gains SD each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its adventures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimied amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. 
+So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains SD every level and can do whatever it wants with them, while the priest gains SD each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its adventures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimited amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. 
 </details>
 
 <ins>Starting Equipment</ins><br>
@@ -33,7 +33,7 @@ If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
 </details>
 
 ## Study
@@ -52,7 +52,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>2. Titardinal's Notes on Kastromancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Loosely-bound notes and floor plans with love poems written in the margins.*
-- Holds the deed of an abandonned tower.
+- Holds the deed of an abandoned tower.
 - For each time you studied this book, you can recreate a dungeon trap you have overcome in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
 ###### *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
@@ -69,7 +69,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>4. Diary of the Spider Queen</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Semi-transluscent pages bound in black chitin. The text is embroidered*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Semi-translucent pages bound in black chitin. The text is embroidered*
 - You can speak with spiders.
 - Each time you study this book, you can produce a new silk piece of clothing that can double as a small mundane object of your choice.
 - Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
@@ -143,14 +143,14 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>12. Psychomantic Skullclamp</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Metallic and cold headband. Text projected in the mind.*
 - You can communicate telepathically with people you can see. Works one way only.
-- Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic, remotely controled version of it once per day for 10 minutes.
+- Each time you study this book, choose a mundane item in your inventory. You can create an invisible, psychic, remotely controlled version of it once per day for 10 minutes.
 - Roll 1D4, you gain the following spell: 1. [Command](/2020/11/13/command/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 4. [Telekinetic Burst](/2020/11/13/telekinetic-burst/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Psychomancy.*
 </details>
 
 <details markdown="1">
 <summary><b>13. Treatise of Spiritual Understanding</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Salmon-pink and trimmed in irridescent metal. Perfectly square.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Salmon-pink and trimmed in iridescent metal. Perfectly square.*
 - You sleep your eyes open.
 - For each time you studied this book, you gain one extra SD while you are drugged or poisoned.
 - Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Conduit](/2020/11/13/conduit/), 3. [Reality Shift](/2020/11/13/reality-shift/), 4. [Second Sight](/2020/11/12/second-sight/)
@@ -160,7 +160,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>14. Translocalistic Memoirs</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The size of a medallion. Opens as big as a grimoire.*
-- You know from sight if a portal leads neardby, far, or another dimension.
+- You know from sight if a portal leads nearby, far, or another dimension.
 - Each time you study this book, note the location. You can make a 1 hour ritual to teleport you and your party back there once as long as you all hold hands.
 - Roll 1D4, you gain the following spell: 1. [Transmit Breath](/2020/11/13/transmit-breath/), 2. [Revisitation](/2020/11/13/revisitation/), 3. [Recall](/2020/11/13/recall/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
@@ -178,7 +178,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>16. The Companion of the Witch</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two cat eyes open from the cover when the book is held.*
-- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You dont know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it. <br><br>Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
+- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You don’t know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it. <br><br>Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
 </details>
 
 <details markdown="1">
@@ -193,7 +193,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>18. Apotropaic Techniques
 </b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicaced to Bilfred who just wouldn't die.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Bilfred who just wouldn't die.*
 - You can give yourself Doom Points to modify a D20 roll by the same amount.
 - Each time you study this book, you lose 2 Doom Point.
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Scapegoat](/2020/11/13/scapegoat/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Writ of the Underworld](/2020/11/13/writ-of-the-underworld/)
@@ -280,7 +280,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>27. Spatial Geometry IV</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in block.*
 - You can draw things in the air with your finger. The drawing lasts 10 minutes.
-- Each time you study this book, choose a mundane object in your inventory, you can fold it magically into a tiny size that doesnt take space.
+- Each time you study this book, choose a mundane object in your inventory, you can fold it magically into a tiny size that doesn’t take space.
 - Roll 1D4, you gain the following spell: 1. [Disconnection](/2020/11/13/disconnection/), 2. [Levitation](/2020/11/13/levitation/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Fold Space](/2020/11/13/fold-space/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
@@ -304,7 +304,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>30. Tattered Tome</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Seems the posession of an unfortunate adventuring wizard.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Seems the possession of an unfortunate adventuring wizard.*
 - You can lick an object to know if it is magical.
 - Each time you study this book, you learn the location of a dungeon.
 - Learn a [random spell](/list/spells). You can only learn 3 spells from this book. 
@@ -344,7 +344,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>35. Errings of a Shattered Mind</b></summary> 
+<summary><b>35. Pride of a Shattered Mind</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mad ramblings scribbled on loose sheets and the cold assessments of an observer.*
 - Creatures who peek into your mind must save vs fear. 
 - Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Its mind is wiped and it cannot resist your spells.
@@ -374,7 +374,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bloodstained. Has turned all its readers mad.*
 - Your eyes have stalks that can be extended 10'. 
 - While standing in the corner of a room, you are also standing in another corner of the room for each time you studied this book.
-- Roll 1D4, you gain the following spell: 1. [Lengthen](/2020/11/13/lengthen/), 2. [Meat Hive](/2020/11/13/meat-hive/), 3. [Stone to Teeth](/2020/11/13/stone-to-teeth/), 4. [Unspeakeable Speech](/2020/11/13/unspeakable-speech/)
+- Roll 1D4, you gain the following spell: 1. [Lengthen](/2020/11/13/lengthen/), 2. [Meat Hive](/2020/11/13/meat-hive/), 3. [Stone to Teeth](/2020/11/13/stone-to-teeth/), 4. [Unspeakable Speech](/2020/11/13/unspeakable-speech/)
 ###### *From Numbers Aren't Real's [Alienist](https://archonsmarchon.blogspot.com/2021/04/glog-class-abjurer-wizard.html)!*
 </details>
 
@@ -400,7 +400,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>41. Eight-Legged Whispers</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Like a cocoon with 4 beady eyes that you unravel.*
 - You have a pet spider the size of your hand (0 HP).
-- Each time you study this book after the first time, you can either resurect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
+- Each time you study this book after the first time, you can either resurrect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
 - Roll 1D4, you gain the following spell: 1. [Arachnophobia](/2020/11/13/arachnophobia/), 2. [Bubble Helmet](/2020/11/13/bubble-coat/), 3. [Pass Without Trace](/2020/11/13/pass-without-trace/), 4. [Venom Bullet](/2020/11/13/venom-bullet/)
 ###### *From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)!*
 </details>
@@ -417,7 +417,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>43. Tome of Oenomancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Must have been white before, now deep burgundy. Doesn't make much sense.*
-- SD return to your pool on a roll of 1 to 4 when drunk, they dont when sober.
+- SD return to your pool on a roll of 1 to 4 when drunk, they don’t when sober.
 - Each time you study this book, you brew six bottles of alcohol of your design.
 - Roll 1D4, you gain the following spell: 1. [Aura of Intoxication](/2020/11/13/aura-of-intoxication/), 2. [Explode Alcohol](/2020/11/13/explode-alcohol/), 3. [Summon Party](/2020/11/13/summon-party/), 4. [Water to Wine](/2020/11/13/water-to-wine/)
 ###### *From Meandering Banter's [Beeromancer](https://meanderingbanter.blogspot.com/2019/06/narcomancer-beeromancer.html)!*
@@ -428,7 +428,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
 - If someone makes a bargain with you and breaks it, you instantly know about it.
 - Each time you study this book, you can transform into your witch form for an extra hour per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form.
-- Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Deam Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
+- Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dream Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
 </details>
 
@@ -436,7 +436,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>45. Sacrifices to Xiuhcoatl</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavily engraved and painted greenstone tablets.*
 - You regenerate 1 HP every hour.
-- You can take as much damage as times you've studied this book when casting a spell and and add as much to its [sum], or alternatively crush a fresh heart for the same benefits.
+- You can take as much damage as times you've studied this book when casting a spell and add as much to its [sum], or alternatively crush a fresh heart for the same benefits.
 - Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Swarm of Jaguars](/2020/11/13/swarm-of-jaguars/)
 ###### *From Unlawful Games's [Blood Aspirant](https://unlawfulgames.blogspot.com/2019/08/glog-blood-aspirant.html)!*
 </details>
@@ -455,13 +455,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Small notebook. The original owner's name has been scratched.*
 - You take half damage from falling.
 - Each time you study this book, you gain a pet cat.
-- Roll 1D4, you gain the following spell: 1. [Cat Senses](/2020/11/13/cat-senses/), 2. [Contortion](/2020/11/13/contortion/), 3. [Feline Reflexes](/2020/11/13/feline-reflexes/), 4. [Nine Lives](/2020/11/12/nine-lives/)
+- Roll 1D4, you gain the following spell: 1. [Cat Senses](/2020/11/13/cat-senses/), 2. [Contorsion](/2020/11/13/contorsion/), 3. [Feline Reflexes](/2020/11/13/feline-reflexes/), 4. [Nine Lives](/2020/11/12/nine-lives/)
 ###### *From the Library of Attnam's [Cat Wizard](https://attnam.blogspot.com/2019/01/class-cat-wizard.html)!*
 </details>
 
 <details markdown="1">
 <summary><b>49. Manifesto of Radical Aesthetic</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Irridescent. Fashion of the time that will find academic respect two decades later.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Iridescent. Fashion of the time that will find academic respect two decades later.*
 - You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every five minutes you do this to keep your audience engaged.
 - Each time you study this book, you can alter the flavour of one spell you know to anything you would like. It does not change the spell's mechanical effect, but when cast by you, you can alter the [sum] by 1 point.
 - Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
@@ -514,9 +514,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>55. A Hundread Truths</b></summary> 
+<summary><b>55. A Hundred Truths</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A golden lidless eye in a pyramid is engraved in the white cover. The book decides which page it opens at.*
-- You can see spirits. This has multiple uses: invisible creatures are visible to you as faintly glowing outlines; angels, demons and ghosts are translucent but visible even when immaterial; enchanted items and possessed or cursed creatures have a faint aura around them; spellcasters, undead and magical beasts radiate magic. When you search a room or observe a scen, roll 1D6. On a roll of 1, you are frightened by a random ghost.
+- You can see spirits. This has multiple uses: invisible creatures are visible to you as faintly glowing outlines; angels, demons and ghosts are translucent but visible even when immaterial; enchanted items and possessed or cursed creatures have a faint aura around them; spellcasters, undead and magical beasts radiate magic. When you search a room or observe a scene, roll 1D6. On a roll of 1, you are frightened by a random ghost.
 - For each time you studied this book, you can predict the weather once. To do so, simply tell the referee which weather will happen the next day.
 - Roll 1D4, you gain the following spell: 1. [Arcane Mark](/2020/11/13/arcane-mark/), 2. [Dream](/2020/11/13/dream/), 3. [Object Reading](/2020/11/13/object-reading/), 4. [Vision of Death](/2020/11/13/vision-of-death/)
 ###### *From the Library of Attnam's [Diviner](https://attnam.blogspot.com/2018/07/class-diviner-wizard.html)!*
@@ -527,7 +527,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Must have been beautiful before the city was swallowed by the sea. Now faded.*
 - You lose all your SDs if you touch water and you sink. However, once you are out of SD, you can vomit one random barnacle-encrusted [object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
 - For each time you studied this book, you discover a secret society of survivors of Anostos in city of your choice. You choose their expertise.
-- Roll 1D4, you gain the following spell: 1. [Amplify Resonnance](/2020/11/13/amplify-resonnance/), 2. [Dessicate](/2020/11/13/dessicate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
+- Roll 1D4, you gain the following spell: 1. [Amplify Resonance](/2020/11/13/amplify-resonance/), 2. [Desiccate](/2020/11/13/desiccate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *From Coins and Scrolls's [Drowned Wizard](https://coinsandscrolls.blogspot.com/2017/06/osr-drowned-wizards.html)!*
 </details>
 
@@ -595,7 +595,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>61. Tome of Illusion</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Looks serious with its engraved leather cove. Is actually a collection of loose sheets.*
 - Create a shower of illusory sparks or a puff of illusory smoke from your hands.
-- Each time you study this book, roll a [random spell](/list/spells). You dont know it, but you can make an illusion of it and its consequences that lasts as many rounds as the number of time you studied this book.
+- Each time you study this book, roll a [random spell](/list/spells). You don’t know it, but you can make an illusion of it and its consequences that lasts as many rounds as the number of time you studied this book.
 - Roll 1D4, you gain the following spell: 1. [Colour Spray](/2020/11/13/colour-spray/), 2. [Disguise](/2020/11/13/disguise/), 3. [Illusion](/2020/11/13/illusion/), 4. [Mirror Image](/2020/11/13/mirror-image/)
 ###### *From Coins and Scrolls's [Illusionist](https://coinsandscrolls.blogspot.com/2017/03/osr-illusionist-wizards.html)!*
 </details>
@@ -612,9 +612,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>63. Screams of Malachi Draas</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Weighted with lead. Expressively written in black brush strokes.*
-- Your voice is always the loudest sound in your vincinity.
+- Your voice is always the loudest sound in your vicinity.
 - Each time you study this book, choose a sonic or visual effect. You can trigger this effect when you enter a room.
-- Roll 1D4, you gain the following spell: 1. [Chastizing Tremor](/2020/11/13/chastising-tremor/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Thunderous Wave](/2020/11/13/thunderous-wave/), 4. [Unerring Seeker](/2020/11/13/unering-seeker/)
+- Roll 1D4, you gain the following spell: 1. [Chastizing Tremor](/2020/11/13/chastising-tremor/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Thunderous Wave](/2020/11/13/thunderous-wave/), 4. [Unerring Seeker](/2020/11/13/unerring-seeker/)
 ###### *From A Distant Chime's [Malachite](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
 </details>
 
@@ -676,7 +676,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>70. Teachings of the Snake</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Preserved in a giant snake's molt. Turquoise mosaic cover.*
 - You can crawl as fast as you can run without using your arms.
-- Each time you study this book, you can molt your skin. Remove all wounds and scars you dont want.
+- Each time you study this book, you can molt your skin. Remove all wounds and scars you don’t want.
 - Roll 1D4, you gain the following spell: 1. [Bestow Snake Aspect](/2020/11/12/bestow-aspect/), 2. [Shuffle the Mortal Coils](/2020/11/13/shuffle-the-mortal-coils/), 3. [The Snake Allure](/2020/11/12/animal-allure/), 4. [Venomous Fangs](/2020/11/12/venomous-fangs/)
 ###### *From Unlawful Games's [Snake Wizard](http://unlawfulgames.blogspot.com/2018/05/osr-snake-wizard.html)!*
 </details>
@@ -684,7 +684,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>71. Veins of the Earth</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pages of fungi fibers, cover of weaved calcifications.*
-- You dont have a shadow nor a smell. You can touch stone to mark it with your sigil.
+- You don’t have a shadow nor a smell. You can touch stone to mark it with your sigil.
 - Each time you study this book, you can see in the dark an extra 10'.
 - Roll 1D4, you gain the following spell: 1. [Blood to Rope](/2020/11/13/blood-to-rope/), 2. [Calcite Gap](/2020/11/13/calcite-gap/), 3. [Matchstick Men](/2020/11/13/matchstick-men/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/)
 ###### *From Coins and Scrolls's [Speleomage](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html) and [Veins of the Earth](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth)!*
@@ -693,14 +693,14 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>72. The Prince of Hounds</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Epic revolutionary allegory. The book itself is filled with marginalia of dogs eating wizards.*
-- You can free spells from the opression of wizards! When you physically destroy a scroll, tome, or other spell container, you release all the spells trapped inside. You may recruit any number of them immediately. <br> A freed spell has 1 HD and 1 SD and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When it is freed, you decide if it will be able to breathe under water, fly, or use objects.
+- You can free spells from the oppression of wizards! When you physically destroy a scroll, tome, or other spell container, you release all the spells trapped inside. You may recruit any number of them immediately. <br> A freed spell has 1 HD and 1 SD and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When it is freed, you decide if it will be able to breathe under water, fly, or use objects.
 - Each time you study this book, all freed spells in your entourage gain +2 HP.
 ###### *From Spiceomancy's [Spell-Blooded Prince](https://coinsandscrolls.blogspot.com/2018/03/osr-class-speleomage.html))!*
 </details>
 
 <details markdown="1">
 <summary><b>73. Tales of the Spell Thief</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentionned in hushed tones by wizards. This is a translation.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentioned in hushed tones by wizards. This is a translation.*
 - You can steal spells by being hit by them. When you suffer some effect from an ability, roll intelligence. If you succeed (and don’t die), you copy the ability or spell in your brain.
 - For each time you have studied this book, you can eat the heart or essence of a creature and gain one of its passive features. These features count as spells.
 ###### *From Type 1 Ninja's [Spell-Thief](https://github.com/valzi/GLOG-classes/wiki/Caster_Spellthief-Type1Ninja))!*
@@ -728,7 +728,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>76. Book of Good Practices</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Published by Potion Laboratory Guild of Endon.*
 - You can instantly bring a pot of water to a boil.
-- Each time you study this book, choose a substence or element. You can safely handle and store that substence.
+- Each time you study this book, choose a substance or element. You can safely handle and store that substance.
 - Roll 1D4, you gain the following spell: 1. [Glasswarp](/2020/11/13/glasswarp/), 2. [Restore](/2020/11/13/restore/), 3. [Transmit Breath](/2020/11/13/transmit-breath/), 4. [Vacuum](/2020/11/13/vacuum/)
 ###### *From Oblidisideryptch's [Toxinist](https://oblidisideryptch.blogspot.com/2018/06/5eglog-wizard-school-toxinist.html)!*
 </details>
@@ -737,16 +737,16 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>77. Applied Thaumaturgy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Olive and brown. Starched. Military in design.*
 - You can highlight a creature you can see so it cannot hide.
-- If you have tarot cards, you can spend 10 minutes to do cartomancy. Roll as many D4s as the number of times you have studied this book. You can ask as many questions as the highest number rolled and the referee will anwser yes or no.
+- If you have tarot cards, you can spend 10 minutes to do cartomancy. Roll as many D4s as the number of times you have studied this book. You can ask as many questions as the highest number rolled and the referee will answer yes or no.
 - Roll 1D4, you gain the following spell: 1. [Alchemical Element](/2020/11/13/alchemical-elementalism/), 2. [Quickening](/2020/11/13/quickening/), 3. [Hekaphage](/2020/11/13/hekaphage/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
 
 <details markdown="1">
 <summary><b>78. Extraplanar Affairs</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gold and navy. Embelished and flamboyant.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gold and navy. Embellished and flamboyant.*
 - You can trace glowing chalk lines with your finger.
-- Each time you study this book, you produce a cosmcally binding contract of your design.
+- Each time you study this book, you produce a cosmically binding contract of your design.
 - Roll 1D4, you gain the following spell: 1. [Bind](/2020/11/12/bind/), 2. [Conjure](/2020/11/12/conjure/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Portal](/2020/11/13/portal/)
 ###### *From A Blasted Cratered Land's [Undergraduate Wizard](https://crateredland.blogspot.com/2021/06/wizard-colleges-imply-wizard.html)!*
 </details>
