@@ -827,7 +827,16 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>87. Scrolls of the Desert</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A very long scroll protected from the element in an ivory sheath.*
 - Messages-in-a-bottle that you send will always reach their recipient, but it will take 1d100 days. Messages-in-a-bottle sent to you will always reach you, though they too take 1d100 days.
-- For each time you studied this book, you can go one week without eating or drinking.
+- Each time you study this book, you can go one week without eating or drinking.
 - Roll 1D4, you gain the following spell: 1. [Circle of Sand](/2020/11/13/circle-of-sand/), 2. [Wind Barrier](/2020/11/13/wind-barrier/), 3. [Summon Water](/2020/11/13/summon-water/), 4. [Sand Step](/2020/11/13/sand-step/)
 ###### *From Caput Caprae's [Xeromancer](https://caput-caprae.blogspot.com/2020/12/glog-class-xeromancer-wizard.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>88. Rules and Regulation of Undercity Necromancy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *By the water and waster guild. Cheaply printed.*
+- With a touch, lock a dead body's or a willing creature's limb or digit in position from a chosen joint, impervious to pain, fatigue, and muscle strain, until they release it with a command word.
+- Each time you study this book, gain a new zombie follower and reanimate all your other zombie followers if you still have their body and they are dead. 
+- Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Wind Barrier](/2020/11/13/wind-barrier/), 3. [Summon Water](/2020/11/13/summon-water/), 4. [Sand Step](/2020/11/13/sand-step/)
+###### *From the Orc Rehabilitation Commission's [Practical Necromancer](https://orc-rehab.blogspot.com/2021/11/glog-wizard-school-practical-necromancer.html)!*
 </details>
