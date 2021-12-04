@@ -815,10 +815,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>85. Tome of the White Hand</b></summary> 
+<summary><b>86. Tome of the White Hand</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The imprint of a bloody hand marks an otherwise featureless cover.*
 - You can see through the eyes of any creature you touch.
 - For each time you studied this book, you can make someone drink your blood. You can cast spells through them as long as they are in the same hex.
-- Roll 1D4, you gain the following spell: 1. [Déjà Vu](/2020/11/13/deja-vu/), 2. [Fly Swarm](/2020/11/13/fly-swarm/), 3. [Inflict Wound](/2020/11/13/inflict-wound/), 4. [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/)
+- Roll 1D4, you gain the following spell: 1. [Gleam](/2020/11/12/gleam/), 2. [The Ten Wards](/2020/11/13/the-ten-wards/), 3. [Vigor](/2020/11/13/vigor/), 4. [White Hand of Discipline](/2020/11/13/white-hand-of-discipline/)
 ###### *From Coins and Scroll's [Wizard of the White Hand](https://coinsandscrolls.blogspot.com/2018/01/osr-wizards-of-white-hand.html)!*
 </details>
