@@ -488,7 +488,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>52. Tome of the Curse-Eater</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The portrait of a joyous chef is engraved on the cover. This is the third edition.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The old grey book is bound in chains. Perpetually dusty.*
 - You can take 1 SD from an adjacent wizard’s pool and add it to your spell. They know you have done this. On a roll of 1 to 3, the MD returns to their pool (as normal). If the MD does not return, you can choose to either heal the wizard for 1D6 HP or inflict 1D6 magic damage.
 - Each time you study this book, you gain a incurable wound. When you do, choose a person. You take all their sins upon yourself and remove all curses from them.
 - Roll 1D4, you gain the following spell: 1. [Death Ward](/2020/11/13/death-ward/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Choke Flames](/2020/11/13/choke-flames/), 4. [Fingerbreaker](/2020/11/13/fingerbreaker/)
