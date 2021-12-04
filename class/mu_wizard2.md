@@ -6,7 +6,9 @@ permalink: /class/wizard
 
 <details markdown="1">
 <summary>Design Notes</summary> 
-Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more edible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the literal hundreds of wizards classes! Most of the spellbooks described bellow are direct conversions from my favourites among them.
+Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more edible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the literal hundreds of wizards classes! Most of the spellbooks described bellow are direct conversions of my favourites among them.
+
+This class is more fun if the players can find spellbooks either in dungeons, libraries or by hunting wizards.
 
 So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains SD every level and can do whatever it wants with them, while the priest gains SD each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament every level, a wizard is stuck with its starting spellbook unless it finds new ones in its adventures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimited amount of spell dices, while the wizard will have 4 spell dices and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical. 
 </details>
@@ -37,9 +39,10 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Study
-You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. You can spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town to study again.
+You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. Additionaly, you can spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town to study more.
 
-**Some Spellbooks:**
+**D100 Spellbooks:**
+###### or choose the first one for a generic option
 
 <details markdown="1">
 <summary><b>1. Tome of Magic Practice</b></summary> 
@@ -858,3 +861,5 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Contact Dragon](/2020/11/13/contact-dragon/), 2. [Thief Trap](/2020/11/13/thief-trap/), 3. [Warning Light](/2020/11/13/warning-light/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
 ###### *From Number Arent Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)!*
 </details>
+
+I'm missing 10! Ping me on discord/reddit if you have ideas.
