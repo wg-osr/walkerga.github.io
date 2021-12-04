@@ -833,10 +833,19 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>88. Rules and Regulation of Undercity Necromancy</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *By the water and waster guild. Cheaply printed.*
+<summary><b>88. Regulations of Undercity Necromancy</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Of the Water and Waste guild. Cheaply printed.*
 - With a touch, lock a dead body's or a willing creature's limb or digit in position from a chosen joint, impervious to pain, fatigue, and muscle strain, until they release it with a command word.
 - Each time you study this book, gain a new zombie follower and reanimate all your other zombie followers if you still have their body and they are dead. 
 - Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Fumigate](/2020/11/13/fumigate/), 3. [Detonate Corpse](/2020/11/13/detonate-corpse/), 4. [Necrophone](/2020/11/13/necrophone/)
 ###### *From the Orc Rehabilitation Commission's [Practical Necromancer](https://orc-rehab.blogspot.com/2021/11/glog-wizard-school-practical-necromancer.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>89. True Names of Arcana</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *More of a dictionary than a spellbook. Looks like it too.*
+- You remember everything you read exactly as it is written.
+- Each time you study this book, you learn two new [arcane words](https://aswampinspace.blogspot.com/2018/08/wordsmith-wizards-practitioners-of.html). You also know all the spell words forming the spells you know (look under the spell's description on this site!)
+- Each time you study this book, you can combine any number of arcane word you know to create a spell of you choice. At the end of a session, tell the referee which words you want to mix and they'll design you a new spell for the next time you play. You can of course tell them your intent. 
+###### *From A Swamp in Space's [Wordsmith](https://aswampinspace.blogspot.com/2018/08/wordsmith-wizards-practitioners-of.html)!*
 </details>
