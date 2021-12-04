@@ -837,6 +837,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *By the water and waster guild. Cheaply printed.*
 - With a touch, lock a dead body's or a willing creature's limb or digit in position from a chosen joint, impervious to pain, fatigue, and muscle strain, until they release it with a command word.
 - Each time you study this book, gain a new zombie follower and reanimate all your other zombie followers if you still have their body and they are dead. 
-- Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Wind Barrier](/2020/11/13/wind-barrier/), 3. [Summon Water](/2020/11/13/summon-water/), 4. [Sand Step](/2020/11/13/sand-step/)
+- Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Fumigate](/2020/11/13/fumigate/), 3. [Detonate Corpse](/2020/11/13/detonate-corpse/), 4. [Necrophone](/2020/11/13/necrophone/)
 ###### *From the Orc Rehabilitation Commission's [Practical Necromancer](https://orc-rehab.blogspot.com/2021/11/glog-wizard-school-practical-necromancer.html)!*
 </details>
