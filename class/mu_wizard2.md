@@ -475,7 +475,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>50. The Cosmos Described</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Written in gold on dark blue pages. Always cold to the touch.*
 - You know astral morse code and can make a star seem to blink in the sky. Often used to communicate across continents. You can pilot spelljammers.
-- Each time you study this book, roll a [random astral landscape](/pages/fantasylandgenerator/) and note it. You can take 1 hour tinker any pre-existing portal to lead there once.
+- Each time you study this book, roll a [random astral landscape](/pages/fantasylandgenerator/) and note it. You can take 1 hour to tinker any pre-existing portal to lead there once.
 - Roll 1D4, you gain the following spell: 1. [All Things Adjacent](/2020/11/13/all-things-adjacent/), 2. [Calculate Probability](/2020/11/13/calculate-probability/), 3. [Focus Light](/2020/11/13/focus-light/), 4. [Teleportation](/2020/11/13/teleportation/)
 ###### *From Remixes and Revelations's [Cosmomancer](http://www.remixesandrevelations.com/2017/10/osr-cosmomancer-scholars-of-stars.html)!*
 </details>
