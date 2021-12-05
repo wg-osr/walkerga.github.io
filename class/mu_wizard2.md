@@ -19,7 +19,7 @@ A strange hat, ink and quill, a spellbook (see below)
 <ins>Starting Skills (+5)</ins><br>
 Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
 
-For every Wizard template you have, you gain one extra **Spell Dice** (SD) and you **Study**.
+For every Wizard template you have, you gain one extra **Spell Dice** (SD) and you **Study**. You can also study if you spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town.
 
 ## Spells
 Wizards get a [random one](/list/spells) for free at level 1. They’re stored in spellbooks and you spend Spell Dices to cast them.
@@ -39,7 +39,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Study
-You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again. Additionaly, you can spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town to study more.
+You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
 
 **D100 Spellbooks:**
 ###### or choose the first one for a generic option
@@ -55,7 +55,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>2. Titardinal's Notes on Kastromancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Loosely-bound notes and floor plans with love poems written in the margins.*
-- Holds the deed of an abandoned tower.
+- Holds the deed of an abandoned tower in a location of the referee's choice.
 - For each time you studied this book, you can recreate a dungeon trap you have overcome in a building you own.
 - Roll 1D4, you gain the following spell: 1. [Kastromancy](/2020/11/13/kastromancy/), 2. [Portal](/2020/11/13/portal/), 3. [Possess Castle](/2020/11/13/possess-castle/), 4. [Voluminous Equivalence](/2020/11/13/voluminous-equivalence/)
 ###### *of [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html) fame.*
@@ -64,9 +64,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>3. Severed Head of Davok</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cumbersome, horrible and grey. Like human features on an elephant's skull.*
-- You can feed a follower to Davok and gain a bonus SD on a future spellcasting of your choice.
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
-- Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
+- You can feed one of your followers to Davok and gain as many bonus Spell Dices as times you have studied this book. These dices do not come back when spent.
+- Roll 1D4, you gain the following spell: 1. [Call of the Rat](/2020/11/12/call-of-the-animal/), 2. [Miasma](/2020/11/12/miasma/), 3. [Petition Davok](/2020/11/12/petition/), 4. [Pyrokinesis](/2020/11/13/pyrokinesis/)
 ###### *of [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) fame.*
 </details>
 
@@ -74,7 +74,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>4. Diary of the Spider Queen</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Semi-translucent pages bound in black chitin. The text is embroidered*
 - You can speak with spiders.
-- Each time you study this book, you can produce a new silk piece of clothing that can double as a small mundane object of your choice.
+- Each time you study this book, you can produce a new silk piece of clothing. Each can be destroyed to succeed on a stealth, climb or dodge roll.
 - Roll 1D4, you gain the following spell: 1. [Arachnomorph](/2020/11/12/animorph/), 2. [Bestow Spider Aspect](/2020/11/12/bestow-aspect/), 3. [Tarantella](/2020/11/12/tanrantella/), 4. [Web](/2020/11/12/web/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
@@ -83,7 +83,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>5. The Wonder King's Edicts</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Three slabs of pink marble engraved in tiny faded cuneiform.*
 - You have learned to smell and detect the subtle fragrances of curses.
-- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. Breaking the tablet releases the curse.
+- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. Breaking the tablet releases the curse upon the breaker.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
@@ -92,7 +92,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>6. Stories from my Mother</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Painted geese, children and frogs illustrate the cover. Pocket sized.*
 - You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Cooking".
-- Each time you study this book, you learn the location of a hidden cabin in an area of your choice. One of Mother's friends lives there and can provide shelter and trade potions.
+- Each time you study this book, you learn the location of a hidden cabin in an area of your choice. One of Mother's friends lives there. They can provide shelter and trade potions.
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*
 </details>
@@ -101,7 +101,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>7. Three Prayers to Baphomet</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark leather bound in bronze. Penned in blood.*
 - You can speak backward, a language only understood by exorcists and divine creatures.
-- Each time you study this book, increase any of your skills by 2, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take 2 points of damage.
+- Each time you study this book, increase all of your skills by 1, or become skilled (+5) in a skill you don't know. However, any time your roll a 6 on any dice, you take 2 points of damage.
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/), 4. [Petition](/2020/11/12/petition/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
 </details>
@@ -110,7 +110,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>8. Voices of the Four Elements</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Adorned with four gems, its cover is made of gold.*
 - You can politely ask dirt and water to leave clothes and hair, and can play wind instruments from afar.
-- Each time you study this book, you increase your unarmored movement speed by 1 (up to 10).
+- Each time you study this book, you increase your movement stat by 1 (up to 10).
 - Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
 </details>
@@ -119,7 +119,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>9. O's Diary</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Elegant in its lack of features. Brown leather. Locked.*
 - You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Ropes".
-- Each time you study this book, you find new ways to attach objects to you and gain 1 inventory slot.
+- Each time you study this book, you find new ways to attach objects and gain 1 inventory slot.
 - Roll 1D4, you gain the following spell: 1. [A Rope Is Always Handy](/2020/11/13/a-rope-is-always-handy/), 2. [Length of a String](/2020/11/13/lenght-of-a-string/), 3. [Rope Bind](/2020/11/13/rope-bind/), 4. [The Rope Trick](/2020/11/13/the-rope-trick/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
 </details>
@@ -163,8 +163,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>14. Translocalistic Memoirs</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The size of a medallion. Opens as big as a grimoire.*
-- You know from sight if a portal leads nearby, far, or another dimension.
-- Each time you study this book, note the location. You can make a 1 hour ritual to teleport you and your party back there once as long as you all hold hands.
+- You know from sight if a portal leads nearby, far, or to another dimension.
+- Each time you study this book, note the location. You can make a 1 hour ritual to teleport you and ten people holding your hands back there once.
 - Roll 1D4, you gain the following spell: 1. [Transmit Breath](/2020/11/13/transmit-breath/), 2. [Revisitation](/2020/11/13/revisitation/), 3. [Recall](/2020/11/13/recall/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
 </details>
@@ -172,7 +172,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>15. Illustrated Grimoire of Vivimancy</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A frog's skin is stretched across the cover. Crudely bound.*
-- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology".
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology". You gain a pet of your choice no bigger than a cat.
 - For each time you studied this book, if you have a pet, you can give it a feature from another mundane animal.
 - Roll 1D4, you gain the following spell: 1. [Genoplasm](/2020/11/13/genoplasm/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
@@ -181,14 +181,14 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>16. The Companion of the Witch</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two cat eyes open from the cover when the book is held.*
-- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You don’t know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it. <br><br>Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
+- Roll a [random spell](/list/spells). It becomes your sentient familiar in the shape of any tiny creature you like. That creature is now part of your entourage and can cast itself with 1 SD once per Day. You don’t know the spell yourself, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it. <br><br>Your familiar has 1 HP per Wizard template you have and is immune to one type of damage of your choice. Its stats are similar to a cat’s. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever.
 </details>
 
 <details markdown="1">
 <summary><b>17. The Book of Vermin</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
 - You can send an insect to investigate an adjacent room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
-- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but will obey you.
+- Each time you study this book, you can add a small swarm of vermin in your inventory. It cant fight but will obey your command.
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
@@ -198,7 +198,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Bilfred who just wouldn't die.*
 - You can give yourself Doom Points to modify a D20 roll by the same amount.
-- Each time you study this book, you lose 2 Doom Point.
+- Each time you study this book, you lose 4 Doom Point.
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Scapegoat](/2020/11/13/scapegoat/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Writ of the Underworld](/2020/11/13/writ-of-the-underworld/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>
@@ -207,7 +207,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>19. The Oaken Tome
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover of bark. Pages of woven leaves.*
-- You can revitalize 1 square foot of plants per hour.
+- You can revitalize 1 square-foot of plants per hour.
 - Each time you study this book, choose an animal species. Animals of that type wont attack you anymore except in self defense.
 - Roll 1D4, you gain the following spell: 1. [Bramble Burrow](/2020/11/13/bramble-burrow/), 2. [Druidcraft](/2020/11/13/druidcraft/), 3. [Old Rune](/2020/11/13/old-rune/), 4. [Floral Salvage](/2020/11/13/floral-salvage/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Elf from Coins & Scrolls](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html).*
@@ -228,7 +228,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pale blue. Its pages scatter to the winds while open yet find their way back in when you close it.*
 - You can push objects not heavier than a helmet from afar.
-- For each time you studied this book, you can avoid one encounter of your choice while piloting a wind-powered vehicle.
+- For each time you studied this book, you can narrowly avoid one encounter of your choice while piloting a wind-powered or flying vehicle.
 - Roll 1D4, you gain the following spell: 1. [Chariot of Air](/2020/11/13/chariot-of-air/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Wind Barrier](/2020/11/13/wind-barrier/), 4. [Wind Salvation](/2020/11/13/wind-salvation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
 </details>
@@ -273,7 +273,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>26. The Witch-Hunter's Manual</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavy, reinforced with cold iron, covered in wards.*
-- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town.
+- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town. Depending on their reputation.
 - Each time you study this book, you gain the location of a mad wizard.
 - Roll 1D4, you gain the following spell: 1. [Etheral Boundary](/2020/11/13/ethereal-boundary/), 2. [Hekaphage](/2020/11/13/hekaphage/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Second Sight](/2020/11/12/second-sight/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Spiritualism.*
@@ -281,7 +281,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>27. Spatial Geometry IV</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in block.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dodecahedron that unfolds in blocks of text.*
 - You can draw things in the air with your finger. The drawing lasts 10 minutes.
 - Each time you study this book, choose a mundane object in your inventory, you can fold it magically into a tiny size that doesn’t take space.
 - Roll 1D4, you gain the following spell: 1. [Disconnection](/2020/11/13/disconnection/), 2. [Levitation](/2020/11/13/levitation/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Fold Space](/2020/11/13/fold-space/)
@@ -325,7 +325,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>32. Tome of White Magic</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bearing the mark of the secret order. Lined with gold and twine.*
 - You can sense if your friends are in danger. 
-- For each time you studied this book, you can call a giant eagle. It will arrive after 1 hour and transport you back to a destination of your choice up to 3 days away in just 1 hour, and back in the day.
+- For each time you studied this book, you can call a giant eagle. It will arrive after 1 hour and transport you to a destination of your choice that is up to 3 days away by foot. You can be back within the day if you want.
 - Roll 1D4, you gain the following spell: 1. [Covenant](/2020/11/12/covenant/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Blackstaff](/2020/11/13/blackstaff/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 </details>
 
@@ -350,7 +350,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>35. Pride of a Shattered Mind</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mad ramblings scribbled on loose sheets and the cold assessments of an observer.*
 - Creatures who peek into your mind must save vs fear. 
-- Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). Its mind is wiped and it cannot resist your spells.
+- Each time you study this book, gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). It cannot speak coherently nor resist your spells.
 - Roll 1D4, you gain the following spell: 1. [Dominate](/2020/11/13/dominate/), 2. [Geas](/2020/11/13/geas/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Poltergeist](/2020/11/13/poltergeist/)
 </details>
 
@@ -384,7 +384,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>39. Arcane Alloys</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rolls of tanned skin painted with rust.*
-- You can consume a metallic object no smaller than a dagger as you cast a spell to recuperate a SD.
+- You can consume a metallic object no smaller than a dagger as you cast a spell to recuperate your SD on a roll of 1-5.
 - You can take 10 minutes to transform alcohol and a metallic object no smaller than a dagger into an incendiary charge (1D6). It burns as many rounds as the number of time you have studied this book.
 - Roll 1D4, you gain the following spell: 1. [Command Iron](/2020/11/13/command-iron/), 2. [Magnetic Fissure](/2020/11/13/magnetic-fissure/), 3. [Metallic Sensibility](/2020/11/13/metallic-sensibility/), 4. [Trap Lightning](/2020/11/13/trap-lightning/)
 ###### *From Throne of Salt's [Allomancer](http://throneofsalt.blogspot.com/2018/05/class-allomancer.html)!*
@@ -392,7 +392,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>40. Nihilistic Thesaurus</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style *know*. Extremely verbose.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black featureless cover, but people in style <i>know</i>. Extremely verbose.*
 - By closing your eyes, you can nullify as many of your senses as you wish.
 - Each time you study this book, choose an object in your inventory. Now think about the *idea* of that object. Transform that object into anything that would still match the *idea* of that object.
 - Roll 1D4, you gain the following spell: 1. [Absolute Reality](/2020/11/13/absolute-reality/), 2. [Flower War](/2020/11/13/flower-war/), 3. [Metaphorical Edge](/2020/11/13/metaphorical-edge/), 4. [Palace of Thorns](/2020/11/13/palace-of-thorns/)
@@ -403,7 +403,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>41. Eight-Legged Whispers</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Like a cocoon with 4 beady eyes that you unravel.*
 - You have a pet spider the size of your hand (0 HP).
-- Each time you study this book after the first time, you can either resurrect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
+- Each time you study this book, you can either resurrect your pet spider or give it an additional HD and increase its size. At 3 HD you can ride it like a horse.
 - Roll 1D4, you gain the following spell: 1. [Arachnophobia](/2020/11/13/arachnophobia/), 2. [Bubble Helmet](/2020/11/13/bubble-coat/), 3. [Pass Without Trace](/2020/11/13/pass-without-trace/), 4. [Venom Bullet](/2020/11/13/venom-bullet/)
 ###### *From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)!*
 </details>
@@ -412,7 +412,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>42. Shadoom's Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Grinning teeth are drawn on the cover, an ass on the back. Sometimes screams.*
 - You can speak with monkeys.
-- Each time you study this book, gain two new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html), except they are disguised baboons. They cant speak, but can climb and throw things. Each count as 0.5 follower.
+- Each time you study this book, gain two new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html), except they are baboons in constumes. They cant speak, but can climb and throw things. Each count as 0.5 follower.
 - Roll 1D4, you gain the following spell: 1. [Call of the Baboon](/2020/11/12/call-of-the-animal/), 2. [Elevate Beast](/2020/11/13/elevate-beast/), 3. [Possess Pet](/2020/11/13/possess-pet/), 4. [Shadoom's Serpication](/2020/11/13/shadooms-serpication/)
 ###### *From Goblin Punch's [Baboonist](https://goblinpunch.blogspot.com/2019/07/new-wizard-baboonist.html)!*
 </details>
@@ -430,7 +430,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>44. Yubaba's Grimoire</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
 - If someone makes a bargain with you and breaks it, you instantly know about it.
-- Each time you study this book, you can transform into your witch form for an extra hour per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form.
+- Each time you study this book, you can transform into your witch form for an extra 10 minutes per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form, and if you have studied this book four times, it has no duration limit.
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dream Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
 </details>
@@ -465,7 +465,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>49. Manifesto of Radical Aesthetic</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Iridescent. Fashion of the time that will find academic respect two decades later.*
-- You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every five minutes you do this to keep your audience engaged.
+- You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every ten minutes you do this to keep your audience engaged.
 - Each time you study this book, you can alter the flavour of one spell you know to anything you would like. It does not change the spell's mechanical effect, but when cast by you, you can alter the [sum] by 1 point.
 - Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
 ###### *From A Blasted Cratered Land's [Chromatomancer](https://crateredland.blogspot.com/2019/09/chromatomancy-colors-of-magic.html)!*
