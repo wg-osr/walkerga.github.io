@@ -642,7 +642,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>66. Tome of Grief</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Black velvet bound by two human teeth tied on a rope.*
-- When you attract a follower, it a Ghoul on top of its other characteristics.
+- When you attract a follower, it is a Ghoul on top of its other characteristics.
 - Each time you study this book, you make a magical candle with a hair or nail from somebody. The candle burns until this person dies. You can target this person with your spells through the candle.
 - Roll 1D4, you gain the following spell: 1. [Danse Macabre](/2020/11/13/danse-macabre/), 2. [Ectoplasmogenesis](/2020/11/13/ectoplasmogenesis/), 3. [Wail of Grief](/2020/11/13/wail-of-grief/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 ###### *From Archons March On's [Necromancer](https://archonsmarchon.blogspot.com/2021/06/glog-class-necromancer-wizard.html)!*
@@ -721,7 +721,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>75. Lisamarie's Note On Transportation</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover and pages are pink. Extremely complex calculations.*
-- You can cast spells silently by spending, but it takes an extra round.
+- You can cast spells silently, but it takes an extra round.
 - By focusing 10 minutes, you can teleport 1 foot for each time you've studied this book.
 - Roll 1D4, you gain the following spell: 1. [Blink](/2020/11/13/blink/), 2. [Project Self](/2020/11/13/project-self/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
 ###### *From Princess a Pioneers's [Telemage](https://princesses-and-pioneers.tumblr.com/post/183711068718/telemancer)!*
