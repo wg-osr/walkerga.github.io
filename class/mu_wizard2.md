@@ -528,8 +528,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>56. Book of Old Anostos</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Must have been beautiful before the city was swallowed by the sea. Now faded.*
-- You lose all your SDs if you touch water and you sink. However, once you are out of SD, you can vomit one random barnacle-encrusted [object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
-- For each time you studied this book, you discover a secret society of survivors of Anostos in city of your choice. You choose their expertise.
+- You lose all your SDs if you touch water. You sink. However, once you are out of SD, you can vomit one random barnacle-encrusted [object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
+- For each time you studied this book, you discover a secret society of survivors of Anostos in a city of your choice. You choose their trade or expertise.
 - Roll 1D4, you gain the following spell: 1. [Amplify Resonance](/2020/11/13/amplify-resonance/), 2. [Desiccate](/2020/11/13/desiccate/), 3. [Command Coins](/2020/11/13/command-coins/), 4. [Universal Knot](/2020/11/13/universal-knot/)
 ###### *From Coins and Scrolls's [Drowned Wizard](https://coinsandscrolls.blogspot.com/2017/06/osr-drowned-wizards.html)!*
 </details>
