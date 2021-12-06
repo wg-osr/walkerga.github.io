@@ -862,4 +862,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Number Arent Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)!*
 </details>
 
-I'm missing 10! Ping me on discord/reddit if you have ideas.
+<details markdown="1">
+<summary><b>91. Grimoire of the Invisible Light</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Academic treatise. Glows in the dark.*
+- You can force radiation onto crystal, glass, liquid or gas, making it scintillate and emit light as a candle as long as you touch it. 
+- Each time you study this book, you [mutate](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html). Alternatively, you can produce a vestment that protects the wearer against mutations.
+- Roll 1D4, you gain the following spell: 1. [Contact Dragon](/2020/11/13/contact-dragon/), 2. [Thief Trap](/2020/11/13/thief-trap/), 3. [Warning Light](/2020/11/13/warning-light/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
+###### *From Unlawful Games's [Radiomancer](http://unlawfulgames.blogspot.com/2018/08/osr-radiomancer.html)!*
+</details>
+
+I'm missing 9! Ping me on discord/reddit if you have ideas.
