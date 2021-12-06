@@ -866,7 +866,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>91. Grimoire of the Invisible Light</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Academic treatise. Glows in the dark.*
 - You can force radiation onto crystal, glass, liquid or gas, making it scintillate and emit light as a candle as long as you touch it. 
-- Each time you study this book, you [mutate](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html). Alternatively, you can produce a vestment that protects the wearer against mutations.
+- Each time you would get a Doom Point, you can [mutate](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) instead. You explode if you have more mutations than your Constitution. 
+- Each time you study this book, you can remove or reroll 2 mutations off yourself or another.
 - Roll 1D4, you gain the following spell: 1. [Contact Dragon](/2020/11/13/contact-dragon/), 2. [Thief Trap](/2020/11/13/thief-trap/), 3. [Warning Light](/2020/11/13/warning-light/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
 ###### *From Unlawful Games's [Radiomancer](http://unlawfulgames.blogspot.com/2018/08/osr-radiomancer.html)!*
 </details>
