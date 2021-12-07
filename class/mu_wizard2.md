@@ -872,4 +872,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Unlawful Games's [Radiomancer](http://unlawfulgames.blogspot.com/2018/08/osr-radiomancer.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>92. Scientific Observations on Magic</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Volumnious and innaccessible. Cover made of gum.*
+- You can learn the temperature, mass, or volume of any discrete object you can see. 
+- Each time you study this book, you gain one piece of equipment to protect one part of your body from a specific hazard.
+- Roll 1D4, you gain the following spell: 1. [Excitation](/2020/11/13/excitation/), 2. [Exhaust](/2020/11/13/exhaust/), 3. [Isotope Tag](/2020/11/13/isotope-tag/), 4. [Photomultiplication](/2020/11/13/photomultiplication/)
+###### *From Princesses and Pioneers's [Science Wizard](https://princesses-and-pioneers.tumblr.com/post/183590194713/science-wizard)!*
+</details>
+
 I'm missing 9! Ping me on discord/reddit if you have ideas.
