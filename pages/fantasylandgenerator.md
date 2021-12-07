@@ -138,6 +138,7 @@
     'rocks',
     'flames',
     'starry sky',
+    'wind',
   ];      
    
    gen_data['astralfeature'] = [
@@ -170,6 +171,7 @@
     'a massive {astraladjective} sandstorm looms',
     'a {astraladjective} sun shines',
     'a {astraladjective} astral shipyard stands',
+    'a {astraladjective} flying palace sits',
  ];
       
    gen_data['astraladjective'] = [
@@ -202,6 +204,7 @@
     'granite',
     'burning',
     'industrial',
+    'luxurious',
   ];
 
    gen_data['astralobstacle'] = [
@@ -233,6 +236,7 @@
     'flying boulders',
     'flames',
     'metal scraps',
+    'golden lamps',
   ];
       
    gen_data['astralhazard'] = [
@@ -265,6 +269,7 @@
     'crashing into you',
     'coming from below',
     'that could hurt you',
+    'warping reality',
   ];
 
    gen_data['astralmonster'] = [
@@ -297,6 +302,7 @@
     'Earth Elementals who {earthelementalwants}',
     'Fire Elementals who {fireelementalwants}',
     'Engines of Pain {engineofpainown}',
+    'a Djinn {djinnwants}',
   ];
       
       
@@ -497,6 +503,7 @@ gen_data['mainelemental'] = [
     'A sky-temple was built beyond the',
     'Flying icebergs host the',
     'A hurricane has its eye set on the',
+    'Cloud roads lead to the hovering',
   ];
  
  gen_data['airhazard'] = [
@@ -504,13 +511,14 @@ gen_data['mainelemental'] = [
     'will summon gusts to split your party',
     'can open portals to the sky',
     'freeze everything',
-    'are hidden behind flying rocks',
+    'hidden behind flying rocks',
     'vaporize mineral matter that gets too close',
     'hide in clouds',
     'augment air magic',
     'attract Air Elementals',
     'create blizzards around them',
     'carried by the wind',
+    'belonging to the pasha',
 
   ];    
             
@@ -526,6 +534,7 @@ gen_data['mainelemental'] = [
     'started worshipping a giant Air Elemental',
     'became hunted by the Winter Court',
     'started riding tornadoes',
+    'became enroled by the pasha',
   ];    
  
   gen_data['airmonster'] = [
@@ -540,6 +549,7 @@ gen_data['mainelemental'] = [
     'a Sorcerous Cabal that {sorcererwants}',  
     'a Bralani who {bralaniwants}',    
     'Air Elementals who {airelementalwants}',
+    'a Djinn {djinnwants}',
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -588,6 +598,7 @@ gen_data['mainelemental'] = [
     'An ivory tower rises above the',
     'A crystal-harvesting open-air mine has dug out the',
     'A force field protects the idyllic',
+    'A magical lamp has absorbed the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -624,6 +635,7 @@ gen_data['mainelemental'] = [
     'shimmer in a hypnotizing kaleidoscope of lights',
     'have become toxic from industrial waste',
     'were placed here by a heroic Archmage',
+    'might be spying for a Djinn',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -660,6 +672,7 @@ gen_data['mainelemental'] = [
     'became servant to the Elven High Mages',
     'fled the new construction',
     'can speak with all animals',
+    'got a wish granted',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -696,6 +709,7 @@ gen_data['mainelemental'] = [
     'High Elves who {highelfculture} {highelfproblem}',
     'Engines of Pain {engineofpainown}',
     'a rare Audreena who {audreenawants}',
+    'a Djinn {djinnwants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2931,6 +2945,7 @@ gen_data['desertadjective'] = [
     'burning',
     'arid',
     'twin',
+    'legendary',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -2969,6 +2984,7 @@ gen_data['desertadjective'] = [
     'tar pits',
     'shrubs',
     'rock',
+    'dunes',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3007,6 +3023,7 @@ gen_data['desertadjective'] = [
     'tar pits',  
     'shrubs',  
     'heavy boulders',  
+    'magical lamps',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3083,6 +3100,7 @@ gen_data['desertadjective'] = [
     'Fire Elementals who {fireelementalwants}',
     '{elktotem}{giant}Antelopes',
     'Ettins {ettinculture} {ettinproblem}',
+    'a Djinn {djinnwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4395,6 +4413,14 @@ gen_data['arcticadjective'] = [
     'seeks the creator of a new spell',
     'seeks a Wizard who escaped death',
     'seeks an hermit',
+  ];
+   gen_data['djinnwants'] = [
+    'on a culinary journey',
+    'laughing at the inherent comedy of winged creatures',
+    'trapped by a spoiled master',
+    'manifesting its master’s last wish',
+    'harvesting materials for its sky palace',
+    'who is bound to the place and bored to death',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
