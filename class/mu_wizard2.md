@@ -874,7 +874,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>92. Scientific Observations on Magic</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Volumnious and innaccessible. Cover made of gum.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Voluminous and innaccessible. Cover made of resin.*
 - You can learn the temperature, mass, or volume of any discrete object you can see. 
 - Each time you study this book, you gain one piece of equipment to protect one part of your body from a specific hazard.
 - Roll 1D4, you gain the following spell: 1. [Desiccate](/2020/11/13/desiccate/), 2. [Alter Gravity](/2020/11/13/alter-gravity/), 3. [Draw Heat](/2020/11/13/draw-heat/), 4. [Phase Shift](/2020/11/13/phase-shift/)
