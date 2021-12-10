@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: monster undead desert rocky underdark cursed astral earth
-permalink: /monsters/ghost
-title: Ghost
+permalink: /monsters/ghost-dhaot
+title: Ghost, Dhaot
 ---
 
 Ghost of a lost, thirsty traveler. An undead.
