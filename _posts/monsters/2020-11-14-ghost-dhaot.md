@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead desert rocky underdark cursed astral elemental
+tags: monster undead desert rocky underdark cursed astral earth
 permalink: /monsters/ghost
 title: Ghost
 ---
