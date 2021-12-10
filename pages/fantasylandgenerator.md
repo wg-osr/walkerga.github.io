@@ -3686,7 +3686,7 @@ gen_data['arcticadjective'] = [
     'and are rumored to be local babies abducted by Hags',
     'with the help of their leaderʼs magical item',
     'to search for a mythical recipe',
-    'with Goblins as their intellectual leaders',
+    'under the leadership of goblins',
     'and live like kings',
     'and are actually pretty sweet',
   ];
