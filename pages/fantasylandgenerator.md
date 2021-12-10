@@ -139,6 +139,7 @@
     'flames',
     'starry sky',
     'wind',
+    'ectoplasma',
   ];      
    
    gen_data['astralfeature'] = [
@@ -172,6 +173,7 @@
     'a {astraladjective} sun shines',
     'a {astraladjective} astral shipyard stands',
     'a {astraladjective} flying palace sits',
+    'a lone {astraladjective} house drifts',
  ];
       
    gen_data['astraladjective'] = [
@@ -205,6 +207,7 @@
     'burning',
     'industrial',
     'luxurious',
+    'gloomy',
   ];
 
    gen_data['astralobstacle'] = [
@@ -237,6 +240,7 @@
     'flames',
     'metal scraps',
     'golden lamps',
+    'screams',
   ];
       
    gen_data['astralhazard'] = [
@@ -270,6 +274,7 @@
     'coming from below',
     'that could hurt you',
     'warping reality',
+    'that could shake your soul',
   ];
 
    gen_data['astralmonster'] = [
@@ -303,6 +308,7 @@
     'Fire Elementals who {fireelementalwants}',
     'Engines of Pain {engineofpainown}',
     'a Djinn {djinnwants}',
+    'a Ghost who {ghostwants}',
   ];
       
       
@@ -937,6 +943,7 @@ gen_data['mainelemental'] = [
     'The souls of sinners are bound to',
     'A humongous temple dwarfs',
     'A pharaonic structure is being built passed',
+    'The soul of a terrible sinner is prisoner of',
   ];
       
  gen_data['divinechazard'] = [
@@ -951,6 +958,7 @@ gen_data['mainelemental'] = [
     'speak with the voices of damned souls',
     'will only let faithful pass',
     'are near the immensely high wall',
+    'were created to torment sinners',
   ];    
       
   gen_data['divinetaint'] = [
@@ -965,6 +973,7 @@ gen_data['mainelemental'] = [
     'started wailing for the salvation of sinners',
     'joined the Church',
     'became cursed to repeat a sisyphean task',
+    'commited a terrible sin',
 
   ];    
  
@@ -980,6 +989,7 @@ gen_data['mainelemental'] = [
     'a {deathsheadtotem} Death’s Head Tree',
     'church-owned Stone Golems',
     'Engines of Pain {engineofpainown}',
+    'a Ghost who {ghostwants}',
  ];
 
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1009,6 +1019,7 @@ gen_data['mainelemental'] = [
     'Elven ruins doomed',
     'Silver threads bind all the souls at',
     'Parts of the Old Kingdom used to be situated at',
+    'A terrible crime was commited at',
   ];
       
  gen_data['cursedchazard'] = [
@@ -1025,6 +1036,7 @@ gen_data['mainelemental'] = [
     'manifest memories of a decadent past',
     'are actually the small manifested parts of an invisible ghostly structure',
     'make the dead come back as Specters',
+    'are haunted',
 
   ];    
       
@@ -1042,6 +1054,7 @@ gen_data['mainelemental'] = [
     'became magic-starved shadows',
     'became semi-ethereal',
     'became specters',
+    'aged unnaturally',
   ];    
  
   gen_data['cursedmonster'] = [
@@ -1058,7 +1071,7 @@ gen_data['mainelemental'] = [
     'Elven Shadows who {elfshadowwants}',
     '{astralspinnertotem} Astral Spinners',
     'a Wraith that {wraithwants}',
-
+    'a Ghost who {ghostwants}',
  ];
 
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1195,6 +1208,7 @@ gen_data['darkgate'] = [
     'dam',
     'spider nest',
     'lake',
+    'haunted house',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1236,6 +1250,7 @@ gen_data['darkgatecomplication'] = [
     'sealed iron doors in it',
     'sticky webs covering it',
     'rapids blocking the path',
+    'the Ghost that haunts the place',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1277,6 +1292,7 @@ gen_data['tunneladjective'] = [
     'iron-reinforced',
     'web-tangled',
     'flooded',
+    'haunted',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1319,6 +1335,7 @@ gen_data['tunnelfeature'] = [
     'mines',
     'dens',
     'underground rivers',
+    'tunnels leading to a grave',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1361,6 +1378,7 @@ gen_data['tunnelhazard'] = [
     'earth-spliting',
     'falling',
     'underwater',
+    'haunting',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1403,6 +1421,7 @@ gen_data['tunnelobstacle'] = [
     'giant drills',
     'spider webs',
     'streams',
+    'voices',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1445,6 +1464,7 @@ gen_data['tunnelmonster'] = [
     'Engines of Pain {engineofpainown}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
     '{fishtotem}{giant}Fishes',
+    'a Ghost who {ghostwants}',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1609,6 +1629,7 @@ gen_data['cityadjective'] = [
     'iron-clad',
     'suspended',
     'twin',
+    'lugubrious',
  
   ];
   gen_data['cityfeature'] = [
@@ -1648,6 +1669,7 @@ gen_data['cityadjective'] = [
     'unfinished construction',
     'silk mills',
     'war lord',
+    'crime',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1687,6 +1709,7 @@ gen_data['cityadjective'] = [
     'construction workers',
     'ziplines',
     'heavy carts',
+    'gallows',
 
   ];
   gen_data['cityhazard'] = [
@@ -1726,6 +1749,7 @@ gen_data['cityadjective'] = [
     'hold heavy construction materials',
     'could collapse at any time',
     'race down the streets',
+    'are haunted',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1764,6 +1788,7 @@ gen_data['cityadjective'] = [
     'Engines of Pain {engineofpainown}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
     'Ettins {ettinculture} {ettinproblem}',
+    'a Ghost who {ghostwants}',
 
   ];
 
@@ -4421,6 +4446,14 @@ gen_data['arcticadjective'] = [
     'manifesting its master’s last wish',
     'harvesting materials for its sky palace',
     'who is bound to the place and bored to death',
+  ];
+   gen_data['ghostwants'] = [
+    'longs to be properly buried',
+    'seeks revenge on its murderer and their descendents',
+    'seeks proper credit for a discovery it made when alive',
+    'wants to experience one last thing through possession',
+    'longs to be acknowledged and forgiven by its old lover',
+    'seeks to ruin the person who ruined them',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
