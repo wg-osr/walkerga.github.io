@@ -140,6 +140,7 @@
     'starry sky',
     'wind',
     'ectoplasma',
+    'sandstorms',
   ];      
    
    gen_data['astralfeature'] = [
@@ -174,6 +175,7 @@
     'a {astraladjective} astral shipyard stands',
     'a {astraladjective} flying palace sits',
     'a lone {astraladjective} house drifts',
+    '{astraladjective} mirages appear',
  ];
       
    gen_data['astraladjective'] = [
@@ -208,6 +210,7 @@
     'industrial',
     'luxurious',
     'gloomy',
+    'sand',
   ];
 
    gen_data['astralobstacle'] = [
@@ -241,6 +244,7 @@
     'metal scraps',
     'golden lamps',
     'screams',
+    'solar rays',
   ];
       
    gen_data['astralhazard'] = [
@@ -275,6 +279,7 @@
     'that could hurt you',
     'warping reality',
     'that could shake your soul',
+    'draining humidity',
   ];
 
    gen_data['astralmonster'] = [
@@ -309,6 +314,7 @@
     'Engines of Pain {engineofpainown}',
     'a Djinn {djinnwants}',
     'a Ghost who {ghostwants}',
+    'a Dhaot who {dhaotwants}',
   ];
       
       
@@ -455,6 +461,7 @@ gen_data['mainelemental'] = [
     'A mysterious tower attracts earthquakes to the',
     'An earth-temple was built beyond the',
     'A giant earth maw has swallowed the',
+    'A permanent sandstorm engulfs the',
   ];
  
  gen_data['earthhazard'] = [
@@ -468,6 +475,7 @@ gen_data['mainelemental'] = [
     'augment earth magic',
     'attract Earth Elementals',
     'cause earthquakes',
+    'turn water into sand',
   ];    
             
   gen_data['earthtaint'] = [
@@ -481,6 +489,7 @@ gen_data['mainelemental'] = [
     'can cast earth magic',
     'started worshipping a giant Earth Elemental',
     'became displaced here because of an earthquake in their homeland',
+    'got lost in a sandstorm',
   ];    
  
   gen_data['earthmonster'] = [
@@ -494,6 +503,7 @@ gen_data['mainelemental'] = [
     'an Earth Cult that {cultwants}',
     'a Sorcerous Cabal that {sorcererwants}',
     'Earth Elementals who {earthelementalwants}',
+    'a Dhaot who {dhaotwants}',
       ];
 
       
@@ -1020,6 +1030,7 @@ gen_data['mainelemental'] = [
     'Silver threads bind all the souls at',
     'Parts of the Old Kingdom used to be situated at',
     'A terrible crime was commited at',
+    'Most life has left the',
   ];
       
  gen_data['cursedchazard'] = [
@@ -1037,6 +1048,7 @@ gen_data['mainelemental'] = [
     'are actually the small manifested parts of an invisible ghostly structure',
     'make the dead come back as Specters',
     'are haunted',
+    'weaken creatures who get too close',
 
   ];    
       
@@ -1055,6 +1067,7 @@ gen_data['mainelemental'] = [
     'became semi-ethereal',
     'became specters',
     'aged unnaturally',
+    'got lost and were never found again',
   ];    
  
   gen_data['cursedmonster'] = [
@@ -1072,6 +1085,7 @@ gen_data['mainelemental'] = [
     '{astralspinnertotem} Astral Spinners',
     'a Wraith that {wraithwants}',
     'a Ghost who {ghostwants}',
+    'a Dhaot who {dhaotwants}',
  ];
 
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2591,6 +2605,7 @@ gen_data['rockyadjective'] = [
     'granite',
     'lichen-covered',
     'twin',
+    'barren',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2632,6 +2647,7 @@ gen_data['rockyadjective'] = [
     'fault line',
     'vales',
     'rock',
+    'waste',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2673,6 +2689,7 @@ gen_data['rockyadjective'] = [
     'earthquakes',
     'shrubs',
     'rock slabs',
+    'heat waves',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2683,7 +2700,7 @@ gen_data['rockyadjective'] = [
     'are sticky',
     'are treacherous',
     'could distract you',
-    'you could sink into',
+    'could make you sink',
     'could hide cliffs',
     'are surprisingly deep',
     'could slow you down',
@@ -2714,6 +2731,7 @@ gen_data['rockyadjective'] = [
     'can make the ground collapse',  
     'attract carnivores',  
     'require a lot of strength to overcome',  
+    'could dehydrate you',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2754,6 +2772,7 @@ gen_data['rockyadjective'] = [
     'Earth Elementals who {earthelementalwants}',
     '{elktotem}{giant}Antelopes',
     'Ettins {ettinculture} {ettinproblem}',
+    'a Dhaot who {dhaotwants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2971,6 +2990,7 @@ gen_data['desertadjective'] = [
     'arid',
     'twin',
     'legendary',
+    'arid',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3010,6 +3030,7 @@ gen_data['desertadjective'] = [
     'shrubs',
     'rock',
     'dunes',
+    'vastness',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3049,6 +3070,7 @@ gen_data['desertadjective'] = [
     'shrubs',  
     'heavy boulders',  
     'magical lamps',  
+    'hours of the day',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3087,6 +3109,7 @@ gen_data['desertadjective'] = [
     'are highly flammable',
     'attract carnivores',
     'require a lot of strength to overcome',
+    'could dehydrate you',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3126,6 +3149,7 @@ gen_data['desertadjective'] = [
     '{elktotem}{giant}Antelopes',
     'Ettins {ettinculture} {ettinproblem}',
     'a Djinn {djinnwants}',
+    'a Dhaot who {dhaotwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4454,6 +4478,14 @@ gen_data['arcticadjective'] = [
     'wants to experience one last thing through possession',
     'longs to be acknowledged and forgiven by its old lover',
     'seeks to ruin the person who ruined them',
+  ];
+   gen_data['dhaotwants'] = [
+    'longs to return to a loved one',
+    'failed to deliver an important message',
+    'could not finish its pilgrimage',
+    'failed to return a stolen archeological relic',
+    'was not able to reach the sea',
+    'misses its trusty mount',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
