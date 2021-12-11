@@ -1031,6 +1031,7 @@ gen_data['mainelemental'] = [
     'Parts of the Old Kingdom used to be situated at',
     'A terrible crime was commited at',
     'Most life has left the',
+    'A hunger for death has overcome the aread around',
   ];
       
  gen_data['cursedchazard'] = [
@@ -1049,7 +1050,7 @@ gen_data['mainelemental'] = [
     'make the dead come back as Specters',
     'are haunted',
     'weaken creatures who get too close',
-
+    'could make you feral',
   ];    
       
   gen_data['cursedtaint'] = [
@@ -1068,6 +1069,7 @@ gen_data['mainelemental'] = [
     'became specters',
     'aged unnaturally',
     'got lost and were never found again',
+    'became cannibalistic',
   ];    
  
   gen_data['cursedmonster'] = [
@@ -1086,6 +1088,7 @@ gen_data['mainelemental'] = [
     'a Wraith that {wraithwants}',
     'a Ghost who {ghostwants}',
     'a Dhaot who {dhaotwants}',
+    'Ghouls {ghoulwants}',    
  ];
 
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1117,6 +1120,7 @@ gen_data['mainelemental'] = [
     'Pus is oozing out of',
     'There is nothing left of',
     'A pleasure cult twisted',
+    'Feral cannibals roam the',
   ];
       
  gen_data['chaoschazard'] = [
@@ -1135,6 +1139,7 @@ gen_data['mainelemental'] = [
     'belch toxic sludge',
     'make every surface sticky',
     'create depraved illusions',
+    'provoke bloodlust',
   ];    
       
   gen_data['chaostaint'] = [
@@ -1153,6 +1158,7 @@ gen_data['mainelemental'] = [
     'grew stinky gas sacks',
     'lost many limbs',
     'became hungry faint shadows',
+    'became cannibalistic',
   ];    
  
   gen_data['chaosmonster'] = [
@@ -1171,6 +1177,7 @@ gen_data['mainelemental'] = [
     '{dretchclue} Dretch demons',
     '{egarustotem} Egarus Fungi',
     'Elven Shadows who {elfshadowwants}',
+    'Ghouls {ghoulwants}',    
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
@@ -1223,6 +1230,8 @@ gen_data['darkgate'] = [
     'spider nest',
     'lake',
     'haunted house',
+    'quicksands', 
+    'mass grave', 
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1265,6 +1274,8 @@ gen_data['darkgatecomplication'] = [
     'sticky webs covering it',
     'rapids blocking the path',
     'the Ghost that haunts the place',
+    'the dead bodies piled in it',
+    'the complete lack of drinkeable water around',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1307,6 +1318,8 @@ gen_data['tunneladjective'] = [
     'web-tangled',
     'flooded',
     'haunted',
+    'abandonned',
+    'barren',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1350,6 +1363,8 @@ gen_data['tunnelfeature'] = [
     'dens',
     'underground rivers',
     'tunnels leading to a grave',
+    'tunnels with a doomed human camp',
+    'tunnels',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1393,6 +1408,8 @@ gen_data['tunnelhazard'] = [
     'falling',
     'underwater',
     'haunting',
+    'maddening',
+    'dehydrating',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1436,6 +1453,8 @@ gen_data['tunnelobstacle'] = [
     'spider webs',
     'streams',
     'voices',
+    'smell of blood',
+    'heat',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1479,6 +1498,8 @@ gen_data['tunnelmonster'] = [
     'Ettercaps who {ettercapculture} {ettercapproblem}',
     '{fishtotem}{giant}Fishes',
     'a Ghost who {ghostwants}',
+    'a Dhaot who {dhaotwants}',
+    'Ghouls {ghoulwants}',    
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1644,6 +1665,7 @@ gen_data['cityadjective'] = [
     'suspended',
     'twin',
     'lugubrious',
+    'gory',
  
   ];
   gen_data['cityfeature'] = [
@@ -1684,6 +1706,7 @@ gen_data['cityadjective'] = [
     'silk mills',
     'war lord',
     'crime',
+    'cannibals',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1724,6 +1747,7 @@ gen_data['cityadjective'] = [
     'ziplines',
     'heavy carts',
     'gallows',
+    'piles of dead bodies',
 
   ];
   gen_data['cityhazard'] = [
@@ -1764,6 +1788,7 @@ gen_data['cityadjective'] = [
     'could collapse at any time',
     'race down the streets',
     'are haunted',
+    'that carry rabies',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} Abhir demon',
@@ -1803,6 +1828,7 @@ gen_data['cityadjective'] = [
     'Ettercaps who {ettercapculture} {ettercapproblem}',
     'Ettins {ettinculture} {ettinproblem}',
     'a Ghost who {ghostwants}',
+    'Ghouls {ghoulwants}',    
 
   ];
 
@@ -1851,7 +1877,8 @@ gen_data['swampadjective'] = [
     'oozing',
     'unnaturally warm',
     'flooded',
- 
+    'once-settled',
+
   ];
   gen_data['swampfeature'] = [
     'mangrove',
@@ -1890,6 +1917,7 @@ gen_data['swampadjective'] = [
     'rot shrine',
     'hunting grounds',
     'rivers',
+    'cabins',
  
   ];
   gen_data['swampobstacle'] = [
@@ -1929,6 +1957,7 @@ gen_data['swampadjective'] = [
     'ooze bubbles',
     'tree stumps',
     'currents',
+    'rotten carcasses',
 
   ];
   gen_data['swamphazard'] = [
@@ -1968,6 +1997,7 @@ gen_data['swampadjective'] = [
     'are observing you',
     'could split the party',
     'could drown you',
+    'carry rabies',
       
   ];
   gen_data['swampmonster'] = [
@@ -2007,6 +2037,7 @@ gen_data['swampadjective'] = [
     'Ooze Mephits who {oozemephitwants}',
     'an Eloko who {elokowants}',
     '{fishtotem}{giant}Fishes',
+    'Ghouls {ghoulwants}',    
   ]; 
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2399,6 +2430,7 @@ gen_data['jungleadjective'] = [
     'flooded',    
     'high',    
     'twin',    
+    'once-settled',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2439,6 +2471,7 @@ gen_data['jungleadjective'] = [
     'hunting grounds',
     'treetops',
     'hills',
+    'sacrifical pits',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2478,6 +2511,7 @@ gen_data['jungleadjective'] = [
     'tree stumps',
     'spider webs',
     'fallen trees',
+    'rotting carcasses',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2517,6 +2551,7 @@ gen_data['jungleadjective'] = [
     'could split the party',
     'you could run into',
     'require a lot of strength to overcome',
+    'carry rabies',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}Aqraseths',
@@ -2556,6 +2591,7 @@ gen_data['jungleadjective'] = [
     'an Eloko who {elokowants}',
     'Ettercaps who {ettercapculture} {ettercapproblem}',
     'Ettins {ettinculture} {ettinproblem}',
+    'Ghouls {ghoulwants}',    
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2606,6 +2642,7 @@ gen_data['rockyadjective'] = [
     'lichen-covered',
     'twin',
     'barren',
+    'ravaged',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2648,6 +2685,7 @@ gen_data['rockyadjective'] = [
     'vales',
     'rock',
     'waste',
+    'cabins',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2690,6 +2728,7 @@ gen_data['rockyadjective'] = [
     'shrubs',
     'rock slabs',
     'heat waves',
+    'rotting carcasses',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2732,6 +2771,7 @@ gen_data['rockyadjective'] = [
     'attract carnivores',  
     'require a lot of strength to overcome',  
     'could dehydrate you',  
+    'carry rabies',  
   ];
   gen_data['rockymonster'] = [
     'Athachs who {athachculture} {athachproblem}',
@@ -2773,6 +2813,7 @@ gen_data['rockyadjective'] = [
     '{elktotem}{giant}Antelopes',
     'Ettins {ettinculture} {ettinproblem}',
     'a Dhaot who {dhaotwants}',
+    'Ghouls {ghoulwants}',    
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2991,6 +3032,7 @@ gen_data['desertadjective'] = [
     'twin',
     'legendary',
     'arid',
+    'once-settled',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3031,6 +3073,7 @@ gen_data['desertadjective'] = [
     'rock',
     'dunes',
     'vastness',
+    'cave network',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3058,7 +3101,7 @@ gen_data['desertadjective'] = [
     'hidden pit traps',  
     'gravel pits',  
     'wild energies',  
-    'war banners',  
+    'spiked barricades',  
     'sacred {desertbeast}',  
     'mud puddles',  
     'tiny flies',  
@@ -3071,6 +3114,7 @@ gen_data['desertadjective'] = [
     'heavy boulders',  
     'magical lamps',  
     'hours of the day',  
+    'rotting carcasses',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3110,6 +3154,7 @@ gen_data['desertadjective'] = [
     'attract carnivores',
     'require a lot of strength to overcome',
     'could dehydrate you',
+    'carry rabies',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3150,6 +3195,7 @@ gen_data['desertadjective'] = [
     'Ettins {ettinculture} {ettinproblem}',
     'a Djinn {djinnwants}',
     'a Dhaot who {dhaotwants}',
+    'Ghouls {ghoulwants}',    
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3191,6 +3237,7 @@ gen_data['arcticadjective'] = [
     'wooded',
     'white',
     'twin',
+    'ravaged',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3223,6 +3270,7 @@ gen_data['arcticadjective'] = [
     'pastures',
     'tower',
     'rock',
+    'cabins',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3255,6 +3303,7 @@ gen_data['arcticadjective'] = [
     'rivers',  
     'auroras',  
     'thin ice',  
+    'frozen bodies',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3287,6 +3336,7 @@ gen_data['arcticadjective'] = [
     'are difficult to cross',
     'shimmer with hypnotizing colors',
     'will hinder heavy creatures',
+    'that attract scavengers',
   ];
   gen_data['arcticmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3319,6 +3369,7 @@ gen_data['arcticadjective'] = [
     '{elktotem}{giant}Elks',
     'High Elves who {highelfculture} {highelfproblem}',
     'Ettins {ettinculture} {ettinproblem}',
+    'Ghouls {ghoulwants}',    
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4486,6 +4537,14 @@ gen_data['arcticadjective'] = [
     'failed to return a stolen archeological relic',
     'was not able to reach the sea',
     'misses its trusty mount',
+  ];
+   gen_data['ghoulwants'] = [
+    'digging bodies out of a cemetery',
+    'hunting for preys',
+    'living a cannibalistic mockery of their former life',
+    'summoning demons of undeath',
+    'creepingly following people',
+    'stealing shiny objects',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
