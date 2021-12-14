@@ -29,7 +29,7 @@ When you would get [Wounds](/2020/11/09/base-rules/#dying--healing), you instead
 You can take 10 minutes to camouflage yourself in sand or dust. When you do so, as long as you stay immobile and in sand or dust, you are invisible and can breathe.
 
 ## Cure of Sand
-You can cure yourself one 1 poison, disease, curse, or day of hunger and fill one inventory slot with permanent sand at will.
+You can cure yourself of poison, disease, curse, or a day of hunger by filling one inventory slot with permanent sand.
 
 ## Ululate
 Your ululations carry far. They can be faintly heard across any outdoors location in your hex if you are outside, or anywhere in the dungeon you are in. To most, they are just screams, but you can hold complex conversations with other sand-cursed people in such way. In any case, using this ability triggers an encounter, but, if you are outside, it will also summon a mount for you to ride.
