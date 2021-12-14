@@ -3621,10 +3621,10 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['centaurproblem'] = [
     'and for whom metal is blasphemous',
-    'half of the year, and disappear with the feys during the other half',
+    ', but disappear with the feys half the year',
     'under the guidance of the stars',
     'under the leadership of a Chevall',
-    'after the collapse of their civilization',
+    'since the collapse of their civilization',
     'and despise settlers',
   ];
    gen_data['bluedracopedetotem'] = [
@@ -4492,7 +4492,7 @@ gen_data['arcticadjective'] = [
     'as the {noble}’s official tailors',
   ];
      gen_data['ettinculture'] = [
-    'from the Great Horde',
+    'who joined the Great Horde',
     'who are worshipped as oracles of Demogorgon',
     'asking for a toll to use the road',
     'guarding a {noble}',
