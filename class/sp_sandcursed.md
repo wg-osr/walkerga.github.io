@@ -35,7 +35,7 @@ You can cure yourself of poison, disease, curse, or a day of hunger by filling o
 Your ululations carry far. They can be faintly heard across any outdoors location in your hex if you are outside, or anywhere in the dungeon you are in. To most, they are just screams, but you can hold complex conversations with other sand-cursed people in such way. In any case, using this ability triggers an encounter, but, if you are outside, it will also summon a mount for you to ride.
 
 ## Half-Statue
-You can speak with statues, and also look indistinguishable to one for 1 hour without moving.
+You can speak with statues, and also look indistinguishable from one for 1 hour without moving.
 
 ## Stoneskin
 You gain 1 HP for each inventory slot taken by cursed sand.
