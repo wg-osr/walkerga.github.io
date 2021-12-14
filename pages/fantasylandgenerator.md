@@ -3628,7 +3628,7 @@ gen_data['arcticadjective'] = [
     'and despise settlers',
   ];
    gen_data['bluedracopedetotem'] = [
-    'draconic',
+    'ice-spitting',
     'elemental',
     'winter-loving',
     'shy',
@@ -3815,7 +3815,7 @@ gen_data['arcticadjective'] = [
     'taboo',
   ];
    gen_data['blackdracopedetotem'] = [
-    'draconic',
+    'poison-spitting',
     'deadly',
     'venomous',
     'shy',
@@ -3903,7 +3903,7 @@ gen_data['arcticadjective'] = [
     'and are obsessed with hygiene',
   ];
    gen_data['greendracopedetotem'] = [
-    'draconic',
+    'acid-spitting',
     'territorial',
     'acidic',
     'shy',
@@ -4023,7 +4023,7 @@ gen_data['arcticadjective'] = [
     'serve a demon of lust',
   ];
    gen_data['reddracopedetotem'] = [
-    'draconic',
+    'fire-spitting',
     'fiery',
     'spitting',
     'discreet',
