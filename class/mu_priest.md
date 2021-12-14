@@ -134,4 +134,10 @@ Choices of Sacraments:
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
 
+<details markdown="1">
+<summary><b>Offer a Lamb to the Altar of Worship</b></summary> 
+- You can speak the Holy Language.
+- You can spend 10 minutes at any shrine to learn the health and disposition of the divinity in residence.
+- Once per game you can ask a divinity a question, which they will answer with a hint.
+</details>
 
