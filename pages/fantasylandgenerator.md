@@ -4280,7 +4280,7 @@ gen_data['arcticadjective'] = [
     'under the orders of a dark crystal which they worship',
     'under the control of Mind Flayers',
     'and are secretly behind half the region’s conflicts',
-    ', but their real home is in another dimension',
+    'far from their extradimensional homeland',
     'and are in the process of completely sealing off the area',
     'because their own slaves are on the verge of revolt',
   ];
