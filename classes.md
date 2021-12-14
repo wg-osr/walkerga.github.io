@@ -26,15 +26,15 @@ The [Fighter](/class/fighter)
 
 The [Wizard](/class/wizard)
 <details markdown="1">
-<summary>Magic User Subclasses</summary>
-  - **[Magic User](/class/magic-user) Schools**
-  - The [Cambion](/class/magic-user/tiefling)
-  - The [Diabolist](/class/magic-user/diabolist)
-  - The [Elf](/class/magic-user/elf)
-  - The [Goat](/class/magic-user/goat)
-  - The [Necromancer](/class/magic-user/necromancer)
-  - The [Nereid](/class/magic-user/nereid)
+  <summary>Wizard-Type Classes</summary>
   - The [Priest](/class/priest)
+  - **[Magic User](/class/magic-user) Subclasses**
+    - The [Cambion](/class/magic-user/tiefling)
+    - The [Diabolist](/class/magic-user/diabolist)
+    - The [Elf](/class/magic-user/elf)
+    - The [Goat](/class/magic-user/goat)
+    - The [Necromancer](/class/magic-user/necromancer)
+    - The [Nereid](/class/magic-user/nereid)
 </details>
 
 The [Specialist](/class/specialist)
