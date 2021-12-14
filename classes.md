@@ -38,5 +38,6 @@ The [Specialist](/class/specialist)
   - The [Goblins](/class/specialist/many-goblins)
   - The [Pigfolk](/class/specialist/pigfolk)
   - The [Salamander](/class/specialist/salamander)
+  - The [Sand-Cursed](/class/sandcursed)
   - The [Three-Armed Giant](/class/specialist/athach)
 </details>
