@@ -462,6 +462,7 @@ gen_data['mainelemental'] = [
     'An earth-temple was built beyond the',
     'A giant earth maw has swallowed the',
     'A permanent sandstorm engulfs the',
+    'A desert surrounds the petrified',
   ];
  
  gen_data['earthhazard'] = [
@@ -476,6 +477,7 @@ gen_data['mainelemental'] = [
     'attract Earth Elementals',
     'cause earthquakes',
     'turn water into sand',
+    'slowly petrify things',
   ];    
             
   gen_data['earthtaint'] = [
@@ -490,6 +492,7 @@ gen_data['mainelemental'] = [
     'started worshipping a giant Earth Elemental',
     'became displaced here because of an earthquake in their homeland',
     'got lost in a sandstorm',
+    'turned to stone',
   ];    
  
   gen_data['earthmonster'] = [
@@ -504,6 +507,7 @@ gen_data['mainelemental'] = [
     'a Sorcerous Cabal that {sorcererwants}',
     'Earth Elementals who {earthelementalwants}',
     'a Dhaot who {dhaotwants}',
+    'Desert Giants {desertgiantculture} {desertgiantproblem}',
       ];
 
       
@@ -3033,6 +3037,7 @@ gen_data['desertadjective'] = [
     'legendary',
     'arid',
     'once-settled',
+    'vast',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3074,6 +3079,7 @@ gen_data['desertadjective'] = [
     'dunes',
     'vastness',
     'cave network',
+    'sand clouds',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3115,6 +3121,7 @@ gen_data['desertadjective'] = [
     'magical lamps',  
     'hours of the day',  
     'rotting carcasses',  
+    'sandstorms',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3155,6 +3162,7 @@ gen_data['desertadjective'] = [
     'require a lot of strength to overcome',
     'could dehydrate you',
     'carry rabies',
+    'need to be avoided',
   ];
   gen_data['desertmonster'] = [
     'Airwalkers who {airwalkerwants}',
@@ -3196,6 +3204,7 @@ gen_data['desertadjective'] = [
     'a Djinn {djinnwants}',
     'a Dhaot who {dhaotwants}',
     'Ghouls {ghoulwants}',    
+    'Desert Giants {desertgiantculture} {desertgiantproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4545,6 +4554,22 @@ gen_data['arcticadjective'] = [
     'summoning demons of undeath',
     'creepingly following people',
     'stealing shiny objects',
+  ];
+  gen_data['desertgiantculture'] = [
+    'who know secret desert paths',
+    'who shepherd massive herds of sheep',
+    'Eunuchs of the Sultan',
+    'from the village hidden in the dunes',
+    'who grow a rare spice',
+    'raiders',
+  ];
+   gen_data['desertgiantproblem'] = [
+    'in the remnants of their petrified civilisation',
+    'led by flightless bird riders',
+    'atop their giant tortoise-city',
+    'under the influence of a powerful drug',
+    'controlling sandstorms',
+    'fleeing Purple Wurms',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
