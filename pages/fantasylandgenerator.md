@@ -3769,7 +3769,7 @@ gen_data['arcticadjective'] = [
    gen_data['olitiautotem'] = [
     'deadly',
     'frightening',
-    'kissing',
+    'venomous',
     'river-nesting',
     'nocturnal',
     'cursed',
