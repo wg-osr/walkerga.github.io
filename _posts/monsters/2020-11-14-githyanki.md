@@ -87,3 +87,8 @@ Find their sword, and ... (Roll as many times as the HD of the monster)
 1. A grappling hook.
 1. A bag of gems (valuable).
 </details>
+
+<details markdown="1">
+<summary>Player Class</summary>
+Play as a [githyanki](/class/magic-user/gith)!
+</details>
