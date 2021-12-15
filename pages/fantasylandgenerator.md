@@ -3460,7 +3460,7 @@ gen_data['arcticadjective'] = [
     'herd livestock',
     'grow iron fruits',
     'practice rituals to provoke a new geological era',
-    'violently protect the secrets of the druids',
+    'violently protect the secrets of the DRUIDS',
     'ask tribute for safe passage',
   ];
   gen_data['athachproblem'] = [
