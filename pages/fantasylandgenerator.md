@@ -3738,7 +3738,7 @@ gen_data['arcticadjective'] = [
     'took over a castle',
     'joined the GREAT HORDE',
     'grow giant vegetables in a secret farm',
-    'live in huts in the outskirts of towns',
+    'live in isolation',
     'manage a gigantic inn',
     'joined a brigand group',
   ];  
