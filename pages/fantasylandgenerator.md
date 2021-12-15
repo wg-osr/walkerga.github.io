@@ -1521,7 +1521,7 @@ gen_data['sea1'] = [
     'There’s a cold {arcticadjective} ISLAND with {arcticmonster} in this {4d6hexes}-hex SEA. Beware of the {seaobstacle} that {seahazard} around it. '
   ];
 gen_data['sea2'] = [
-    'This {4d6hexes}-hex sea is known for its {seaadjective} {seafeature}. Beware of the {seaobstacle} that {seahazard}. Its waters are roamed by {seamonster}, and also {seamonster}.'
+    'This {4d6hexes}-hex SEA is known for its {seaadjective} {seafeature}. Beware of the {seaobstacle} that {seahazard}. Its waters are roamed by {seamonster}, and also {seamonster}.'
   ];
 gen_data['seabeast'] = [
     'DOLPHINS', 'WHALES', 'SHARKS', 'OCTOPUSES', 'FISHES', 'PELCIANS', 'SEAGULLS', 'HERRINGS', 'TUNAS', 'SARDINES'
