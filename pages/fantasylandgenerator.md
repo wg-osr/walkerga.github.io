@@ -68,7 +68,7 @@
     'shipwreck',
     'whirlpool',
     'vents',
-    'kelp FOREST.,
+    'kelp forest',
     'sunken palace from the surface',
   ];
       
@@ -734,14 +734,14 @@ gen_data['mainelemental'] = [
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
  gen_data['mainenchanted'] = [
-    'This ENCHANTED {1d10hexes}-hex COLD REGION.is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {arcticmonster} {enchantedtaint} in this land.',
-    'This ENCHANTED {1d10hexes}-hex DESERT.is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {desertmonster} {enchantedtaint} in this land.',
-    'This ENCHANTED {1d10hexes}-hex FOREST.is known for its {enchantedadjective} {forestfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {forestmonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex COLD REGION is known for its {enchantedadjective} {arcticfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {arcticmonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex DESERT is known for its {enchantedadjective} {desertfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {desertmonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex FOREST is known for its {enchantedadjective} {forestfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {forestmonster} {enchantedtaint} in this land.',
     'This ENCHANTED {1d10hexes}-hex GRASSLAND.is known for its {enchantedadjective} {plainsfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {plainsmonster} {enchantedtaint} in this land.',
-    'This ENCHANTED {1d10hexes}-hex MOUNTAIN.chain is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {mountainmonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex MOUNTAIN RANGE is known for its {enchantedadjective} {mountainfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {mountainmonster} {enchantedtaint} in this land.',
     'This ENCHANTED {1d10hexes}-hex ROCKY REGION is known for its {enchantedadjective} {rockyfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {rockymonster} {enchantedtaint} in this land.',
-    'This ENCHANTED {1d10hexes}-hex SWAMP.is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {swampmonster} {enchantedtaint} in this land.',
-    'This ENCHANTED {1d10hexes}-hex JUNGLE.is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {junglemonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex SWAMP is known for its {enchantedadjective} {swampfeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {swampmonster} {enchantedtaint} in this land.',
+    'This ENCHANTED {1d10hexes}-hex JUNGLE is known for its {enchantedadjective} {junglefeature}. Beware of the {enchantedobstacle} that are {enchantedchazard} here. Some say this magic is the work of {enchantedmonster}. Because of that, {junglemonster} {enchantedtaint} in this land.',
    ];
 
  gen_data['enchantedadjective'] = [
@@ -3994,7 +3994,7 @@ gen_data['arcticadjective'] = [
     'want to submerge the area',
     'protect a sacred source',
     'fight the sky',
-    'fight FOREST.fires',
+    'fight forest fires',
     'dig out the earth',
     'want to return to the plane of water',
   ];
@@ -4593,7 +4593,7 @@ gen_data['arcticadjective'] = [
     <br>
     <br>
     Dont know a monster? They are descibed by climate here!<br>
-   <a href="https://saltygoo.github.io/list/urban">City</a> • <a href="https://saltygoo.github.io/list/arctic">Cold Region</a> • <a href="https://saltygoo.github.io/list/desert">Desert</a> • <a href="https://saltygoo.github.io/list/forest">Forest</a> • <a href="https://saltygoo.github.io/list/plains">Grassland</a> •  <a href="https://saltygoo.github.io/list/jungle">Jungle</a> • <a href="https://saltygoo.github.io/list/mountain">Mountain</a> • <a href="https://saltygoo.github.io/list/hills">Rocky Region</a> • <a href="https://saltygoo.github.io/list/sea">Sea</a> • <a href="https://saltygoo.github.io/list/swamp">Swamp</a> • <a href="https://saltygoo.github.io/list/underdark">Underdark</a> • <a href="https://saltygoo.github.io/list/chaos">Chaos</a> • <a href="https://saltygoo.github.io/list/cursed">Cursed</a> • <a href="https://saltygoo.github.io/list/holy">Divine</a> • <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a> • <a href="https://saltygoo.github.io/list/magical">Magic</a> • <a href="https://saltygoo.github.io/list/elemental">Elemental</a> • <a href="https://saltygoo.github.io/list/astral">Astral</a>
+   <a href="https://saltygoo.github.io/list/urban">City</a> • <a href="https://saltygoo.github.io/list/arctic">Cold Region</a> • <a href="https://saltygoo.github.io/list/desert">Desert</a> • <a href="https://saltygoo.github.io/list/forest">Forest</a> • <a href="https://saltygoo.github.io/list/plains">Grassland</a> •  <a href="https://saltygoo.github.io/list/jungle">Jungle</a> • <a href="https://saltygoo.github.io/list/mountain">Mountain</a> • <a href="https://saltygoo.github.io/list/hills">ROCKY REGION</a> • <a href="https://saltygoo.github.io/list/sea">Sea</a> • <a href="https://saltygoo.github.io/list/swamp">Swamp</a> • <a href="https://saltygoo.github.io/list/underdark">Underdark</a> • <a href="https://saltygoo.github.io/list/chaos">Chaos</a> • <a href="https://saltygoo.github.io/list/cursed">Cursed</a> • <a href="https://saltygoo.github.io/list/holy">Divine</a> • <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a> • <a href="https://saltygoo.github.io/list/magical">Magic</a> • <a href="https://saltygoo.github.io/list/elemental">Elemental</a> • <a href="https://saltygoo.github.io/list/astral">Astral</a>
     <br>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
     
