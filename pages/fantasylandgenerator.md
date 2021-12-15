@@ -3795,7 +3795,7 @@ gen_data['arcticadjective'] = [
     'plant-dwelling',
     'dreamy',
     'drunken',
-    'WITCHy',
+    'witchy',
     'sacred',
   ];
    gen_data['gianttressymtotem'] = [
@@ -3888,7 +3888,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['calytaurculture'] = [
     'ritualy deface beautiful things',
-    'lead a fertility CULT',
+    'lead a FERTILITY CULT',
     'hate all the gods',
     'are known for their cuisine',
     'roam the land',
