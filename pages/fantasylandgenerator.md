@@ -2537,7 +2537,7 @@ gen_data['jungleadjective'] = [
     'are very sticky',  
     'are scalding hot',  
     'could split the party',  
-    'infested with bugs',  
+    'are infested with bugs',  
     'could curse you',  
     'look like enemies',
     'will slow you',
