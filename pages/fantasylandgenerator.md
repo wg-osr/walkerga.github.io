@@ -3921,7 +3921,7 @@ gen_data['arcticadjective'] = [
    gen_data['greendragontotem'] = [
     'deadly',
     'forest-dwelling',
-    'WITCHy',
+    'witchy',
     'suave',
     'dreaming',
     'worshipped',
