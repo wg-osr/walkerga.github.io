@@ -420,8 +420,8 @@ gen_data['mainelemental'] = [
  gen_data['firehazard'] = [
     'augment fire magic',
     'attract FIRE ELEMENTALS',
-    'makes the flame orchids blossom',
-    'spits liquid gold',
+    'make the flame orchids blossom',
+    'spit liquid gold',
     'are boiling',
     'are set up by a fire {noble}',
     'create magma bubbles',
@@ -537,7 +537,7 @@ gen_data['mainelemental'] = [
     'augment air magic',
     'attract AIR ELEMENTALS',
     'create blizzards around them',
-    'carried by the wind',
+    'are carried by the wind',
     'belonging to the pasha',
 
   ];    
