@@ -3659,7 +3659,7 @@ gen_data['arcticadjective'] = [
     'because the gods can see through their eyes',
     'and are worshiped by ORCS',
     'and take nothing seriously',
-    'guided by their mountain-sized leader',
+    'under the guidance of their mountain-sized leader',
     'and are hunted by humans because of it',
   ];  
    gen_data['CYCLOPSkinculture'] = [
