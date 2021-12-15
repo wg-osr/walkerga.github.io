@@ -4494,10 +4494,10 @@ gen_data['arcticadjective'] = [
      gen_data['ettinculture'] = [
     'who joined the GREAT HORDE',
     'who are worshipped as oracles of DEMOGORGON',
-    'asking for a toll to use the road',
-    'guarding a {noble}',
+    'who ask for a toll to use the road',
+    'who guard a {noble}',
     'who are pet-things for feys',
-    'running an academy',
+    'who run an academy',
   ];
    gen_data['ettinproblem'] = [
     'because they are blessed offsprings of ORCS',
