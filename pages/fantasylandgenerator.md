@@ -968,7 +968,7 @@ gen_data['mainelemental'] = [
     'prevent nearby crucified sinners from dying',
     'are tended by souls awaiting judgement',
     'turn food into ash',
-    'are diabolical',
+    'are diabolical here',
     'speak with the voices of damned souls',
     'will only let faithful pass',
     'are near the immensely high wall',
