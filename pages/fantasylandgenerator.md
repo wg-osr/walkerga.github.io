@@ -3967,7 +3967,7 @@ gen_data['arcticadjective'] = [
     'sacred',
   ];
    gen_data['azizawants'] = [
-    'feed travelers for fear of being eaten themsELVES',
+    'feed travelers for fear of being eaten themselves',
     'grow fruits with faces',
     'channel sunlight into magical fruits',
     'ride Giant Bees to pollinate giant flowers',
