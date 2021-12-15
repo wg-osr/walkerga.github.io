@@ -861,7 +861,7 @@ gen_data['mainelemental'] = [
     'can dance in the clouds',
     'became made of amber',
     'became animated pieces of furniture',
-    'became bitter because of an ARCHFEY’s cruel joke',
+    'became the butt of an ARCHFEY’s cruel joke',
     'became half-fruits',
     'decided to become blind',
     'cannot tolerate heat anymore',
