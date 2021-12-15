@@ -1153,7 +1153,7 @@ gen_data['mainelemental'] = [
     'became doomed GHOSTS',
     'mutated porcine features',
     'became infested with CENTIPEDES',
-    'became covered in a flame producing rash',
+    'became covered in a flame-producing rash',
     'became flat and leathery',
     'died by suicide',
     'became weird fleshy half-trees',
