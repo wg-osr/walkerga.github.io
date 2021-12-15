@@ -1187,7 +1187,7 @@ gen_data['mainelemental'] = [
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
       
 gen_data['maindarkgate'] = [
-    'The {darkgate} found in this hex is a gate to the underdark. Descent below is complicated by {darkgatecomplication}.'
+    'The {darkgate} found in this hex is a gate to the UNDERDARK. Descent below is complicated by {darkgatecomplication}.'
   ];
 gen_data['tunnelbeast'] = [
     'BATS', 'WURMS', 'MOLES', 'LIZARD', 'CENTIPEDES', 'CRABS', 'RATS', 'SPIDERS', 'CAVE FISHES'
