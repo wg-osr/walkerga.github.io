@@ -4489,7 +4489,7 @@ gen_data['arcticadjective'] = [
     'and are rich from the silk trade',
     'as members of an ASSASSIN CULT',
     'split in two factions of ground-dwellers and ceiling-dwellers',
-    'as the {noble}’s official tailors',
+    'as a {noble}’s official tailors',
   ];
      gen_data['ettinculture'] = [
     'who joined the GREAT HORDE',
