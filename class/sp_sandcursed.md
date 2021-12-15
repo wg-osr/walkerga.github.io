@@ -17,7 +17,7 @@ Your choice of Desert Shepherd, Eunuch of the Sultan, or Memories of Eons Past
 
 For every Sand-Cursed template you have, increase your HP by 1.
 
-**A:** Curse of Sand, Duster<br>
+**A:** Curse of Sand, Dust Devil<br>
 **B:** Cure of Sand, Ululate<br>
 **C:** Half-Statue<br>
 **D:** Stoneskin<br>
@@ -25,8 +25,8 @@ For every Sand-Cursed template you have, increase your HP by 1.
 ## Curse of Sand
 When you would get [Wounds](/2020/11/09/base-rules/#dying--healing), you instead fill as many inventory slots with sand. This sand cannot be removed from your inventory normally. You might never die, but you will eventually be unable to move because of [encumbrance](/2020/11/09/base-rules/#inventory).
 
-## Duster
-You can take 10 minutes to camouflage yourself in sand or dust. When you do so, as long as you stay immobile and in sand or dust, you are invisible and can breathe.
+## Dust Devil
+On your turn, you can create a whirlwind of sand and dust that extends 10' around you, blinding creatures who fail their save, and, if there is enough sand nearby to hide you, you can sneakily teleport inside it with enough air to breathe 10 minutes.
 
 ## Cure of Sand
 You can cure yourself of poison, disease, curse, or a day of hunger by filling one inventory slot with permanent sand.
