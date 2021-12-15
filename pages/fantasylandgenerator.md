@@ -4050,7 +4050,7 @@ gen_data['arcticadjective'] = [
     'kidnaps local children',
     'corrupted the local church',
     'might be the true form of the local lord',
-    'is a fey bounty hunter',
+    'hunts fairies for money',
     'has been stealing from a petty god',
     'trains heroes in martial arts',
   ];
