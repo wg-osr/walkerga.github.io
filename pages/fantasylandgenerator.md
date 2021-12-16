@@ -141,6 +141,7 @@
     'wind',
     'ectoplasma',
     'sandstorms',
+    'astral waves',
   ];      
    
    gen_data['astralfeature'] = [
@@ -176,6 +177,7 @@
     'a {astraladjective} flying palace sits',
     'a lone {astraladjective} house drifts',
     '{astraladjective} mirages appear',
+    'a {astraladjective} spelljammer port floats',
  ];
       
    gen_data['astraladjective'] = [
@@ -211,6 +213,7 @@
     'luxurious',
     'gloomy',
     'sand',
+    'chaotic',
   ];
 
    gen_data['astralobstacle'] = [
@@ -245,6 +248,7 @@
     'golden lamps',
     'screams',
     'solar rays',
+    'ASTRAL PIRATES',
   ];
       
    gen_data['astralhazard'] = [
@@ -280,6 +284,7 @@
     'warping reality',
     'that could shake your soul',
     'draining humidity',
+    'chasing travelers',
   ];
 
    gen_data['astralmonster'] = [
@@ -315,6 +320,7 @@
     'a DJINN {DJINNwants}',
     'a GHOST who {GHOSTwants}',
     'a DHAOT who {DHAOTwants}',
+    'GITHYANKI {githyankiculture} {githyankiproblem}',
   ];
       
       
@@ -510,7 +516,6 @@ gen_data['mainelemental'] = [
     'DESERT GIANTS {desertgiantculture} {desertgiantproblem}',
       ];
 
-      
    gen_data['airadjective'] = [
     'Celestial lightning strikes the metallic',
     'An sky {noble} has set her court over the',
@@ -524,6 +529,7 @@ gen_data['mainelemental'] = [
     'Flying icebergs host the',
     'A hurricane has its eye set on the',
     'Cloud roads lead to the hovering',
+    'Sky-Ships are docked at the',
   ];
  
  gen_data['airhazard'] = [
@@ -539,6 +545,7 @@ gen_data['mainelemental'] = [
     'create blizzards around them',
     'are carried by the wind',
     'belonging to the pasha',
+    'are set up by SKY PIRATES',
 
   ];    
             
@@ -555,6 +562,7 @@ gen_data['mainelemental'] = [
     'became hunted by the Winter Court',
     'started riding tornadoes',
     'became enroled by the pasha',
+    'became captured by sky pirates',
   ];    
  
   gen_data['airmonster'] = [
@@ -570,6 +578,7 @@ gen_data['mainelemental'] = [
     'a BRALANI who {BRALANIwants}',    
     'AIR ELEMENTALS who {airelementalwants}',
     'a DJINN {DJINNwants}',
+    'GITHYANKI {githyankiculture} {githyankiproblem}',
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1544,6 +1553,7 @@ gen_data['seaadjective'] = [
     'tumultuous',
     'sunny',
     'turquoise',
+    'dangerous',
  
   ];
   gen_data['seafeature'] = [
@@ -1564,6 +1574,7 @@ gen_data['seaadjective'] = [
     'cyclone',
     'high sea port',
     'waters full of {seabeast}',
+    'high-sea port',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1582,6 +1593,7 @@ gen_data['seaadjective'] = [
     'cyclones',
     'elven fleet',
     'currents',
+    'shooting stars',
 
   ];
   gen_data['seahazard'] = [
@@ -1600,7 +1612,8 @@ gen_data['seaadjective'] = [
     'are sacred for the locals',
     'could strand you',
     'could chase you',
-    'attact FISHES',
+    'attract FISHES',
+    'appear on starry nights',
       
   ];
   gen_data['seamonster'] = [
@@ -1621,6 +1634,7 @@ gen_data['seaadjective'] = [
     'AIR ELEMENTALS who {airelementalwants}',
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     '{fishtotem}{giant}FISHES',
+    'GITHYANKI {githyankiculture} {githyankiproblem}',
   ];
 
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1645,7 +1659,7 @@ gen_data['cityadjective'] = [
     'heroic',
     'out-of-town',
     'filthy',
-    'Dark Lord’s',
+    'dark lord’s',
     'cat',
     'pet',
     'maze-like',
@@ -1663,13 +1677,14 @@ gen_data['cityadjective'] = [
     'dirty',
     'old, elven',
     'arcane',
-    'Witch King’s',
+    'Witch-King’s',
     'ivory',
     'iron-clad',
     'suspended',
     'twin',
     'lugubrious',
     'gory',
+    'astral',
  
   ];
   gen_data['cityfeature'] = [
@@ -1711,6 +1726,7 @@ gen_data['cityadjective'] = [
     'war lord',
     'crime',
     'cannibals',
+    'skyport',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1752,6 +1768,7 @@ gen_data['cityadjective'] = [
     'heavy carts',
     'gallows',
     'piles of dead bodies',
+    'sky-ships',
 
   ];
   gen_data['cityhazard'] = [
@@ -1793,6 +1810,7 @@ gen_data['cityadjective'] = [
     'race down the streets',
     'are haunted',
     'carry rabies',
+    'attract raiders',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1833,7 +1851,7 @@ gen_data['cityadjective'] = [
     'ETTINS {ettinculture} {ettinproblem}',
     'a GHOST who {GHOSTwants}',
     'GHOULS {ghoulwants}',    
-
+    'GITHYANKI {githyankiculture} {githyankiproblem}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2251,6 +2269,7 @@ gen_data['mountainadjective'] = [
     'coal',
     'white',
     'twin',
+    'cloud-piercing',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2285,6 +2304,7 @@ gen_data['mountainadjective'] = [
     'tar pits',
     'tower',
     'rock',
+    'sky-ship harbour',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2319,6 +2339,7 @@ gen_data['mountainadjective'] = [
     'tar puddles',
     'fog clouds',
     'massive rocks',
+    'shooting stars',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2353,6 +2374,7 @@ gen_data['mountainadjective'] = [
     'are aflame',
     'shimmer with hypnotizing colors',
     'require a lot of strength to overcome',
+    'appear on starry nights',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2387,6 +2409,7 @@ gen_data['mountainadjective'] = [
     'FIRE ELEMENTALS who {fireelementalwants}',
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     'ETTINS {ettinculture} {ettinproblem}',
+    'GITHYANKI {githyankiculture} {githyankiproblem}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -4570,6 +4593,22 @@ gen_data['arcticadjective'] = [
     'under the influence of a powerful drug',
     'controlling sandstorms',
     'fleeing PURPLE WURMS',
+  ];
+  gen_data['githyankiculture'] = [
+    'astral raiders',
+    'squid-hunters',
+    'sky pirates',
+    'psy-monks',
+    'silverswordsmiths',
+    'runaways',
+  ];
+   gen_data['githyankiproblem'] = [
+    'under the command of their lich queen',
+    'hoping to find their way back home',
+    'who ride DRAGONS',
+    'on the verge of a revolt',
+    'slaves to MIND FLAYERS',
+    'whose capital ship hovers nearby',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
