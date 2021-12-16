@@ -4427,7 +4427,7 @@ gen_data['arcticadjective'] = [
     'rich hostage',
   ];
    gen_data['BRALANIwants'] = [
-    'wants to hunt down the ugly monster who permanently defaced something crafted by the eladrin',
+    'wants to hunt down the ugly monster who permanently defaced something crafted by the ELADRIN',
     'is a fey {noble} on a hunting trip',
     'is heralding the harshest of winters',
     'is leading the gerilla against a local despot',
