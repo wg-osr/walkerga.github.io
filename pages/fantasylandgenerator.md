@@ -4494,7 +4494,7 @@ gen_data['arcticadjective'] = [
     'working on a megalomaniac infrastructure project',
     'digging a tunnel',
     'mining a rare and dangerous ore',
-    'expanding a prison complexe',
+    'expanding a prison complex',
     'assembling a massive weapon',
     'attempting to destroy a fortress',
   ];
