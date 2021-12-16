@@ -4603,11 +4603,11 @@ gen_data['arcticadjective'] = [
     'runaways',
   ];
    gen_data['githyankiproblem'] = [
-    'under the command of their lich queen',
+    'under the command of the lich queen',
     'hoping to find their way back home',
     'who ride DRAGONS',
     'on the verge of a revolt',
-    'slaves to MIND FLAYERS',
+    'enslaved by MIND FLAYERS',
     'whose capital ship hovers nearby',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
