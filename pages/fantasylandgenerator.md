@@ -1600,7 +1600,7 @@ gen_data['seaadjective'] = [
     'are sacred for the locals',
     'could strand you',
     'could chase you',
-    'that attact FISHES',
+    'attact FISHES',
       
   ];
   gen_data['seamonster'] = [
@@ -1792,7 +1792,7 @@ gen_data['cityadjective'] = [
     'could collapse at any time',
     'race down the streets',
     'are haunted',
-    'that carry rabies',
+    'carry rabies',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -3345,7 +3345,7 @@ gen_data['arcticadjective'] = [
     'are difficult to cross',
     'shimmer with hypnotizing colors',
     'will hinder heavy creatures',
-    'that attract scavengers',
+    'attract scavengers',
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -4248,7 +4248,7 @@ gen_data['arcticadjective'] = [
     'magical',
     'lucky',
     'affectionate',
-    'WITCHy',
+    'witchy',
     'pet',
     'sacred',
   ];
