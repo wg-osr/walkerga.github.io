@@ -46,7 +46,7 @@ The golem’s activation glyph is hidden on among brain folds. If specifically d
 1. Twist Weapon. The target takes 1D6 damage or render their weapon unuseable.
 1. Rip. The target destroys a piece of armor or throws 1D6 items from their inventory on the floor.
 
-<ins>Mind Pulse.</ins> Every grounded creature and object near the golem must save or fall prone.
+<ins>Mind Pulse.</ins> Each creature in a large area around the brain golem must save or take mind damage (1D8) and be stunned for one round. It also recharges any other ability with the word psychic or mind in its name.
 
 <br>
 
@@ -57,30 +57,30 @@ The golem’s activation glyph is hidden on among brain folds. If specifically d
 <details markdown="1">
 <summary>Random Encounter</summary>
 
-1. **Monster:** 1 stone golem.
-1. **Lair:** A stone alcove engraved with arcane runes. <br>	&nbsp; OR <br>	**Omen:** Very, very ehavy footsteps.
-1. **Spoor:** An object that is guarded by the golem.
-1. **Tracks:** Very straight, very heavy foot tracks.
-1. **Trace:** A stone statue. 
-1. **Trace:** A boulder that could only have been moved by a colossal strenght.
+1. **Monster:** 1 brain golem & 1D4 mind flayers
+1. **Lair:** A huge vat with hydrating steam vents. <br>	&nbsp; OR <br>	**Omen:** Heavy, wet footsteps. A strange high pitched noise in your head.
+1. **Spoor:** A blasted room with bodies, their head exploded.
+1. **Tracks:** Big, wet, shapeless foot tracks.
+1. **Trace:** A manual in deep speech on brain collecting. 
+1. **Trace:** A metal door bent by psychic energy.
 </details>
 
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an stone golem takes 4 Spell Dices and the equivalent of 4 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating a brain golem takes 5 Spell Dices and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. You must also collect the brains of 20 humanoids. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
 
-1. Explodes (4D6)
-1. Berserk.
-1. Will work for 1 mission.
-1. Roll again after the next mission.
-1. Very vulnerable glyph location.
-1. It is perfectly under your control.
+1. It does its mind pulse ability before collapsing into a puddle.
+1. It rampages for 1D100 days.
+1. It rampages for 1D100 hours.
+1. Your minds swap. 
+1. The process destroys your lab.
+1. Perfect condition.
 </details>
 
 <br> 
 
 <details markdown="1">
 <summary>DM Notes</summary>
-This is a streamlining of Arnold K's amazing take on the [golem](https://goblinpunch.blogspot.com/2019/11/golems.html). Traditionally, stone golems have a slow ability, which never made sense to me, so I added a shockwave that allows it to prevent unsuspecting adventurers from running away. — SaltyGoo
+This is a streamlining of Arnold K's amazing take on the [golem](https://goblinpunch.blogspot.com/2019/11/golems.html). Brain golems are a bit silly which is their charm, i made them have psychic powers that are complementary to other psychic monsters. — SaltyGoo
 </details>
