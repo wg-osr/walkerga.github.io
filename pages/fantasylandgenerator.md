@@ -1245,6 +1245,7 @@ gen_data['darkgate'] = [
     'haunted house',
     'quicksands', 
     'mass grave', 
+    'slick, metallic circular gate', 
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1289,6 +1290,7 @@ gen_data['darkgatecomplication'] = [
     'the GHOST that haunts the place',
     'the dead bodies piled in it',
     'the complete lack of drinkeable water around',
+    'the psychic barrier protecting it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1333,6 +1335,7 @@ gen_data['tunneladjective'] = [
     'haunted',
     'abandonned',
     'barren',
+    'lead',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1378,6 +1381,7 @@ gen_data['tunnelfeature'] = [
     'tunnels leading to a grave',
     'tunnels with a doomed human camp',
     'tunnels',
+    'laboratory tunnels',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1423,6 +1427,7 @@ gen_data['tunnelhazard'] = [
     'haunting',
     'maddening',
     'dehydrating',
+    'brain-melting',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1468,6 +1473,7 @@ gen_data['tunnelobstacle'] = [
     'voices',
     'smell of blood',
     'heat',
+    'psychic waves',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1513,6 +1519,7 @@ gen_data['tunnelmonster'] = [
     'a GHOST who {GHOSTwants}',
     'a DHAOT who {DHAOTwants}',
     'GHOULS {ghoulwants}',    
+    '{braingolemown} BRAIN GOLEMS',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4581,7 +4588,7 @@ gen_data['arcticadjective'] = [
   gen_data['desertgiantculture'] = [
     'who know secret desert paths',
     'who shepherd massive herds of sheep',
-    'Eunuchs of the Sultan',
+    'eunuchs of the Sultan',
     'from the village hidden in the dunes',
     'who grow a rare spice',
     'raiders',
@@ -4609,6 +4616,14 @@ gen_data['arcticadjective'] = [
     'on the verge of a revolt',
     'enslaved by MIND FLAYERS',
     'whose capital ship hovers nearby',
+  ];
+   gen_data['braingolemown'] = [
+    'guardian',
+    'feral',
+    'MINDFLAYER-operated',
+    'laboratory-guarding',
+    'military',
+    'vessel-protecting',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
