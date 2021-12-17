@@ -5,7 +5,7 @@ permalink: /monsters/golem-brain
 title: Golem, Brain
 ---
 
-<img align="right" width=250px src="/images/BrainGolem.png">
+<img align="right" width=220px src="/images/BrainGolem.png" style="border:5px solid black">
 
 Animated brain automaton with destructive psychic powers. A construct.
 
