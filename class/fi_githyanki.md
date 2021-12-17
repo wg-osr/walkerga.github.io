@@ -51,7 +51,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Astral Tether
-If you hit something with a silver weapon you can choose to be anchored to it by an astral silver thread. The silver thread is 30' long for each Githyanki template you have, and yanks you back to the anchor at the end of each of your turn without hurting you, even across dimensions. The tether lasts until severed by a silver weapon or until you create a new one.
+If you hit something with a silver weapon (it can be anything, a wall, a creature, etc) you can choose to be anchored to it by an astral silver thread. The silver thread is 30' long for each Githyanki template you have, and yanks you back to the anchor at the end of each of your turn without hurting you, even across dimensions. The tether lasts until severed by a silver weapon or until you create a new one.
 
 ## Gith Yank
 When tethered by your silver thread, you can jump as far as its full length and do one action before being yanked back.
