@@ -8,7 +8,7 @@ permalink: /class/fighter/githyanki
 
 <details markdown="1">
 <summary>Design Notes</summary> 
-*This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. Players taking this class should aim to become as fat as possible. The ogre class is pretty weak when skinny, but has a very high power potential. — SaltyGoo*
+*Githyankis are one of the few original cool things from DnD. For me, they are loved for two iconic features: they defined the trope of the figther-mage, and they are astral pirates that cut the silver threads that bind astral travelers to their physical body. I also tumbled on a yank pun along the way. The result is a wacky hyper-agressive and hyper-mobile class that bounces around everything. The illustration is by Russ Nicholson. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
