@@ -12,7 +12,7 @@ permalink: /class/fighter/githyanki
 </details>
 
 <ins>Starting Equipment</ins><br>
-Any one Silver Weapon, and your choice of a cool Leather Armor, a Grappling Hook with a 60' Rope, or a random [spell scroll](https://saltygoo.github.io/list/spells)
+A Silver Weapon, and your choice of a cool Leather Armor, a Grappling Hook with a 60' Rope, or a random [spell scroll](https://saltygoo.github.io/list/spells)
 
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Sky-Pirate, Dragon-Rider, Astronavigator, or Astroknight
