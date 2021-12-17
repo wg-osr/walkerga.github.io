@@ -24,7 +24,7 @@ For every Githyanki template you have, you learn a new spell from the Githyanki 
 1.  [Alter Gravity](https://saltygoo.github.io/2020/11/13/alter-gravity/)
 1.  [Principle of Cutting](https://saltygoo.github.io/2020/11/13/principle-of-cutting/)
 1.  [Telekinetic Burst](https://saltygoo.github.io/2020/11/13/telekinetic-burst/)
-1.  [Telportation](https://saltygoo.github.io/2020/11/13/teleportation/)
+1.  [Teleportation](https://saltygoo.github.io/2020/11/13/teleportation/)
 1.  [Hekaphage](https://saltygoo.github.io/2020/11/13/hekaphage/)
 1.  [Silence](https://saltygoo.github.io/2020/11/13/silence/)
 1.  [Against Prying Eyes](https://saltygoo.github.io/2020/11/13/against-prying-eyes/)
