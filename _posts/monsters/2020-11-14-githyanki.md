@@ -5,6 +5,8 @@ permalink: /monsters/githyanki
 title: Githyanki
 ---
 
+<img align="right" width=250px src="/images/githyanki.jpg" alt="Russ Nicholson in the DnD Fiend Folio">
+
 Monkey-folk psychic sky pirates. A humanoid.
 
 Imagine a lanky yet muscular humanoid with green skin, wild hair and the face of a chimp. It wears intricate accoutrement of beaded and studded leathers and fringes.
