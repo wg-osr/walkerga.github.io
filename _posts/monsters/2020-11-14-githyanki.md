@@ -20,13 +20,13 @@ Imagine a lanky yet muscular humanoid with green skin, wild hair and the face of
 *A githyanki veteran would have 4HD and have their damage increased by one dice size*
 
 **Non-Combat Magic** <br>
-Telekinesis, Anti-Scrying
+Telekinesis
 
 **Attacks (1/round)**
 
 <ins>Greatsword Spin</ins>.  The githyanki makes a melee attack against two different adjacent targets (1D8).
 
-<ins>Hover Strike</ins>. The githyanki makes a melee attack (1D8) and supernaturaly jumps nearby.
+<ins>Astral Bungee</ins>. The githyanki tethers itself to an adjacent thing with an astral silver cable. While tethered it can jump 90' before attacking and is yanked back to the anchor at the end of each of its turns.
 
 <ins>Psychic Blast.</ins> The githyanki knocks back every creatures and object adjacent to it if they fail a save. Regardless of the result, they have disadvantage on all their attacks against the githyanki for a turn.
 
