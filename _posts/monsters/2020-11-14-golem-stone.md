@@ -54,17 +54,17 @@ The golem’s activation glyph is hidden on some stone carving. If destroyed, th
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 stone golem.
-1. **Lair:** A stone alcove engraved with arcane runes. <br>	&nbsp; OR <br>	**Omen:** Very, very ehavy footsteps.
+1. **Lair:** A stone alcove engraved with arcane runes. <br>	&nbsp; OR <br>	**Omen:** Very, very heavy footsteps.
 1. **Spoor:** An object that is guarded by the golem.
 1. **Tracks:** Very straight, very heavy foot tracks.
 1. **Trace:** A stone statue. 
-1. **Trace:** A boulder that could only have been moved by a colossal strenght.
+1. **Trace:** A boulder that could only have been moved by a colossal strength.
 </details>
 
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an stone golem takes 4 Spell Dices and the equivalent of 4 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating an stone golem takes 5 Spell Dices and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
 
 1. Explodes (4D6)
 1. Berserk.
