@@ -57,7 +57,7 @@ If you hit something with a silver weapon (it can be anything, a wall, a creatur
 When tethered by your silver thread, you can jump as far as its full length and do one action before being yanked back.
 
 ## Dance of Blades
-You can make an attack against a different target when you are being yanked back by your tether.
+You can make an additional attack/action against a different target when you are being yanked back by your tether.
 
 ## Silver Sword of Gith
 When using a silver weapon, you inflict critical hits on a roll of 19 or 20 instead of just 20. You can also cut a limb from the target or banish it to its original plane when you do so.
