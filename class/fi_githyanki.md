@@ -4,6 +4,8 @@ title: Githyanki
 permalink: /class/fighter/githyanki
 ---
 
+<img align="right" width=250px src="/images/githyanki.jpg" alt="Russ Nicholson in the DnD Fiend Folio">
+
 <details markdown="1">
 <summary>Design Notes</summary> 
 *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. Players taking this class should aim to become as fat as possible. The ogre class is pretty weak when skinny, but has a very high power potential. — SaltyGoo*
@@ -17,6 +19,7 @@ Your choice of Sky-Pirate, Dragon-Rider, Astral-Navigator, or Astral-Knight
 
 For every Githyanki template you have, you learn a new spell from the Githyanki spell list.
 
+<details markdown="1">
 <summary>Githyanki Spell List (1D8)</summary> 
 1.  [Alter Gravity](https://saltygoo.github.io/2020/11/13/alter-gravity/)
 1.  [Principle of Cutting](https://saltygoo.github.io/2020/11/13/principle-of-cutting/)
