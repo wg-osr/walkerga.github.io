@@ -31,7 +31,7 @@ For every Githyanki template you have, you learn a new spell from the Githyanki 
 1.  [Reality Shift](https://saltygoo.github.io/2020/11/13/reality-shift/)
 </details>
 
-**A:** Gith Magic, Astral Tetherc<br>
+**A:** Gith Magic, Astral Tether<br>
 **B:** Gith Yank<br>
 **C:** Dance of Blades<br>
 **D:** Silver Sword of Gith<br>
