@@ -4,7 +4,7 @@ title: Githyanki
 permalink: /class/fighter/githyanki
 ---
 
-<img align="right" width=250px src="/images/githyanki.jpg" alt="Russ Nicholson in the DnD Fiend Folio">
+<img align="right" width=250px src="/images/githyanki.jpg">
 
 <details markdown="1">
 <summary>Design Notes</summary> 
