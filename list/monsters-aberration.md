@@ -4,7 +4,7 @@ permalink: /list/monsters-aberration
 title: Aberrations
 ---
 
-Eldritch horrors and mutants. The chaotic demons of DnD are aberrations.
+Eldritch horrors. Superstitious people call them demons.
 
 <ins>Common Traits</ins>: Resistance to mind effects. Save vs fear to kill.
 
