@@ -6,7 +6,7 @@ title: Catastrophes
 
 Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom. Choose the following table that makes the most thematic sense:
 
-### You wicked wizard! You attracted the attention of the wrong entity! Roll a D10.
+### You wicked wizard! You attracted the attention of the wrong entity! Roll a D10
 
 1. Your powers have transgressed the limits set to mortals by the divine Authority. Your forehead is branded with heretical writing, recognizable by the learned as an invocation to be judged. If this writing is intoned by a _any_ spellcaster or cleric, a greater divine servant will be summoned.
 2. Every time an intelligent life dies from the consequences of one of your spells, the departed soul is fed to a [dretch demon](/monsters/dretch) which is immediately summoned, and confused and ornery from being so disturbed.
