@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration  city chaos enchanted astral
+tags: monster aberration lesser city chaos enchanted astral
 permalink: /monsters/doppelganger
 title: Doppelganger
 ---
