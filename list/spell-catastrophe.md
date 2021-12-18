@@ -18,7 +18,7 @@ Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D2
 
 {% capture posts %}
   {% for post in site %}
-  {% if post.tag == "beast" and post.tag == "jungle" %}
+  {% if post.tag contains  "beast" and post.tag contains  "jungle" %}
     |{{ post.title }}#{{ post.url }}
   {% endif %}
   {% endfor %}
@@ -33,4 +33,4 @@ Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D2
 {% endfor %}
 </ol>
 
-:(
+:D
