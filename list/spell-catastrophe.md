@@ -17,11 +17,11 @@ Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D2
 7. The sorcerer is permanently imbued with the nature of demons, and becomes subject to many demonic weaknesses. For example, holy water becomes damaging, circles of protection keep the sorcerer out, and so forth. Further, the sorcerer loses the ability to cross running water without collapsing into unconsciousness. Crossing a line ofsalt, such as used with some magic circles, causes the sorcerer 1d6 damage.
 
 {% capture posts %}
-  {% for post in site %}
   {% if post.tags contains "beast" and post.tags contains "jungle" %}
+  {% for post in site %}
     |{{ post.title }}#{{ post.url }}
-  {% endif %}
   {% endfor %}
+  {% endif %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
 <ol>
