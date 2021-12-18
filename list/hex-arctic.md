@@ -24,6 +24,8 @@ title: Arctic Monsters
 </ol>
 </details>
 
+---
+
 {% capture posts %}
   {% for post in site.tags.arctic %}
     |{{ post.title }}#{{ post.url }}
