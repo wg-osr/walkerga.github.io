@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration  city chaos magical astral
+tags: monster aberration lesser city chaos magical astral
 permalink: /monsters/abyssal-wretch
 title: Abyssal Wretch
 ---
