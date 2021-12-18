@@ -4,8 +4,6 @@ permalink: /list/arctic
 title: Arctic Monsters
 ---
 
-### All Monsters
-
 {% capture posts %}
   {% for post in site.tags.arctic %}
     |{{ post.title }}#{{ post.url }}
@@ -21,7 +19,7 @@ title: Arctic Monsters
 {% endfor %}
 </ol>
 
-### Just Beasts
+### Beasts Only
 
 {% capture posts %}
 {% for post in site.posts %}
