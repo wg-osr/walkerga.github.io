@@ -13,7 +13,7 @@ Eldritch horrors. Superstitious people call them demons.
 <ins>Mutation Table</ins>. Roll as the consequence of the [Researching Eldritch Knowledge](https://saltygoo.github.io/2020/11/10/extra-rules/#between-adventures) carousing activity and whenever appropriate.
 
 <details markdown="1">
-<summary>Greater Horrorss</summary>
+<summary>Greater Horrors</summary>
 {% capture posts %}
 {% for post in site.posts %}
     {% if post.tags contains "aberration" and post.tags contains "greater" %}
@@ -57,7 +57,7 @@ Eldritch horrors. Superstitious people call them demons.
 ### All Horrors
 
 {% capture posts %}
-  {% for post in site.tags.celestial %}
+  {% for post in site.tags.aberration %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
