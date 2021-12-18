@@ -4,10 +4,14 @@ permalink: /list/arctic
 title: Arctic Monsters
 ---
 
+<details markdown="1">
+<summary>Click here for beasts only</summary>
 {% capture posts %}
-  {% for post in site.tags.arctic %}
+{% for post in site.posts %}
+    {% if post.tags contains "beast" and post.tags contains "arctic" %}
     |{{ post.title }}#{{ post.url }}
-  {% endfor %}
+    {% endif %}
+{% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
 <ol>
@@ -18,15 +22,12 @@ title: Arctic Monsters
 {% endunless %}
 {% endfor %}
 </ol>
-
-### Beasts Only
+</details>
 
 {% capture posts %}
-{% for post in site.posts %}
-    {% if post.tags contains "beast" and post.tags contains "arctic" %}
+  {% for post in site.tags.arctic %}
     |{{ post.title }}#{{ post.url }}
-    {% endif %}
-{% endfor %}
+  {% endfor %}
 {% endcapture %}
 {% assign sortedposts = posts | split: '|' | sort %}
 <ol>
