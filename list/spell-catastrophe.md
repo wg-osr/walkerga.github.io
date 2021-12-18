@@ -32,3 +32,5 @@ Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D2
 {% endunless %}
 {% endfor %}
 </ol>
+
+:)
