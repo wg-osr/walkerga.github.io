@@ -21,17 +21,17 @@ Every time you roll doubles on you Spell Dices, you gain 1 Doom Point. Roll a D2
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
+{% if post.tags contains "jungle" %}
 {% assign sortedposts = posts | split: '|' | sort %}
 <ol>
 {% for post in sortedposts %}
-{% if post.tags contains "jungle" %}
 <!--post has tag jungle AND beast -->
 {% assign postitems = post | split: '#' %}
 {% unless forloop.first %}
   <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
 {% endunless %}
-{% endif %}
 {% endfor %}
 </ol>
+{% endif %}
 
 :)
