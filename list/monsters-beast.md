@@ -5,7 +5,7 @@ title: Beasts
 ---
 
 
-Plants and animals.
+Plants and animals. To view them sorted by climate, see the lists [here](/pages/fantasylandgenerator/).
 
 <ins>Common Traits</ins>: Few immunities and resistances. Swarms resist single target attacks. Crawling insects detect movement. Plants resist mind and detect movement.
 
