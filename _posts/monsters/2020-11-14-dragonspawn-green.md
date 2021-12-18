@@ -17,7 +17,7 @@ It lives in constant anguish of its unnatural state, hunting humanoids to feel b
 **Movement:** fast <br>
 **Morale:** reckless <br>
 
-As an aberration, the dragonspawn *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionaly, they are immune to poison, can hold their breath for 1 hour and have a great sense of smell.
+Greenspawns are immune to poison, can hold their breath for 1 hour and have a great sense of smell.
 
 **Attacks (1/round)**
 
