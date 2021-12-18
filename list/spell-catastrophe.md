@@ -1,4 +1,3 @@
-
 ---
 layout: post
 permalink: /list/spell-catastrophe
