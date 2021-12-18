@@ -1,11 +1,11 @@
 ---
 layout: post
-tags: monster aberration chaos magical
+tags: monster humanoid chaos magical
 permalink: /monsters/dragonspawn-green
 title: Dragonspawn, Green
 ---
 
-The horrible result of splicing dragon genes into a humanoid. An aberration.
+The horrible result of splicing dragon genes into a humanoid. A humanoid.
 
 Imagine a humanoid spliced with green dragon genes. A hulk of muscles and green scales, with bony wings sprouting from its uneven arms. Oh, and with sharp long teeth.
 
