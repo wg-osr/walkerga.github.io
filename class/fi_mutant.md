@@ -20,10 +20,10 @@ For every Mutant template you have, roll on the [1D500 mutation table](https://c
 **D:** Gift of Flesh<br>
 
 ## Font of Flesh
-You can have as many scars and mutations as your CON score. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+You can have as many mutations as your CON score. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 ## Reactive Mutation
-Once per game, when you would be hit by an attack, a trap or a hazard, you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now have advantage against that specific danger as defined by the Referee. 
+Once per game, when you would be hit by something (physical, emotional or magical), you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now have advantage against that specific danger as defined by the Referee as long as you have this mutation. 
 
 ## Regeneration
 You can spend your turn gruesomely regenerating. You heal 1D6 Wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
