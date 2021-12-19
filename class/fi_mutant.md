@@ -4,7 +4,7 @@ title: The Mutant
 permalink: /class/fighter/mutant
 ---
 
-###### by SaltyGoo
+<img align="right" width=200px src="/images/AbyssaWretch.png">
 
 <ins>Starting Equipment</ins><br>
 Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). If your roll gives you an animal, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)* for it.
