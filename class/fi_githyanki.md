@@ -37,7 +37,7 @@ For every Githyanki template you have, you learn a new spell from the Githyanki 
 **D:** Silver Sword of Gith<br>
 
 ## Gith Magic
-You can cast spells using Spell Dices (SD) like a Wizard, except that yours depend on your martial prowesses: You gain a Spell Dice every time you sucessfuly damage a creature with a melee weapon. The dices are D6s and last 10 minutes before vanishing. You can only have 3 of them at a time.
+You can cast spells using Spell Dices (SD) like a Wizard, except that yours depend on your martial prowesses: You gain a Spell Dice every time you successfuly damage a creature with a melee weapon. The dice are D6s and last 10 minutes before vanishing. You can only have 3 of them at a time.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary> 
@@ -51,7 +51,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Astral Tether
-If you hit something with a silver weapon (it can be anything, a wall, a creature, etc) you can choose to be anchored to it by an astral silver thread. The silver thread is 30' long for each Githyanki template you have, and yanks you back to the anchor at the end of each of your turn without hurting you, even across dimensions. The tether lasts until severed by a silver weapon or until you create a new one.
+If you hit something with a silver weapon (it can be anything, a wall, a creature, etc) you can choose to be anchored to it by an astral silver thread. The silver thread is 30' long for each Githyanki template you have, and yanks you back to the anchor at the end of each of your turns without hurting you, even across dimensions. The tether lasts until severed by a silver weapon or until you create a new one.
 
 ## Gith Yank
 When tethered by your silver thread, you can jump as far as its full length and do one action before being yanked back.
