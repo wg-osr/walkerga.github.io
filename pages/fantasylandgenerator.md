@@ -142,6 +142,7 @@
     'ectoplasma',
     'sandstorms',
     'astral waves',
+    'space',
   ];      
    
    gen_data['astralfeature'] = [
@@ -178,6 +179,7 @@
     'a lone {astraladjective} house drifts',
     '{astraladjective} mirages appear',
     'a {astraladjective} spelljammer port floats',
+    'a {astraladjective} giant brain floats',
  ];
       
    gen_data['astraladjective'] = [
@@ -214,6 +216,7 @@
     'gloomy',
     'sand',
     'chaotic',
+    'pulsing',
   ];
 
    gen_data['astralobstacle'] = [
@@ -249,6 +252,7 @@
     'screams',
     'solar rays',
     'ASTRAL PIRATES',
+    'psychic waves',
   ];
       
    gen_data['astralhazard'] = [
@@ -285,6 +289,7 @@
     'that could shake your soul',
     'draining humidity',
     'chasing travelers',
+    'pushing you around',
   ];
 
    gen_data['astralmonster'] = [
@@ -321,6 +326,7 @@
     'a GHOST who {GHOSTwants}',
     'a DHAOT who {DHAOTwants}',
     'GITHYANKI {githyankiculture} {githyankiproblem}',
+    '{braingolemown} BRAIN GOLEMS',
   ];
       
       
