@@ -11,4 +11,4 @@ Once the victim is let out of the container nothing binds them but the knowledge
 
 ###### Seal + Legendary
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
