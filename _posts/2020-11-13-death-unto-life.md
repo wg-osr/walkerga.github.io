@@ -12,4 +12,4 @@ After casting this spell you are profoundly enervated and must roll a D4. If you
 
 ###### *Death + Life*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
