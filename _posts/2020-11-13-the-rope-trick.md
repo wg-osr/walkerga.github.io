@@ -12,4 +12,4 @@ Well, the rope is attached somewhere. Somewhere in this case is a nook between d
 After the caster enters the nook, the spell does not end until the caster leaves. The caster can also pull the rope in the nook.
 
 ###### trick + rope
-###### adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
