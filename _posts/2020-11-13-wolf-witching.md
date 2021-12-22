@@ -9,4 +9,4 @@ The wolf witching is a powerful curse to have on one’s home. You must fashion 
 
 ###### *Wolf + Curse*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
