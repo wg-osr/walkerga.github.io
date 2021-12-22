@@ -10,4 +10,4 @@ You make a knot with a piece of rope and [dice] non-living objects close and/or 
 Alternatively, this spell can be cast on a creature’s orifice. The creature gets a Save to resist, and another Save at the end of each of its turns.
 
 ###### universal + knot
-###### adapted from [Coins & Scroll](https://coinsandscrolls.blogspot.com/2018/01/osr-orthodox-wizards.html)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
