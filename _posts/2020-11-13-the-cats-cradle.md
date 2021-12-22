@@ -31,4 +31,4 @@ In the first round, you make the Cat’s Cradle. For [dice] following rounds, yo
 1. <ins>Dazzle:</ins> the rope will be the first priority of the first [step] creatures who see it.
 
 ###### game + rope
-###### adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
