@@ -10,4 +10,4 @@ Trace a hand on an item and complete it with your Sigil to create a powerful amu
 
 ###### *Amulet + Palm*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
