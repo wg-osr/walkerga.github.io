@@ -8,4 +8,4 @@ R: Touch		D: [dice] hours
 You tie a rope around your waist and make it act as a third, mind-controlled yet semi-sentient, fully capable hand. The rope can wield a light weapon and make an extra attack in combat.
 
 ###### handy + rope
-###### adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
