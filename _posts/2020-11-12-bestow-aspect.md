@@ -10,4 +10,4 @@ You trace your Sigil on a subject, then let a [animal] bite the Sigil. Should th
 
 ###### *[Animal] + Aspect*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
