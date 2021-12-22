@@ -10,4 +10,4 @@ You brew up a mix of milk and honey (and other things) which, if immediately dru
 
 ###### *milk + honey*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
