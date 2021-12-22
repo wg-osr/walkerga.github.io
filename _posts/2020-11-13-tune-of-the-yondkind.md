@@ -11,4 +11,4 @@ The first round enough to notice the presence of the beings and their origin, bu
 
 ###### *Song + Distant*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
