@@ -10,4 +10,4 @@ You shoot a lurid orange conduit from your open hand. If it hits, it deals 1D6 m
 
 ###### *vein + drain*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
