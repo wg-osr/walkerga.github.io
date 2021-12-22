@@ -11,4 +11,4 @@ A back exit leads 1D6 miles in the direction of your choice. You do not know exa
 
 ###### *Bramble + Burrow*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
