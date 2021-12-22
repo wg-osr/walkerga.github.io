@@ -11,4 +11,4 @@ You dance frenetically as if affected by the venom of the Tarantella spider. Any
 You can protect [dice] other creatures from the effect of your spell.
 
 ###### Spider + Dance
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
