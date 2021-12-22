@@ -16,4 +16,4 @@ The rite takes one hour, and you can grant a special weeklong blessing to [dice]
 
 ###### *Week + Rite*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
