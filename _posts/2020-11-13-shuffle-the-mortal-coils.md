@@ -10,4 +10,4 @@ R: 30’ 		D: [dice]*10 minutes
 The spell can be reversed and make real snakes into ropes, splicing them together if needed, permanently.
 
 ###### snake + rope
-###### adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
