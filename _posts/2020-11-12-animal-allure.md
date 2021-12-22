@@ -12,4 +12,4 @@ If you invest 4 dices or more in this spell, the effect becomes permanent and th
 
 ###### *[Animal] + Charm*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
