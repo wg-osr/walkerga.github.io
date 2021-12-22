@@ -11,4 +11,4 @@ Holding the mirror correctly does not impede magic but requires a hand and minum
 
 ###### *Magic + Mirror*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
