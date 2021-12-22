@@ -12,4 +12,4 @@ Mix [valuable](/2020/11/10/extra-rules#treasures) oil and water in a shallow pla
 
 ###### *Deliver + Malison*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
