@@ -10,4 +10,4 @@ You place your Sigil on a staff or cudgel, traditionally taken from a sloe. Your
 
 ###### *Black + Staff*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
