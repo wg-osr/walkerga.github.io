@@ -11,4 +11,4 @@ As an alternative you can carefully keep on cooking the milk with the stones for
 
 ###### *Steeped + Stones*
 
-###### Adapted from [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
+###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)
