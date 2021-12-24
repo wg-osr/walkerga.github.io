@@ -1567,6 +1567,7 @@ gen_data['seaadjective'] = [
     'sunny',
     'turquoise',
     'dangerous',
+    'lawless',
  
   ];
   gen_data['seafeature'] = [
@@ -1588,6 +1589,7 @@ gen_data['seaadjective'] = [
     'high sea port',
     'waters full of {seabeast}',
     'high-sea port',
+    'harbor',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1607,6 +1609,7 @@ gen_data['seaadjective'] = [
     'elven fleet',
     'currents',
     'shooting stars',
+    'PIRATES',
 
   ];
   gen_data['seahazard'] = [
@@ -1627,6 +1630,7 @@ gen_data['seaadjective'] = [
     'could chase you',
     'attract FISHES',
     'appear on starry nights',
+    'attract more PIRATES',
       
   ];
   gen_data['seamonster'] = [
@@ -1648,6 +1652,7 @@ gen_data['seaadjective'] = [
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     '{fishtotem}{giant}FISHES',
     'GITHYANKI {githyankiculture} {githyankiproblem}',
+    'PIRATES {banditswants}',
   ];
 
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1698,6 +1703,7 @@ gen_data['cityadjective'] = [
     'lugubrious',
     'gory',
     'astral',
+    'lawless',
  
   ];
   gen_data['cityfeature'] = [
@@ -1740,6 +1746,7 @@ gen_data['cityadjective'] = [
     'crime',
     'cannibals',
     'skyport',
+    'guilds',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1782,6 +1789,7 @@ gen_data['cityadjective'] = [
     'gallows',
     'piles of dead bodies',
     'sky-ships',
+    'roadblocks',
 
   ];
   gen_data['cityhazard'] = [
@@ -1824,6 +1832,7 @@ gen_data['cityadjective'] = [
     'are haunted',
     'carry rabies',
     'attract raiders',
+    'could hide BANDITS',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1865,6 +1874,7 @@ gen_data['cityadjective'] = [
     'a GHOST who {GHOSTwants}',
     'GHOULS {ghoulwants}',    
     'GITHYANKI {githyankiculture} {githyankiproblem}',
+    'BANDITS {banditswants}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1913,6 +1923,7 @@ gen_data['swampadjective'] = [
     'unnaturally warm',
     'flooded',
     'once-settled',
+    'lawless',
 
   ];
   gen_data['swampfeature'] = [
@@ -1953,6 +1964,7 @@ gen_data['swampadjective'] = [
     'hunting grounds',
     'rivers',
     'cabins',
+    'trading posts',
  
   ];
   gen_data['swampobstacle'] = [
@@ -1993,6 +2005,7 @@ gen_data['swampadjective'] = [
     'tree stumps',
     'currents',
     'rotten carcasses',
+    'roadblocks',
 
   ];
   gen_data['swamphazard'] = [
@@ -2033,6 +2046,7 @@ gen_data['swampadjective'] = [
     'could split the party',
     'could drown you',
     'carry rabies',
+    'could hide bandits',
       
   ];
   gen_data['swampmonster'] = [
@@ -2073,6 +2087,7 @@ gen_data['swampadjective'] = [
     'an ELOKO who {elokowants}',
     '{fishtotem}{giant}FISHES',
     'GHOULS {ghoulwants}',    
+    'BANDITS {banditswants}',
   ]; 
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2113,6 +2128,7 @@ gen_data['plainsadjective'] = [
     'rocky',
     'arid',
     'twin',
+    'lawless',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2144,6 +2160,7 @@ gen_data['plainsadjective'] = [
     'fault line',
     'shrubs',
     'rock',
+    'trading posts',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2176,6 +2193,7 @@ gen_data['plainsadjective'] = [
     'earthquakes',
     'rivers',
     'heavy boulders',
+    'roadblocks',
 
   ];
   gen_data['plainshazard'] = [
@@ -2208,6 +2226,7 @@ gen_data['plainsadjective'] = [
     'could make the ground collapse',
     'are hard to cross',
     'require a lot of strength to overcome',
+    'could hide BANDITS',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2239,6 +2258,7 @@ gen_data['plainsadjective'] = [
     'EARTH ELEMENTALS who {earthelementalwants}',
     '{ELKtotem}{giant}ANTELOPES',
     'ETTINS {ettinculture} {ettinproblem}',
+    'BANDITS {banditswants}',
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2283,6 +2303,7 @@ gen_data['mountainadjective'] = [
     'white',
     'twin',
     'cloud-piercing',
+    'lawless',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2318,6 +2339,7 @@ gen_data['mountainadjective'] = [
     'tower',
     'rock',
     'sky-ship harbour',
+    'trading posts',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2353,6 +2375,7 @@ gen_data['mountainadjective'] = [
     'fog clouds',
     'massive rocks',
     'shooting stars',
+    'roadblocks',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2388,6 +2411,7 @@ gen_data['mountainadjective'] = [
     'shimmer with hypnotizing colors',
     'require a lot of strength to overcome',
     'appear on starry nights',
+    'could hide BANDITS',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2423,6 +2447,7 @@ gen_data['mountainadjective'] = [
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     'ETTINS {ettinculture} {ettinproblem}',
     'GITHYANKI {githyankiculture} {githyankiproblem}',
+    'BANDITS {banditswants}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2471,6 +2496,7 @@ gen_data['jungleadjective'] = [
     'high',    
     'twin',    
     'once-settled',    
+    'lawless',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2512,6 +2538,7 @@ gen_data['jungleadjective'] = [
     'treetops',
     'hills',
     'sacrifical pits',
+    'trading posts',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2552,6 +2579,7 @@ gen_data['jungleadjective'] = [
     'spider webs',
     'fallen trees',
     'rotting carcasses',
+    'roadblocks',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2592,6 +2620,7 @@ gen_data['jungleadjective'] = [
     'you could run into',
     'require a lot of strength to overcome',
     'carry rabies',
+    'could hide BANDITS',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2632,6 +2661,7 @@ gen_data['jungleadjective'] = [
     'ETTERCAPS who {ettercapculture} {ettercapproblem}',
     'ETTINS {ettinculture} {ettinproblem}',
     'GHOULS {ghoulwants}',    
+    'BANDITS {banditswants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2683,6 +2713,7 @@ gen_data['rockyadjective'] = [
     'twin',
     'barren',
     'ravaged',
+    'lawless',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2726,6 +2757,7 @@ gen_data['rockyadjective'] = [
     'rock',
     'waste',
     'cabins',
+    'trading posts',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2769,6 +2801,7 @@ gen_data['rockyadjective'] = [
     'rock slabs',
     'heat waves',
     'rotting carcasses',
+    'roadblocks',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2812,6 +2845,7 @@ gen_data['rockyadjective'] = [
     'require a lot of strength to overcome',  
     'could dehydrate you',  
     'carry rabies',  
+    'could hide BANDITS',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -2854,6 +2888,7 @@ gen_data['rockyadjective'] = [
     'ETTINS {ettinculture} {ettinproblem}',
     'a DHAOT who {DHAOTwants}',
     'GHOULS {ghoulwants}',    
+    'BANDITS {banditswants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2895,6 +2930,7 @@ gen_data['forestadjective'] = [
     'rocky',
     'peaceful',
     'high',
+    'lawless',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -2927,6 +2963,7 @@ gen_data['forestadjective'] = [
     'fault line',
     'maples',
     'treetops',
+    'trading posts',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -2959,6 +2996,7 @@ gen_data['forestadjective'] = [
     'earthquakes',  
     'sap leaks',  
     'spider webs',  
+    'roadblocks',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -2991,6 +3029,7 @@ gen_data['forestadjective'] = [
     'could make trees fall',
     'are very sticky',
     'you could run into',
+    'could hide BANDITS ',
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3023,6 +3062,7 @@ gen_data['forestadjective'] = [
     'EARTH ELEMENTALS who {earthelementalwants}',
     '{ELKtotem}{giant}ELKS',
     'ETTERCAPS who {ettercapculture} {ettercapproblem}',
+    'BANDITS {banditswants}',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3074,6 +3114,7 @@ gen_data['desertadjective'] = [
     'arid',
     'once-settled',
     'vast',
+    'lawless',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3116,6 +3157,7 @@ gen_data['desertadjective'] = [
     'vastness',
     'cave network',
     'sand clouds',
+    'trading posts',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3158,6 +3200,7 @@ gen_data['desertadjective'] = [
     'hours of the day',  
     'rotting carcasses',  
     'sandstorms',  
+    'roadblocks',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3199,6 +3242,7 @@ gen_data['desertadjective'] = [
     'could dehydrate you',
     'carry rabies',
     'need to be avoided',
+    'could hide BANDITS',
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3241,6 +3285,7 @@ gen_data['desertadjective'] = [
     'a DHAOT who {DHAOTwants}',
     'GHOULS {ghoulwants}',    
     'DESERT GIANTS {desertgiantculture} {desertgiantproblem}',
+    'BANDITS {banditswants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3283,6 +3328,7 @@ gen_data['arcticadjective'] = [
     'white',
     'twin',
     'ravaged',
+    'lawless',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3316,6 +3362,7 @@ gen_data['arcticadjective'] = [
     'tower',
     'rock',
     'cabins',
+    'trading posts',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3349,6 +3396,7 @@ gen_data['arcticadjective'] = [
     'auroras',  
     'thin ice',  
     'frozen bodies',  
+    'roadblocks',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3382,6 +3430,7 @@ gen_data['arcticadjective'] = [
     'shimmer with hypnotizing colors',
     'will hinder heavy creatures',
     'attract scavengers',
+    'could hide BANDITS',
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3415,6 +3464,7 @@ gen_data['arcticadjective'] = [
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     'ETTINS {ettinculture} {ettinproblem}',
     'GHOULS {ghoulwants}',    
+    'BANDITS {banditswants}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4630,6 +4680,14 @@ gen_data['arcticadjective'] = [
     'laboratory-guarding',
     'military',
     'vessel-protecting',
+  ];
+   gen_data['banditsrwants'] = [
+    'looking for trouble',
+    'selling stolen goods',
+    'on a murderous rampage',
+    'selling illegal goods',
+    'robbing travelers',
+    'revelling',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
