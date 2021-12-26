@@ -4681,7 +4681,7 @@ gen_data['arcticadjective'] = [
     'military',
     'vessel-protecting',
   ];
-   gen_data['banditsrwants'] = [
+   gen_data['banditswants'] = [
     'looking for trouble',
     'selling stolen goods',
     'on a murderous rampage',
