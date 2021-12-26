@@ -884,7 +884,7 @@ gen_data['mainelemental'] = [
     'started growing plants on their bodies',
     'started seeing GHOSTS when drunk',
     'became mind-controlled by CATS',
-    'became addicted to the specific flower’s nectar',
+    'became addicted to a specific flower’s nectar',
     'became scared of CATS',
     'started living as high as possible',
     'became trapped in ice cages',
