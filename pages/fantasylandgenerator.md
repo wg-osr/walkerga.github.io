@@ -688,7 +688,7 @@ gen_data['mainelemental'] = [
     'joined a{cult} CULT',
     'gained draconic features',
     'became drones',
-    'started to CULTivate strange fungi',
+    'started to cultivate strange fungi',
     'adapted to survive scalding steam',
     'adapted to survive underwater',
     'started to be regulated by EARTH MEPHITS',
