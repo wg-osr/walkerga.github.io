@@ -4014,8 +4014,8 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['greendragonwants'] = [
     'collects humanoids as pets',
-    'plots against a rival',
-    'hasn’t been invited to a noble’s wedding',
+    'is plotting against a rival',
+    'desires to be invited to a {noble}’s wedding',
     'hates the ELVES',
     'sleepwalks',
     'has discovered the agro-industrial potential of its poisonous breath',
