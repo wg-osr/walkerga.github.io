@@ -4086,7 +4086,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['LIZARDfolkculture'] = [
     'carry woven portable houses',
-    'live in caves only accessible underwater',
+    'live in underwater caves',
     'inhabit ancient ruined pyramids',
     'live in the sewers of another civilization',
     'live atop GIANT TORTOISES',
@@ -4096,7 +4096,7 @@ gen_data['arcticadjective'] = [
     'and believe the apocalypse can be delayed by sacrificing humans',
     'and herd DINOSAURS',
     'and worship a titanic LIZARD',
-    'because they are only here for their coming of age journey',
+    'during their coming of age journey',
     'with their advanced technology',
     'and worship a DEMON in disguise',
   ];
