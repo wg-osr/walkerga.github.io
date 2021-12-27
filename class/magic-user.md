@@ -29,33 +29,33 @@ By licking an object, you can tell whether or not it is magical.
 Every School has a list of spells associated with it. You roll randomly in it each time you take a Magic User template. You must quest to gain other spells.
 
 <ins>Perk/Drawback</ins><br>
-Every School give a passive bonus/penalty.
+Every School gives a passive bonus/penalty.
 
 <ins>Cantrips</ins><br>
-Every School give minor magical abilities you can use as often as you like.
+Every School gives minor magical abilities you can use as often as you like.
 
 ## Spells
-They’re stored in scrolls/books and you spend Spell Dices to cast them.
+They’re stored in scrolls/books and you spend Spell Dice to cast them.
 
 You start out with two spells. Every time you gain a Magic User template, you gain a new spell, rolled randomly. You can also spend Treasures to copy new spells in your book.
 
 <ins>Spell Dice (SD)</ins><br>
-You get 1 per Magic User template. They are D6s. 
+You get 1 per Magic User template. They are D6s.
 
-Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. 
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
 
 If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
 
-Every time you roll doubles you get closer to Catastrophe.
+Every time you roll doubles, you get closer to Catastrophe.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
 
 ## Familiar
 
-One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast themselve with 1SD once per Day. You dont know the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
+One of your spells becomes your sentient friend. You may choose a single spell you know: it becomes a friendly tiny creature of the shape you like. That creature is now part of your entourage and can cast itself with 1SD once per Day. You don't know the spell yourself anymore, but you can always lend some of your SD to your familiar to boost its power. Be careful! You share your Doom points with it.
 
-Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat's. When you create it, you decide if it will be able to breathe under water, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
+Your familiar has 1 HP per Magic User template you have and is immune to one type of damage of your choice. Its stats are similar to a cat's. When you create it, you decide if it will be able to breathe underwater, fly, or use objects. If your familiar would die, your spell is lost forever, but you can create a new familiar after a full night of rest.
 
 ## Second Sight
 You always see invisible things as a faint lensing of light, and can tell roughly how big they are. By making eye contact with someone, you can tell if they are possessed, undead, protected by divinity, or a spell caster.
@@ -72,11 +72,11 @@ Your familiar reveals itself as intelligent and able to speak. It was just waiti
 - Use its unique power.
 - Grant you one free SD.
 - Save you from death, once.
-- Anything else you can think to ask of it. Just remember that it will count for a favor. 
+- Anything else you can think of. Just remember that it will count for a favor.
 
 <details markdown="1">
-<summary>D8 Familiar Powers</summary> 
-1. Can see the future in spilled intestines, quite accurate.
+<summary>D8 Familiar Powers</summary>
+1. Can see the future in spilled intestines, quite accurately.
 1. Can teleport the caster (only) to the nearest graveyard.
 1. Can double your current HP, but will fade in D20 hours.
 1. Can create false gold that will disappear in D20 hours
@@ -95,9 +95,9 @@ Your familiar reveals itself as intelligent and able to speak. It was just waiti
 
 Between adventures you can spend time and money on research. By spending [treasures](/2020/11/10/extra-rules#treasures) you can combine two Spell Words to create a new spell. Spell Words are listed under each spell and more can be obtained during your adventures. You basically deconstruct spells in part to assemble a new one.
 
-For example, if you know the spells *Bloodlust* (Blood + Lust) and *Rockspeech* (Rock + Speech), you can create a new spell named *Bloodspeech* or *Blood to Stone* or *Charm Rock*. As you can see, the words can be replaced by synonyms or expressions with similar meaning. 
+For example, if you know the spells *Bloodlust* (Blood + Lust) and *Rockspeech* (Rock + Speech), you can create a new spell named *Bloodspeech* or *Blood to Stone* or *Charm Rock*. As you can see, the words can be replaced by synonyms or expressions with similar meaning.
 
-Once your new name is chosen, spend a treasure and roll Intelligence. On a success, the spell is created and the Referee will design its effect. You can add 1 on your roll for each previously failed attempt with the same word combo.
+Once your new name is chosen, spend a treasure and roll Intelligence. On success, the spell is created and the Referee will design its effect. You can add 1 on your roll for each previously failed attempt with the same word combo.
 
 Note that you can make a new spell with the same word: *Bloodlust* could become *Charm Blood* or *Bloody Desire* etc.
 
@@ -106,7 +106,7 @@ Note that you can make a new spell with the same word: *Bloodlust* could become 
 <br>
 
 <details markdown="1">
-<summary>DM Notes</summary> 
+<summary>DM Notes</summary>
 
 ## Familiar Generator
 
