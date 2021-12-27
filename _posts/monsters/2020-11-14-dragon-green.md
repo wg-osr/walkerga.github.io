@@ -17,7 +17,7 @@ Imagine a sleek western dragon with a particularly long neck and yellow frills. 
 **Movement:** average, fly fast, swim average <br>
 **Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
+Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
 
 At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
 
@@ -38,7 +38,7 @@ Divination, Druidcraft, Alchemy.
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a long cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D8) and be poisoned until the end of their next turn, or half as much on a success. The cloud has 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D8) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 
 <br>
 
@@ -53,7 +53,7 @@ Each creature in the area or ending their turn in the area must make a saving th
 **Movement:** average, fly fast, swim average <br>
 **Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
+Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
 
 **Attacks (1/round)**
 
@@ -65,7 +65,7 @@ Dragons have advantage on all their saving throws. Green dragons are immune to p
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a small cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D4) and be poisoned until the end of their next turn, or half as much on a success. The cloud has 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D4) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 </details>
 
 ---
@@ -79,7 +79,7 @@ Each creature in the area or ending their turn in the area must make a saving th
 **Movement:** average, fly fast, swim average <br>
 **Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
+Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
 
 **Attacks (2/round)**
 
@@ -95,7 +95,7 @@ Dragons have advantage on all their saving throws. Green dragons are immune to p
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D6) and be poisoned until the end of their next turn, or half as much on a success. The cloud has 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D6) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 </details>
 
  ---
@@ -109,11 +109,11 @@ Each creature in the area or ending their turn in the area must make a saving th
 **Movement:** average, fly fast, swim average <br>
 **Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath.
+Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
 
 At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
 
-The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. Each creature chasing the dragon or ending their turn close to it must make a saving throw vs poison or take poison damage (1D10) and be poisoned until the end of their next turn. The cloud has 1/4 chance of dissipating each turn. It provides light cover.
+The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. Each creature chasing the dragon or ending their turn close to it must make a saving throw vs poison or take poison damage (1D10) and be poisoned until the end of their next turn. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 
 **Attacks (3/round)**
 
@@ -123,7 +123,7 @@ The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. E
 
 <ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D10).
 
-<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, cant breath and takes poison damage (1D10) at the beginning of each of its turns.
+<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, can't breathe and takes poison damage (1D10) at the beginning of each of its turns.
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
@@ -131,7 +131,7 @@ The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. E
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D10) and be poisoned until the end of their next turn, or half as much on a success. The cloud has 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D10) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 </details>
 
  ---
@@ -144,7 +144,7 @@ Non-wyrmlings dragons have the following additional attack options when in their
 
 <ins>Thorn Wall.</ins> A 10’-high wall of thorns bursts from the ground between two points. Pushing creatures to the side of the dragon’s choice. Walking through the wall requires a strength check and inflicts damage (1Dx). Each segment of the wall has 10 hit points.
 
-<ins>Sleep Cloud.</ins> One creature within the dragon’s lair must make a saving throw or fall asleep. If the target resists, it is immune for 24h. 
+<ins>Sleep Cloud.</ins> One creature within the dragon’s lair must make a saving throw or fall asleep. If the target resists, it is immune for 24h.
 
  ---
 
@@ -153,16 +153,16 @@ Non-wyrmlings dragons have the following additional attack options when in their
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1 green dragon.
-1. **Lair:** Thickets maze. <br>	&nbsp; OR <br>	**Omen:** Your nose hair curls from an acrid, toxic smell.
+1. **Lair:** Thickets maze. <br>    &nbsp; OR <br>    **Omen:** Your nose hair curls from an acrid, toxic smell.
 1. **Spoor:** Recently overgrown with thorns.
-1. **Tracks:** Green mist, smells bitter.
+1. **Tracks:** Green mist. Smells bitter.
 1. **Trace:** Thorns everywhere.
 1. **Trace:** No wildlife, only plants.
 </details>
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
-The scales of any dragons are highly valuable and used in many legendary armors. The poison of a green dragon makes potent bombs and pesticide.
+The scales of any dragon are highly valuable and used in many legendary armors. The poison of a green dragon makes potent bombs and pesticide.
 
 <span class="alchemy">**Green Dragon's Breath**. Poison. Save or die. Becomes gaseous upon contact with air. Does not affect plants.</span>
 
@@ -187,5 +187,5 @@ In local cultures, it is a symbol of ...
 1. Witches
 1. Politics
 1. Sleep
-1. Sacred 
+1. Sacred
 </details>
