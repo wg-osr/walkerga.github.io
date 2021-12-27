@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster undead arctic city desert jungle rocky swamp chaos cursed underdark
+tags: monster undead city arctic desert forest rocky jungle  mountain plains swamp sea underdark
 permalink: /monsters/ghoul-beast
 title: Ghoul, Beast
 ---
