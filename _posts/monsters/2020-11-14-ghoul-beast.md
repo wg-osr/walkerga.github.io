@@ -7,7 +7,7 @@ title: Ghoul, Beast
 
 A template to turn other monsters into ghouls. An undead.
 
-There is something off with this creature: it is sickkly, crusted with dirt, and a long, thick tongue that stretches all the way to the ground. Its eyes are bloodshot and evil and its long, dirty claws are blood soaked. It stinks.
+There is something off with this creature: it is sickly, crusted with dirt, and a long, thick tongue that stretches all the way to the ground. Its eyes are bloodshot and evil and its long, dirty claws are blood soaked. It stinks.
 
 **Add these abilities to the creature's**
 
