@@ -15,7 +15,7 @@ A housecat with wings.
 **Movement:** fast, climb average, fly fast <br>
 **Morale:** coward <br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionnaly tressym can smell illusions and poison.
+Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionally tressym can smell illusions and poison.
 
 **Attacks (1/round)**
 
@@ -24,13 +24,13 @@ Cats are too weak to inflict lethal damage with their attacks.
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 tressyms.
-1. **Lair:** Hard to reach shelves or gutters. 1/2 chance there are 2D6 kittens. <br>	&nbsp; OR <br>	**Omen:** A cat's meow, very close.
+1. **Lair:** Hard to reach shelves or gutters. 1/2 chance there are 2D6 kittens. <br>    &nbsp; OR <br>    **Omen:** A cat's meow, very close.
 1. **Spoor:** A dead mouse.
 1. **Tracks:** A single tressym, just out of range.
 1. **Trace:** A hair ball
@@ -53,12 +53,12 @@ In local cultures the bat is a symbol of ...
 1. Love
 1. Magic
 1. Witch
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, its a perfectly servicable and enchanting familiar. There is another 2e monster that is that is virtually identical, the Jana-qitat, found in the [Al-Qadim bestiary](http://adnd.geoshitties.installgentoo.com/mm/catwinge.html), with less magical powers but a [giant version](https://saltygoo.github.io/monsters/cat-tressym-giant). — SaltyGoo
+The [original tressym](http://adnd.geoshitties.installgentoo.com/mm/tressym.html) is strangely more durable than a goblin, but other than that, it's a perfectly serviceable and enchanting familiar. There is another 2e monster that is that is virtually identical, the Jana-qitat, found in the [Al-Qadim bestiary](http://adnd.geoshitties.installgentoo.com/mm/catwinge.html), with less magical powers but a [giant version](https://saltygoo.github.io/monsters/cat-tressym-giant). — SaltyGoo
 </details>
