@@ -5,7 +5,7 @@ permalink: /monsters/centipede-dracopede-green
 title: Centipede, Dracopede, Green
 ---
 
-Armored centipede with a acidic breath attack. A beast.
+Armored centipede with an acidic breath attack. A beast.
 
 Imagine a centipede as long as a dog, with brown legs and a moss covered green shell. It eats dead organic matter.
 
@@ -15,7 +15,7 @@ Imagine a centipede as long as a dog, with brown legs and a moss covered green s
 **Movement:** average, climb average<br>
 **Morale:** brave <br>
 
-Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement. The green dracopede is well camouflaged in plants and is immune to poison.
+Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement. The green dracopede is well camouflaged in plants and is immune to poison.
 
 **Attacks (1/round)**
 
@@ -29,16 +29,16 @@ Dracopedes can climb on any surfaces, including upside down, with little difficu
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 dracopedes.
-1. **Lair:** A maze of narrow tunnels dug in rotten wood. <br>	&nbsp; OR <br>	**Omen:** Subtle chewing noises.
+1. **Lair:** A maze of narrow tunnels dug in rotten wood. <br>    &nbsp; OR <br>    **Omen:** Subtle chewing noises.
 1. **Spoor:** A dead humanoid, melted by acid.
 1. **Tracks:** Corroded plants.
-1. **Trace:** A dracopede shell. 
+1. **Trace:** A dracopede shell.
 1. **Trace:** Well polished surface.
 </details>
 
@@ -60,13 +60,12 @@ In local cultures the bat is a symbol of ...
 1. Seasons
 1. Shyness
 1. Weather
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-Dracopedes are original creations of Richard J Leblanc found in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I always love more insectoid diversity and really love their abilities. I was less a fan of making them look like dragons, I think their breath attack is a strong enough parallel without having to give them a dragon face. But that's just my personal taste. I also love that their breath attacks dont match similarly coloured dragons.
+Dracopedes are original creations of Richard J Leblanc found in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I always love more insectoid diversity and really love their abilities. I was less a fan of making them look like dragons, I think their breath attack is a strong enough parallel without having to give them a dragon face. But that's just my personal taste. I also love that their breath attacks don't match similarly coloured dragons.
 </details>
-
