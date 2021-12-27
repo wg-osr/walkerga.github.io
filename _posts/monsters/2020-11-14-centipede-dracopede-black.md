@@ -15,11 +15,11 @@ Imagine a spiked, armored centipede as long as a dog, and as black as ebony. It 
 **Movement:** average, climb average <br>
 **Morale:** brave <br>
 
-Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement.
+Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement.
 
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The dracopede makes one melee attack (1D4) inflicting additional poison damage (1D4). If this damage would inflict wounds to the target, it falls asleep instead.
+<ins>Bite.</ins> The dracopede makes one melee attack (1D4) inflicting additional poison damage (1D4). If this damage would inflict Wounds to the target, it falls asleep instead.
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot move or attack, nor be damaged by missile weapons and one-handed melee weapons.
 
@@ -29,16 +29,16 @@ Dracopedes can climb on any surfaces, including upside down, with little difficu
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 dracopedes.
-1. **Lair:** A maze of narrow tunnels dug inside the rotting body of a giant beast. <br>	&nbsp; OR <br>	**Omen:** Subtle chewing noises.
+1. **Lair:** A maze of narrow tunnels dug inside the rotting body of a giant beast. <br>    &nbsp; OR <br>    **Omen:** Subtle chewing noises.
 1. **Spoor:** A dead humanoid with poison foaming out of its mouth.
 1. **Tracks:** Where the dampness is the most intense.
-1. **Trace:** A dracopede shell. 
+1. **Trace:** A dracopede shell.
 1. **Trace:** Well polished surface.
 </details>
 
@@ -60,7 +60,7 @@ In local cultures the bat is a symbol of ...
 1. Seasons
 1. Shyness
 1. Weather
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
