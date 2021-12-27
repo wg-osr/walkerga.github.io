@@ -15,7 +15,7 @@ Imagine a centipede as long as a dog, with stone gray legs and a snow covered bl
 **Movement:** average, climb average<br>
 **Morale:** brave <br>
 
-Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement. Blue dracopedes resist cold and can easily camouflage as icicles.
+Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement. Blue dracopedes resist cold and can easily camouflage as icicles.
 
 **Attacks (1/round)**
 
@@ -23,23 +23,23 @@ Dracopedes can climb on any surfaces, including upside down, with little difficu
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot move or attack, nor be damaged by missile weapons and one-handed melee weapons.
 
-<ins>Freezing Spray (recharge 2/6).</ins> The dracopede spits a liquid that freezes very quickly short cone. Those who fail their dodge take cold damage (2D4) and are stuck to the floor.
+<ins>Freezing Spray (recharge 2/6).</ins> The dracopede spits a liquid that freezes very quickly in a short cone. Those who fail their dodge take cold damage (2D4) and are stuck to the floor.
 
-The sprayed ground becomes spiky and slippery. If a creature would fall, it takes damage (1D4). This attack has no effect in temperatures above the freezing point.
+The sprayed ground becomes spiky and slippery. If a creature falls, it takes damage (1D4). This attack has no effect while in temperatures above the freezing point.
 
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1D8 dracopedes.
-1. **Lair:** A maze of narrow tunnels dug in ice. <br>	&nbsp; OR <br>	**Omen:** Subtle chewing noises.
+1. **Lair:** A maze of narrow tunnels dug in ice. <br>    &nbsp; OR <br>    **Omen:** Subtle chewing noises.
 1. **Spoor:** A dead humanoid, frozen as it covers its face.
 1. **Tracks:** Strange frozen spikes.
-1. **Trace:** A dracopede shell. 
+1. **Trace:** A dracopede shell.
 1. **Trace:** Well polished surface.
 </details>
 
@@ -60,7 +60,7 @@ In local cultures the bat is a symbol of ...
 1. Seasons
 1. Shyness
 1. Weather
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
