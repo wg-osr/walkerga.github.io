@@ -5,12 +5,12 @@ permalink: /class/fighter/barbarian
 ---
 
 <details markdown="1">
-<summary>Credits</summary> 
+<summary>Credits: Phlox</summary>
 *This class is an adaptation of Phlox's amazing [take on the class](http://whosemeasure.blogspot.com/2020/08/glog-class-barbarian.html), which goes back to the origin of its name: a foreigner. Compared to the original class, I kept Cultural Context and Outsider as-is and simplified the rest. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
-A Weapon in a shape unheard of in this land, a piece of armor made from a material not found here, a trinket from home that signify your faith or rank.
+A Weapon in a shape unheard of in this land, a piece of armor made from a material not found here, a trinket from home that signifies your faith or rank.
 
 <ins>Starting Skills (+5)</ins><br>
 Foreign Lands and your choice of Explorer, Diplomat, Refugee.
@@ -64,7 +64,7 @@ You find yourself in a society with wildly different expectations than normal. A
 1. You are lost in the forest
 1. You will drown in sand.
 1. You are sworn against leather, fur, and bowstrings
-1. Betrayal is a beneath your dignity to consider
+1. Betrayal is beneath your dignity to consider
 1. (birds or hounds or rivers) hate you
 1. Hatred is infectious to you
 1. You must sleep unobserved
