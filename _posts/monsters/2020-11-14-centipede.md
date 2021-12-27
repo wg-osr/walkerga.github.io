@@ -13,11 +13,11 @@ Centipedes are venomous worm-like arachnids withs a lot of legs. A beast.
 **Movement:** average, climb average<br>
 **Morale:** coward <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects adjacent movement.
+Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect adjacent movement.
 
 **Attacks (1/round)**
 
-<ins>Bite</ins>. The centipede makes a melee attack. On a hit, the target must save against poison or be poisoned and take 1 point of constitution damage.
+<ins>Bite</ins>. The centipede makes a melee attack. On a hit, the target must save against poison or be poisoned and take 1 point of CON damage.
 
 <br>
 
@@ -31,7 +31,7 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 **Movement:** average, climb average <br>
 **Morale:** brave <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects adjacent movement.
+Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect adjacent movement.
 
 In a swarm, Centipedes are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
@@ -53,7 +53,7 @@ In a swarm, Centipedes are immune to being grappled or attacked by single target
 **Movement:** average, climb average<br>
 **Morale:** coward <br>
 
-Centipedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement.
+Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect nearby movement.
 
 <ins>Bite</ins>. The centipede makes a melee attack (1D4). On a hit, the target must save or be poisoned with centipede venom (see above).
 
@@ -61,23 +61,23 @@ Centipedes can climb on any surfaces, including upside down, with little difficu
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 centipede swarms or 1D8 giant centipedes.
-1. **Lair:** A narrow, damp crack in the ground. <br>	&nbsp; OR <br>	**Omen:** The sound of overturned earth.
+1. **Lair:** A narrow, damp crack in the ground. <br>    &nbsp; OR <br>    **Omen:** The sound of overturned earth.
 1. **Spoor:** Paralyzed body, a centipede crawling out of its mouth.
 1. **Tracks:** Dampness.
-1. **Trace:** A single centipede (or giant centipede). 
+1. **Trace:** A single centipede (or giant centipede).
 1. **Trace:** A dead rodent.
 </details>
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
 
-Centipedes are a delicacy in certain circles, you need as many giant centipedes as there are players to make a day's ration. Collecting their venom is also a possiblity.
+Centipedes are a delicacy in certain circles; you need as many giant centipedes as there are players to make a day's ration. Collecting their venom is also a possibility.
 </details>
 
 <details markdown="1">
@@ -85,7 +85,7 @@ Centipedes are a delicacy in certain circles, you need as many giant centipedes 
 In local cultures this beast is a symbol of ...
 
 1. Death
-1. Cicle of life
+1. Circle of life
 1. Nightmares
 1. Medicine
 1. Earth
