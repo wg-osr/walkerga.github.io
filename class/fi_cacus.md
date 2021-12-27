@@ -5,7 +5,7 @@ permalink: /class/fighter/cacus
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
+<summary>Design Notes</summary>
 *This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster. — SaltyGoo*
 </details>
 
@@ -29,9 +29,9 @@ While you are oiled up, you have advantage on your attempts to seduce or charm.
 ## Oiled Up II
 While you are oiled up, you cannot be grappled.
 ## Scoundrel
-When you succeed on a fighting maneuvre, you can plant or steal a small object on your opponent.
+When you succeed in a fighting maneuver, you can plant or steal a small object on your opponent.
 ## Oiled Up III
-When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuvre against it.
+When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
 ## Font of Shine
 You can use your Body Oil ability twice per day.
 ## Spitfire
