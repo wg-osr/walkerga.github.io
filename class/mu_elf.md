@@ -12,7 +12,7 @@ The Elf is a type of [Magic User](/class/magic-user). To take elf templates, you
 A Bow and 12 Arrows, a Piece of Jewelry Doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), a Butterfly Pet.
 
 <ins>Starting Skills</ins><br>
-Archery, and your choice of Fairy Politics, Magical Gardenning or The-Time-Before-Humans.
+Archery, and your choice of Fairy Politics, Magical Gardening or The-Time-Before-Humans.
 
 <ins>Spell List</ins><br>
 Roll on this list when you level up:
@@ -37,3 +37,4 @@ If you are scarred, disfigured, or filthy you must save each morning or be unabl
 - Create a pleasant musical ringing sound.
 - Any target you hit with an arrow counts as being in range for the purposes of your spells.
 - Touch a wound to prevent it from bleeding. You do not negate any damage or remove wounds, but it does keep things neat and tidy. Faint white floral scars will form.
+
