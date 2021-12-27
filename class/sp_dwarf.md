@@ -9,7 +9,7 @@ permalink: /class/specialist/dwarf
 To take dwarf templates, you must be a dwarf.
 
 <ins>Starting Equipment</ins><br>
-leather armor, axe, rough iron shield. 
+leather armor, axe, rough iron shield.
 
 <ins>Starting Skills (+5)</ins><br>
 Axes, and your trade (roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)).
@@ -25,10 +25,10 @@ For every Dwarf template you have, increase the number of [armor pieces](/2020/1
 You can smell/taste craftsmanship within 10’. This may be hampered by other overwhelming odors.
 
 ## Stony Recovery
-When you would die from poison or disease, you are petrified instead. You can be "resurected" if you are doused in alcohol.
+When you would die from poison or disease, you are petrified instead. You can be "resurrected" if you are doused in alcohol.
 
 ## Obsession
-Every time you end a session in a civilized location, roll wisdom. On a failure, you must sell 1D4 items from your inventory and spend the profits to craft as many items related to your profession of equivalent value. Describe what you’d like them to be and the GM will describe what they actually are.
+Every time you end a session in a civilized location, roll wisdom. On failure, you must sell 1D4 items from your inventory and spend the profits to craft as many items related to your profession of equivalent value. Describe what you’d like them to be and the GM will describe what they actually are.
 
 ## Greed
 Gain a +1 bonus to all saves for each inventory slot filled with [Treasure](/2020/11/10/extra-rules#treasures).
