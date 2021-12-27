@@ -15,11 +15,11 @@ Dark red and with thick leathery wings, the kongamato smells of swamp water. Its
 **Movement:** average, fly fast, swim average <br>
 **Morale:** coward <br>
 
-Bats have a very keen hearing, allowing them to easily spot their preys and predators in the dark: as long as they can hear, they can detect invisible creatures. 
+Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures.
 
 **Attacks (2/round)**
 
-<ins>Bite</ins>. The kongamato makes a melee attack with disadvantage (2D4). 
+<ins>Bite</ins>. The kongamato makes a melee attack with disadvantage (2D4).
 
 <ins>Claws</ins>.  The kongamato makes a melee attack (1D4). On a hit, the target must save against disease or catch eye rot.
 
@@ -28,15 +28,15 @@ Bats have a very keen hearing, allowing them to easily spot their preys and pred
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1 kongamato.
-1. **Lair:** A cluster of mangroves, covered in hardened bat guano. <br>	&nbsp; OR <br>	**Omen:** The sound of something diving in water.
-1. **Spoor:** A capsided boat with somebody trying to swim out.
+1. **Lair:** A cluster of mangroves, covered in hardened bat guano. <br>    &nbsp; OR <br>    **Omen:** The sound of something diving in water.
+1. **Spoor:** A capsized boat with somebody trying to swim out.
 1. **Tracks:** Bitter smell of wet dog and guano.
-1. **Trace:** Mushrooms growing from bat guano. Their spores give Eye Rot. 
+1. **Trace:** Mushrooms growing from bat guano. Their spores give Eye Rot.
 1. **Trace:** A wrecked small boat.
 </details>
 
@@ -55,12 +55,12 @@ In local cultures the bat is a symbol of ...
 1. Seers
 1. Rivers.
 1. The styx.
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-The kongamato is a cryptid from Zambia described as a giant pterodactyl whose name means "boat-turner". [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) chooses to make it a bat and a carrier of diseases. I like that. DnD needs much more diseases. — SaltyGoo
+The kongamato is a cryptid from Zambia described as a giant pterodactyl whose name means "boat-turner". [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) chooses to make it a bat and a carrier of diseases. I like that. DnD needs many more diseases. — SaltyGoo
 </details>
