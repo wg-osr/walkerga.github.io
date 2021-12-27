@@ -5,10 +5,10 @@ permalink: /class/priest
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
-*Inspired from A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it it my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!*
+<summary>Design Notes</summary>
+*Inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it in my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!*
 
-*So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain condition. These rules are pretty abuseable by design though to encourage reckless fanatical behaviours. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just the ones that were relevant to my current game.*
+*So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain conditions. These rules are pretty abusable by design though to encourage reckless fanatical behaviors. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just the ones that were relevant to my current game.*
 
 *Also I might redo the wizard like that, but instead of sacraments they are different spellbooks!*
 </details>
@@ -27,19 +27,19 @@ When you choose a Sacrament, you become imparted by the divine grace of your rel
 Choices of Sacraments:
 
 <details markdown="1">
-<summary><b>Anoint the sword of the Conqueror</b></summary> 
-- You can spend Spell Dices as you attack and add the sum to your attack and damage rolls.
-- When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
+<summary><b>Anoint the sword of the Conqueror</b></summary>
+- You can spend Spell Dice as you attack and add the sum to your attack and damage rolls.
+- When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Die for your next combat turn.
 - Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
 </details>
 
 <details markdown="1">
-<summary><b>Bathe in the Sacred Element</b></summary> 
+<summary><b>Bathe in the Sacred Element</b></summary>
 - Choose what is the Sacred Element. You can shape it like clay.
 - If your body is covered in the Sacred Element, you have a free spell dice.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Element](/2020/11/13/cloak-of-element/), 2. [Conjure](/2020/11/12/conjure/) (the element), 3. [Elementamorphosis](/2020/11/13/elementamorphosis/), 4. [One with the Elements](https://saltygoo.github.io/2020/11/13/one-with-the-elements/)
 <details markdown="1">
-<summary><i>1D20 Elements</i></summary> 
+<summary><i>1D20 Elements</i></summary>
 1. Wind / Oxygen / Sound
 2. Stone / Sand / Earth
 3. Flames / Sparks / Explosion
@@ -65,79 +65,78 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
-<summary><b>Burn books in an auto-da-fé</b></summary> 
+<summary><b>Burn books in an auto-da-fé</b></summary>
 - Idiots believe you.
-- When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
+- When you destroy a source of knowledge, you gain 1 Spell Die (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Pinky Knot](/2020/11/13/pinky-knot/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Servitude](/2020/11/12/servitude/), 4. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/)
 </details>
 
 <details markdown="1">
-<summary><b>Commune with the Sacred Beast</b></summary> 
+<summary><b>Commune with the Sacred Beast</b></summary>
 - Choose what kind of animal is the Sacred Beast. You can speak with this animal.
 - As long as you are behaving like the chosen animal you have at least 1 Spell Dice.
 - Roll 1D4, you gain the following spell relating to the chosen animal: 1. [Animorph](/2020/11/12/animorph), 2. [Bestow Animal Aspect](/2020/11/12/bestow-aspect), 3. [The Animal Allure](/2020/11/12/animal-allure), 4. [Call of the Animal](/2020/11/12/call-of-the-animal).
 </details>
 
 <details markdown="1">
-<summary><b>Contact the Voices-from-Beyond</b></summary> 
+<summary><b>Contact the Voices-from-Beyond</b></summary>
 - Roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
-- When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Dice to it.
+- When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Die to it.
 - Roll 1D4, you gain the following spell: 1. [Conjure](/2020/11/12/conjure/), 2. [Genoplasm](/2020/11/13/genoplasm/), 3. [Petition](/2020/11/12/petition/), 4. [Transcendence](/2020/11/13/transcendence/)
 </details>
 
 <details markdown="1">
-<summary><b>Declaim the 100 Great Wisdoms</b></summary> 
+<summary><b>Declaim the 100 Great Wisdoms</b></summary>
 - If you would roll for a new spell, roll twice and choose. You can do that retroactively for your other Sacraments.
-- Every session, you gain 1 Spell Dice (until you spend it).
+- Every session, you gain 1 Spell Die (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Astral Projection](/2020/11/13/astral-projection/), 2. [Doom Foretold](/2020/11/13/doom-foretold/), 3. [Empathic Vessel](/2020/11/13/empathic-vessel/), 4. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/)
 </details>
 
 <details markdown="1">
-<summary><b>Drink the blood of your enemies</b></summary> 
+<summary><b>Drink the blood of your enemies</b></summary>
 - Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
-- When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
+- When you do to others what they have done to you, you gain 1 Spell Die (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Petition](/2020/11/12/petition/), 3. [Relentless Vigor](/2020/11/13/relentless-vigor/), 4. [Undying Oath](/2020/11/13/undying-oath/)
 </details>
 
 <details markdown="1">
-<summary><b>Kiss the feet of the Infant and Elder</b></summary> 
+<summary><b>Kiss the feet of the Infant and Elder</b></summary>
 - You gain a new [follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) each time you end a session in a city.
-- Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
+- Each person joining you in the casting of a spell adds 0.5 Spell Die to it.
 - Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Last Oath](/2020/11/13/last-oath/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Salvation](/2020/11/13/salvation/)
 </details>
 
 <details markdown="1">
-<summary><b>Meditate in isolation</b></summary> 
+<summary><b>Meditate in isolation</b></summary>
 - Each session, you can ask a Yes/No question to the referee. You will get the answer at the beginning of your next game.
-- At the end of a session, note 2 specific actions you want to do. The next time you play you have 1 additional Spell Dice when doing those actions.
+- At the end of a session, note 2 specific actions you want to do. The next time you play, you have 1 additional Spell Die when doing those actions.
 - Roll 1D4, you gain the following spell: 1. [Aura of Renewal](/2020/11/13/aura-of-renewal), 2. [Delay](/2020/11/13/delay), 3. [Indolence](/2020/11/13/indolence), 4. [Seal of Retribution](/2020/11/13/seal-of-retribution)
 </details>
 
 <details markdown="1">
-<summary><b>Parade the icons of the Faith</b></summary> 
-- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire on a number of believers equal to the Treasures you carry.
+<summary><b>Parade the icons of the Faith</b></summary>
+- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
 - You can give a class level to your next follower.
 - You can command your followers as a group and they will follow your orders blindly.
 </details>
 
 <details markdown="1">
-<summary><b>Prostrate yourself before the Authority</b></summary> 
+<summary><b>Prostrate yourself before the Authority</b></summary>
 - You are considered judge, jury and executioner by the faithful.
-- When you punish someone for breaking the Law, you gain 1 Spell Dice (until you spend it).
+- When you punish someone for breaking the Law, you gain 1 Spell Die (until you spend it).
 - Roll 1D4, you gain the following spell: 1. [Call for Judgement](/2020/11/12/call-for-judgement), 2. [Command](/2020/11/13/command), 3. [Smell Sin](/2020/11/12/smell-sin), 4. [Smite the Wicked](/2020/11/13/smite-the-wicked)
 </details>
 
 <details markdown="1">
-<summary><b>Return the dead to Nature</b></summary> 
+<summary><b>Return the dead to Nature</b></summary>
 - You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
-- You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
+- You can consume one organic object in your inventory to gain 1 spell Die (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
 
 <details markdown="1">
-<summary><b>Offer a Lamb to the Altar of Worship</b></summary> 
+<summary><b>Offer a Lamb to the Altar of Worship</b></summary>
 - You can speak the Holy Language.
 - You can spend 10 minutes at any shrine to learn the health and disposition of the divinity in residence.
 - Once per game you can ask a divinity a question, which they will answer with a hint.
 </details>
-
