@@ -33,16 +33,16 @@ Additionally, it can see in the dark and its hooves make a terrible noise when i
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D10 bestial terrors, including 1 horde warlord (see warriors).
-1. **Lair:**  The ruins of a pillaged village, they come from the nearby road every night. <br>	&nbsp; OR <br>	**Omen:** See terror stampede ability.
+1. **Lair:**  The ruins of a pillaged village. They come from the nearby road every night. <br>    &nbsp; OR <br>    **Omen:** See terror stampede ability.
 1. **Spoor:** A caravan, destroyed but not looted. The occupants seem to have been dragged somewhere.
 1. **Tracks:** Stampede sounds but nothing visible.
-1. **Trace:** Hooves tracks and signs of a dragged body, which all suddenly disappear.
+1. **Trace:** Hoof tracks and signs of a dragged body, which all suddenly disappear.
 1. **Trace:** Sudden stampede sound carried by the wind.
 </details>
 
@@ -54,14 +54,14 @@ Additionally, it can see in the dark and its hooves make a terrible noise when i
 1. Conquer the kingdom that it fought while alive.
 1. Massacre for its demon overlord.
 1. Hunt down the bearer of a famous weapon.
-1. Drag somebody who abandoned its loved ones during war to the underworld. 
+1. Drag somebody who abandoned its loved ones during war to the underworld.
 
 </details>
 
 <details markdown="1">
 <summary>Summoning the Spirit</summary>
 
-If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such way for a minimum of 3 Spell Dices:
+If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such a way for a minimum of 3 Spell Dice:
 
 **Summon Bestial Terror** <br>
 R: 50’ D: One night
@@ -71,7 +71,7 @@ You summon one bestial terror and [sum] ghostly images of centaurs. They will ra
 You need 3 SD to cast this variant of the summon the dead spell.
 </details>
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>DM Notes</summary>
