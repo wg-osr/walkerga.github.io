@@ -30,7 +30,7 @@ You learn any spell from any schools:
 1. [Vivimancy](/spells#vivimancy)
 
 <ins>Perk</ins><br>
-If you dont like the spell you rolled upon level up, you can reroll it.
+If you don't like the spell you rolled, you can reroll it.
 
 <ins>Drawback</ins><br>
 None
