@@ -783,7 +783,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 
 <details markdown="1">
 <summary><b>82. Industrial Alchemy</b></summary> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Entirely red to conceal blood stains. Soaked.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Perfect-bound. Letterpressed. Blue.*
 - You can tell the weakest point in a structure or an object.
 - Each time you study this book, name a handheld tool of your choice. Your hand can function as this tool.
 - Roll 1D4, you gain the following spell: 1. [Extrude](/2020/11/13/extrude/), 2. [Mill](/2020/11/13/mill/), 3. [Nail Gun](/2020/11/13/nail-gun/), 4. [Universal Solvent](/2020/11/13/universal-solvent/)
@@ -882,12 +882,21 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>93. Tales of the Thief</b></summary> 
+<summary><b>93. Comus's Trickeries</b></summary> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Collection of epic fables. Green and beige woven cover.*
 - You are a good ventriloquist. Your voice can sound like just about anything. 
 - Each time you study this book, you note the name of a person you stole from. You can target this person with touch-ranged spells from anywhere.
 - Roll 1D4, you gain the following spell: 1. [Bargain](/2020/11/13/bargain/), 2. [Borrow Name](/2020/11/13/borrow-name/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Steal Face](/2020/11/13/steal-face/)
 ###### *From Rise Up Comus's [Trickster Wizard](https://riseupcomus.blogspot.com/2021/12/trickster-osr-class-that-can-steal.html)!*
+</details>
+
+<details markdown="1">
+<summary><b>94. Tome of Avernus</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavy tome of polished chrome. Letters revealed by flames.*
+- You can store weapons in hell and unsheathe them from thin air. They do not take inventory slots, but you cant sell them. 
+- Each time you study this book, choose a pact reward from a random [lesser divine servant](/list/monsters-celestial).
+- Roll 1D4, you gain the following spell: 1. [Hellfire Engine](/2020/11/13/hellfire-engine/), 2. [Metal to Flame](/2020/11/13/metal-to-flame/), 3. [Smoke Signal](/2020/11/13/smoke-signal/), 4. [Shield](/2020/11/13/shield/)
+###### *From the Nothic Eye's [Warmind Wizard](https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html)!*
 </details>
 
 I'm missing 6! Ping me on discord/reddit if you have ideas.
