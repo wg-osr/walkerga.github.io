@@ -4,11 +4,13 @@ tags: spell diabolism
 title: Call for Judgement
 ---
 
-R: 60’		D: 1 hour
+**R**: 60’		**D**: [dice] x 10 minutes
 
-You name a code of law and summon a celestial spirit of judgement, a spherical amalgation of wings and unblinking eyes. For 1 hour, it will do all it can to enforce the law to the letter, triggering a catastrophe in face of an impossible task. 
+You need to name a code of law or a contract in your invetory to cast this spell. A celestial spirit of judgement in the shape of a spherical amalgation of wings and unblinking eyes is summoned from above the target. For the duration, everything within its sight will be forced to follow the named law or contract to the letter. The spell ends if the entity is killed. It has [sum] HD, resists all damage.
 
-It has [dice] HD, resists all damage, and radiates a [dice]*10’ aura that enforces the law to the letter.
+If the spell would provoke a semantic loop, or a contradiction, it fails and a [catastrophe](/list/spell-catastrophe) is triggered.
+
+If you invest 4 dice or more in this spell, the effect becomes permanent.
 
 ###### Call + Judgement
 ###### Adapted from [A Blasted Cratered Land](https://crateredland.blogspot.com/2019/01/the-cleric.html)
