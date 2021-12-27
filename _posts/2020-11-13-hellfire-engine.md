@@ -4,6 +4,7 @@ tags: spell diabolism
 title: Hellfire Engine
 ---
 R: Touch  D: 1 hour
+
 You call forth, from the foundries and factories of the Hellish war-machine, a deadly machine. The ultimate expression of overwhelming Avernian force, it manifests as, basically, a wheeled fortification, with enough interior space for [sum] passengers. It is too big to enter most corridors, is slow, has [sum] HP, use your charisma for attacks and has [dice] of the following armaments: 
 
 - **Thick Armour:** The Engine has an armor of 4.
