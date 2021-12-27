@@ -19,21 +19,21 @@ The Polar Bear has a very good sense of smell and resists cold.
 
 <ins>Bite and Claws</ins>. The bear makes two melee attacks (1D8).
 
-<ins>Bear Hug</ins>. The bear attempts to grapple the target. While grapple, the target takes damage on each of the bear’s turns (1D8).
+<ins>Bear Hug</ins>. The bear attempts to grapple the target. While grappled, the target takes damage on each of the bear’s turns (1D8).
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 polar bear.
-1. **Lair:** A cave hidden in the snow. 2-6 chances that there are cubs. <br>	&nbsp; OR <br>	**Omen:** The sound of heavy, animal breathing.
+1. **Lair:** A cave hidden in the snow. 2-6 chances that there are cubs. <br>    &nbsp; OR <br>    **Omen:** The sound of heavy, animal breathing.
 1. **Spoor:** Half eaten carcass of a beast.
 1. **Tracks:** Bear tracks.
-1. **Trace:** Fish bone. 
+1. **Trace:** Fish bone.
 1. **Trace:** Claw marks.
 </details>
 
@@ -51,7 +51,7 @@ In local cultures, it is a symbol of ...
 1. Stars
 1. Winter
 1. Motherhood
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
