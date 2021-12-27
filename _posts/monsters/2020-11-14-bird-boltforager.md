@@ -5,7 +5,7 @@ permalink: /monsters/bird-boltforager
 title: Bird, Boltforager
 ---
 
-A diseases-carrying red carrion bird. A beast.
+A disease-carrying red carrion bird. A beast.
 
 Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust.
 
@@ -28,17 +28,17 @@ The Boltforager can smell rotting corpses from a mile away.
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 2D6 boltforagers.
-1. **Lair:** Worm-infested nests full of rotting bones and eggshells. <br>	&nbsp; OR <br>	**Omen:** A deep, parrot-like scream.
+1. **Lair:** Worm-infested nests full of rotting bones and eggshells. <br>    &nbsp; OR <br>    **Omen:** A deep, parrot-like scream.
 1. **Spoor:** A bloated, gassy carcass. Obliviously infected.
-1. **Tracks:** The caracteristic scream of the boltforager. At dawn or dusk.
+1. **Tracks:** The characteristic scream of the boltforager. At dawn or dusk.
 1. **Trace:** Strange orange worms infesting a vermin's dead body.
-1. **Trace:** Very loud bird screams at dawn and dusk.
+1. **Trace:** Very loud bird noises at dawn and dusk.
 </details>
 
 <details markdown="1">
@@ -56,7 +56,7 @@ In local cultures the boltforager is a symbol of ...
 1. Morning
 1. Death
 1. Digestion
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
