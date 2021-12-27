@@ -881,4 +881,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From Princesses and Pioneers's [Science Wizard](https://princesses-and-pioneers.tumblr.com/post/183590194713/science-wizard)!*
 </details>
 
-I'm missing 9! Ping me on discord/reddit if you have ideas.
+<details markdown="1">
+<summary><b>93. Tales of the Thief</b></summary> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Collection of epic fables. Green and beige woven cover.*
+- You are a good ventriloquist. Your voice can sound like just about anything. 
+- Each time you study this book, you note the name of a person you stole from. You can target this person with touch-ranged spells from anywhere.
+- Roll 1D4, you gain the following spell: 1. [Bargain](/2020/11/13/bargain/), 2. [Borrow Name](/2020/11/13/borrow-name/), 3. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 4. [Steal Face](/2020/11/13/steal-face/)
+###### *From Rise Up Comus's [Trickster Wizard](https://riseupcomus.blogspot.com/2021/12/trickster-osr-class-that-can-steal.html)!*
+</details>
+
+I'm missing 6! Ping me on discord/reddit if you have ideas.
