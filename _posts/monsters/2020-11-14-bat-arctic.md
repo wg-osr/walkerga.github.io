@@ -15,7 +15,7 @@ Arctic bats are white and fluffy, which gives them excellent camouflage in snow.
 **Movement:** slow, fly fast <br>
 **Morale:** coward <br>
 
-Bats have a very keen hearing, allowing them to easily spot their preys and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
+Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
 
 **Attacks (1/round)**
 
@@ -33,7 +33,7 @@ Bats have a very keen hearing, allowing them to easily spot their preys and pred
 **Movement:** slow, fly fast <br>
 **Morale:** coward <br>
 
-Bats have a very keen hearing, allowing them to easily spot their preys and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
+Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
 
 In a swarm, Arctic Bats are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
@@ -44,12 +44,12 @@ In a swarm, Arctic Bats are immune to being grappled or attacked by single targe
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1D4 arctic bat swarms.
-1. **Lair:** A small opening leading to a dark cave. If its the day, 1D10 swarms are sleeping. <br>	&nbsp; OR <br>	**Omen:** High pitched bat noises, very close.
+1. **Lair:** A small opening leading to a dark cave. If it's the day, 1D10 swarms are sleeping. <br>    &nbsp; OR <br>    **Omen:** High pitched bat noises, very close.
 1. **Spoor:** 1D10 arctic bats flying around.
 1. **Tracks:** High pitched bat noises in the night.
 1. **Trace:** An frozen animal with tiny bite marks.
@@ -72,7 +72,7 @@ In local cultures the bat is a symbol of ...
 1. Bad Luck
 1. Preservation
 1. Luxury
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
