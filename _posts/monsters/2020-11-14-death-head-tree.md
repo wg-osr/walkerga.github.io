@@ -5,7 +5,7 @@ permalink: /monsters/death-head-tree
 title: Death's Head Tree
 ---
 
-Parasitic tree with face shaped fruits. A plant.
+Parasitic tree with face-shaped fruits. A plant.
 
 Imagine a weeping willow but with much thicker branches. It bears head sized fruits that smell like rotting flesh and sporadically have gas leaks that sound like cries. Even more disturbingly, from afar, each fruit looks like the severed head of a humanoid and floats if detached.
 
@@ -15,9 +15,9 @@ Imagine a weeping willow but with much thicker branches. It bears head sized fru
 **Movement:** static<br>
 **Morale:** mindless <br>
 
-As a plant, the death's head tree cant see, hear, be stunned or dazed. However it detects movement in its vincinity. It's tree compact, moist wood makes it resistant to bludgeoning, piercing and fire damage.
+As a plant, the death's head tree can't see, hear, or be stunned or dazed. However it detects movement in its vicinity. It's tree compact, moist wood makes it resistant to bludgeoning, piercing and fire damage.
 
-Additionnaly, the death’s head tree has <ins>4D4 heads</ins>. While it has more than one head, it has advantage on saving throws. Whenever the death’s head tree takes 4 or more damage in a single turn, one of its heads detaches.
+Additionally, the death’s head tree has <ins>4D4 heads</ins>. While it has more than one head, it has advantage on saving throws. Whenever the death’s head tree takes 4 or more damage in a single turn, one of its heads detaches.
 
 **Attacks (# of heads/round)**
 
@@ -34,15 +34,15 @@ Additionnaly, the death’s head tree has <ins>4D4 heads</ins>. While it has mor
 <br>
 # Death's Head Fruit
 
-Imagine very rotten squash whit folds that make it look like a pretty convincing wrinkly face. It floats.
+Imagine very rotten squash with folds that make it look like a pretty convincing wrinkly face. It floats.
 
 **HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** tiny <br>
 **Stats:** weak, slow and barely conscious<br>
 **Movement:** fly slow<br>
 **Morale:** mindless <br>
-  
-As a plant, the death's head tree cant see, hear, be stunned or dazed. However it detects movement in its vincinity. 
+ 
+As a plant, the death's head tree can't see, hear, or be stunned or dazed. However it detects movement in its vicinity.
 
 **Attacks (1/round)**
 
@@ -51,13 +51,13 @@ As a plant, the death's head tree cant see, hear, be stunned or dazed. However i
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 death’s head tree & 1D6 fruits.
-1. **Lair:** A clearing with traces of ancient bloodshed with 1D19 fruits and the tree looming not very far. <br>	&nbsp; OR <br>	**Omen:** Strange exhaled moans.
+1. **Lair:** A clearing with traces of ancient bloodshed with 1D19 fruits and the tree looming not very far. <br>    &nbsp; OR <br>    **Omen:** Strange exhaled moans.
 1. **Spoor:** 1D4 floating death’s head fruits.
 1. **Tracks:** Faint cries for help.
 1. **Trace:** A rotten fruit, strangely looking like a head.
@@ -78,15 +78,16 @@ In local cultures this beast is a symbol of ...
 
 1. Grief
 1. Ancestors
-1. Secrets	
+1. Secrets    
 1. Tragedy
 1. Taboo
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-The original [death's head tree](http://adnd.geoshitties.installgentoo.com/mm/deaheatr.html) comes from Ravenloft, and like many Ravenloft creatures, it is full of creepy flavour. For this adaptation, I simply streamlined the mechanics.
+The original [death's head tree](http://adnd.geoshitties.installgentoo.com/mm/deaheatr.html) comes from Ravenloft, and like many Ravenloft creatures, it is full of creepy flavor. For this adaptation, I simply streamlined the mechanics.
 </details>
+
