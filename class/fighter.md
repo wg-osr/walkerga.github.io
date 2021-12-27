@@ -4,7 +4,7 @@ title: The Fighter
 permalink: /class/fighter
 ---
 
-###### Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pionneers's [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)
+###### Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter)
 
 <ins>Starting Equipment</ins><br>
 Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
@@ -29,11 +29,10 @@ Your weapons have different effects depending on the type of damage you would in
 You can choose to sacrifice a held weapon or a worn piece of armor to reduce incoming damage by 1D6. If the piece of armor was a shield, reduce damage by 1D12 instead. You can use this ability once per encounter.
 
 ## Tricky
-Whenever you roll a natural 19 or 20 on an attack roll, you can attempt a combat maneuvre on top of the damage.
+Whenever you roll a natural 19 or 20 on an attack roll, you can attempt a combat maneuver on top of the damage.
 
 ## Outlast
 Instead of taking a Wound, you can take 1 DEX damage.
 
 ## Double Attack
 You can attack twice in each round.
-
