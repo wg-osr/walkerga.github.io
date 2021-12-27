@@ -5,12 +5,12 @@ permalink: /class/fighter/centaur
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
-*This was initially a monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur) but seems like it could be used for an actual horse. It's a good fighting class, and it becomes very absurd if you multiclass into a specialist (wall-climbing horse-person!). — SaltyGoo* 
+<summary>Design Notes</summary>
+*This was initially a monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur) but it seems like it could be used for an actual horse. It's a good fighting class, and it becomes very absurd if you multiclass into a specialist (wall-climbing horse-person!). — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
-A waterskin and two of the followings: a Bow (and 12 arrows), a Saddle, or a Songbird,
+A waterskin and two of the following: a Bow (and 12 arrows), a Saddle, or a Songbird,
 
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Outdoors, Horse Life or Archery.
