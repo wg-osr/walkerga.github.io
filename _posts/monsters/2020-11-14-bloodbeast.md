@@ -7,7 +7,7 @@ title: Bloodbeast
 
 Giant spider leech. A beast.
 
-Imagine a sand colored leech as long as a horse. It stands high on six long insectoid legs. Its head is framed by vestigal gills.
+Imagine a sand-colored leech as long as a horse. It stands high on six long insectoid legs. Its head is framed by vestigial gills.
 
 Always hungry, it is an ambush predator.
 
@@ -17,7 +17,7 @@ Always hungry, it is an ambush predator.
 **Movement:** fast <br>
 **Morale:** brave <br>
 
-Bloodbeasts camouflage very well in rocky landscapes. They can jump 30’ without momentum. They dont see much, but sensors on their skin allow them to operate without sight.
+Bloodbeasts camouflage very well in rocky landscapes. They can jump 30’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
 
 **Attacks (1/round)**
 
@@ -31,9 +31,9 @@ Bloodbeasts camouflage very well in rocky landscapes. They can jump 30’ withou
 
 # Bloodgill
 
-Bloodsucking bipedal tadpoles. 
+Bloodsucking bipedal tadpoles.
 
-Bloodgills are the larval stage of the blood beast. Imagine a rotond spotted leech standing upright on two chubby legs and with fin-like gills sprouting from its flanks.
+Bloodgills are the larval stage of the blood beast. Imagine a rotund spotted leech standing upright on two chubby legs and with fin-like gills sprouting from its flanks.
 
 **HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** tiny <br>
@@ -41,11 +41,11 @@ Bloodgills are the larval stage of the blood beast. Imagine a rotond spotted lee
 **Movement:** slow, swim average <br>
 **Morale:** coward <br>
 
-Bloodgills are amphibious and can breath as well in water as outside. They can jump 10’ without momentum. They dont see much, but sensors on their skin allow them to operate without sight.
+Bloodgills are amphibious and can breathe as well in water as outside. They can jump 10’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
 
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The bloodgill makes a melee attack attaches itself to the target. As long as it is attached, it cannot use its bite attack.
+<ins>Bite.</ins> The bloodgill makes a melee attack and attaches itself to the target. As long as it is attached, it cannot use its bite attack.
 
 <ins>Drain Blood.</ins> The bloodgill inflicts 1 constitution damage to a target it is attached to as it drains its blood.
 
@@ -61,7 +61,7 @@ Bloodgills are amphibious and can breath as well in water as outside. They can j
 **Movement:** slow, swim average <br>
 **Morale:** coward <br>
 
-Bloodgills are amphibious and can breath as well in water as outside. They can jump 10’ without momentum. They dont see much, but sensors on their skin allow them to operate without sight.
+Bloodgills are amphibious and can breathe as well in water as outside. They can jump 10’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
 
 In a swarm, bloodgills are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
@@ -72,16 +72,16 @@ In a swarm, bloodgills are immune to being grappled or attacked by single target
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 bloodbeast or 1D6 bloodgills or 1 bloodgill swarm.
-1. **Lair:** Deep mud pond with mummified animal corpses preserved in it. 2-6 chance there are clusters of reddish eggs. <br>	&nbsp; OR <br>	**Omen:** The smell of fresh mud.
+1. **Lair:** Deep mud pond with mummified animal corpses preserved in it. 2-6 chance there are clusters of reddish eggs. <br>    &nbsp; OR <br>    **Omen:** The smell of fresh mud.
 1. **Spoor:** A carcass, sucked dry of its blood.
 1. **Tracks:** Small drying mud puddles.
-1. **Trace:** A lone, stranded bloodgill. 
+1. **Trace:** A lone, stranded bloodgill.
 1. **Trace:** A wounded herbivore, a large lamprey bite on its side.
 </details>
 
@@ -104,12 +104,12 @@ In local cultures the bat is a symbol of ...
 1. Filth
 1. Vampires
 1. Nightmares
-1. Cursed 
+1. Cursed
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-The bloodbeast and the bloodgill are orginal creations of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/2012/11/new-oebx1e-monster-bloodgill_20.html) originaly for his* Starmaster* sci-fi game. It's weird and I love the idea of being sucked dry by a swarm of bipedal tadpoles. — SaltyGoo
+The bloodbeast and the bloodgill are original creations of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/2012/11/new-oebx1e-monster-bloodgill_20.html) originally for his* Starmaster* sci-fi game. It's weird and I love the idea of being sucked dry by a swarm of bipedal tadpoles. — SaltyGoo
 </details>
