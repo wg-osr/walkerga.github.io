@@ -15,7 +15,7 @@ Imagine a bright-red centipede as long as a dog. It eats burnt organic matter.
 **Movement:** average, climb average<br>
 **Morale:** brave <br>
 
-Dracopedes can climb on any surfaces, including upside down, with little difficulty. They cant see well but detects nearby movement. Red dracopedes are resist fire.
+Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement. Red dracopedes are resist fire.
 
 **Attacks (1/round)**
 
@@ -31,16 +31,16 @@ This attack has no effect in cool temperatures.
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 dracopedes.
-1. **Lair:** A maze of narrow tunnels dug in burnt wood. <br>	&nbsp; OR <br>	**Omen:** Subtle chewing noises.
+1. **Lair:** A maze of narrow tunnels dug in burnt wood. <br>    &nbsp; OR <br>    **Omen:** Subtle chewing noises.
 1. **Spoor:** A dead humanoid, burnt to crisp.
 1. **Tracks:** Burnt plants.
-1. **Trace:** A dracopede shell. 
+1. **Trace:** A dracopede shell.
 1. **Trace:** Well polished surface.
 </details>
 
@@ -62,7 +62,7 @@ In local cultures the bat is a symbol of ...
 1. Seasons
 1. Shyness
 1. Weather
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
