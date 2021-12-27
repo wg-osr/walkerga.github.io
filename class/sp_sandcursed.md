@@ -6,7 +6,7 @@ permalink: /class/sandcursed
 
 <details markdown="1">
 <summary>Design Notes</summary>
-*This was thought as a monster class for the [Desert Giant](/monsters/giant-desert). I loved the idea of the inevitable death by petrification, so I designed this class to be about survival but at a permanent cost. It's between the inventory management of my "fat classes" ([Ogre](/class/fighter/ogre) and [Pigfolk](/class/specialist/pigfolk)) and my other "doomed" class the [mutant](/fighter/mutant). The last template might look simple, but any sand-cursed character that survived that long will probably need this huge boost in survivability. — SaltyGoo* 
+*This was thought of as a monster class for the [Desert Giant](/monsters/giant-desert). I loved the idea of the inevitable death by petrification, so I designed this class to be about survival but at a permanent cost. It's between the inventory management of my "fat classes" ([Ogre](/class/fighter/ogre) and [Pigfolk](/class/specialist/pigfolk)) and my other "doomed" class the [mutant](/fighter/mutant). The last template might look simple, but any sand-cursed character that survived that long will probably need this huge boost in survivability. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
@@ -32,10 +32,13 @@ On your turn, you can create a whirlwind of sand and dust that extends 10' aroun
 You can cure yourself of poison, disease, curse, or a day of hunger by filling one inventory slot with permanent sand.
 
 ## Ululate
-Your ululations carry far. They can be faintly heard across any outdoors location in your hex if you are outside, or anywhere in the dungeon you are in. To most, they are just screams, but you can hold complex conversations with other sand-cursed people in such way. In any case, using this ability triggers an encounter, but, if you are outside, it will also summon a mount for you to ride.
+Your ululations carry far. They can be faintly heard across any outdoors location in your hex if you are outside, or anywhere in the dungeon you are in. To most, they are just screams, but you can hold complex conversations with other sand-cursed people in such a way. In any case, using this ability triggers an encounter, but, if you are outside, it will also summon a mount for you to ride.
 
 ## Half-Statue
 You can speak with statues, and also look indistinguishable from one for 1 hour without moving.
 
 ## Stoneskin
 You gain 1 HP for each inventory slot taken by cursed sand.
+
+
+
