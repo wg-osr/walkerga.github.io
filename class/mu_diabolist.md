@@ -18,7 +18,7 @@ Your choice of Secret Cultist, Lazy Student, or Corrupted Courtesan.
 Any from the [diabolism](/spells#diabolism) school.
 
 <ins>Perk</ins><br>
-You can clear all your [Doom Points](/class/magic-user#spells) by performing a random obligation for a devil (roll 1D8 on both the obligation and sin tables): 
+You can clear all your [Doom Points](/class/magic-user#spells) by performing a random obligation for a devil (roll 1D8 on both the obligation and sin tables):
 
 **Obligation**
 1. Sacrifice 2 creatures consumed with ...
@@ -40,10 +40,9 @@ You can clear all your [Doom Points](/class/magic-user#spells) by performing a r
 
 
 <ins>Drawback</ins><br>
-Rolling a 6 on a SD adds 1 doom points.
+Rolling a 6 on a SD adds 1 doom point.
 
 <ins>Cantrips</ins>
 - You can cause blood or other bodily fluids to appear on things by touching them. You can delay this appearance for up to an hour.
 - You and your possessions are unharmed by any fires smaller than a campfire.
 - You can see through the eyes of goats that you’ve touched as long as you know where they are. One at a time.
-
