@@ -8,7 +8,7 @@ permalink: /class/ettercap
 A silk bag, A dessicated body.
 
 <ins>Starting Skills (+5)</ins><br>
-Ropes, and either Fairy Hunting, Canopy Life, or Sewing. 
+Ropes, and either Fairy Hunting, Canopy Life, or Sewing.
 
 For every Spiderfolk template you have, you can produce an extra 30 ft of rope per day.
 
