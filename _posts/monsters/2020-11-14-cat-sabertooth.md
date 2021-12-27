@@ -7,7 +7,7 @@ title: Cat, Sabertooth
 
 Giant cats with a deadly bite. A beast.
 
-Imagine a stocky, muscular lionness with two enormous scimitar-like canine sprouting out of its top jaw.
+Imagine a stocky, muscular lioness with two enormous scimitar-like canines sprouting out of its top jaw.
 
 **HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** large <br>
@@ -15,7 +15,7 @@ Imagine a stocky, muscular lionness with two enormous scimitar-like canine sprou
 **Movement:** fast <br>
 **Morale:** brave <br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. 
+Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark.
 
 **Attacks (1/round)**
 
@@ -28,23 +28,23 @@ Cats are stealthy and have a very keen sense of sight and smell allowing them to
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 sabertooth cats.
-1. **Lair:** A large flat rock overseeing the area. 1/2 chance there are 1D6 cubs. <br>	&nbsp; OR <br>	**Omen:** A flock of birds scattering away. Silence.
+1. **Lair:** A large flat rock overlooking the area. 1/2 chance there are 1D6 cubs. <br>    &nbsp; OR <br>    **Omen:** A flock of birds scattering away. Silence.
 1. **Spoor:** A large beast, dead, swarmed by vultures.
 1. **Tracks:** Tiger tracks.
-1. **Trace:** A roar, far away. 
+1. **Trace:** A roar, far away.
 1. **Trace:** A broken sabertooth skull helmet.
 </details>
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
 
-Sabertooth cats have nice pelts, and their skull are solid enough to be used as helmets. It provides enough rations for 2D4 days.
+Sabertooth cats have nice pelts, and their skulls are solid enough to be used as helmets. It provides enough rations for 2D4 days.
 </details>
 
 <details markdown="1">
@@ -56,12 +56,12 @@ In local cultures this beast is a symbol of ...
 1. Storms
 1. Solidarity
 1. Royalty
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
 
 <details markdown="1">
 <summary>Credits</summary>
-An underused classic of pulp. I added a truely deadly effect to its bite to differenciate it from a lion. — SaltyGoo
+An underused classic of pulp. I added a truly deadly effect to its bite to differentiate it from a lion. — SaltyGoo
 </details>
