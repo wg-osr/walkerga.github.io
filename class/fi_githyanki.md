@@ -7,8 +7,8 @@ permalink: /class/fighter/githyanki
 <img align="right" width=250px src="/images/githyanki.jpg">
 
 <details markdown="1">
-<summary>Design Notes</summary> 
-*Githyankis are one of the few original cool things from DnD. For me, they are loved for two iconic features: they defined the trope of the figther-mage, and they are astral pirates that cut the silver threads that bind astral travelers to their physical body. I also tumbled on a yank pun along the way. The result is a wacky hyper-agressive and hyper-mobile class that bounces around everything. The illustration is by Russ Nicholson. — SaltyGoo*
+<summary>Design Notes</summary>
+*Githyankis are one of the few original cool things from DnD. For me, they are loved for two iconic features: they defined the trope of the fighter-mage, and they are astral pirates that cut the silver threads that bind astral travelers to their physical body. I also tumbled on a yank pun along the way. The result is a wacky hyper-aggressive and hyper-mobile class that bounces around everything. The illustration is by Russ Nicholson. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
@@ -20,7 +20,7 @@ Your choice of Sky-Pirate, Dragon-Rider, Astronavigator, or Astroknight
 For every Githyanki template you have, you learn a new spell from the Githyanki spell list.
 
 <details markdown="1">
-<summary>Githyanki Spell List (1D8)</summary> 
+<summary>Githyanki Spell List (1D8)</summary>
 1.  [Alter Gravity](https://saltygoo.github.io/2020/11/13/alter-gravity/)
 1.  [Principle of Cutting](https://saltygoo.github.io/2020/11/13/principle-of-cutting/)
 1.  [Telekinetic Burst](https://saltygoo.github.io/2020/11/13/telekinetic-burst/)
@@ -37,17 +37,17 @@ For every Githyanki template you have, you learn a new spell from the Githyanki 
 **D:** Silver Sword of Gith<br>
 
 ## Gith Magic
-You can cast spells using Spell Dices (SD) like a Wizard, except that yours depend on your martial prowesses: You gain a Spell Dice every time you successfuly damage a creature with a melee weapon. The dice are D6s and last 10 minutes before vanishing. You can only have 3 of them at a time.
+You can cast spells using Spell Dice (SD) like a Wizard, except that yours depend on your martial prowess: You gain a Spell Die every time you successfully damage a creature with a melee weapon. The dice are D6s and last 10 minutes before vanishing. You can only have 3 of them at a time.
 
 <details markdown="1">
-<summary>How GLOG spells work</summary> 
+<summary>How GLOG spells work</summary>
 <ins>Casting a Spell</ins><br>
 Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. You can’t cast without SD.
 
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal or below your doom score, you trigger a catastrophe. In the case of a Githyanki, the catastrophe takes the shape of a piercing light shining on you from a portal, burning your astral tether and dragging you inside a Mind Flayer nautiloid ship where you are sure to be experimented upon.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. In the case of a Githyanki, the catastrophe takes the shape of a piercing light shining on you from a portal, burning your astral tether and dragging you inside a Mind Flayer nautiloid ship where you are sure to be experimented upon.
 </details>
 
 ## Astral Tether
