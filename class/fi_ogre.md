@@ -5,7 +5,7 @@ permalink: /class/fighter/ogre
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
+<summary>Design Notes</summary>
 *This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. Players taking this class should aim to become as fat as possible. The ogre class is pretty weak when skinny, but has a very high power potential. — SaltyGoo*
 </details>
 
@@ -29,7 +29,7 @@ All objects of the same type in your inventory can be stacked in packs of three,
 For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [Treasure](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
 
 ## Belly
-You can eat any object bigger than a chicken and softer than metal as a ration. If you dont eat the equivalent of two rations per day, you lose 1 layer of fat.
+You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat the equivalent of two rations per day, you lose 1 layer of fat.
 
 ## Smash
 You can replace your melee damage rolls with the number of inventory slots you have taken by fat.
