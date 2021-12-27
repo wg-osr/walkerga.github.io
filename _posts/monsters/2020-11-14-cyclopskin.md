@@ -26,7 +26,7 @@ Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
@@ -36,9 +36,9 @@ Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs
     1. 1 [shaman](/monsters/shaman)
     1. 1D4 of them are [warriors](/monsters/warrior) or [goons](/monsters/goon)
     1. roll twice
-1. **Lair:** A cyclopean temple to the One-Eyed God of the orcs. <br>	&nbsp; OR <br>	**Omen:** War chants to the One-Eyed God.
+1. **Lair:** A cyclopean temple to the One-Eyed God of the orcs. <br>    &nbsp; OR <br>    **Omen:** War chants to the One-Eyed God.
 1. **Spoor:** A dead body, with one rock smashed in the eyes.
-1. **Tracks:** Singe eyes craved on rocks.
+1. **Tracks:** Singe eyes carved on rocks.
 1. **Trace:** A broken spear.
 1. **Trace:** Statue of a cyclops.
 </details>
@@ -64,14 +64,14 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 
 **Cultures**
 1. The ones that live in caves.
-1. The ones that live on rafts. 
+1. The ones that live on rafts.
 1. The ones that live as an upper cast among orcs.
 1. The ones that joined the local horde.
 1. The ones that ride on dinosaurs.
 1. The ones that tend to a primeval temple.
 
 **Features**
-1. They are affraid of the sky and birds.
+1. They are afraid of the sky and birds.
 1. They are half elves.
 1. They are half orcs.
 1. They see all other humanoids as rivals.
@@ -84,9 +84,9 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 Play as a [Cyclopskin](/class/fighter/cyclopskin)!
 </details>
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>DM Notes</summary>
-The cyclops has the problem of many giants in DnD in the fact that they have no abilities besides being big. It's a bit sad, especially for something as visualy striking as the cyclops. What I did was to give its eye a power and a reason to exploit this weakness.
+The cyclops has the problem of many giants in DnD in the fact that they have no abilities besides being big. It's a bit sad, especially for something as visually striking as the cyclops. What I did was to give its eye a power and a reason to exploit this weakness.
 </details>
