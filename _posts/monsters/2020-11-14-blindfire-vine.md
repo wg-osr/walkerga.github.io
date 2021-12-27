@@ -7,25 +7,25 @@ title: Blindfire Vine
 
 Carnivorous vines with a maw. A plant.
 
-Imagine a tangle of vines with bright red pepper-like fruits. If a creature moves too close, it unfolds and tries to grab it, revealing a circular maw of torns.
+Imagine a tangle of vines with bright red pepper-like fruits. If a creature moves too close, it unfolds and tries to grab it, revealing a circular maw of thorns.
 
 **HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
-**Stats:** surprisingingly strong but that's pretty much it<br>
+**Stats:** surprisingly strong but that's pretty much it<br>
 **Movement:** static<br>
 **Morale:** coward <br>
 
-As a plant, the blindfire vine cant see, hear, be stunned or dazed. However it detects movement in its vincinity.
+As a plant, the blindfire vine can't see, hear, or be stunned or dazed. However it detects movement in its vicinity.
 
 **Attacks (1/round)**
 
-<ins>Strangle</ins>. The blindfire vine makes a grapple attempt with reach. A grappled target cant breathe and takes 1D4 damage every time it fails a roll to escape.
+<ins>Strangle</ins>. The blindfire vine makes a grapple attempt with reach. A grappled target can't breathe and takes 1D4 damage every time it fails a roll to escape.
 
 <br>
 
 ---
 
-<br> 
+<br>
 # Blindfire Carpet
 
 **HD:** 4  &nbsp; &nbsp;  **Armor:** as leather <br>
@@ -34,11 +34,11 @@ As a plant, the blindfire vine cant see, hear, be stunned or dazed. However it d
 **Movement:** slow <br>
 **Morale:** brave <br>
 
-As a plant, the blindfire vine cant see, hear, be stunned or dazed. However it detects movement in its vincinity.
+As a plant, the blindfire vine can't see, hear, or be stunned or dazed. However it detects movement in its vicinity.
 
 **Attacks (1/round)**
 
-<ins>Smother</ins>. The blindfire carpet rises like a wave and collapse on a target. If it doesn't dodge, the target is grappled, blinded and cant breathe. Each attack against the blindfire carpet deals 50% damage to one of the creatures grappled by it.
+<ins>Smother</ins>. The blindfire carpet rises like a wave and collapses on a target. If it doesn't dodge, the target is grappled, blinded and can't breathe. Each attack against the blindfire carpet deals 50% damage to one of the creatures grappled by it.
 
 <ins>Consume</ins>. The blindfire inflicts 1D4 damage to all creatures grappled by it.
 
@@ -46,16 +46,16 @@ As a plant, the blindfire vine cant see, hear, be stunned or dazed. However it d
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 blindfire vine.
-1. **Lair:** A blindfire cartet. 1/2 chance there's local fauna in it. <br>	&nbsp; OR <br>	**Omen:** The sound of an animal being strangled.
+1. **Lair:** A blindfire cartet. 1/2 chance there's local fauna in it. <br>    &nbsp; OR <br>    **Omen:** The sound of an animal being strangled.
 1. **Spoor:** Well cleaned bones dropped on the ground beneath a tree.
 1. **Tracks:** Pepper smell.
-1. **Trace:** Blindfire peppers on sale at the market. 
+1. **Trace:** Blindfire peppers on sale at the market.
 1. **Trace:** Acid-washed bones.
 </details>
 
@@ -72,8 +72,8 @@ In local cultures, it is a symbol of ...
 1. Nature's Wrath
 1. Ghosts
 1. Volcano
-1. Flavours
-1. Sacred 
+1. Flavors
+1. Sacred
 </details>
 
 <br>
