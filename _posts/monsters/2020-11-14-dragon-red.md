@@ -123,7 +123,7 @@ The dragon’s wings leave a trail of scalding volcanic ash as it moves. When th
 
 <ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D10).
 
-<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, cant breath and takes fire damage (1D10) at the beginning of each of its turns.
+<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, can't breathe and takes fire damage (1D10) at the beginning of each of its turns.
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
@@ -144,7 +144,7 @@ Non-wyrmlings dragons have the following additional attack options when in their
 
 <ins>Earthquake:</ins> Each creature on the ground within sight of the dragon must make a save or be knocked prone.
 
-<ins>Volcanic Fissures:</ins> A fissure opens between two points and bursts with toxic volcanic gas. Creatures over the vent must save vs poison or be poisoned until the end of their next turn. The vents have 1/4 chance to be exhausted each turn.
+<ins>Volcanic Fissures:</ins> A fissure opens between two points and bursts with toxic volcanic gas. Creatures over the vent must save vs. poison or be poisoned until the end of their next turn. The vents have 1/4 chance to be exhausted each turn.
 
 
  ---
@@ -154,7 +154,7 @@ Non-wyrmlings dragons have the following additional attack options when in their
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1 red dragon.
-1. **Lair:** A menacing cave strongly smelling like sulfur. <br>	&nbsp; OR <br>	**Omen:** The earth shakes and the floor cracks.
+1. **Lair:** A menacing cave strongly smelling like sulfur. <br>    &nbsp; OR <br>    **Omen:** The earth shakes and the floor cracks.
 1. **Spoor:** Recently incinerated area.
 1. **Tracks:** The smell of sulfur.
 1. **Trace:** A small earthquake.
@@ -163,7 +163,7 @@ Non-wyrmlings dragons have the following additional attack options when in their
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
-The scales of any dragons are highly valuable and used in many legendary armors. The fire of a red dragon can be used to forge the best weapons.
+The scales of any dragon are highly valuable and used in many legendary armors. The fire of a red dragon can be used to forge the best weapons.
 </details>
 
 <details markdown="1">
@@ -174,7 +174,7 @@ The scales of any dragons are highly valuable and used in many legendary armors.
 1. Regular virgin sacrifices.
 1. Invade a dwarven hold.
 1. A rare artifact.
-1. Being worshipped like a god.
+1. Being worshiped like a god.
 </details>
 
 <details markdown="1">
@@ -186,5 +186,5 @@ In local cultures, it is a symbol of ...
 1. Tyrants
 1. Forge
 1. Strength
-1. Sacred 
+1. Sacred
 </details>
