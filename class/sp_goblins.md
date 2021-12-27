@@ -5,7 +5,7 @@ permalink: /class/specialist/many-goblins
 ---
 
 <details markdown="1">
-<summary>Design Notes</summary> 
+<summary>Adapted from Coins and Scrolls</summary> 
 *Edited from Coins and Scrolls's amazing [class](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html). I simplified a bit, merged it with the goblin race (as I dont use races outside of classes). It's a wacky, very survivable class that can act multiple times in the first turn of battle but is very limited by inventory. — SaltyGoo* 
 </details>
 
