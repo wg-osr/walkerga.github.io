@@ -7,7 +7,7 @@ title: Bird, Giant Pelican
 
 Sea birds that swallow whole. A beast.
 
-Imagine a cart-sized sea bird with a long pouch-beak.
+Imagine a cart-sized seabird with a long pouch-beak.
 
 **HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** large <br>
@@ -19,26 +19,26 @@ Pelicans have a very good sense of sight.
 
 **Attacks (1/round)**
 
-<ins>Swallow</ins>. The pelican makes an attempt to grapple a target. On a success, the target is stuck in its beak pouch. While there, it cannot use any weapon bigger than a dagger. 
+<ins>Swallow</ins>. The pelican makes an attempt to grapple a target. On success, the target is stuck in its beak pouch. While there, it cannot use any weapon bigger than a dagger.
 
 <ins>Subdue</ins>. The pelican squishes its beak pouch on its chest to crush whatever is inside (1D4).
 
-<ins>Gulp</ins>. The pelican skims a water pond and fills its pouch with water. As long as it is filled, creatures inside cannot breath or speak.
+<ins>Gulp</ins>. The pelican skims a water pond and fills its pouch with water. As long as it is filled, creatures inside can't breath or speak.
 
-<ins>Shake</ins>. The pelican violently shake its head. A creature in its pouch must save or be stunned for a round.
+<ins>Shake</ins>. The pelican violently shakes its head. A creature in its pouch must save or be stunned for a round.
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1D8 giant pelican.
-1. **Lair:** A seaside cliff nest full of guano, fishbones, giant eggs and maybe (1/6) a sailor's trinkets (valuable). <br>	&nbsp; OR <br>	**Omen:** Loud caw.
+1. **Lair:** A seaside cliff nest full of guano, fishbones, giant eggs and maybe (1/6) a sailor's trinkets (valuable). <br>    &nbsp; OR <br>    **Omen:** Loud caw.
 1. **Spoor:** A giant splatter of guano, still fresh.
 1. **Tracks:** Bird in the horizon.
-1. **Trace:** Fish bones at impossible places. 
+1. **Trace:** Fish bones in impossible places.
 1. **Trace:** A giant splatter of guano, dry.
 </details>
 
@@ -58,7 +58,7 @@ In local cultures this beast is a symbol of ...
 1. Fishers
 1. Stupidity
 1. Travel
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
