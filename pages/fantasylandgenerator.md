@@ -1139,7 +1139,7 @@ gen_data['mainelemental'] = [
     'Pus is oozing out of',
     'There is nothing left of',
     'A PLEASURE CULT twisted',
-    'Feral cannibals roam the',
+    'Feral cannibals roam',
   ];
       
  gen_data['chaoschazard'] = [
