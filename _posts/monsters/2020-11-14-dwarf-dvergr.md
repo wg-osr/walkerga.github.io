@@ -9,13 +9,13 @@ Deep earth fascist dwarves. An humanoid.
 
 Imagine a 4’ short humanoid with rocky gray skin, dark eyes and hair that seem made of steel wool. It dresses in drab work clothes that are often studded. Its heart is made of dark crystal.
 
-**HD:** 1 + 2HP  &nbsp; &nbsp;  **Armor:** as equiped <br>
+**HD:** 1 + 2HP  &nbsp; &nbsp;  **Armor:** as equipped <br>
 **Size:** medium <br>
 **Stats:** sturdy, emotionally stunted <br>
 **Movement:** average <br>
 **Morale:** brave <br>
 
-Dvergrs do not need light in the dark, as they smell everything that is crafted or carved. Their dark crystal heart make them resistant to mind attacks.
+Dvergrs do not need light in the dark, as they smell everything that is crafted or carved. Their dark crystal hearts make them resistant to mind attacks.
 
 **Attacks (1/round)**
 
@@ -29,7 +29,7 @@ Dvergrs do not need light in the dark, as they smell everything that is crafted 
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
@@ -41,7 +41,7 @@ Dvergrs do not need light in the dark, as they smell everything that is crafted 
     1. <ins>Dvergr Survey Cavalry:</ins> 1D8 [spider riders](https://saltygoo.github.io/monsters/scout) & as many [giant spiders](https://saltygoo.github.io/monsters/spider)
     1. <ins>Dvergr Inspectors:</ins> 1 [forge priest](https://saltygoo.github.io/monsters/priest) & 1D6 [fire lancers](https://saltygoo.github.io/monsters/soldier)
     1. <ins>Dvergr Demolition Squad:</ins> 1 [juggernaut](https://saltygoo.github.io/monsters/soldier) & 1D8 [fire lancers](https://saltygoo.github.io/monsters/soldier)
-1. **Lair:** A mining camp with slave pens. <br>	&nbsp; OR <br>	**Omen:** Laborious klank noises.
+1. **Lair:** A mining camp with slave pens. <br>    &nbsp; OR <br>    **Omen:** Laborious klank noises.
 1. **Spoor:** An escaped slave, dying.
 1. **Tracks:** Dwarf tracks.
 1. **Trace:** A dead humanoid with a slave collar.
@@ -58,7 +58,7 @@ You find the monster's weapons and ... (Roll as many times as the HD of the mons
 1. Keys.
 1. Pitons.
 1. 1D6x10' of chains
-1. Unrefined ore (valueable)
+1. Unrefined ore (valuable)
 
 You could also extract their dark crystal heart, which will make them send assassins after you as it is their only way to reproduce.
 
@@ -83,7 +83,7 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 1. They obey a gigantic dark crystal, which they worship.
 1. They are thralls to mind flayers.
 1. They plotted 50% of the wars in the area, but most people don’t know.
-1. Their home base is actually in an other dimension.
+1. Their home base is actually in another dimension.
 1. They plan to seal the area.
 1. Their slaves are going to revolt.
 
@@ -91,5 +91,5 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 
 <details markdown="1">
 <summary>Player Class</summary>
-Play as a [dwarf](https://saltygoo.github.io/class/specialist/dwarf)! 
+Play as a [dwarf](https://saltygoo.github.io/class/specialist/dwarf)!
 </details>
