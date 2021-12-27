@@ -4571,7 +4571,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['ettercapproblem'] = [
     'and specialize in capturing fairies',
-    'and are the cursed human followers of the spired goddess',
+    'and are the cursed human followers of the spider goddess',
     'and are rich from the silk trade',
     'as members of an ASSASSIN CULT',
     'split in two factions of ground-dwellers and ceiling-dwellers',
