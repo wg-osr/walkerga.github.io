@@ -9,11 +9,11 @@ A template to turn other monsters into ghouls. An undead.
 
 There is something off with this creature: it is sickkly, crusted with dirt, and a long, thick tongue that stretches all the way to the ground. Its eyes are bloodshot and evil and its long, dirty claws are blood soaked. It stinks.
 
-**Add this to the creature:**
+**Add these abilities to the creature's**
 
 As undead creatures, ghoul beasts do not starve to death (even if they do feel hunger), breathe, sleep or tire and cant be poisoned. The can also climb things as fast as they can run.
 
-**Attacks (1/round)**
+**Add these attacks to the creature's** <br>
 _These dice are for a medium-sized creature. Scale the dice up or down for each size difference._
 
 <ins>Diseased Claw</ins>.  The ghoul makes one melee attack (1D4). On a hit, the target must save vs diseases or be paralyzed. A paralyzed target can save again at the end of each of its turns, getting free after two successes, or after 10 minutes if it fails two times, whichever comes first. If the target fails, it catches ghoul rabies.
