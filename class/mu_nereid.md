@@ -26,7 +26,7 @@ Roll on this list when you level up:
 1. [Transmit Breath](https://saltygoo.github.io/2020/11/13/transmit-breath/)
 
 <ins>Perk</ins><br>
-Instead of each SD, you have a piece of clothing made of foam (a minor water elemental in fact). Each these vestments decrease the damage you take from spells and other magical effects by 1.
+Instead of each SD, you have a piece of clothing made of foam (a minor water elemental in fact). Each of these vestments decrease the damage you take from spells and other magical effects by 1.
 
 When you expend a SD, that vestment disappears and you lose its effect. You only recover it if you spend a full rest submerged in water.
 
