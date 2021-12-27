@@ -11,13 +11,13 @@ Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In
 
 **HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** small <br>
-**Stats:** alert and charismaticc <br>
+**Stats:** alert and charismatic <br>
 **Movement:** slow, fly fast <br>
 **Morale:** coward <br>
 
-As a fairie, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. 
+As a fairy, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round.
 
-Additionally, the adarna bird is so hearbreakingly beautiful that creatures must succeed an INT check to see it and all plants and objects near it when it dies are changed as if they had spent a year in a dusty, sunless attic. 
+Additionally, the adarna bird is so heartbreakingly beautiful that creatures must pass an INT check to see it and all plants and objects near it when it dies are changed as if they had spent a year in a dusty, sunless attic.
 
 Adarna bird guano petrifies sleeping creatures upon contact.
 
@@ -29,14 +29,14 @@ Adarna bird guano petrifies sleeping creatures upon contact.
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 adarna bird.
-1. **Lair:** A human-sized magnificent lyre-shaped nest made of woven gold flowers. Coins and shiny, delicate trinkets are set in a perfect circle in the nest’s opening. Passing through the opening cleans as if taking a perfumed bath, but the next time a trespasser sleeps, they will dream of the adarna song, only waking up 1D6 days later. <br>	&nbsp; OR <br>	**Omen:** You hear a heartbreakingly beautiful bird song, your eyes starts to grow heavy. See *soothing song* ability.
-1. **Spoor:** One broken iridescent feather only visible to creatures with more than 5 intelligence.
+1. **Lair:** A human-sized magnificent lyre-shaped nest made of woven gold flowers. Coins and shiny, delicate trinkets are set in a perfect circle in the nest’s opening. Passing through the opening cleans as if taking a perfumed bath, but the next time a trespasser sleeps, they will dream of the adarna song, only waking up 1D6 days later. <br>    &nbsp; OR <br>    **Omen:** You hear a heartbreakingly beautiful bird song, your eyes start to grow heavy. See *soothing song* ability.
+1. **Spoor:** One broken iridescent feather, only visible to creatures with more than 5 intelligence.
 1. **Tracks:** Two joyful notes resonate far in a random direction.
 1. **Trace:** A person (D4 1:Artist, 2:Noble, 3:Child, 4:Ettercap) arrives with legends of the bird. They are escorted by a (D4 1:Veteran Game Hunter, 2:Local Guide, 3:Oneirologist, 4:Pet).
 1. **Trace:** A person petrified while napping. A small stain of dried guano on their forehead.
@@ -57,7 +57,7 @@ Adarna bird guano petrifies sleeping creatures upon contact.
 
 <details markdown="1">
 <summary>Salvaging the Body</summary>
-  
+ 
 A quill made of an adarna bird feather is prized by wizards who can use it to scribe a new spell with the word *chromatic*.
 
 Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
@@ -76,7 +76,7 @@ In local cultures the adarna bird is a symbol of ...
 1. Goodness
 1. Superficiality
 1. Perfection
-1. Sacred 
+1. Sacred
 
 </details>
 
@@ -84,7 +84,7 @@ In local cultures the adarna bird is a symbol of ...
 
 <details markdown="1">
 <summary>DM Notes</summary>
-  
+ 
 *The adarna bird appears in the Filipino epic poem of the same name by José de la Cruz. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) is very close to the original. For my version, I removed the piercing shriek (too violent for a creature of beauty), made it a fey, and more importantly, added the petrifying shit back from the original story, because it's hilarious. — SaltyGoo*
 
 </details>
