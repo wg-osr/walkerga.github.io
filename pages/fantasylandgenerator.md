@@ -3998,7 +3998,7 @@ gen_data['arcticadjective'] = [
   ];  
    gen_data['deathsheadtotem'] = [
     'grieving',
-    'ancestral',
+    'very ancient',
     'secret-whispering',
     'tragic',
     'taboo',
