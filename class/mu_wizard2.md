@@ -189,7 +189,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Rotten and stained. Cockroaches crawl out of its pages.*
 - You can send an insect to investigate an adjacent room even through locked doors. It will come back 10 minutes later with a sensory description of the floor.
 - Each time you study this book, you can add a small swarm of vermin in your inventory. It can't fight but will obey your command.
-- Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
+- Roll 1D4, you gain the following spell: 1. [Cordyceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Silky Spinneret](/2020/11/12/silky-spinneret/), 3. [Venomous Fangs](/2020/11/12/venomous-fangs/), 4. [Call of the Maggots](/2020/11/12/call-of-the-animal/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Arachnomorphosis.*
 </details>
 
