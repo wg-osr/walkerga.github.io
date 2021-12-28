@@ -15,9 +15,9 @@ Imagine a humanoid of towering beauty, its skin in hues of frost and its eyes da
 **Movement:** fast <br>
 **Morale:** brave <br>
 
-As a fairie, the eladrin *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the eldrin can teleport to any location in sight.
+As a fairy, the eladrin *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the eldrin can teleport to any location in sight.
 
-Bralanis specifically embody the roughness of creeping winter: their are immune to cold and are expert hunters. They can see clearly kilometers away.
+Bralanis specifically embody the roughness of creeping winter: they are immune to cold and are expert hunters. They can see clearly kilometres away.
 
 **Non-Combat Magic** <br>
 Divination, Cryomancy, Tempestomancy
@@ -30,7 +30,7 @@ Divination, Cryomancy, Tempestomancy
 
 <ins>Spellcasting (3).</ins> *Wind Wall, Mirror Image, Control Weather.*
 
-<ins>Elemental Form.</ins> The eladrin turns into whirling wind, allowing it to fly. As a gaseous creature, the eladrin cant be petrified or grappled, be hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword.
+<ins>Elemental Form.</ins> The eladrin turns into a whirling wind, allowing it to fly. As a gaseous creature, the eladrin cant be petrified or grappled, be hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword.
 
 **Attacks (1/round) (elemental)**
 
@@ -43,17 +43,17 @@ Divination, Cryomancy, Tempestomancy
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 bralanis, 1D6-2 are nearby.
-3. **Lair:** A nomadic camp hidden in ice crystals.  <br>	&nbsp; OR <br>	**Omen:** Winter wind cries for lost comrades, save or cry.
+3. **Lair:** A nomadic camp hidden in ice crystals.  <br>    &nbsp; OR <br>    **Omen:** Winter wind cries for lost comrades, save or cry.
 4. **Spoor:** An ugly creature, covered in arrows.
 5. **Tracks:** Howl-sounding chants carried by the wind.
 6. **Trace:** Tracks of running feet, washed by the wind.
-7. **Trace:** The ugliest among you is suddenly pushed aside by the wind. 
+7. **Trace:** The ugliest among you is suddenly pushed aside by the wind.
 
 </details>
 
@@ -69,12 +69,12 @@ Divination, Cryomancy, Tempestomancy
 
 <details markdown="1">
 <summary>Salvaging the body</summary>
-  
-A bralani dissolves in crystaline water and wind as it dies. Find ... (Roll as many times as the HD of the monster)
+ 
+A bralani dissolves in crystalline water and wind as it dies. Find ... (Roll as many times as the HD of the monster)
 
 1. Nothing.
 1. A masterfully crafted scimitar made of glass.
-1. A masterfully arrow made of ice.
+1. A masterfully crafted arrow made of ice.
 1. A bowstring made of wind.
 1. An invitation to the winter court. For one.
 1. A compass leading to the winter court, or back. One use.
@@ -84,5 +84,5 @@ By grieving with the bralani, a wizard can create a new spell with the word *Win
 
 <details markdown="1">
 <summary>DM Notes</summary>
-Eladrins are a Planescape creation that changed a lot in the 4th and 5th edition to become some elf variation. Originally being the chaotic good mirror of baatezu-devils and tanar'ri-demons, they had a pretty stiff hierarchy of power, the bralani being among the strongest. In 5e, they are simply the winter-time version of eladrins. I tried to merge the two into this extremely dangerous scorned avenger. It was also important to make them as relatively fragile as they are deadly. As elves should be. — SaltyGoo
+Eladrins are a Planescape creation that changed a lot in the 4th and 5th editions to become an elf variant. Originally being the chaotic good mirror of baatezu-devils and tanar'ri-demons, they had a pretty stiff hierarchy of power, the bralani being among the strongest. In 5e, they are simply the winter-time version of eladrins. I tried to merge the two into this extremely dangerous scorned avenger. It was also important to make them as relatively fragile as they are deadly. As elves should be. — SaltyGoo
 </details>
