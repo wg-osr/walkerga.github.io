@@ -6,8 +6,9 @@ title: Nine Lives
 
 *Felimorphosis*
 
-D: Sigil
+**D**: [Sigil](/spells/#lexicon),
 
 You tattoo your Sigil over your heart. The next [dice] times you would take damage that would bring you to 0 HP or less, gain 1 [Doom Point](/class/magic-user#spells) instead.
+
 ###### Cat + Life
 ###### by SaltyGoo
