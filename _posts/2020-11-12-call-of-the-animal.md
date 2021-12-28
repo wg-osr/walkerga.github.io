@@ -4,11 +4,11 @@ tags: spell animorphosis
 title: Call of the [Animal]
 ---
 
-D: [dice] hours
+**D**: [dice] hours
 
-You summon [dice] 1HD [Animal], or as many swarms if they are 0HD creatures. You can direct their actions.
+You summon [dice] HD worth of [animal], or a [sum] HP swarm if they are 0HD creatures. They arrive after 10 minutes from somewhere behind you. You can direct their actions.
 
-If you invest 4 dices or more in this spell, the effect becomes permanent.
+If you invest 4 dice or more in this spell, the effect becomes permanent and they become part of your entourage.
 
 ###### *[Animal] + Call*
 
