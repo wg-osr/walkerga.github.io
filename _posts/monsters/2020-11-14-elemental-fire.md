@@ -71,3 +71,4 @@ You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one
 If you roll a catastrophe, the elemental is released.
 
 </details>
+
