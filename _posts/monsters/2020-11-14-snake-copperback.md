@@ -7,7 +7,7 @@ title: Snake, Copperback
 
 A viper with scales made of actual copper. A beast.
 
-Imagine a snake about the lenght of a bear with scales green like rusted copper. It's tail has a metalic rattle.
+Imagine a snake about the length of a bear with scales green like rusted copper. It's tail has a metallic rattle.
 
 **HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
 **Size:** medium <br>
@@ -15,7 +15,7 @@ Imagine a snake about the lenght of a bear with scales green like rusted copper.
 **Movement:** fast, swim fast <br>
 **Morale:** coward <br>
 
-The copperback has a very good sense of smell and can hold its breath as long as 15 minutes. Its scales provide good armor but make it vulnerable to electricity.
+The copperback has a very good sense of smell and can hold its breath for as long as 15 minutes. Its scales provide good armor but make it vulnerable to electricity.
 
 **Attacks (1/round)**
 
@@ -27,15 +27,15 @@ The copperback has a very good sense of smell and can hold its breath as long as
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 1. **Monster:** 1 copperback snake.
-1. **Lair:** A mound of rotten leaves and copper scales. 2-6 chances that there are eggs. <br>	&nbsp; OR <br>	**Omen:** A metalic rattle.
-1. **Spoor:** A sleeping beast. Cant wake up.
+1. **Lair:** A mound of rotten leaves and copper scales. 2-6 chances that there are eggs. <br>    &nbsp; OR <br>    **Omen:** A metallic rattle.
+1. **Spoor:** A sleeping beast. Can't wake up.
 1. **Tracks:** Darkness and humidity.
-1. **Trace:** A copper scale. 
+1. **Trace:** A copper scale.
 1. **Trace:** Molted skin made of green rust.
 </details>
 
@@ -53,5 +53,5 @@ In local cultures, it is a symbol of ...
 1. Metal
 1. Pacifism
 1. Restraint
-1. Sacred 
+1. Sacred
 </details>
