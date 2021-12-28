@@ -10,4 +10,4 @@ Rings up the closest dragon for a chat. They can speak with you, and can see you
 During the conversation, you may trade with the dragon [dice] objects you own for their value in gold. A dragon will never trade for less than a valuable bag of gold.
 
 ###### contact + dragon
-###### From Number Arent Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)
+###### From Number Aren't Real's [Banking Wizard](https://as-they-must.blogspot.com/2021/10/containing-multitudes-glog-wizard.html)
