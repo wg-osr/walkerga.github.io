@@ -3,7 +3,7 @@ layout: post
 tags: spell animorphosis
 title: Tentacle Arm
 ---
-R:  30' 
+**R**:  30' 
 
 *cephalopomorphosis*
 
