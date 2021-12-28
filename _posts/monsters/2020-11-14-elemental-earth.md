@@ -30,17 +30,17 @@ As elemental earth, the earth elemental *resists all damage*. It *recovers X HP*
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 earth elementals.
-1. **Lair:** Ever-shifting rocks. <br>	&nbsp; OR <br>	**Omen:** The earth shakes, save or fall prone.
+1. **Lair:** Ever-shifting rocks. <br>    &nbsp; OR <br>    **Omen:** The earth shakes, save or fall prone.
 1. **Spoor:** Area filled with dirt.
 1. **Tracks:** Random things sunken into the ground.
 1. **Trace:** Constant tremors.
-1. **Trace:** A pale green shard from a summoning crystal. 
+1. **Trace:** A pale green shard from a summoning crystal.
 
 </details>
 
@@ -58,12 +58,12 @@ As elemental earth, the earth elemental *resists all damage*. It *recovers X HP*
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>
-  
+ 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
 1. ... your weight doubles.
-1. ... the ground is against you. 
-1. ... you attract lightning. 
+1. ... the ground is against you.
+1. ... you attract lightning.
 1. ... you are magnetic.
 1. ... you have +1 armor.
 1. ... the spell word earth.  
