@@ -11,13 +11,13 @@ A statue made of solid stone. When it moves, it's in simplistic, straightforward
 
 **HD:** 5  &nbsp; &nbsp;  **Armor:** as plate <br>
 **Size:** large <br>
-**Stats:** strong, clumsy, and sturgy, but robotic <br>
+**Stats:** strong, clumsy, and sturdy, but robotic <br>
 **Movement:** average <br>
 **Morale:** reckless <br>
 
 As a construct, the Stone Golem can be considered an object. It is *immune to fatigue, fear, poison and diseases*. However, anti-magic zones and *dispel effects paralyze it*. Additionally, the Stone Golem is *resistant to fire and magic*.
 
-The golem’s activation glyph is hidden on some stone carving. If destroyed, the golem is deactivated. It can be altered to change its order. Roll a D12 for its location:
+The golem’s activation glyph is hidden on some stone carvings. If destroyed, the golem is deactivated. It can be altered to change its order. Roll a D12 for its location:
 <details markdown="1">
 <summary>D12 glyph location</summary>
 1. Left Palm
@@ -38,8 +38,8 @@ The golem’s activation glyph is hidden on some stone carving. If destroyed, th
 
 <ins>Grab.</ins> The golem makes a grapple attempt on a target, roll 1D4:
 1. Crush. The target takes 1D10 damage.
-1. Throw. The target is thrown on another target, on a hit, both take 1D8 damage and fall prone.
-1. Rip. The target takes 1D6 damage and an additionnal 1D6 damage unless they sacrifice one item they are wearing.
+1. Throw. The target is thrown at another target, on a hit, both take 1D8 damage and fall prone.
+1. Rip. The target takes 1D6 damage and an additional 1D6 damage unless they sacrifice one item they are wearing.
 1. Freeze. The golem blanks for a few seconds, nothing happens this turn.
 
 <ins>Shockwave.</ins> Every grounded creature and object near the golem must save or fall prone.
@@ -48,23 +48,23 @@ The golem’s activation glyph is hidden on some stone carving. If destroyed, th
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 stone golem.
-1. **Lair:** A stone alcove engraved with arcane runes. <br>	&nbsp; OR <br>	**Omen:** Very, very heavy footsteps.
+1. **Lair:** A stone alcove engraved with arcane runes. <br>    &nbsp; OR <br>    **Omen:** Very, very heavy footsteps.
 1. **Spoor:** An object that is guarded by the golem.
 1. **Tracks:** Very straight, very heavy foot tracks.
-1. **Trace:** A stone statue. 
+1. **Trace:** A stone statue.
 1. **Trace:** A boulder that could only have been moved by a colossal strength.
 </details>
 
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an stone golem takes 5 Spell Dices and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating a stone golem takes 5 Spell Dice and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. Explodes (4D6)
 1. Berserk.
@@ -74,7 +74,7 @@ Creating an stone golem takes 5 Spell Dices and the equivalent of 5 [treasures](
 1. It is perfectly under your control.
 </details>
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>DM Notes</summary>
