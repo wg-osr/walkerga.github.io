@@ -7,7 +7,7 @@ title: Salamander
 
 Fiery lizard people. A fire elemental.
 
-Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is gloing like magma and its eyes are like black pearls.
+Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is glowing like magma and its eyes are like black pearls.
 
 **HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
@@ -27,7 +27,7 @@ As elemental fire, the salamander *resists all damage* and is *immune to fire*. 
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
@@ -37,7 +37,7 @@ As elemental fire, the salamander *resists all damage* and is *immune to fire*. 
     2. 1 sorcerer
     3. 1 soldier
     4. 1 fire elemental
-1. **Lair:** A magma bathhouse with bubble art. <br>	&nbsp; OR <br>	**Omen:** The sound of wet steps and the smell of old cooking oil.
+1. **Lair:** A magma bathhouse with bubble art. <br>    &nbsp; OR <br>    **Omen:** The sound of wet steps and the smell of old cooking oil.
 1. **Spoor:** A puddle of boiling oil.
 1. **Tracks:** Oily trail and burnt ground.
 1. **Trace:** A pile of solidified magma.
@@ -59,15 +59,15 @@ As elemental fire, the salamander *resists all damage* and is *immune to fire*. 
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>
-  
+ 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
-1. ... your blood burns whent in contact with air. You take 1 extra damage from attacks.
-1. ... your eyes become like obsidian. Fire hypnotises you.
+1. ... your blood burns when in contact with air. You take 1 extra damage from attacks.
+1. ... your eyes become like obsidian. Fire hypnotizes you.
 1. ... you are always hot and sweating. You need an extra ration of water per day.
 1. ... our hands are scalding hot.
 1. ... magma is like water to you.
-1. ... the spell word *flammable*. 
+1. ... the spell word *flammable*.
 
 If you roll a catastrophe, the elemental is released.
 
@@ -76,10 +76,10 @@ If you roll a catastrophe, the elemental is released.
 <details markdown="1">
 <summary>Conjuring the Elemental</summary>
 
-If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 2 Spell Dices:
+If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such a way for a minimum of 2 Spell Dice:
 
 **Conjure Salamander** <br>
 R: 30' 
 
-The spell is identical to the normal conjure spell, except that you can add treasures as offerings to the Shah to improve the spell. Each treasure either adds 2 salamanders or increase the duration by 24 hours. If you bring the salamander to their death (in an suicidal fight for example), the Shah will be offended and never trade with you again.
+The spell is identical to the normal conjure spell, except that you can add treasures as offerings to the Shah to improve the spell. Each treasure either adds 2 salamanders or increases the duration by 24 hours. If you bring the salamander to their death (in an suicidal fight for example), the Shah will be offended and never trade with you again.
 </details>
