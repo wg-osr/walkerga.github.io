@@ -3,7 +3,7 @@ layout: post
 tags: spell diabolism
 title: Devour Light
 ---
-R: 60'  D: [sum] rounds
+**R**: 60'  **D**: [sum] rounds
 
 Darkness descend upon a sphere of 30' radius at a point you designate. It drowns most light sources but can be dissolved by very strong light.
 
