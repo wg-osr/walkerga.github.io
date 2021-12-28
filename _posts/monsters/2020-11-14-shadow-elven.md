@@ -15,7 +15,7 @@ Imagine a dark silhouette against a wall. When it crosses light, you can clearly
 **Movement:** average <br>
 **Morale:** reckless <br>
 
-As an undead creature, the shadow does not starve to death, breathe, sleep or tire and cant be poisoned. As an ethereal creature, it is immune to damage from a nonmagical source, as well as grapples and petrification. However, direct sunlight makes it lose all resistances and immunities. Silver weapons similarly ignore their resistances. For shadows, the same is true of damage sources that emits light.
+As an undead creature, the shadow does not starve to death, breathe, sleep or tire and can't be poisoned. As an ethereal creature, it is immune to damage from a non-magical source, as well as grapples and petrification. However, direct sunlight makes it lose all resistances and immunities. Silver weapons similarly ignore their resistances. For shadows, the same is true of damage sources that emit light.
 
 Additionally, the elven shadow can see in the dark, sneak very efficiently and smell magic. If it is hit by a spell, the shadow gains an additional attack per round for the rest of the battle. If it manages to kill a magic-user, the elven shadow will recover its original, beautiful elven form just long enough to cast one spell (roll randomly) before being vaporized again into shadow form.
 
@@ -27,13 +27,13 @@ Additionally, the elven shadow can see in the dark, sneak very efficiently and s
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 elven shadows.
-1. **Lair:**  A demonic pleasure cult shrine surrounded by the soothy outlines of the elves that were vaporized there. Cleaning these silhouette frees the shade. <br>	&nbsp; OR <br>	**Omen:** The lights flicker.
+1. **Lair:**  A demonic pleasure cult shrine surrounded by the soothy outlines of the elves that were vaporized there. Cleaning these silhouettes frees the shade. <br>    &nbsp; OR <br>    **Omen:** The lights flicker.
 1. **Spoor:** The mangled body of a magical creature or a magic user.
 1. **Tracks:** Demonic pleasure cult graffitis.
 1. **Trace:** A soot silhouette of a vaporized elf.
@@ -44,23 +44,23 @@ Additionally, the elven shadow can see in the dark, sneak very efficiently and s
 <summary>D6 What the Monster Wants</summary>
 
 1. To cast magic. Desperately
-1. To inflict pain, as a relief for their own.
+1. To inflict pain, as a relief for themselves.
 1. To be elven, beautiful and horny again.
 1. For somebody to clean their vaporized silhouette. But not a magic user, they'll want to devour that instead.
-1. For somebody to enact the last steps of the depraved ritual they were so close to accomplish.
-1. To please a demon of lust. 
+1. For somebody to enact the last steps of the depraved ritual they were so close to accomplishing.
+1. To please a demon of lust.
 
 </details>
 
 <details markdown="1">
 <summary>Summoning the Spirit</summary>
 
-If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such way for a minimum of 2 Spell Dices:
+If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such a way for a minimum of 2 Spell Dice:
 
 **Summon Elven Shadow** <br>
 R: 50’
 
-A demon of lust must owe you a favor to cast this spell, as elven shadows are by definition owned by them. The duration of the summon is permament and the shadow will attempt to hunt and kill all magic users it can, you included. If you know the location of its vaporized silhouette, you can bargain with the shadow: its freedom for the knowledge of a new spell.
+A demon of lust must owe you a favor to cast this spell, as elven shadows are by definition owned by them. The duration of the summon is permanent and the shadow will attempt to hunt and kill all magic users it can, you included. If you know the location of its vaporized silhouette, you can bargain with the shadow: its freedom for the knowledge of a new spell.
 </details>
 
 <br>
