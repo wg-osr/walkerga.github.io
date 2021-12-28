@@ -17,7 +17,7 @@ A steaming, rusty mech-suit. Trapped inside are the vegetative remains of a puni
 
 As a construct, the engine of pain can be considered an object. It is *immune to fatigue, fear, poison and diseases*.
 
-Targeting the body inside the engine is made at disadvantage but inflicts 1D8 extra damage. 
+Targeting the body inside the engine is made at disadvantage but inflicts 1D8 extra damage.
 
 **Attacks (1/round)**
 Each engine of pain is outfitted with a tool on each of its arms, roll 1D4 twice: 1, claw; 2, hammer; 3, drill; 4, sonic blaster.
@@ -36,23 +36,23 @@ Each engine of pain is outfitted with a tool on each of its arms, roll 1D4 twice
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 engines of pain & 1D6 dvergrs dwarves.
-1. **Lair:** A construction site. <br>	&nbsp; OR <br>	**Omen:** Sound of drilling and metal stomping.
+1. **Lair:** A construction site. <br>    &nbsp; OR <br>    **Omen:** Sound of drilling and metal stomping.
 1. **Spoor:** A new hole in a wall.
 1. **Tracks:** Big, heavy metal tracks.
-1. **Trace:** “Danger, Under Construction” sign. 
+1. **Trace:** “Danger, Under Construction” sign.
 1. **Trace:** Torn construction plan.
 </details>
 
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an stone golem takes 3 Spell Dices and the equivalent of 3 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. You must also find an humanoid whose psyche will be destroyed in the process. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent. 
+Creating an engine of pain takes 3 Spell Dice and the equivalent of 3 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. You must also find a humanoid whose psyche will be destroyed in the process. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. The humanoid dies.
 1. The humanoid dies.
@@ -64,7 +64,7 @@ Creating an stone golem takes 3 Spell Dices and the equivalent of 3 [treasures](
 
 </details>
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>DM Notes</summary>
