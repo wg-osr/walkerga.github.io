@@ -11,12 +11,12 @@ There is something off with this creature: it is sickly, crusted with dirt, and 
 
 **Add these abilities to the creature's**
 
-As undead creatures, ghoul beasts do not starve to death (even if they do feel hunger), breathe, sleep or tire and cant be poisoned. The can also climb things as fast as they can run.
+As undead creatures, ghoul beasts do not starve to death (even if they do feel hunger), breathe, sleep or tire and can't be poisoned. They can also climb things as fast as they can run.
 
 **Add these attacks to the creature's** <br>
 _These dice are for a medium-sized creature. Scale the dice up or down for each size difference._
 
-<ins>Diseased Claw</ins>.  The ghoul makes one melee attack (1D4). On a hit, the target must save vs diseases or be paralyzed. A paralyzed target can save again at the end of each of its turns, getting free after two successes, or after 10 minutes if it fails two times, whichever comes first. If the target fails, it catches ghoul rabies.
+<ins>Diseased Claw</ins>.  The ghoul makes one melee attack (1D4). On a hit, the target must save against diseases or be paralyzed. A paralyzed target can save again at the end of each of its turns, getting free after two successes, or after 10 minutes if it fails two times, whichever comes first. If the target fails, it catches ghoul rabies.
 
 <ins>Feral Bite</ins>. The ghoul makes one melee attack (1D6). Other creatures have advantage on their melee attacks against it until its next turn.
 
@@ -30,15 +30,15 @@ _These dice are for a medium-sized creature. Scale the dice up or down for each 
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 2D6 ghoul beasts.
-3. **Lair:** A pile of rotting animal carcasses, half gnawed.<br>	&nbsp; OR <br>	**Omen:** Sloppy chewing noises, getting closer.
+3. **Lair:** A pile of rotting animal carcasses, half gnawed.<br>    &nbsp; OR <br>    **Omen:** Sloppy chewing noises, getting closer.
 4. **Spoor:** A gnawed arm, covered in numbing saliva.
-5. **Tracks:** Random eaten to the marrow body parts.
+5. **Tracks:** Random body parts eaten to the marrow.
 6. **Trace:** A shrine to a demon lord of undeath.
 7. **Trace:** A broken bone, gnawed.
 </details>
@@ -46,7 +46,7 @@ _These dice are for a medium-sized creature. Scale the dice up or down for each 
 <details markdown="1">
 <summary>Create the Undead</summary>
 
-If you know the spell [Lichcraft](/2020/11/13/lichcraft/), you can alter it in such way for a minimum of 1 Spell Dices:
+If you know the spell [Lichcraft](/2020/11/13/lichcraft/), you can alter it in such a way for a minimum of 1 Spell Dice:
 
 **Animate Ghoul** <br>
 R: 30’  D: [dice] hours
