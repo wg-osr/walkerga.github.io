@@ -5,7 +5,7 @@ permalink: /monsters/giant-desert
 title: Giant, Desert
 ---
 
-Nomadic giant that slowly turn into stone. An humanoid.
+Nomadic giant that slowly turns into stone. An humanoid.
 
 Imagine a huge humanoid, covered in sand-colored scarves and tunics. It’s bald with a skin the texture of sandpaper and has piercing blue eyes.
 
@@ -23,14 +23,14 @@ Desert giants are cursed to become sandstone before they die. If one gets below 
 
 <ins>Giant Scimitar.</ins> The giant makes two melee attacks (1D10).
 
-<ins>Spear Throw.</ins> The giant makes one ranged attacks (1D10). On a hit, the target is knocked prone.
+<ins>Spear Throw.</ins> The giant makes one ranged attack (1D10). On a hit, the target is knocked prone.
 
-<ins>Sand-Raider’s Ululation.</ins> One beast allied to the giant moves and makes a melee attack with advantage. 
+<ins>Sand-Raider’s Ululation.</ins> One beast allied to the giant moves and makes a melee attack with advantage.
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
@@ -39,7 +39,7 @@ Desert giants are cursed to become sandstone before they die. If one gets below 
   1. a desert giant [sand shaman](https://saltygoo.github.io/monsters/shaman).
   1. they are riding giant desert beasts.
   1. roll twice.
-1. **Lair:** Giant tents hidden between two dunes. <br>	&nbsp; OR <br>	**Omen:** Powerful ululations echoes, causing small sand-slides.
+1. **Lair:** Giant tents hidden between two dunes. <br>    &nbsp; OR <br>    **Omen:** Powerful ululations echo, causing small sand-slides.
 1. **Spoor:** A very large sand archway over a full well.
 1. **Tracks:** A caravan, seeming much closer than it is to people thinking it is human sized.
 1. **Trace:** A very large sand archway over a full well.
@@ -70,9 +70,9 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 
 **Cultures**
 1. The only ones able to cross the desert.
-1. The ones that raised massive herds of sheep where few could. 
+1. The ones that raised massive herds of sheep where few could.
 1. The ones that are the mercenaries of the local sultan. They are their own special social caste.
-1. The ones that have a isolationist kingdom among the dunes.
+1. The ones that have an isolationist kingdom among the dunes.
 1. The ones that grow a rare spice.
 1. The ones that are nomadic raiders.
 
@@ -80,8 +80,8 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 **Features**
 1. There are only a few left. They desperately try to free their civilization from inevitable petrification.
 1. They ride giant flightless birds.
-1. Their village are atop mighty Zaratans.
-1. They know a special brew with spices that render clairvoyant.
+1. Their villages are atop mighty Zaratans.
+1. They know a special brew with spices that render them clairvoyant.
 1. They secretly control sandstorms.
 1. They own the secret of domesticating brown dragons.
 </details>
@@ -90,4 +90,3 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 <summary>Player Class</summary>
 Play as a [Sand Cursed](/class/sandcursed)!
 </details>
-
