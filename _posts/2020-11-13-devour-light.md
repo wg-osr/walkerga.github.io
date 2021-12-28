@@ -15,5 +15,7 @@ You may also pick one of the following options for each [dice] invested:
 - Anything in the darkness have disadvantage on their saves against your other spells.
 - The darkness moves with you.
 
+If you invest 4 dice or more in this spell and scribe your [Sigil](/spells/#lexicon), the effect becomes permanent.
+
 ###### devour + light
 ###### *From the Library of Attman's [Shadow Wizard](https://attnam.blogspot.com/2018/10/class-shadow-wizard.html)*
