@@ -15,9 +15,9 @@ Imagine fire moving and shaping itself as if it had its own will. Communicates i
 **Movement:** fast <br>
 **Morale:** brave <br>
 
-As elemental fire, the fire elemental *resists all damage* and is *immune to fire*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent without fluel. In general, it has the same properties as fire such as shedding light and being snuffed by water. 
+As elemental fire, the fire elemental *resists all damage* and is *immune to fire*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent without fuel. In general, it has the same properties as fire such as shedding light and being snuffed by water.
 
-As a gaseous creature, the fire elemental cant be petrified or grappled, hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, the fire elemental can shape flames at will.
+As a gaseous creature, the fire elemental can't be petrified or grappled, hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, the fire elemental can shape flames at will.
 
 **Attacks (1/round)**
 
@@ -30,17 +30,17 @@ As a gaseous creature, the fire elemental cant be petrified or grappled, hit by 
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 fire elementals.
-1. **Lair:** Eternal brazier. <br>	&nbsp; OR <br>	**Omen:** The temperature rises and the air dries.
+1. **Lair:** Eternal brazier. <br>    &nbsp; OR <br>    **Omen:** The temperature rises and the air dries.
 1. **Spoor:** Scorched area.
 1. **Tracks:** Random burnt things.
 1. **Trace:** Wildfire.
-1. **Trace:** A red shard from a summoning crystal. 
+1. **Trace:** A red shard from a summoning crystal.
 
 </details>
 
@@ -58,15 +58,15 @@ As a gaseous creature, the fire elemental cant be petrified or grappled, hit by 
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>
-  
+ 
 You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
 
 1. ... you are highly flammable.
-1. ... you have an orange glow. 
-1. ... fabric you touch catches fire. 
+1. ... you have an orange glow.
+1. ... fabric you touch catches fire.
 1. ... you fume.
 1. ... your unarmed strike does 1D6 fire damage.
-1. ... the spell word fire. 
+1. ... the spell word fire.
 
 If you roll a catastrophe, the elemental is released.
 
