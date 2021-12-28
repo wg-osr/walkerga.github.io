@@ -15,15 +15,15 @@ Imagine a person so dehydrated you can see through it. Its mummified skin seems 
 **Movement:** slow <br>
 **Morale:** reckless <br>
 
-As an undead creature, the dhaot does not starve to death, breathe, sleep or tire and cant be poisoned. 
+As an undead creature, the dhaot does not starve to death, breathe, sleep or tire and can't be poisoned.
 
-The dhaot is ethereal when first encountered. As an ethereal creature, it is immune to damage from a nonmagical source, as well as grapples and petrification. Silver weapons ignore its resistances. While ethereal, the dhaot can pass through anything, and it cannot be affected by physical creatures. Contrary to other ghosts, the dhaot is unaffected by sunlight.
+The dhaot is ethereal when first encountered. As an ethereal creature, it is immune to damage from a non-magical source, as well as grapples and petrification. Silver weapons ignore its resistances. While ethereal, the dhaot can pass through anything, and it cannot be affected by physical creatures. Contrary to other ghosts, the dhaot is unaffected by sunlight.
 
-Dhaots can see in the dark, and in the ethereal realm and the material plane at the same time. 
+Dhaots can see in the dark, and in the ethereal realm and the material plane at the same time.
 
 A dhaot can only be killed when its remains are brought to the destination of its last voyage. If it loses all HP and its remains are still lost, it comes back fully healed after 10 minutes for each time it was "killed" that week.
 
-If a creature possessed by a dhaot disobeys its's command, the dhaot leaves the ethereal realm. The triggering creature must save vs fear or lose all HP and get a Wound.
+If a creature possessed by a dhaot disobeys it's command, the dhaot leaves the ethereal realm. The triggering creature must save vs fear or lose all HP and get a Wound.
 
 **Attacks (1/round) while ethereal**
 
@@ -35,19 +35,19 @@ If a creature possessed by a dhaot disobeys its's command, the dhaot leaves the 
 
 **Attacks (1/round) while manifested**
 
-<ins>Drain Water</ins>. The dhaot turns 1 ration or liquid into sand. The dhaot can drain the water out of a living creature’s system, who must save or take damage (1D8), vomit sand and take one level of exhaustion.
+<ins>Drain Water</ins>. The dhaot turns 1 ration or liquid into sand. The dhaot can drain the water out of a living creature’s system, which must save or take damage (1D8), vomit sand and take one level of exhaustion.
 
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 dhaot
-1. **Lair:**  A dried well. <br>	&nbsp; OR <br>	**Omen:** The wind stops, nature becomes silent.
+1. **Lair:**  A dried well. <br>    &nbsp; OR <br>    **Omen:** The wind stops, nature becomes silent.
 1. **Spoor:** A mirage of water.
 1. **Tracks:** A silhouette walking in the horizon.
 1. **Trace:** An old, empty water-skin.
@@ -60,7 +60,7 @@ If a creature possessed by a dhaot disobeys its's command, the dhaot leaves the 
 1. To return to a loved one.
 1. To deliver an important message.
 1. To reach a sacred temple.
-1. To reach an undiscovered archaeological site.
+1. To reach an undiscovered archeological site.
 1. To reach the sea.
 1. To be buried with its mount.  
 
@@ -78,12 +78,12 @@ If a creature possessed by a dhaot disobeys its's command, the dhaot leaves the 
 <details markdown="1">
 <summary>Summoning the Spirit</summary>
 
-If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such way for a minimum of 3 Spell Dices:
+If you know the spell [Occult Consultation](https://saltygoo.github.io/2020/11/13/occult-consultation/), you can alter it in such a way for a minimum of 3 Spell Dice:
 
 **Summon Dhaot** <br>
 R: 60'  D: [dice] rounds <br>
 
-You summon one dhaot, each round, it will attempt to drain water. If it cant, it will disappear.
+You summon one dhaot, each round, it will attempt to drain water. If it can't, it will disappear.
 </details>
 
 <br>
