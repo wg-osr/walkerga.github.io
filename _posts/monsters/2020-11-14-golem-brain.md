@@ -68,7 +68,7 @@ The golem’s activation glyph is hidden among brain folds. If specifically dest
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating a brain golem takes 5 Spell Dices and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. You must also collect the brains of 20 humanoids. Roll 1D6 to know the result. Add 1 to your roll for each additional spell dice spent.
+Creating a brain golem takes 5 Spell Dice and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. You must also collect the brains of 20 humanoids. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. It does its mind-pulse ability before collapsing into a puddle.
 1. It rampages for 1 game session.
