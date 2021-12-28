@@ -6,7 +6,7 @@ title: Cordyceps Apotheosis
 
 *Mycomorphosis*
 
-D: [Sigil](/spells/#lexicon)
+**D**: [Sigil](/spells/#lexicon)
 
 You engrave your Sigil on a parasitic fungus, which you swallow. If you die and are eaten, one random creature which has consumed you will be infected by your parasite and die within 1D6 days unless cured, at which point you will take over its body.
 
