@@ -7,7 +7,7 @@ title: Muttering Serpent
 
 Powerful spirit of self-doubt. A fey.
 
-You didn't see the snake first, because its mirror-like scales made it blend in the background. Similarly, it's lenght is hard to grasp: two or three horses long? You dont have time to wonder as you see your own face at the end of the serpentine body, unhinging its jaws as it looks at you.
+You didn't see the snake first, because its mirror-like scales made it blend in the background. Similarly, it's length is hard to grasp: two or three horses long? You don't have time to wonder as you see your own face at the end of the serpentine body, unhinging its jaws as it looks at you.
 
 **HD:** 4  &nbsp; &nbsp;  **Armor:** as mail <br>
 **Size:** large <br>
@@ -15,9 +15,9 @@ You didn't see the snake first, because its mirror-like scales made it blend in 
 **Movement:** average <br>
 **Morale:** coward <br>
 
-As a fairie, the muttering serpent *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round. 
+As a fairy, the muttering serpent *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round.
 
-Additionally, muttering serpents have mirror like scales that make it functionally invisible when it doesn't move. The muttering serpent speaks telepathically and can also read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group. It can communicate with eight person simultaneously.
+Additionally, muttering serpents have mirror-like scales that make it functionally invisible when it doesn't move. The muttering serpent speaks telepathically and can also read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group. It can communicate with eight people simultaneously.
 
 **Attacks (1/round)**
 
@@ -27,19 +27,19 @@ Additionally, muttering serpents have mirror like scales that make it functional
 
 <ins>Tail Slap.</ins> The muttering snake makes a melee attack against two targets adjacent to it (1D6). On a hit, creatures with less than 7 STR fall prone.
 
-<ins>Spellcasting (1)</ins>. *Suggestion, Mirror Image*. 
+<ins>Spellcasting (1)</ins>. *Suggestion, Mirror Image*.
 
 <br>
 
 ---
 
-<br> 
+<br>
 
 <details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1 muttering snake.
-1. **Lair:** An oily warren smelling like wood shavings and filled with doubtful whispers. <br>	&nbsp; OR <br>	**Omen:** "You wonder if you have left something behind."
+1. **Lair:** An oily warren smelling like wood shavings and filled with doubtful whispers. <br>    &nbsp; OR <br>    **Omen:** "You wonder if you have left something behind."
 1. **Spoor:** "Maybe if you split you could cover more ground".
 1. **Tracks:** Oil residues that smell like wood shavings.
 1. **Trace:** A group of adventurers. One of their members left by themself and never came back.
@@ -51,7 +51,7 @@ Additionally, muttering serpents have mirror like scales that make it functional
 
 1. To goad people into making bad decisions.
 1. Remove all traces of itself in the area.
-1. Create a cult of doubters. Everytime somebody disparears, the cultist claim they had doubts about that person.
+1. Create a cult of doubters. Every time somebody disparears, the cultists claim they had doubts about that person.
 1. Make a deal with adventurers without ever being seen. It wants them to kill a rival.
 1. Lure the prettiest, confident face to its perdition.
 1. Find a truly confident and driven person.
@@ -60,7 +60,7 @@ Additionally, muttering serpents have mirror like scales that make it functional
 <details markdown="1">
 <summary>Salvaging the Body</summary>
 
-Even dead, the head of a muttering serpent looks like whoever is looking at it. It is well sort after by introspective wizards. Its mirror scales are extremely valuable and make extravagant armors, but their invisibility property fades if it is not washed every day.
+Even dead, the head of a muttering serpent looks like whoever is looking at it. It is well sought after by introspective wizards. Its mirror scales are extremely valuable and make extravagant armor, but their invisibility property fades if it is not washed every day.
 
 </details>
 
@@ -74,7 +74,7 @@ In local cultures the muttering serpent is a symbol of ...
 1. Trickery
 1. Loneliness
 1. Taboo
-1. Sacred 
+1. Sacred
 </details>
 
 <br>
