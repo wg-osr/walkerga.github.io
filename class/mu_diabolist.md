@@ -73,21 +73,21 @@ You can clear all your [doom] by performing a random obligation for a devil (rol
 ## Sinful
 If you have chosen to go down the path of dealing with devils, it is because of your own weakness. Choose the sin that brought you here:
 
-1. **Wrath**. You can inflict [doom] fire damage to any target you can see. You gain a _Doom Point_ if it survives, and lose one if it dies.
-2. **Sloth**. You can sacrifice skill slots to gain new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) when you are in town. Each skill you have increases your [doom] by 1.
-3. **Envy**. Once per day, you can make a copy of a hand-held object or vestment owned by someone else you can see. You gain a _Doom Point_ every time you use it.
-4. **Pride**. You can reroll any D20 you roll. Each time you fail a reroll, you gain a _Doom Point_.
-5. **Gluttony**. Eating a daily ration removes a _Doom Point_. Eating five daily rations in a day cures 1 Wound. You gain 3 _Doom Points_ every day.
-6. **Greed**. Each inventory slot taken by a [Valuable or a Treasure](/2020/11/10/extra-rules/#treasures) increases your HP by 1. You gain a _Doom Point_ every time one leaves your invetory.
-7. **Lust**. Sentient creatures with less HP than your [doom] are overwhelmed by you. They must save to attack, hurt, or say anything bad about you as long as you dont attack them. 
+- **Wrath**. You can inflict [doom] fire damage to any target you can see. You gain a _Doom Point_ if it survives, and lose one if it dies.
+- **Sloth**. You can sacrifice skill slots to gain new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) when you are in town. Each skill you have increases your [doom] by 1.
+- **Envy**. Once per day, you can make a copy of a hand-held object or vestment owned by someone else you can see. You gain a _Doom Point_ every time you use it.
+- **Pride**. You can reroll any D20 you roll. Each time you fail a reroll, you gain a _Doom Point_.
+- **Gluttony**. Eating a daily ration removes a _Doom Point_. Eating five daily rations in a day cures 1 Wound. You gain 3 _Doom Points_ every day.
+- **Greed**. Each inventory slot taken by a [Valuable or a Treasure](/2020/11/10/extra-rules/#treasures) increases your HP by 1. You gain a _Doom Point_ every time one leaves your invetory.
+- **Lust**. Sentient creatures with less HP than your [doom] are overwhelmed by you. They must save to attack, hurt, or say anything bad about you as long as you dont attack them. 
 
 ## Dark Reward
 Here's the reward you bargained for. You get those related to your two sins. Hope everything goes fine!
 
-1. **Wrath**. One person, object, or building of your choice explodes. Everybody interested hates you for it.
-2. **Sloth**. Your spirit leaves your body behind, which becomes completely helpless. You are permanently [astrally projecting](/2020/11/13/astral-projection/) within 40' of it.
-3. **Envy**. Get any one thing you are aware of. Everybody knows you have it.
-4. **Pride**. Erase any mistake or humiliation from your past. You now fumble on rolls of 1 or 2 at the referee's discretion.
-5. **Gluttony**. You can eat _anything_. You can never eat the same thing twice.
-6. **Greed**. You gain 100 sacks of gold. You cant spend it.
-7. **Lust**. You have an extra life after this one. You cannot say no to an offer of a new experience.
+- **Wrath**. One person, object, or building of your choice explodes. Everybody interested hates you for it.
+- **Sloth**. Your spirit leaves your body behind, which becomes completely helpless. You are permanently [astrally projecting](/2020/11/13/astral-projection/) within 40' of it.
+- **Envy**. Get any one thing you are aware of. Everybody knows you have it.
+- **Pride**. Erase any mistake or humiliation from your past. You now fumble on rolls of 1 or 2 at the referee's discretion.
+- **Gluttony**. You can eat _anything_. You can never eat the same thing twice.
+- **Greed**. You gain 100 sacks of gold. You cant spend it.
+- **Lust**. You have an extra life after this one. You cannot say no to an offer of a new experience.
