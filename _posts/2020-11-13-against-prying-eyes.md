@@ -5,7 +5,9 @@ title: Against Prying Eyes
 ---
 D: [dice] x 10 minutes 
 
-You ward the area around you against prying. Creatures outside the area must save or become physically unable to look at it, even in their peripheral vision.
+You ward the area [dice] x 5' around you against prying. Creatures outside the area must save or become physically unable to look at it, even in their peripheral vision.
+
+If you invest 4 dice or more in this spell and scribe your [Sigil](/spells/#lexicon) on the floor, the effect becomes permanent in this location.
 
 ###### *Block + Eyes*
 
