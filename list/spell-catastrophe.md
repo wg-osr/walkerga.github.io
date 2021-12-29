@@ -8,7 +8,7 @@ _Every time you roll doubles you gain 1 Doom Point. Every time you gain a Doom P
  
 ###### These catastrophes are adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)
 
-### Your Powers Have Become Blasphemous! Catastrophe! Roll a D10.
+### Your Powers Have Become Blasphemous! Catastrophe! Roll a D12.
 1. **Last Warning.** Your forehead is branded with heretical writing, recognizable by the learned as an invocation to be judged. If this writing is intoned by _any_ spellcaster or cleric, a [greater divine agent](/list/monsters-celestial) will be summoned.
 2. **Abyssal Poacher.** Every time an intelligent life dies because of your magic, their departed soul is fed to a [dretch demon](/monsters/dretch) which is immediately summoned, and is confused and ornery from being so disturbed.
 3. **Infernal Representative.** Anyone that makes a deal with you in the future is actually making a deal with the devil duke who now owns your soul. However, they are not so informed. If they do not discharge the debt, any offspring they have will be replaced with a demon changeling marked with your sigil. Because of that, the devil will indirectly impede them in their action.
