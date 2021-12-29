@@ -6,6 +6,8 @@ title: Catastrophes
 
 _Every time you roll doubles you gain 1 Doom Point. Every time you gain a Doom Point, roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. Reroll results you already got._
  
+###### These catastrophes are adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)
+
 ### Your Powers Have Become Blasphemous! Catastrophe! Roll a D10.
 1. **Last Warning.** Your forehead is branded with heretical writing, recognizable by the learned as an invocation to be judged. If this writing is intoned by _any_ spellcaster or cleric, a [greater divine agent](/list/monsters-celestial) will be summoned.
 2. **Abyssal Poacher.** Every time an intelligent life dies because of your magic, their departed soul is fed to a [dretch demon](/monsters/dretch) which is immediately summoned, and is confused and ornery from being so disturbed.
