@@ -23,7 +23,7 @@ For every Diabolist template you have, you gain one extra **Spell Dice** and **[
 Diabolists get second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in spell books and you spend Spell Dice to cast them.
 
 <details markdown="1">
-<summary>How GLOG spells work</summary>
+<summary>How GLOG spells and doom work</summary>
 <ins>Spell Dice (SD)</ins><br>
 You get 1 per Diabolist template. They are D6s.
 
