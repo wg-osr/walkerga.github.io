@@ -20,7 +20,7 @@ For every Diabolist template you have, you gain one extra **Spell Dice** and **[
 **D:** Dark Reward <br>
 
 ## Diabolic Spells
-Diabolists get second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in spell books and you spend Spell Dice to cast them.
+Diabolists get a second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in spell books and you spend Spell Dice to cast them.
 
 <details markdown="1">
 <summary>How GLOG spells and doom work</summary>
@@ -78,7 +78,7 @@ If you have chosen to go down the path of dealing with devils, it is because of 
 - **Envy**. Once per day, you can make a copy of a hand-held object or vestment owned by someone else you can see. You gain a _Doom Point_ every time you use it.
 - **Pride**. You can reroll any D20 you roll. Each time you fail a reroll, you gain a _Doom Point_.
 - **Gluttony**. Eating a daily ration removes a _Doom Point_. Eating five daily rations in a day cures 1 Wound. You gain 3 _Doom Points_ every day.
-- **Greed**. Each inventory slot taken by a [Valuable or a Treasure](/2020/11/10/extra-rules/#treasures) increases your HP by 1. You gain a _Doom Point_ every time one leaves your invetory.
+- **Greed**. Each inventory slot taken by a [Valuable or a Treasure](/2020/11/10/extra-rules/#treasures) increases your HP by 1. You gain a _Doom Point_ every time one leaves your inventory.
 - **Lust**. Sentient creatures with less HP than your [doom] are overwhelmed by you. They must save to attack, hurt, or say anything bad about you as long as you dont attack them. 
 
 ## Dark Reward
@@ -89,5 +89,5 @@ Here's the reward you bargained for. You get those related to your two sins. Hop
 - **Envy**. Get any one thing you are aware of. Everybody knows you have it.
 - **Pride**. Erase any mistake or humiliation from your past. You now fumble on rolls of 1 or 2 at the referee's discretion.
 - **Gluttony**. You can eat _anything_. You can never eat the same thing twice.
-- **Greed**. You gain 100 sacks of gold. You cant spend it.
+- **Greed**. You gain 1 000 big bags of gold. You cant spend them.
 - **Lust**. You have an extra life after this one. You cannot say no to an offer of a new experience.
