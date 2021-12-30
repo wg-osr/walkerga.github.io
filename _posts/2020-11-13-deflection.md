@@ -3,9 +3,9 @@ layout: post
 tags: spell apotropaism
 title: Deflection
 ---
-D: [sum] rounds 
+**D**: [sum] rounds 
 
-You can deflect the next [dice] non-magical attacks aimed at you onto another creature within touch range. If there are no eligible targets the spell has no effect.
+You can deflect the next [dice] non-magical attacks aimed at you onto another creature within touch range. You can cast this spell as a reaction to an attack. If there are no eligible targets the spell has no effect. 
 
 ###### *Deflect + Attack*
 
