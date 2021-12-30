@@ -3,7 +3,7 @@ layout: post
 tags: spell apotropaism
 title: Principle of Cutting
 ---
-R: Touch  D:  10 minutes
+**R**: Touch  **D**:  10 minutes
 
 You enchant a bladed weapon to cut materials harder than it. Ignore any hardness, damage reduction, or resistance of materials you cut.
 
