@@ -3,7 +3,7 @@ layout: post
 tags: spell apotropaism
 title: Heka Mirror
 ---
-D: [Sigil](/spells/#lexicon)
+**D**: [Sigil](/spells/#lexicon)
 
 Trace your Sigil on a hand mirror, which proves to be of great defense against other spellcasters: anyone casting a noxious spell while seeing their own image in the mirror will have the spell flung back at them.
 
