@@ -3,11 +3,11 @@ layout: post
 tags: spell apotropaism
 title: Return to Sender
 ---
-R: Sight  D: 10 minutes 
+**R**: Sight **D**: 10 minutes 
 
 You turn [sum] HD of constructs or summoned creatures against their creator/summoner. Creatures that fail their save are turned against the one who sent them against you with the same level of hostility.
 
-If you invest 4 SD in the casting of this spell, the effect becomes permanent.
+If you invest 4 dice or more in this spell, the effect becomes permanent.
 
 ###### *Return + Owner*
 
