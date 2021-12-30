@@ -4,7 +4,7 @@ tags: spell apotropaism
 title: The Ten Wards
 ---
 
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
 When you first gain this spell, roll a D10 to know which of the 10 wards you got: first (acid), second (blunt), third (cold), fourth (electric), fifth (fire), sixth (mind), seventh (magical), ninth (poison) and tenth (slashing). 
 
