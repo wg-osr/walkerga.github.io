@@ -4,7 +4,7 @@ tags: spell apotropaism
 title: Seal of Retribution
 ---
 
-Places your Sigil on a location or threshold to protect it and strike with retribution anyone foolish enough to violate it. 
+Places your [Sigil](/spells/#lexicon) on a location or threshold to protect it and strike with retribution anyone foolish enough to violate it. 
 
 The seal stops any being from passing, forming a visible, opalescent barrier. When destroyed, for example by dealing it [sum] damage, it deals [dice]D6 damage to anyone in the area, save to halve.
 
