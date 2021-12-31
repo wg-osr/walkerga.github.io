@@ -44,10 +44,10 @@ If you observe an animal for 10 minutes, you can add its species to your Bestiar
 You can talk to animal species that are noted in your Bestiary. They will not attack you unless provoked.
 
 ## Chimera
-You can change any instance of [animal] in a spell description with any two species in your Bestiary when you cast a spell. The mix gains the features you want from either animal and the size of one.
+You can change any instance of [animal] in a spell description with a hybrid of any two species in your Bestiary when you cast a spell. The mix gains the features you want from either animal and the size of one.
 
 ## Chimera II
-You can change any instance of [animal] in a spell description with any three species in your Bestiary when you cast a spell. The mix gains the features you want from any of them and the size of one.
+You can change any instance of [animal] in a spell description with a hybrid of any three species in your Bestiary when you cast a spell. The mix gains the features you want from any of them and the size of one.
 
 ## Apotheosis
 You don't have any real form anymore. Add your birth species to your Bestiary. You decide each time you rest which species from your Bestiary you will be when you wake up.
