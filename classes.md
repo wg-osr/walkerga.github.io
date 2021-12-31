@@ -28,14 +28,15 @@ The [Fighter](/class/fighter)
 The [Wizard](/class/wizard)
 <details markdown="1">
   <summary>Wizard-Type Classes</summary>
-  - The [Diabolist](/class/magic-user/diabolist)
   - The [Priest](/class/priest)
+  - The [Animorph](/class/magic-user/animorph)
+  - The [Diabolist](/class/magic-user/diabolist)
 
-    - The [Cambion](/class/magic-user/tiefling)
-    - The [Elf](/class/magic-user/elf)
-    - The [Goat](/class/magic-user/goat)
-    - The [Necromancer](/class/magic-user/necromancer)
-    - The [Nereid](/class/magic-user/nereid)
+  - The [Cambion](/class/magic-user/tiefling)  
+  - The [Elf](/class/magic-user/elf)
+  - The [Goat](/class/magic-user/goat)
+  - The [Necromancer](/class/magic-user/necromancer)
+  - The [Nereid](/class/magic-user/nereid)
 </details>
 
 The [Specialist](/class/specialist)
