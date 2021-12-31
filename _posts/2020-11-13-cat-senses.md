@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Cat Senses
+title: Keen Senses
 ---
 
 *Felimorphosis*
