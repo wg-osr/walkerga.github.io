@@ -31,7 +31,6 @@ The [Wizard](/class/wizard)
   - The [Priest](/class/priest)
   - The [Animorph](/class/magic-user/animorph)
   - The [Diabolist](/class/magic-user/diabolist)
-
   - The [Cambion](/class/magic-user/tiefling)  
   - The [Elf](/class/magic-user/elf)
   - The [Goat](/class/magic-user/goat)
