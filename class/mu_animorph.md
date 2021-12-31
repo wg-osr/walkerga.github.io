@@ -5,7 +5,7 @@ permalink: /class/magic-user/animorph
 ---
 
 <ins>Starting Equipment</ins><br>
-A bug net. A poncho. A bestiary, a quill, ink. A waterproof bag.
+A poncho. A bestiary, a quill, ink. Your choice of a Bug Net, Antivenom or Something Extra from your [daytime career](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
 
 <ins>Starting Skills</ins><br>
 Your choice of Zoology, Local Teenager, or Weird Hermit.
@@ -17,8 +17,8 @@ For every Animorph template you have, you gain one extra **Spell Dice** and an *
 **C:** Chimera II <br>
 **D:** Apotheosis <br>
 
-## Animorphosis Spells
-Animorphs get the [animorph spell](/2020/11/12/animorph/) for free at level 1. Their spells are stored in their Bestiary and you spend Spell Dice to cast them. All iterations of [animal] in a spell description should be replaced by a specific animal species when the spell is first found.
+## Animorph Magic
+Animorphs get the [animorph spell](/2020/11/12/animorph/) for free at level 1. Their spells are stored in their Bestiary and you spend Spell Dice to cast them.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>
@@ -35,7 +35,7 @@ Every time you roll doubles you get closer to *Catastrophe*.
 Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom Point_, roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe).
 </details>
 
-Because Animorphs are specialists, when they cast a spell with the keyword [animal], they retrieve their SD on rolls of 1 to 4.
+Because Animorphs are specialists, when they cast an animorphosis spell, they retrieve their SD on rolls of 1 to 4.
 
 ## Bestiary
 If you observe an animal for 10 minutes, you can add its species to your Bestiary. You can change any instance of [animal] in a spell description with any species in your Bestiary when you cast a spell.
