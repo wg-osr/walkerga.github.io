@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: [Animal] Phobia
+title: Zoophobia
 ---
 **R**: Sight  **D**: [dice] x 10 minutes
 
