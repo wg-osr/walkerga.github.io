@@ -19,7 +19,7 @@ For every Diabolist template you have, you gain one extra **Spell Dice** and **[
 **C:** +1 Sin <br>
 **D:** Dark Reward <br>
 
-## Diabolic Spells
+## Diabolic Magic
 Diabolists get a second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in spell books and you spend Spell Dice to cast them.
 
 <details markdown="1">
