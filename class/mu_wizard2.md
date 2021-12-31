@@ -440,7 +440,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavily engraved and painted greenstone tablets.*
 - You regenerate 1 HP every hour.
 - You can take as much damage as times you've studied this book when casting a spell and add as much to its [sum], or alternatively crush a fresh heart for the same benefits.
-- Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Swarm of Jaguars](/2020/11/13/swarm-of-jaguars/)
+- Roll 1D4, you gain the following spell: 1. [Blood Thrall](/2020/11/13/blood-thrall/), 2. [Sacrifice to the Sun](/2020/11/13/sacrifice-to-the-sun/), 3. [Speak with Blood](/2020/11/13/speak-with-blood/), 4. [Curse of the Jaguars](/2020/11/13/swarm-of-jaguars/)
 ###### *From Unlawful Games's [Blood Aspirant](https://unlawfulgames.blogspot.com/2019/08/glog-blood-aspirant.html)!*
 </details>
 
