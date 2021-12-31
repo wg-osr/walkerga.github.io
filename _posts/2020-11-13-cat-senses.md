@@ -4,8 +4,6 @@ tags: spell animorphosis
 title: Keen Senses
 ---
 
-*Felimorphosis*
-
 **D**: 1 hour
 
 Pick [dice] of the following options:
