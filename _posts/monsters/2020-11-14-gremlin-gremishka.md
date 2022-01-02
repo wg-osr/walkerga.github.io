@@ -92,5 +92,5 @@ A wizard who manages to live in a house infected by gremishkas and ignore them f
 <br>
 
 <details markdown="1">
-<summary>DM Notes</summary>
+<summary>Credits</summary>
 The original gremishka comes from [Ravenloft](https://www.mojobob.com/roleplay/monstrousmanual/g/gremishk.html), and like many Ravenloft creatures, it is full of creepy flavor. For once, the [5e version](https://www.dndbeyond.com/posts/993-gremishka-terrify-spellcasters-with-these-tiny) made them even more interesting, adding OSR-style chaos to them. I tried to stay faithful to both.</details>
