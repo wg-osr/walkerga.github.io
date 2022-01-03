@@ -634,6 +634,7 @@ gen_data['mainelemental'] = [
     'A crystal-harvesting open-air mine has dug out the',
     'A force field protects the idyllic',
     'A magical lamp has absorbed the',
+    'A WIZARD’s house has been built on the',
   ];
  
  gen_data['magicalhazard'] = [
@@ -671,6 +672,7 @@ gen_data['mainelemental'] = [
     'have become toxic from industrial waste',
     'were placed here by a heroic ARCHMAGE',
     'might be spying for a DJINN',
+    'are allergic to magic',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -708,6 +710,7 @@ gen_data['mainelemental'] = [
     'fled the new construction',
     'can speak with all animals',
     'got a wish granted',
+    'became allergic to magic',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -745,6 +748,7 @@ gen_data['mainelemental'] = [
     'ENGINES OF PAIN {engineofpainown}',
     'a rare AUDREENA who {AUDREENAwants}',
     'a DJINN {DJINNwants}',
+    'GREMISHKA GREMLINS {gremishkawants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -795,6 +799,7 @@ gen_data['mainelemental'] = [
     'tropical',
     'gorgeous',
     'glittering',
+    'townhouses built on the',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -832,6 +837,7 @@ gen_data['mainelemental'] = [
     'mossy',
     'ivory',
     'too idyllic',
+    'pickpocketing',
    ];    
       
  gen_data['enchantedobstacle'] = [
@@ -870,6 +876,7 @@ gen_data['mainelemental'] = [
     'doors in stumps',
     'spires',
     'windows',
+    'cracked floorboards',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -907,6 +914,7 @@ gen_data['mainelemental'] = [
     'learned to never travel alone',
     'started to worship ELVES',
     'saw a mysterious creature',
+    'started seeing tiny creatures hiding in every cracks',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -945,6 +953,7 @@ gen_data['mainelemental'] = [
     'an ELOKO who {elokowants}',
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     'a rare AUDREENA who {AUDREENAwants}',
+    'GREMISHKA GREMLINS {gremishkawants}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1717,6 +1726,7 @@ gen_data['cityadjective'] = [
     'astral',
     'lawless',
     'plagued',
+    'quaint',
  
   ];
   gen_data['cityfeature'] = [
@@ -1761,6 +1771,7 @@ gen_data['cityadjective'] = [
     'skyport',
     'guilds',
     'sewers',
+    'townhouses',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1805,6 +1816,7 @@ gen_data['cityadjective'] = [
     'sky-ships',
     'roadblocks',
     'rotting food piles',
+    'cracks in the pavement',
 
   ];
   gen_data['cityhazard'] = [
@@ -1849,6 +1861,7 @@ gen_data['cityadjective'] = [
     'attract raiders',
     'could hide BANDITS',
     'attract {citybeast}',
+    'are used by pickpockets',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1892,6 +1905,7 @@ gen_data['cityadjective'] = [
     'GITHYANKI {githyankiculture} {githyankiproblem}',
     'BANDITS {banditswants}',
     'GHOUL {citybeast} {ghoulbeastwants}',    
+    'GREMISHKA GREMLINS {gremishkawants}',    
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4753,6 +4767,14 @@ gen_data['arcticadjective'] = [
     'spying for a DEMON of undeath',
     'creepingly following people',
     'stealing shiny objects',
+  ];
+   gen_data['gremishkawants'] = [
+    'stealing food',
+    'stealing shiny objects',
+    'driving all adults mad',
+    'fostering a children uprising',
+    'infesting houses',
+    'waging war against DOGS',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
