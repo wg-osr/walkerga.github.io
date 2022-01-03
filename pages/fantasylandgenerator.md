@@ -4610,7 +4610,7 @@ gen_data['arcticadjective'] = [
   ];
      gen_data['highelfculture'] = [
     'live in flying towers',
-    'live in towers protected by magical fog',
+    'live in towers protected by a magical fog',
     'live in luxurious oases',
     'are served by elegant constructs',
     'who live under a glass dome',
