@@ -4745,7 +4745,7 @@ gen_data['arcticadjective'] = [
   ];
    gen_data['ghoulwants'] = [
     'digging bodies out of a cemetery',
-    'hunting for preys',
+    'that are ravenous',
     'living a cannibalistic mockery of their former life',
     'summoning DEMONS of undeath',
     'creepingly following people',
@@ -4800,20 +4800,20 @@ gen_data['arcticadjective'] = [
     'revelling',
   ];
    gen_data['ghoulbeastwants'] = [
-    'eating diseased corpses',
-    'hunting for preys',
-    'spreading their disease',
-    'spying for a DEMON of undeath',
-    'creepingly following people',
-    'stealing shiny objects',
+    'that eat corpses',
+    'that are ravenous',
+    'that spreading a dangerous disease',
+    'that spy for a DEMON of undeath',
+    'that stalk people',
+    'that steal shiny objects',
   ];
    gen_data['gremishkawants'] = [
-    'stealing food',
-    'stealing shiny objects',
-    'driving all adults mad',
-    'fostering a children uprising',
-    'infesting houses',
-    'waging war against DOGS',
+    'that steal food',
+    'that steal shiny objects',
+    'that drive all adults mad',
+    'that foster a children uprising',
+    'that infest the houses',
+    'that wage war against all DOGS',
   ];
    gen_data['griffontotem'] = [
     'royal',
