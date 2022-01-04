@@ -37,8 +37,8 @@ Their alcohol-soaked coal heart makes them resistant to poisons.
 1. **Monster:** roll 1D6:
     1. <ins>Dwarven Party:</ins> 3D4 hill dwarves & 1 veteran (x3 HP)
     1. <ins>Rangers:</ins> 1D8 hill dwarves & 1D4 [blunderbuss](https://saltygoo.github.io/monsters/soldier)
-    1. <ins>Miners:</ins> 1D6 hill dwarves & 1D6 [goons](https://saltygoo.github.io/monsters/goons) & 1 [sapper](https://saltygoo.github.io/monsters/soldier)
-    1. <ins>Slayers:</ins> 1D6 hill dwarves &1D6 [spiked madmen](https://saltygoo.github.io/monsters/warrior)
+    1. <ins>Miners:</ins> 1D6 hill dwarves & 1D6 [goons](https://saltygoo.github.io/monsters/bandits) & 1 [sapper](https://saltygoo.github.io/monsters/soldier)
+    1. <ins>Slayers:</ins> 1D6 hill dwarves & 1D6 [spiked madmen](https://saltygoo.github.io/monsters/warrior)
 1. **Lair:** A well tended hovel with an adjacent workshop. <br>    &nbsp; OR <br>    **Omen:** Loud laughter.
 1. **Spoor:** An orderly, recently left camp site.
 1. **Tracks:** Holes made from rock climbing gear.
