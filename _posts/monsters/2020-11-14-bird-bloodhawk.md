@@ -29,7 +29,7 @@ Bloodhawks have a very good sight. They also have advantage on their attacks if 
 
 <br>
 
-# Bloodhawk Flock
+# Flock of Bloodhawks 
 
 **HD:** 0 +3D6HP  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
@@ -43,7 +43,7 @@ In a flock, bloodhawks are immune to being grappled or attacked by single target
 
 **Attacks (1/round)**
 
-<ins>Coordinated Pecks.</ins> The Bloodhawk Flock makes a melee attack (1D6) with reach using its HP as its attack stat. Hit or not, the target is blinded for a turn.
+<ins>Coordinated Pecks.</ins> The Flock of Bloodhawk  makes a melee attack (1D6) with reach using its HP as its attack stat. Hit or not, the target is blinded for a turn.
 <br>
 
 <br>
