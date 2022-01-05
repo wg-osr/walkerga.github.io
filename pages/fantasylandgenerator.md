@@ -3563,7 +3563,7 @@ gen_data['arcticadjective'] = [
     'steam vents',
     'hidden pit traps',
     'wild energies',
-    'tribal drums',  
+    'tribal markings',  
     'sacred {arcticbeast}',
     'rockfalls',
     'giant nests',
