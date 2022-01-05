@@ -4877,7 +4877,7 @@ gen_data['arcticadjective'] = [
     'on a murderous rampage',
     'selling illegal goods',
     'robbing travelers',
-    'reveling',
+    'who love to party',
   ];
    gen_data['ghoulbeastwants'] = [
     'that eat corpses',
