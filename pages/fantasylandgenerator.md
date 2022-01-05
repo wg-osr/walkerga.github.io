@@ -1590,6 +1590,7 @@ gen_data['seaadjective'] = [
     'lawless',
     'dark',
     'breezy',
+    'patrolled',
  
   ];
   gen_data['seafeature'] = [
@@ -1614,6 +1615,7 @@ gen_data['seaadjective'] = [
     'harbor',
     'waters',
     'rockly spires',
+    'trade routes',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1636,6 +1638,7 @@ gen_data['seaadjective'] = [
     'PIRATES',
     'dead WHALES',
     'sunny hours of the day',
+    'buoys',
 
   ];
   gen_data['seahazard'] = [
@@ -1659,6 +1662,7 @@ gen_data['seaadjective'] = [
     'attract more PIRATES',
     'carry diseases',
     'could give you sunburns',
+    'marking the border of a kingdom',
       
   ];
   gen_data['seamonster'] = [
@@ -1683,6 +1687,7 @@ gen_data['seaadjective'] = [
     'PIRATES {banditswants}',
     'GHOUL {seabeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    'MERCHANT SHIPS {humanproblem}',
   ];
 
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1737,6 +1742,7 @@ gen_data['cityadjective'] = [
     'plagued',
     'quaint',
     'aerial',
+    'royal',
  
   ];
   gen_data['cityfeature'] = [
@@ -1783,6 +1789,7 @@ gen_data['cityadjective'] = [
     'sewers',
     'townhouses',
     'cavalry',
+    'market',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1829,6 +1836,7 @@ gen_data['cityadjective'] = [
     'rotting food piles',
     'cracks in the pavement',
     'GUARDS mounted on GIANT {cityBIRD}',
+    'persistant street merchants',
 
   ];
   gen_data['cityhazard'] = [
@@ -1875,6 +1883,7 @@ gen_data['cityadjective'] = [
     'attract {citybeast}',
     'are used by pickpockets',
     'are highly respected by the city officials',
+    'could drag you in a faction war',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1920,6 +1929,7 @@ gen_data['cityadjective'] = [
     'GHOUL {citybeast} {ghoulbeastwants}',    
     'GREMISHKA GREMLINS {gremishkawants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1970,6 +1980,7 @@ gen_data['swampadjective'] = [
     'once-settled',
     'lawless',
     'plagued',
+    'royal',
 
   ];
   gen_data['swampfeature'] = [
@@ -2012,6 +2023,7 @@ gen_data['swampadjective'] = [
     'cabins',
     'trading posts',
     'boneyard',
+    'town',
  
   ];
   gen_data['swampobstacle'] = [
@@ -2054,6 +2066,7 @@ gen_data['swampadjective'] = [
     'rotten carcasses',
     'roadblocks',
     'flies',
+    'GUARD patrols',
 
   ];
   gen_data['swamphazard'] = [
@@ -2096,6 +2109,7 @@ gen_data['swampadjective'] = [
     'carry rabies',
     'could hide bandits',
     'attract scavengers',
+    'are from the nearby town',
       
   ];
   gen_data['swampmonster'] = [
@@ -2138,6 +2152,7 @@ gen_data['swampadjective'] = [
     'GHOULS {ghoulwants}',    
     'BANDITS {banditswants}',
     'GHOUL {swampbeast} {ghoulbeastwants}',    
+    '{humanculture} HUMANS {humanproblem}',
   ]; 
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2181,6 +2196,7 @@ gen_data['plainsadjective'] = [
     'lawless',
     'plagued',
     'open-sky',
+    'royal',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2215,6 +2231,7 @@ gen_data['plainsadjective'] = [
     'trading posts',
     'boneyard',
     'acacias',
+    'town',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2250,6 +2267,7 @@ gen_data['plainsadjective'] = [
     'roadblocks',
     'rotting carcasses',
     'certain sunny hours',
+    'GUARD patrols',
 
   ];
   gen_data['plainshazard'] = [
@@ -2285,6 +2303,7 @@ gen_data['plainsadjective'] = [
     'could hide BANDITS',
     'carry rabies',
     'could make you feel dizzy',
+    'are from a nearby town',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2319,6 +2338,7 @@ gen_data['plainsadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {plainsbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2366,6 +2386,7 @@ gen_data['mountainadjective'] = [
     'lawless',
     'plagued',
     'sunny',
+    'royal',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2404,6 +2425,7 @@ gen_data['mountainadjective'] = [
     'trading posts',
     'boneyard',
     'spires',
+    'town',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2442,6 +2464,7 @@ gen_data['mountainadjective'] = [
     'roadblocks',
     'rotting carcasses',
     'high cliffs',
+    'GUARD patrols',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2480,6 +2503,7 @@ gen_data['mountainadjective'] = [
     'could hide BANDITS',
     'carry rabies',
     'could trigger vertigo',
+    'are from a nearby town',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2518,6 +2542,7 @@ gen_data['mountainadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {mountainbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2568,6 +2593,7 @@ gen_data['jungleadjective'] = [
     'once-settled',    
     'lawless',    
     'plagued',    
+    'royal',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2611,6 +2637,7 @@ gen_data['jungleadjective'] = [
     'sacrifical pits',
     'trading posts',
     'boneyard',
+    'town',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2653,6 +2680,7 @@ gen_data['jungleadjective'] = [
     'rotting carcasses',
     'roadblocks',
     'flies',
+    'GUARD patrols',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2695,6 +2723,7 @@ gen_data['jungleadjective'] = [
     'carry rabies',
     'could hide BANDITS',
     'attract scavengers',
+    'are from a nearby town',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2737,6 +2766,7 @@ gen_data['jungleadjective'] = [
     'GHOULS {ghoulwants}',    
     'BANDITS {banditswants}',
     'GHOUL {junglebeast} {ghoulbeastwants}',    
+    '{humanculture} HUMANS {humanproblem}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2791,6 +2821,7 @@ gen_data['rockyadjective'] = [
     'lawless',
     'plagued',
     'sunny',
+    'royal',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2837,6 +2868,7 @@ gen_data['rockyadjective'] = [
     'trading posts',
     'boneyard',
     'rock spires',
+    'town',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2883,6 +2915,7 @@ gen_data['rockyadjective'] = [
     'roadblocks',
     'scattered bones',
     'narrow cornices',
+    'GUARD patrol',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2929,6 +2962,7 @@ gen_data['rockyadjective'] = [
     'could hide BANDITS',  
     'carry rabies',  
     'could trigger vertigo',  
+    'are from the nearby town',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -2974,6 +3008,7 @@ gen_data['rockyadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {rockybeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3017,6 +3052,7 @@ gen_data['forestadjective'] = [
     'high',
     'lawless',
     'plagued',
+    'royal',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3051,6 +3087,7 @@ gen_data['forestadjective'] = [
     'treetops',
     'trading posts',
     'dens',
+    'town',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3085,6 +3122,7 @@ gen_data['forestadjective'] = [
     'spider webs',  
     'roadblocks',  
     'rotting carcasses',  
+    'GUARD patrols',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3119,6 +3157,7 @@ gen_data['forestadjective'] = [
     'you could run into',
     'could hide BANDITS',
     'carry rabies',
+    'are from the nearby town',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3153,6 +3192,7 @@ gen_data['forestadjective'] = [
     'ETTERCAPS who {ettercapculture} {ettercapproblem}',
     'BANDITS {banditswants}',
     'GHOUL {forestbeast} {ghoulbeastwants}',    
+    '{humanculture} HUMANS {humanproblem}',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3207,6 +3247,7 @@ gen_data['desertadjective'] = [
     'lawless',
     'plagued',
     'sunny',
+    'royal',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3252,6 +3293,7 @@ gen_data['desertadjective'] = [
     'trading posts',
     'boneyards',
     'rock spires',
+    'town',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3297,6 +3339,7 @@ gen_data['desertadjective'] = [
     'roadblocks',  
     'scattered bones',  
     'steep dunes',  
+    'GUARD patrols',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3341,6 +3384,7 @@ gen_data['desertadjective'] = [
     'could hide BANDITS',
     'carry rabies',
     'are dizzying',
+    'are from the nearby town',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3386,6 +3430,7 @@ gen_data['desertadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {desertbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3431,6 +3476,7 @@ gen_data['arcticadjective'] = [
     'lawless',
     'plagued',
     'cliffside',
+    'royal',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3467,6 +3513,7 @@ gen_data['arcticadjective'] = [
     'trading posts',
     'slush bogs',
     'rock spires',
+    'town',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3503,6 +3550,7 @@ gen_data['arcticadjective'] = [
     'roadblocks',  
     'darker hours',  
     'high cliffs',  
+    'GUARD patrols',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3539,6 +3587,7 @@ gen_data['arcticadjective'] = [
     'could hide BANDITS',
     'carry rabies',
     'give vertigo',
+    'are from the nearby town',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3575,6 +3624,7 @@ gen_data['arcticadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {arcticbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
+    '{humanculture} HUMANS {humanproblem}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4822,6 +4872,28 @@ gen_data['arcticadjective'] = [
     'migrating',
     'matitudinal',
     'sacred',
+  ];
+ gen_data['humanculture'] = [
+    'feudal',
+    'fanatical',
+    'nomadic',
+    'oligarchic',
+    'rebellious',
+    'urban',
+  ];
+   gen_data['humanproblem'] = [
+    'torn between two rival factions',
+    'infiltrated by a{cult} CULT',
+    'suffering from famine',
+    'whose leader has been abducted by {humanculprit}',
+    'trying to tame the land',
+    'in the middle of a war',
+  ];
+   gen_data['humanculprit'] = [
+    'FAIRIES',
+    'a rival faction',
+    'a DRAGON',
+    'BANDITS',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
