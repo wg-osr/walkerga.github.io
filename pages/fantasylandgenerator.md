@@ -2262,7 +2262,7 @@ gen_data['plainsadjective'] = [
     'shortcuts',
     'patches of tall grass',
     'strange magical energies',
-    'war banners',
+    'tribal markings',
     'sacred {rockybeast}',
     'boulders',
     'carrion grubs',
