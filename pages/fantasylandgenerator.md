@@ -73,7 +73,7 @@
   ];
       
    gen_data['deepobstacle'] = [
-    'otherworldy contraptions',
+    'otherworldly contraptions',
     'deep sea vibrations',
     'razor-sharp barnacles',
     'skeletons',
@@ -344,7 +344,7 @@ gen_data['mainelemental'] = [
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex DESERT. {airadjective} {desertfeature} there and the dangerous {desertobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {desertmonster} {airtaint} in this land.',
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex FOREST. {airadjective} {forestfeature} there and the dangerous {forestobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {forestmonster} {airtaint} in this land.',
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex GRASSLAND. {airadjective} {plainsfeature} there and the dangerous {plainsobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {plainsmonster} {airtaint} in this land.',
-    'ELEMENTAL AIR is overflowing in this one-hex MOUNTAIN. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} {airhazard} now. Some say {airmonster} might be at the centaer of this. Also, know that {mountainmonster} {airtaint} in this land.',
+    'ELEMENTAL AIR is overflowing in this one-hex MOUNTAIN. {airadjective} {mountainfeature} there and the dangerous {mountainobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {mountainmonster} {airtaint} in this land.',
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex ROCKY LAND. {airadjective} {rockyfeature} there and the dangerous {rockyobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {rockymonster} {airtaint} in this land.',
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex SWAMP. {airadjective} {swampfeature} there and the dangerous {swampobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {swampmonster} {airtaint} in this land.',
     'ELEMENTAL AIR is overflowing in this {1d10hexes}-hex JUNGLE. {airadjective} {junglefeature} there and the dangerous {jungleobstacle} {airhazard} now. Some say {airmonster} might be at the center of this. Also, know that {junglemonster} {airtaint} in this land.',
@@ -398,7 +398,7 @@ gen_data['mainelemental'] = [
             
   gen_data['watertaint'] = [
     'can cast water magic',
-    'started worshipping a giant WATER ELEMENTAL',
+    'started worshiping a giant WATER ELEMENTAL',
     'grew leathery stingray-like fins',
     'disappeared in the mist',
     'adapted to life under water',
@@ -442,7 +442,7 @@ gen_data['mainelemental'] = [
             
   gen_data['firetaint'] = [
     'can cast fire magic',
-    'started worshipping a giant FIRE ELEMENTAL',
+    'started worshiping a giant FIRE ELEMENTAL',
     'became covered in burn scars',
     'started to serve a wicked Ancient RED DRAGON',
     'can breathe hot steam',
@@ -501,7 +501,7 @@ gen_data['mainelemental'] = [
     'grew a copper skin',
     'can only feed off silver',
     'can cast earth magic',
-    'started worshipping a giant EARTH ELEMENTAL',
+    'started worshiping a giant EARTH ELEMENTAL',
     'became displaced here because of an earthquake in their homeland',
     'got lost in a sandstorm',
     'turned to stone',
@@ -566,10 +566,10 @@ gen_data['mainelemental'] = [
     'started living in force bubbles',
     'adapted to withstand scalding steam',
     'can cast wind magic',
-    'started worshipping a giant AIR ELEMENTAL',
+    'started worshiping a giant AIR ELEMENTAL',
     'became hunted by the Winter Court',
     'started riding tornadoes',
-    'became enroled by the pasha',
+    'became enrolled by the pasha',
     'became captured by sky pirates',
     'are preyed by GIANT BIRDS',
   ];    
@@ -918,7 +918,7 @@ gen_data['mainelemental'] = [
     'learned to never travel alone',
     'started to worship ELVES',
     'saw a mysterious creature',
-    'started seeing tiny creatures hiding in every cracks',
+    'started seeing tiny creatures hiding in every crack',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -994,7 +994,7 @@ gen_data['mainelemental'] = [
     'trigger an alarm',
     'might bring karmic punishment',
     'prevent nearby crucified sinners from dying',
-    'are tended by souls awaiting judgement',
+    'are tended by souls awaiting judgment',
     'turn food into ash',
     'are diabolical here',
     'speak with the voices of damned souls',
@@ -1015,7 +1015,7 @@ gen_data['mainelemental'] = [
     'started wailing for the salvation of sinners',
     'joined the Church',
     'became cursed to repeat a sisyphean task',
-    'commited a terrible sin',
+    'committed a terrible sin',
 
   ];    
  
@@ -1061,9 +1061,9 @@ gen_data['mainelemental'] = [
     'Elven ruins doomed',
     'Silver threads bind all the souls at',
     'Parts of the Old Kingdom used to be situated at',
-    'A terrible crime was commited at',
+    'A terrible crime was committed at',
     'Most life has left the',
-    'A hunger for death has overcome the aread around',
+    'A hunger for death has overcome the area around',
   ];
       
  gen_data['cursedchazard'] = [
@@ -1262,10 +1262,10 @@ gen_data['darkgate'] = [
     'spider nest',
     'lake',
     'haunted house',
-    'quicksands', 
-    'mass grave', 
-    'slick, metallic circular gate', 
-    'vulture colony', 
+    'quicksands',
+    'mass grave',
+    'slick, metallic circular gate',
+    'vulture colony',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1309,7 +1309,7 @@ gen_data['darkgatecomplication'] = [
     'rapids blocking the path',
     'the GHOST that haunts the place',
     'the dead bodies piled in it',
-    'the complete lack of drinkeable water around',
+    'the complete lack of drinkable water around',
     'the psychic barrier protecting it',
     'the plagued flies that swarm it',
   ];
@@ -1333,7 +1333,7 @@ gen_data['tunneladjective'] = [
     'occult',
     'gold',
     'polluted',
-    'militarised',
+    'militarized',
     'earth-consuming',
     'steaming',
     'rickety crafted',
@@ -1354,7 +1354,7 @@ gen_data['tunneladjective'] = [
     'web-tangled',
     'flooded',
     'haunted',
-    'abandonned',
+    'abandoned',
     'barren',
     'lead',
     'plagued',
@@ -1367,7 +1367,7 @@ gen_data['tunnelfeature'] = [
     'ice walls',
     'nests',
     'baths',
-    'spiralling cones',
+    'spiraling cones',
     'cracks',
     'root networks',
     'ice tunnels',
@@ -1444,7 +1444,7 @@ gen_data['tunnelhazard'] = [
     'cursed',
     'violent',
     'burning',
-    'earth-spliting',
+    'earth-splitting',
     'falling',
     'underwater',
     'haunting',
@@ -1614,7 +1614,7 @@ gen_data['seaadjective'] = [
     'cove',
     'harbor',
     'waters',
-    'rockly spires',
+    'rocky spires',
     'trade routes',
 
   ];
@@ -1820,7 +1820,7 @@ gen_data['cityadjective'] = [
     'large barrels',
     'hidden pit traps',
     'stone gates',
-    'torrential rainclouds',
+    'torrential rain clouds',
     'local dishes',
     'daily rituals',
     'diseased RATS',
@@ -1838,7 +1838,7 @@ gen_data['cityadjective'] = [
     'rotting food piles',
     'cracks in the pavement',
     'GUARDS mounted on GIANT {cityBIRD}',
-    'persistant street merchants',
+    'persistent street merchants',
     'wind-chimes',
 
   ];
@@ -1943,7 +1943,7 @@ gen_data['mainswamp'] = [
     'This {2d4hexes}-hex SWAMP is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
-	'SNAKES', 'CROCODILES', 'TURTLES', 'TOADS', 'BEETLES', 'BATS', 'VULTURES', 'GEESE', 'RAVENS', 'HERONS', 'CENTIPEDES', 'BOARS', 'CRABS', 'RATS', 'LIZARDS', 'EELS', 'TROUT', 'MUDFISH', 'CATFISH', 'CARP'
+    'SNAKES', 'CROCODILES', 'TURTLES', 'TOADS', 'BEETLES', 'BATS', 'VULTURES', 'GEESE', 'RAVENS', 'HERONS', 'CENTIPEDES', 'BOARS', 'CRABS', 'RATS', 'LIZARDS', 'EELS', 'TROUT', 'MUDFISH', 'CATFISH', 'CARP'
   ];
 gen_data['swampadjective'] = [
     'submerged',
@@ -2091,7 +2091,7 @@ gen_data['swampadjective'] = [
     'are very painful',
     'are very slippery to walk through',
     'could trap you',
-    'release itching gases',
+    'release itching gas',
     'corrode things over time',
     'are infested with SHELLFISHES',
     'could curse you',
@@ -2158,7 +2158,7 @@ gen_data['swampadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {swampbeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
-  ]; 
+  ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
       
@@ -2166,7 +2166,7 @@ gen_data['mainplains'] = [
     'This {2d6hexes}-hex GRASSLAND is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
   ];
 gen_data['plainsbeast'] = [
-	'HORSES', 'BUFFALOS', 'RHINOCEROSES', 'ELEPHANTS', 'WOLVES', 'LIONS', 'BATS', 'LIZARDS', 'VULTURES', 'TERROR BIRDS', 'SNAKES', 'ELKS', 'ANTELOPES', 'HAWKS'
+    'HORSES', 'BUFFALOS', 'RHINOCEROSES', 'ELEPHANTS', 'WOLVES', 'LIONS', 'BATS', 'LIZARDS', 'VULTURES', 'TERROR BIRDS', 'SNAKES', 'ELKS', 'ANTELOPES', 'HAWKS'
   ];
 gen_data['plainsadjective'] = [
     'wind-swept',
@@ -2432,7 +2432,7 @@ gen_data['mountainadjective'] = [
     'tar pits',
     'tower',
     'rock',
-    'sky-ship harbour',
+    'sky-ship harbor',
     'trading posts',
     'boneyard',
     'spires',
@@ -2649,7 +2649,7 @@ gen_data['jungleadjective'] = [
     'hunting grounds',
     'treetops',
     'hills',
-    'sacrifical pits',
+    'sacrificial pits',
     'trading posts',
     'boneyard',
     'town',
@@ -3362,7 +3362,7 @@ gen_data['desertadjective'] = [
     'scattered bones',  
     'steep dunes',  
     'GUARD patrols',  
-    'solar glares',  
+    'solar flares',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3748,7 +3748,7 @@ gen_data['arcticadjective'] = [
     'and love human flesh',
   ];
    gen_data['arcticbattotem'] = [
-    'noctnurnal',
+    'nocturnal',
     'snowy',
     'ominous',
     'food-preserving',
@@ -3866,7 +3866,7 @@ gen_data['arcticadjective'] = [
    gen_data['cacusproblem'] = [
     'and steal from the locals in total impunity',
     'because they are favored by a god',
-    'and are rumoured to hide a runaway noble',
+    'and are rumored to hide a runaway noble',
     'to prepare for a big competition',
     'because of their silver tongue',
     'and whose land is considered neutral',
@@ -4110,7 +4110,7 @@ gen_data['arcticadjective'] = [
     'wants to be accepted by the locals',
     'longs for a gift',
     'is scared to sleep alone',
-    'needs advices on friendship',
+    'needs advice on friendship',
     'wants travel companions',
     'has food to share',
   ];  
@@ -4136,7 +4136,7 @@ gen_data['arcticadjective'] = [
     'demands virginal sacrifices',
     'searches for a long lost dwarven hold',
     'wants a legendary artifact',
-    'is worshipped like a god',
+    'is worshiped like a god',
   ];  
    gen_data['earthmephitwants'] = [
     'deliver messages from their EARTH ELEMENTAL master',
@@ -4171,7 +4171,7 @@ gen_data['arcticadjective'] = [
     'avoid strangers like plague',
   ];  
    gen_data['calytaurproblem'] = [
-    'under the leadership a Pig-like CAMBION',
+    'under the leadership of a Pig-like CAMBION',
     'and make charcuterie from human flesh',
     'because they want to summon a NALFESHNEE',
     'and were once humans',
@@ -4200,7 +4200,7 @@ gen_data['arcticadjective'] = [
     'witchy',
     'suave',
     'dreaming',
-    'worshipped',
+    'worshiped',
   ];
    gen_data['greendragonwants'] = [
     'collects humanoids as pets',
@@ -4736,7 +4736,7 @@ gen_data['arcticadjective'] = [
     'have a legendary queen',
   ];
    gen_data['highelfproblem'] = [
-    'that they cant leave lest they die',
+    'that they cannot leave lest they die',
     'and are rumored to be nearly extinct',
     'which they use to probe the thoughts of all visitors',
     'whose overuse of magic is behind most of the land’s problems',
@@ -4769,14 +4769,14 @@ gen_data['arcticadjective'] = [
   ];
      gen_data['ettinculture'] = [
     'who joined the GREAT HORDE',
-    'who are worshipped as oracles of DEMOGORGON',
+    'who are worshiped as oracles of DEMOGORGON',
     'who ask for a toll to use the road',
     'who guard a {noble}',
     'who are pet-things for feys',
     'who run an academy',
   ];
    gen_data['ettinproblem'] = [
-    'because they are blessed offsprings of ORCS',
+    'because they are blessed offspring of ORCS',
     'because they were two people cursed by a WITCH',
     'because they are easily manipulated',
     'and known for their operatic duets',
@@ -4877,7 +4877,7 @@ gen_data['arcticadjective'] = [
     'on a murderous rampage',
     'selling illegal goods',
     'robbing travelers',
-    'revelling',
+    'reveling',
   ];
    gen_data['ghoulbeastwants'] = [
     'that eat corpses',
@@ -4954,7 +4954,7 @@ gen_data['arcticadjective'] = [
  
     <br>
     <br>
-    Dont know a monster? They are descibed by climate here!<br>
+    Don't know a monster? They are described by climate here!<br>
    <a href="https://saltygoo.github.io/list/urban">City</a> • <a href="https://saltygoo.github.io/list/arctic">Cold Region</a> • <a href="https://saltygoo.github.io/list/desert">Desert</a> • <a href="https://saltygoo.github.io/list/forest">Forest</a> • <a href="https://saltygoo.github.io/list/plains">Grassland</a> •  <a href="https://saltygoo.github.io/list/jungle">Jungle</a> • <a href="https://saltygoo.github.io/list/mountain">Mountain</a> • <a href="https://saltygoo.github.io/list/hills">Rocky Region</a> • <a href="https://saltygoo.github.io/list/sea">Sea</a> • <a href="https://saltygoo.github.io/list/swamp">Swamp</a> • <a href="https://saltygoo.github.io/list/underdark">Underdark</a> • <a href="https://saltygoo.github.io/list/chaos">Chaos</a> • <a href="https://saltygoo.github.io/list/cursed">Cursed</a> • <a href="https://saltygoo.github.io/list/holy">Divine</a> • <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a> • <a href="https://saltygoo.github.io/list/magical">Magic</a> • <a href="https://saltygoo.github.io/list/elemental">Elemental</a> • <a href="https://saltygoo.github.io/list/astral">Astral</a>
     <br>
     Special thanks to Drow from <a href="https://donjon.bin.sh/">Donjon</a> for the code!
