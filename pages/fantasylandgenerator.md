@@ -2775,7 +2775,7 @@ gen_data['jungleadjective'] = [
     'This {2d4hexes}-hex ROCKY LAND is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'
   ];
 gen_data['rockybeast'] = [
-    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS'
+    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS', 'HAWKS
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
@@ -2822,6 +2822,7 @@ gen_data['rockyadjective'] = [
     'plagued',
     'sunny',
     'royal',
+    'open',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2869,6 +2870,7 @@ gen_data['rockyadjective'] = [
     'boneyard',
     'rock spires',
     'town',
+    'vista',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2916,6 +2918,7 @@ gen_data['rockyadjective'] = [
     'scattered bones',
     'narrow cornices',
     'GUARD patrol',
+    'shiny rocks',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2963,6 +2966,7 @@ gen_data['rockyadjective'] = [
     'carry rabies',  
     'could trigger vertigo',  
     'are from the nearby town',  
+    'could blind you',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3009,6 +3013,7 @@ gen_data['rockyadjective'] = [
     'GHOUL {rockybeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3201,7 +3206,7 @@ gen_data['forestadjective'] = [
     'This {2d6hexes}-hex DESERT is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'CAMELS', 'HYENAS', 'ANTELOPES', 'BASILISKS', 'BATS', 'BEETLES', 'VULTURES', 'OSTRICHES', 'CENTIPEDES', 'CATS', 'WARTHOGS'
+    'CAMELS', 'HYENAS', 'ANTELOPES', 'BASILISKS', 'BATS', 'BEETLES', 'VULTURES', 'OSTRICHES', 'CENTIPEDES', 'CATS', 'WARTHOGS', 'HAWKS'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
@@ -3248,6 +3253,7 @@ gen_data['desertadjective'] = [
     'plagued',
     'sunny',
     'royal',
+    'open',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3294,6 +3300,7 @@ gen_data['desertadjective'] = [
     'boneyards',
     'rock spires',
     'town',
+    'vista',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3340,6 +3347,7 @@ gen_data['desertadjective'] = [
     'scattered bones',  
     'steep dunes',  
     'GUARD patrols',  
+    'solar glares',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3385,6 +3393,7 @@ gen_data['desertadjective'] = [
     'carry rabies',
     'are dizzying',
     'are from the nearby town',  
+    'could blind you',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3431,6 +3440,7 @@ gen_data['desertadjective'] = [
     'GHOUL {desertbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3439,7 +3449,7 @@ gen_data['mainarctic'] = [
     'This {2d6hexes}-hex COLD REGION is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by {arcticmonster}, and also {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
-    'ELKS', 'YAKS', 'BEARS', 'PENGUINS', 'WOLVES', 'MAMMOTHS', 'WOOLY RHINOS', 'SEALS', 'BOARS', 'ARASSASES', 'RAVENS', 'SEAGULLS', 'SABERTOOTH CATS',  'GEESE',
+    'ELKS', 'YAKS', 'BEARS', 'PENGUINS', 'WOLVES', 'MAMMOTHS', 'WOOLY RHINOS', 'SEALS', 'BOARS', 'ARASSASES', 'RAVENS', 'SEAGULLS', 'SABERTOOTH CATS',  'GEESE',  'HAWKS'
   ];
 gen_data['arcticadjective'] = [
     'wind-swept',
@@ -3477,6 +3487,7 @@ gen_data['arcticadjective'] = [
     'plagued',
     'cliffside',
     'royal',
+    'open',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3514,6 +3525,7 @@ gen_data['arcticadjective'] = [
     'slush bogs',
     'rock spires',
     'town',
+    'vista',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3551,6 +3563,7 @@ gen_data['arcticadjective'] = [
     'darker hours',  
     'high cliffs',  
     'GUARD patrols',  
+    'sun glares',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3588,6 +3601,7 @@ gen_data['arcticadjective'] = [
     'carry rabies',
     'give vertigo',
     'are from the nearby town',  
+    'could blind you',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3625,6 +3639,7 @@ gen_data['arcticadjective'] = [
     'GHOUL {arcticbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4852,7 +4867,7 @@ gen_data['arcticadjective'] = [
    gen_data['ghoulbeastwants'] = [
     'that eat corpses',
     'that are ravenous',
-    'that spreading a dangerous disease',
+    'that spread a dangerous disease',
     'that spy for a DEMON of undeath',
     'that stalk people',
     'that steal shiny objects',
@@ -4894,6 +4909,14 @@ gen_data['arcticadjective'] = [
     'a rival faction',
     'a DRAGON',
     'BANDITS',
+  ];
+   gen_data['hawktotem'] = [
+    'trained',
+    'keen',
+    'alert',
+    'fast',
+    'free',
+    'sacred',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
