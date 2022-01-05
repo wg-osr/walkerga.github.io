@@ -1713,7 +1713,7 @@ gen_data['cityadjective'] = [
     'out-of-town',
     'filthy',
     'dark lord’s',
-    'cat',
+    'feline',
     'pet',
     'maze-like',
     'forbidden',
