@@ -32,6 +32,7 @@ Each humanoid has a [class version](https://saltygoo.github.io/classes/) for pla
 </ol>
  
  <ins>Non Species-Specific Templates</ins>
+ 
 {% capture posts %}
   {% for post in site.tags.npcclass %}
     |{{ post.title }}#{{ post.url }}
