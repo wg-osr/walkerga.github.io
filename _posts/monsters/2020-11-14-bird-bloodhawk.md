@@ -11,7 +11,7 @@ This hawk is much larger than normal and gets its name from its burgundy cap and
 
 **HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** small <br>
-**Stats:** agile, alert and dumb<br>  
+**Stats:** agile, alert and feral<br>  
 **Movement:** slow, fly fast <br>
 **Morale:** brave <br>
 
@@ -29,21 +29,22 @@ Bloodhawks have a very good sight. They also have advantage on their attacks if 
 
 <br>
 
-# Giant Hawk
+# Bloodhawk Flock
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
+**HD:** 0 +3D6HP  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** medium <br>
-**Stats:** agile and dumb<br>
-**Movement:** average, fly fast <br>
+**Stats:** agile, alert and feral<br>  
+**Movement:** slow, fly fast <br>
 **Morale:** brave <br>
 
-Hawks have a very good sight.
+Bloodhawks have a very good sight.
 
-**Attacks (2/round)**
+In a flock, bloodhawks are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
-<ins>Fly-By</ins>. The hawk makes a melee attack (1D6 damage) and flies away. Attacks against it on its turn have disadvantage.
+**Attacks (1/round)**
 
-<ins>Talons</ins>. The hawk makes a melee attack (1D6 damage) against one target. If the hawk’s attack roll was 20 or above, the target is blinded for its next turn.
+<ins>Coordinated Pecks.</ins> The Bloodhawk Flock makes a melee attack (1D6) with reach using its HP as its attack stat. Hit or not, the target is blinded for a turn.
+<br>
 
 <br>
 
