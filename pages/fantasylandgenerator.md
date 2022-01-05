@@ -1696,7 +1696,7 @@ gen_data['maincity'] = [
     'This hex holds a CITY known for its {cityadjective} {cityfeature}. Beware of the {cityobstacle} that {cityhazard} there. Its streets are roamed by {citymonster}, and also {citymonster}.'
   ];
 gen_data['citybeast'] = [
-    'RATS', 'HORSES', 'BATS', 'CATS', 'PIGEONS', 'RAVENS', 'SEAGULLS'
+    'RATS', 'HORSES', 'BATS', 'CATS', 'PIGEONS', 'RAVENS', 'SEAGULLS', 'HAWKS'
   ];
 gen_data['cityadjective'] = [
     'brutal',
@@ -1743,6 +1743,7 @@ gen_data['cityadjective'] = [
     'quaint',
     'aerial',
     'royal',
+    'steep',
  
   ];
   gen_data['cityfeature'] = [
@@ -1790,6 +1791,7 @@ gen_data['cityadjective'] = [
     'townhouses',
     'cavalry',
     'market',
+    'spires',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1837,6 +1839,7 @@ gen_data['cityadjective'] = [
     'cracks in the pavement',
     'GUARDS mounted on GIANT {cityBIRD}',
     'persistant street merchants',
+    'wind-chimes',
 
   ];
   gen_data['cityhazard'] = [
@@ -1884,6 +1887,7 @@ gen_data['cityadjective'] = [
     'are used by pickpockets',
     'are highly respected by the city officials',
     'could drag you in a faction war',
+    'could blind you',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1930,6 +1934,7 @@ gen_data['cityadjective'] = [
     'GREMISHKA GREMLINS {gremishkawants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2161,7 +2166,7 @@ gen_data['mainplains'] = [
     'This {2d6hexes}-hex GRASSLAND is known for its {plainsadjective} {plainsfeature}. Beware, for there are {plainsobstacle} that {plainshazard} in the area. It is inhabited by {plainsmonster}, and also {plainsmonster}.'
   ];
 gen_data['plainsbeast'] = [
-	'HORSES', 'BUFFALOS', 'RHINOCEROSES', 'ELEPHANTS', 'WOLVES', 'LIONS', 'BATS', 'LIZARDS', 'VULTURES', 'TERROR BIRDS', 'SNAKES', 'ELKS', 'ANTELOPES'
+	'HORSES', 'BUFFALOS', 'RHINOCEROSES', 'ELEPHANTS', 'WOLVES', 'LIONS', 'BATS', 'LIZARDS', 'VULTURES', 'TERROR BIRDS', 'SNAKES', 'ELKS', 'ANTELOPES', 'HAWKS'
   ];
 gen_data['plainsadjective'] = [
     'wind-swept',
@@ -2197,6 +2202,7 @@ gen_data['plainsadjective'] = [
     'plagued',
     'open-sky',
     'royal',
+    'horizon-spanning',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2232,6 +2238,7 @@ gen_data['plainsadjective'] = [
     'boneyard',
     'acacias',
     'town',
+    'vista',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2268,6 +2275,7 @@ gen_data['plainsadjective'] = [
     'rotting carcasses',
     'certain sunny hours',
     'GUARD patrols',
+    'sun glares',
 
   ];
   gen_data['plainshazard'] = [
@@ -2304,6 +2312,7 @@ gen_data['plainsadjective'] = [
     'carry rabies',
     'could make you feel dizzy',
     'are from a nearby town',
+    'could blind you',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2339,6 +2348,7 @@ gen_data['plainsadjective'] = [
     'GHOUL {plainsbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2347,7 +2357,7 @@ gen_data['mainmountain'] = [
      'This {1d10hexes}-hex MOUNTAIN RANGE is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.'
   ];
 gen_data['mountainbeast'] = [
-    'BEARS', 'WOLVES', 'GOATS', 'CATS', 'BATS', 'CROWS', 'VULTURES'
+    'BEARS', 'WOLVES', 'GOATS', 'CATS', 'BATS', 'CROWS', 'VULTURES', 'HAWKS'
   ];
 gen_data['mountainadjective'] = [
     'big',    
@@ -2387,6 +2397,7 @@ gen_data['mountainadjective'] = [
     'plagued',
     'sunny',
     'royal',
+    'open',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2426,6 +2437,7 @@ gen_data['mountainadjective'] = [
     'boneyard',
     'spires',
     'town',
+    'vista',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2465,6 +2477,7 @@ gen_data['mountainadjective'] = [
     'rotting carcasses',
     'high cliffs',
     'GUARD patrols',
+    'sun glares',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2504,6 +2517,7 @@ gen_data['mountainadjective'] = [
     'carry rabies',
     'could trigger vertigo',
     'are from a nearby town',
+    'could blind you',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2543,6 +2557,7 @@ gen_data['mountainadjective'] = [
     'GHOUL {mountainbeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
+    '{hawktotem}{giant}HAWKS',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2775,7 +2790,7 @@ gen_data['jungleadjective'] = [
     'This {2d4hexes}-hex ROCKY LAND is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'
   ];
 gen_data['rockybeast'] = [
-    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS', 'HAWKS
+    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS', 'HAWKS'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
