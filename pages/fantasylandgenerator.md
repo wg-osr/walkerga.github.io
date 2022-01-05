@@ -4799,7 +4799,7 @@ gen_data['arcticadjective'] = [
     'because they are blessed offspring of ORCS',
     'because they were two people cursed by a WITCH',
     'because they are easily manipulated',
-    'and known for their operatic duets',
+    'and are known for their operatic duets',
     'and crave for human flesh',
     'but are hindered by their constant bickering',
   ];
