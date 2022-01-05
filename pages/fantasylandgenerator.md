@@ -2203,6 +2203,7 @@ gen_data['plainsadjective'] = [
     'open-sky',
     'royal',
     'horizon-spanning',
+    'rough',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2239,6 +2240,7 @@ gen_data['plainsadjective'] = [
     'acacias',
     'town',
     'vista',
+    'rubbles',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2276,6 +2278,7 @@ gen_data['plainsadjective'] = [
     'certain sunny hours',
     'GUARD patrols',
     'sun glares',
+    'unstable rubbles',
 
   ];
   gen_data['plainshazard'] = [
@@ -2313,6 +2316,7 @@ gen_data['plainsadjective'] = [
     'could make you feel dizzy',
     'are from a nearby town',
     'could blind you',
+    'set up by HOBGOBLINS',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2349,7 +2353,8 @@ gen_data['plainsadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
-  ];
+     '{bloodhawktotem} BLOODHAWKS',
+ ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2398,6 +2403,7 @@ gen_data['mountainadjective'] = [
     'sunny',
     'royal',
     'open',
+    'scarlet',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2438,6 +2444,7 @@ gen_data['mountainadjective'] = [
     'spires',
     'town',
     'vista',
+    'cliffs',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2478,6 +2485,7 @@ gen_data['mountainadjective'] = [
     'high cliffs',
     'GUARD patrols',
     'sun glares',
+    'unstable rubbles',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2518,6 +2526,7 @@ gen_data['mountainadjective'] = [
     'could trigger vertigo',
     'are from a nearby town',
     'could blind you',
+    'set up by HOBGOBLINS',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2558,6 +2567,7 @@ gen_data['mountainadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
+    '{bloodhawktotem} BLOODHAWKS',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2838,6 +2848,7 @@ gen_data['rockyadjective'] = [
     'sunny',
     'royal',
     'open',
+    'scarlet',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2886,6 +2897,7 @@ gen_data['rockyadjective'] = [
     'rock spires',
     'town',
     'vista',
+    'cliffs',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2934,6 +2946,7 @@ gen_data['rockyadjective'] = [
     'narrow cornices',
     'GUARD patrol',
     'shiny rocks',
+    'rubbles',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2982,6 +2995,7 @@ gen_data['rockyadjective'] = [
     'could trigger vertigo',  
     'are from the nearby town',  
     'could blind you',  
+    'set up by HOBGOBLINS',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3029,6 +3043,7 @@ gen_data['rockyadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
+    '{bloodhawktotem} BLOODHAWKS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3269,6 +3284,7 @@ gen_data['desertadjective'] = [
     'sunny',
     'royal',
     'open',
+    'scarlet',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3316,6 +3332,7 @@ gen_data['desertadjective'] = [
     'rock spires',
     'town',
     'vista',
+    'cliffs',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3363,6 +3380,7 @@ gen_data['desertadjective'] = [
     'steep dunes',  
     'GUARD patrols',  
     'solar flares',  
+    'rubbles',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3409,6 +3427,7 @@ gen_data['desertadjective'] = [
     'are dizzying',
     'are from the nearby town',  
     'could blind you',  
+    'set up by HOBGOBLINS',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3456,6 +3475,7 @@ gen_data['desertadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
+    '{bloodhawktotem} BLOODHAWKS',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4931,6 +4951,14 @@ gen_data['arcticadjective'] = [
     'alert',
     'fast',
     'free',
+    'sacred',
+  ];
+   gen_data['bloodhawktotem'] = [
+    'hobgoblin-trained',
+    'war-heralding',
+    'pack-hunting',
+    'fast',
+    'scarlet',
     'sacred',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
