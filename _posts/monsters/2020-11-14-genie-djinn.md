@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental rival magical air astral desert
+tags: monster elemental greater magical air astral desert
 permalink: /monsters/genie-djinn
 title: Genie, Djinn
 ---
