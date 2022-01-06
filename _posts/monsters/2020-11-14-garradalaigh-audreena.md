@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey enchanted magical
+tags: monster fey greater enchanted magical
 permalink: /monsters/garradalaigh-audreena
 title: Garradalaigh, Audreena
 ---
