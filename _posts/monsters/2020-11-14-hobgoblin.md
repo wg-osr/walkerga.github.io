@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster humanoid  forest arctic rocky swamp city chaos
+tags: monster humanoid arctic desert forest rocky jungle mountain plains swamp city underdark
 permalink: /monsters/hobgoblin
 title: Hobgoblin
 ---
