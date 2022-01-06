@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey faction enchanted air arctic astral
+tags: monster fey greater  enchanted air arctic astral
 permalink: /monsters/eladrin-bralani
 title: Eladrin, Bralani
 ---
