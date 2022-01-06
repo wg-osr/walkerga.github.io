@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey  jungle enchanted
+tags: monster fey lesser  jungle enchanted
 permalink: /monsters/bird-adarna
 title: Bird, Adarna
 ---
