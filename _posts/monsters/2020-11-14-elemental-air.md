@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental arctic desert plains mountain sea magical air astral
+tags: monster elemental greater lesser arctic desert plains mountain sea magical air astral
 permalink: /monsters/elemental-air
 title: Elemental, Air
 ---
