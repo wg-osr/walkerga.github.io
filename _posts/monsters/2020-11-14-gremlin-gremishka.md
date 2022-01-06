@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster fey city enchanted magical
+tags: monster fey lesser  city enchanted magical
 permalink: /monsters/gremlin-gremishka
 title: Gremlin, Gremishka
 ---
