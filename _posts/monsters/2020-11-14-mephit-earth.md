@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental  desert rocky mountain underdark magical earth astral
+tags: monster elemental  lesser  desert rocky mountain underdark magical earth astral
 permalink: /monsters/mephit-earth
 title: Mephit, Earth
 ---
