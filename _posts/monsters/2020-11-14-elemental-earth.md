@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental desert forest plains jungle mountain rocky underdark magical earth astral
+tags: monster elemental greater lesser desert forest plains jungle mountain rocky underdark magical earth astral
 permalink: /monsters/elemental-earth
 title: Elemental, Earth
 ---
