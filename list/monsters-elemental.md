@@ -20,7 +20,7 @@ A variation of the [Conjure](https://saltygoo.github.io/2020/11/12/conjure/) spe
 <summary>Minor Elementals</summary>
 {% capture posts %}
 {% for post in site.posts %}
-    {% if post.tags contains "elemental" and post.tags contains "greater" %}
+    {% if post.tags contains "elemental" and post.tags contains "lesser" %}
     |{{ post.title }}#{{ post.url }}
     {% endif %}
 {% endfor %}
@@ -40,7 +40,7 @@ A variation of the [Conjure](https://saltygoo.github.io/2020/11/12/conjure/) spe
 <summary>Major Elementals</summary>
 {% capture posts %}
 {% for post in site.posts %}
-    {% if post.tags contains "elemental" and post.tags contains "lesser" %}
+    {% if post.tags contains "elemental" and post.tags contains "greater" %}
     |{{ post.title }}#{{ post.url }}
     {% endif %}
 {% endfor %}
