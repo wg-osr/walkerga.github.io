@@ -18,7 +18,7 @@ Sentient raw emotions.
 <summary>Lesser Fairies</summary>
 {% capture posts %}
 {% for post in site.posts %}
-    {% if post.tags contains "fey" and post.tags contains "greater" %}
+    {% if post.tags contains "fey" and post.tags contains "lesser" %}
     |{{ post.title }}#{{ post.url }}
     {% endif %}
 {% endfor %}
@@ -38,7 +38,7 @@ Sentient raw emotions.
 <summary>Greater Fairies</summary>
 {% capture posts %}
 {% for post in site.posts %}
-    {% if post.tags contains "fey" and post.tags contains "lesser" %}
+    {% if post.tags contains "fey" and post.tags contains "greater" %}
     |{{ post.title }}#{{ post.url }}
     {% endif %}
 {% endfor %}
