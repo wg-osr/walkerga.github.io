@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental desert mountain underdark magical fire astral
+tags: monster elemental greater lesser desert mountain underdark magical fire astral
 permalink: /monsters/elemental-fire
 title: Elemental, Fire
 ---
