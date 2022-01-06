@@ -15,13 +15,13 @@ This hawk is much larger than normal and gets its name from its burgundy cap and
 **Movement:** slow, fly fast <br>
 **Morale:** brave <br>
 
-Bloodhawks have a very good sight. They also have advantage on their attacks if another bloodhawk attacked the same target this turn.
+Bloodhawks have a very good sight. They also have advantage on their attacks if another bloodhawk attacked the same target this turn. Additionally, they hate humans and will not retreat from battle when fighting them.
 
 **Attacks (2/round)**
 
 <ins>Fly-By</ins>. The bloodhawk makes a melee attack (1 damage) and flies away. Attacks against it on its turn have disadvantage.
 
-<ins>Talons</ins>. The bloodhawk makes a melee attack (1 damage) against one target. If the bloodhawk’s attack roll was 20 or above, the target is blinded for its next turn.
+<ins>Razor Talons</ins>. The bloodhawk makes a melee attack (1 damage) against one target. The target must save or start bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding.
 
 <br>
 
@@ -37,13 +37,13 @@ Bloodhawks have a very good sight. They also have advantage on their attacks if 
 **Movement:** slow, fly fast <br>
 **Morale:** brave <br>
 
-Bloodhawks have a very good sight.
+Bloodhawks have a very good sight. They also hate humans and will not retreat from battle when fighting them.
 
 In a flock, bloodhawks are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Coordinated Pecks.</ins> The Flock of Bloodhawk  makes a melee attack (1D6) with reach using its HP as its attack stat. Hit or not, the target is blinded for a turn.
+<ins>Coordinated Razor Pecks.</ins> The Flock of Bloodhawk makes a melee attack (1D6) with reach using its HP as its attack stat. The target then starts bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding.
 <br>
 
 <br>
@@ -80,3 +80,7 @@ In local cultures the bat is a symbol of ...
 6. Sacred 
 
 </details>
+
+<details markdown="1">
+<summary>DM Notes</summary>
+Blood Hawks first appeared in the first edition Fiend Folio. It's basically a falcon the size of an eagle that hunts in pack. One throwaway detail that carried up to 3rd edition is its hatred of humans.</details>
