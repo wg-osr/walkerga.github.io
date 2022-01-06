@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental mountain underdark magical fire
+tags: monster elemental lesser mountain underdark magical fire
 permalink: /monsters/salamander
 title: Salamander
 ---
