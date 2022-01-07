@@ -4974,7 +4974,7 @@ gen_data['arcticadjective'] = [
     'nomadic',
     'oligarchic',
     'rebellious',
-    'urban',
+    'city-dwelling',
   ];
    gen_data['humanproblem'] = [
     'torn between two rival factions',
