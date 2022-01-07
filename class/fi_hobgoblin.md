@@ -27,7 +27,7 @@ For every Hobgoblin template you have, you can gain one extra _Goblin Minion_.
 ## Goblin Minions
 You have a knack for finding goblins to serve you wherever you are. Each goblin you have can carry one object at a time, and weapons they use can't inflict more than 1D4 damage. They will obey your orders blindly but are completely unskilled except for stabbing. They have 1 HP.
 
-You can have as many minions at a time as Hobgoblin templates you have and they dont count towards your follower limit. You can find _one_ new goblin when you wake up from a rest and replace one who died .
+You can have as many minions at a time as you have _Hobgoblin templates_ and they dont count towards your follower limit. You can find _one_ new goblin when you wake up from a rest and replace one who died .
 
 ## Taller Goblin
 You are still a goblin. You and your goblins can see in the dark as if you were carrying torches.
