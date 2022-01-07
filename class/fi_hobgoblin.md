@@ -4,7 +4,7 @@ title: Hobgoblin
 permalink: /class/fighter/hobgoblin
 ---
 
-<img align="right" width=250px src="https://i.pinimg.com/originals/f6/15/11/f61511733e70507edfc2de2f86c33bc7.jpg">
+<img align="right" width=200px src="https://i.pinimg.com/originals/f6/15/11/f61511733e70507edfc2de2f86c33bc7.jpg">
 
 <details markdown="1">
 <summary>Design Notes</summary>
@@ -17,7 +17,7 @@ A Leather Armor, a Weapon of your choice, and choose one of a 10' Chain, two cra
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Wolfrider, Legionnaire, Dumpyard Bully, or Goblin Herder
 
-For every Hobgoblin template you have, you can gain one extra **Goblin Minion**.
+For every Hobgoblin template you have, you can gain one extra _Goblin Minion_.
 
 **A:** Goblin Minions, Taller Goblin<br>
 **B:** Gobleadership<br>
