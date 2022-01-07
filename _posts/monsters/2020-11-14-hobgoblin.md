@@ -81,6 +81,6 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 
 <details markdown="1">
 <summary>Player Class</summary>
-Play as a [hobgoblin](/class/fighter/lizardfolk)!
+Play as a [hobgoblin](/class/fighter/hobgoblin)!
 </details>
 
