@@ -2971,7 +2971,7 @@ gen_data['rockyadjective'] = [
     'roadblocks',
     'scattered bones',
     'narrow cornices',
-    'GUARD patrol',
+    'GUARD patrols',
     'shiny rocks',
     'rubbles',
     'ballistae',
