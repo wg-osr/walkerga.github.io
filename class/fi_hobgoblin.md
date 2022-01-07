@@ -39,9 +39,8 @@ You can gruesomely kill one of your minions to reduce incoming damage by 1D4, or
 When one of your goblins kills something, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP.
 
 ## Goblin Legion
-You can now find up to 4 replacement goblins each time you rest. 
+You can now find up to 4 replacement goblins each time you rest.
 
-Minions fear you enough to be able to help you on any task. One of them can help you on any roll you do. When you choose to, add 1D4 to the roll's result. If the result of the D4 is 3 or 4, the goblin dies pathetically while helping you. 
+Minions fear you enough to be able to help you on any task. One of them can help you on any roll you do. When you choose to, add 1D4 to the roll's result. If the result of the D4 is 3 or 4, the goblin dies pathetically while helping you.
 
-Your goblins can even be used as actual D4 [Spell Dice](/class/wizard#spells) if you find a spell book. If you do so, for each die roll of 3 or 4, one goblin explodes and you take 2 points of damage. The pell effects are reflavored as goblins acting it.
-
+Your goblins can even be used as actual D4 [Spell Dice](/class/wizard#spells) if you find a spell book. If you do so, for each die roll of 3 or 4, one goblin explodes and you take 2 points of damage. The spell’s effects are reflavored as goblins acting it.
