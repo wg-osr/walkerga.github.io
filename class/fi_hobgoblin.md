@@ -12,15 +12,15 @@ permalink: /class/fighter/hobgoblin
 </details>
 
 <ins>Starting Equipment</ins><br>
-A Leather Armor, a Weapon of your choice, and choose one of a 10' Chain, two crappy goblin Shanks (1D4 damage), or a Stink Bomb
+A Leather Armor, a Weapon of your choice, and choose one of a 10' Chain, two crappy Shivs (1D4 damage), or a Stink Bomb
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of Wolfrider, Legionnaire, Dumpyard Bully, or Goblin Herder
+Your choice of Wolf Rider, Legionnaire, Dumpyard Bully, or Goblin Slaver
 
 For every Hobgoblin template you have, you can gain one extra _Goblin Minion_.
 
 **A:** Goblin Minions, Taller Goblin<br>
-**B:** Gobleadership<br>
+**B:** Bad Leadership<br>
 **C:** Bugbeardom<br>
 **D:** Goblin Legion<br>
 
@@ -33,15 +33,15 @@ You can have as many minions at a time as you have _Hobgoblin templates_ and the
 You are still a goblin. You and your goblins can see in the dark as if you were carrying torches.
 
 ## Bad Leadership
-You can sacrifice one of your adjacent goblins to reduce incoming damage by 1D4, or to make a humanoid save vs fear from you.
+You can gruesomely kill one of your minions to reduce incoming damage by 1D4, or to [frighten](/2020/11/10/extra-rules/#conditions) an humanoid who fails its save.
 
 ## Bugbeardom
-When one of your goblins kills something, it becomes bigger and meaner. Its maximum damage increases by 1 dice size and it gains 3HP.
+When one of your goblins kills something, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP.
 
 ## Goblin Legion
 You can now find up to 4 replacement goblins each time you rest. 
 
-You can "roll" them as a [wizard](/class/wizard#spells) would do Spell Dice to help you on any task: Each goblin is a D4 that can be added to any of your rolls. If the result of the roll is 3 or 4, the goblin dies pathetically helping you. 
+Minions fear you enough to be able to help you on any task. One of them can help you on any roll you do. When you choose to, add 1D4 to the roll's result. If the result of the D4 is 3 or 4, the goblin dies pathetically while helping you. 
 
-These goblins can even be used as actual Spell Dice if you find a spell book. If you do so, you take 1 damage for each die roll of 3 or 4 from the goblin exploding. The pell effects are reflavored as goblins acting it.
+Your goblins can even be used as actual D4 [Spell Dice](/class/wizard#spells) if you find a spell book. If you do so, for each die roll of 3 or 4, one goblin explodes and you take 2 points of damage. The pell effects are reflavored as goblins acting it.
 
