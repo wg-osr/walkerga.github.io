@@ -1744,6 +1744,7 @@ gen_data['cityadjective'] = [
     'aerial',
     'royal',
     'steep',
+    'militarized',
  
   ];
   gen_data['cityfeature'] = [
@@ -1792,6 +1793,7 @@ gen_data['cityadjective'] = [
     'cavalry',
     'market',
     'spires',
+    'keep',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1840,6 +1842,7 @@ gen_data['cityadjective'] = [
     'GUARDS mounted on GIANT {cityBIRD}',
     'persistent street merchants',
     'wind-chimes',
+    'ballistae',
 
   ];
   gen_data['cityhazard'] = [
@@ -1888,6 +1891,7 @@ gen_data['cityadjective'] = [
     'are highly respected by the city officials',
     'could drag you in a faction war',
     'could blind you',
+    'are controlled by the DARK LEGION',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1935,6 +1939,7 @@ gen_data['cityadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1986,6 +1991,7 @@ gen_data['swampadjective'] = [
     'lawless',
     'plagued',
     'royal',
+    'goblinoid',
 
   ];
   gen_data['swampfeature'] = [
@@ -2029,6 +2035,7 @@ gen_data['swampadjective'] = [
     'trading posts',
     'boneyard',
     'town',
+    'keep',
  
   ];
   gen_data['swampobstacle'] = [
@@ -2072,6 +2079,7 @@ gen_data['swampadjective'] = [
     'roadblocks',
     'flies',
     'GUARD patrols',
+    'crossbow traps',
 
   ];
   gen_data['swamphazard'] = [
@@ -2115,6 +2123,7 @@ gen_data['swampadjective'] = [
     'could hide bandits',
     'attract scavengers',
     'are from the nearby town',
+    'are controlled by HOBGOBLINS',
       
   ];
   gen_data['swampmonster'] = [
@@ -2158,6 +2167,7 @@ gen_data['swampadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {swampbeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2204,6 +2214,7 @@ gen_data['plainsadjective'] = [
     'royal',
     'horizon-spanning',
     'rough',
+    'militarized',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2241,6 +2252,7 @@ gen_data['plainsadjective'] = [
     'town',
     'vista',
     'rubbles',
+    'keep',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2279,6 +2291,7 @@ gen_data['plainsadjective'] = [
     'GUARD patrols',
     'sun glares',
     'unstable rubbles',
+    'ballistae',
 
   ];
   gen_data['plainshazard'] = [
@@ -2316,7 +2329,8 @@ gen_data['plainsadjective'] = [
     'could make you feel dizzy',
     'are from a nearby town',
     'could blind you',
-    'set up by HOBGOBLINS',
+    'are set up by HOBGOBLINS',
+    'are controlled by the DARK LEGION',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2353,7 +2367,8 @@ gen_data['plainsadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
-     '{bloodhawktotem} BLOODHAWKS',
+    '{bloodhawktotem} BLOODHAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2404,6 +2419,7 @@ gen_data['mountainadjective'] = [
     'royal',
     'open',
     'scarlet',
+    'militarized',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2445,6 +2461,7 @@ gen_data['mountainadjective'] = [
     'town',
     'vista',
     'cliffs',
+    'keep',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2486,6 +2503,7 @@ gen_data['mountainadjective'] = [
     'GUARD patrols',
     'sun glares',
     'unstable rubbles',
+    'ballistae',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2526,7 +2544,8 @@ gen_data['mountainadjective'] = [
     'could trigger vertigo',
     'are from a nearby town',
     'could blind you',
-    'set up by HOBGOBLINS',
+    'are set up by HOBGOBLINS',
+    'are controlled by the DARK LEGION',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2568,6 +2587,7 @@ gen_data['mountainadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2619,6 +2639,7 @@ gen_data['jungleadjective'] = [
     'lawless',    
     'plagued',    
     'royal',    
+    'goblinoid',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2663,6 +2684,7 @@ gen_data['jungleadjective'] = [
     'trading posts',
     'boneyard',
     'town',
+    'keep',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2706,6 +2728,7 @@ gen_data['jungleadjective'] = [
     'roadblocks',
     'flies',
     'GUARD patrols',
+    'crossbow traps',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2749,6 +2772,7 @@ gen_data['jungleadjective'] = [
     'could hide BANDITS',
     'attract scavengers',
     'are from a nearby town',
+    'are controlled by HOBGOBLINS',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2792,6 +2816,7 @@ gen_data['jungleadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {junglebeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2849,6 +2874,7 @@ gen_data['rockyadjective'] = [
     'royal',
     'open',
     'scarlet',
+    'militarized',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2898,6 +2924,7 @@ gen_data['rockyadjective'] = [
     'town',
     'vista',
     'cliffs',
+    'keep',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -2947,6 +2974,7 @@ gen_data['rockyadjective'] = [
     'GUARD patrol',
     'shiny rocks',
     'rubbles',
+    'ballistae',
     
   ];
   gen_data['rockyhazard'] = [
@@ -2995,7 +3023,8 @@ gen_data['rockyadjective'] = [
     'could trigger vertigo',  
     'are from the nearby town',  
     'could blind you',  
-    'set up by HOBGOBLINS',  
+    'are set up by HOBGOBLINS',  
+    'are controlled by the DARK LEGION',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3044,6 +3073,7 @@ gen_data['rockyadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3088,6 +3118,7 @@ gen_data['forestadjective'] = [
     'lawless',
     'plagued',
     'royal',
+    'goblinoid',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3123,6 +3154,7 @@ gen_data['forestadjective'] = [
     'trading posts',
     'dens',
     'town',
+    'keep',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3158,6 +3190,7 @@ gen_data['forestadjective'] = [
     'roadblocks',  
     'rotting carcasses',  
     'GUARD patrols',  
+    'crossbow traps',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3193,6 +3226,7 @@ gen_data['forestadjective'] = [
     'could hide BANDITS',
     'carry rabies',
     'are from the nearby town',  
+    'are controlled by the DARK LEGION',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3228,6 +3262,7 @@ gen_data['forestadjective'] = [
     'BANDITS {banditswants}',
     'GHOUL {forestbeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3285,6 +3320,7 @@ gen_data['desertadjective'] = [
     'royal',
     'open',
     'scarlet',
+    'militarized',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3333,6 +3369,7 @@ gen_data['desertadjective'] = [
     'town',
     'vista',
     'cliffs',
+    'keep',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3381,6 +3418,7 @@ gen_data['desertadjective'] = [
     'GUARD patrols',  
     'solar flares',  
     'rubbles',  
+    'ballistae',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3427,7 +3465,8 @@ gen_data['desertadjective'] = [
     'are dizzying',
     'are from the nearby town',  
     'could blind you',  
-    'set up by HOBGOBLINS',  
+    'are set up by HOBGOBLINS',  
+    'are controlled by the DARK LEGION',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3476,6 +3515,7 @@ gen_data['desertadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3523,6 +3563,7 @@ gen_data['arcticadjective'] = [
     'cliffside',
     'royal',
     'open',
+    'militarized',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3561,6 +3602,7 @@ gen_data['arcticadjective'] = [
     'rock spires',
     'town',
     'vista',
+    'keep',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3599,6 +3641,7 @@ gen_data['arcticadjective'] = [
     'high cliffs',  
     'GUARD patrols',  
     'sun glares',  
+    'ballistae',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3637,6 +3680,7 @@ gen_data['arcticadjective'] = [
     'give vertigo',
     'are from the nearby town',  
     'could blind you',  
+    'are controlled by the DARK LEGION',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3675,6 +3719,7 @@ gen_data['arcticadjective'] = [
     '{griffontotem} GRIFFONS',
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
+    '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -4003,7 +4048,7 @@ gen_data['arcticadjective'] = [
     'hide in tunnels',
     'hide their huts high',
     'joined the GREAT HORDE',
-    'serve the HOBGOBLIN legion',
+    'serve the DARK LEGION',
     'are enslaved',
   ];  
    gen_data['goblinproblem'] = [
@@ -4960,6 +5005,22 @@ gen_data['arcticadjective'] = [
     'fast',
     'scarlet',
     'sacred',
+  ];
+ gen_data['hobgoblinculture'] = [
+    'S from the DARK LEGION',
+    ' rebels',
+    ' industrialists',
+    ' raiders',
+    ' aristocrats',
+    ' slavers',
+  ];
+   gen_data['hobgoblinproblem'] = [
+    'emperor-worshipping',
+    'GOBLIN-breeding',
+    'pit-fighting',
+    'undead-creating',
+    'warmongering',
+    'tribal',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
