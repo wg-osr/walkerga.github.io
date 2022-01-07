@@ -19,12 +19,12 @@ Your choice of Wolfrider, Legionnaire, Dumpyard Bully, or Goblin Herder
 
 For every Hobgoblin template you have, you can gain one extra **Goblin Minion**.
 
-**A:** Goblin Minion, Taller Goblin<br>
+**A:** Goblin Minions, Taller Goblin<br>
 **B:** Gobleadership<br>
 **C:** Bugbeardom<br>
 **D:** Goblin Legion<br>
 
-## Goblin Minion
+## Goblin Minions
 You have a knack for finding goblins to serve you wherever you are. Each goblin you have can carry one object at a time, and weapons they use can't inflict more than 1D4 damage. They will obey your orders blindly but are completely unskilled except for stabbing. They have 1 HP.
 
 You can have as many minions at a time as Hobgoblin templates you have and they dont count towards your follower limit. You can find _one_ new goblin when you wake up from a rest and replace one who died .
@@ -41,5 +41,7 @@ When one of your goblins kills something, it becomes bigger and meaner. Its maxi
 ## Goblin Legion
 You can now find up to 4 replacement goblins each time you rest. 
 
-You can "roll" them as a wizard would do Spell Dice to help you on any task: Each goblin is a D4 that can be added to any of your rolls. If the result of the roll is 3 or 4, the goblin dies pathetically to help you. These goblins can even be used as actual spell
+You can "roll" them as a [wizard](/class/wizard#spells) would do Spell Dice to help you on any task: Each goblin is a D4 that can be added to any of your rolls. If the result of the roll is 3 or 4, the goblin dies pathetically helping you. 
+
+These goblins can even be used as actual Spell Dice if you find a spell book. If you do so, you take 1 damage for each die roll of 3 or 4 from the goblin exploding. The pell effects are reflavored as goblins acting it.
 
