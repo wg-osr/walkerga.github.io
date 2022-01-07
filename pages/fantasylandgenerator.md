@@ -1745,6 +1745,7 @@ gen_data['cityadjective'] = [
     'royal',
     'steep',
     'militarized',
+    'horse',
  
   ];
   gen_data['cityfeature'] = [
@@ -1794,6 +1795,7 @@ gen_data['cityadjective'] = [
     'market',
     'spires',
     'keep',
+    'stables',
  
   ];
   gen_data['cityobstacle'] = [
@@ -1843,6 +1845,7 @@ gen_data['cityadjective'] = [
     'persistent street merchants',
     'wind-chimes',
     'ballistae',
+    'speeding carts in the streets',
 
   ];
   gen_data['cityhazard'] = [
@@ -1892,6 +1895,7 @@ gen_data['cityadjective'] = [
     'could drag you in a faction war',
     'could blind you',
     'are controlled by the DARK LEGION',
+    'could cause you to be trampled',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1940,6 +1944,7 @@ gen_data['cityadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hawktotem}{giant}HAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    '{horsetotem} HORSES',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2215,6 +2220,7 @@ gen_data['plainsadjective'] = [
     'horizon-spanning',
     'rough',
     'militarized',
+    'grassy',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2253,6 +2259,7 @@ gen_data['plainsadjective'] = [
     'vista',
     'rubbles',
     'keep',
+    'weed',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2292,6 +2299,7 @@ gen_data['plainsadjective'] = [
     'sun glares',
     'unstable rubbles',
     'ballistae',
+    'vast herds',
 
   ];
   gen_data['plainshazard'] = [
@@ -2331,6 +2339,7 @@ gen_data['plainsadjective'] = [
     'could blind you',
     'are set up by HOBGOBLINS',
     'are controlled by the DARK LEGION',
+    'require mounts to cross easily',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2369,6 +2378,7 @@ gen_data['plainsadjective'] = [
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    '{horsetotem} HORSES',
  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3321,6 +3331,7 @@ gen_data['desertadjective'] = [
     'open',
     'scarlet',
     'militarized',
+    'flat',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3369,7 +3380,7 @@ gen_data['desertadjective'] = [
     'town',
     'vista',
     'cliffs',
-    'keep',
+    'pastures',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3419,6 +3430,7 @@ gen_data['desertadjective'] = [
     'solar flares',  
     'rubbles',  
     'ballistae',  
+    'tumbleweed',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3467,6 +3479,7 @@ gen_data['desertadjective'] = [
     'could blind you',  
     'are set up by HOBGOBLINS',  
     'are controlled by the DARK LEGION',  
+    'could provoke a stampede',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3516,6 +3529,7 @@ gen_data['desertadjective'] = [
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    '{horsetotem} HORSES',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -4999,7 +5013,7 @@ gen_data['arcticadjective'] = [
     'sacred',
   ];
    gen_data['bloodhawktotem'] = [
-    'hobgoblin-trained',
+    'HOBGOBLIN-trained',
     'war-heralding',
     'pack-hunting',
     'fast',
@@ -5021,6 +5035,14 @@ gen_data['arcticadjective'] = [
     'undead-creating',
     'warmongering',
     'tribal',
+  ];
+   gen_data['horsetotem'] = [
+    'WILD',
+    'WAR',
+    'virile',
+    'beautiful',
+    'stampeding',
+    'sacred',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
