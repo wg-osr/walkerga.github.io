@@ -1953,7 +1953,7 @@ gen_data['mainswamp'] = [
     'This {2d4hexes}-hex SWAMP is known for its {swampadjective} {swampfeature}. Beware, for there are {swampobstacle} that {swamphazard} in the area. It is inhabited by {swampmonster}, and also {swampmonster}.'
   ];
 gen_data['swampbeast'] = [
-    'SNAKES', 'CROCODILES', 'TURTLES', 'TOADS', 'BEETLES', 'BATS', 'VULTURES', 'GEESE', 'RAVENS', 'HERONS', 'CENTIPEDES', 'BOARS', 'CRABS', 'RATS', 'LIZARDS', 'EELS', 'TROUT', 'MUDFISH', 'CATFISH', 'CARP'
+    'SNAKES', 'CROCODILES', 'TURTLES', 'TOADS', 'BEETLES', 'BATS', 'VULTURES', 'GEESE', 'RAVENS', 'HERONS', 'CENTIPEDES', 'BOARS', 'CRABS', 'RATS', 'LIZARDS', 'EELS', 'TROUTS', 'MUDFISHES', 'CATFISHES', 'CARPS'
   ];
 gen_data['swampadjective'] = [
     'submerged',
