@@ -1266,6 +1266,7 @@ gen_data['darkgate'] = [
     'mass grave',
     'slick, metallic circular gate',
     'vulture colony',
+    'swamp',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1312,6 +1313,7 @@ gen_data['darkgatecomplication'] = [
     'the complete lack of drinkable water around',
     'the psychic barrier protecting it',
     'the plagued flies that swarm it',
+    'the mud that clogs it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1358,6 +1360,7 @@ gen_data['tunneladjective'] = [
     'barren',
     'lead',
     'plagued',
+    'lush',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1405,6 +1408,7 @@ gen_data['tunnelfeature'] = [
     'tunnels',
     'laboratory tunnels',
     'WURM carcass',
+    'mud river',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1452,6 +1456,7 @@ gen_data['tunnelhazard'] = [
     'dehydrating',
     'brain-melting',
     'plagued',
+    'deep',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1499,6 +1504,7 @@ gen_data['tunnelobstacle'] = [
     'heat',
     'psychic waves',
     'ticks',
+    'mud pits',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1546,6 +1552,7 @@ gen_data['tunnelmonster'] = [
     'GHOULS {ghoulwants}',    
     '{braingolemown} BRAIN GOLEMS',
     'GHOUL {tunnelbeast} {ghoulbeastwants}',    
+    'a{hydratotem} HYDRA',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1997,6 +2004,7 @@ gen_data['swampadjective'] = [
     'plagued',
     'royal',
     'goblinoid',
+    'quiet',
 
   ];
   gen_data['swampfeature'] = [
@@ -2041,6 +2049,7 @@ gen_data['swampadjective'] = [
     'boneyard',
     'town',
     'keep',
+    'cavern',
  
   ];
   gen_data['swampobstacle'] = [
@@ -2085,6 +2094,7 @@ gen_data['swampadjective'] = [
     'flies',
     'GUARD patrols',
     'crossbow traps',
+    'mud pits',
 
   ];
   gen_data['swamphazard'] = [
@@ -2129,6 +2139,7 @@ gen_data['swampadjective'] = [
     'attract scavengers',
     'are from the nearby town',
     'are controlled by HOBGOBLINS',
+    'pepper the land',
       
   ];
   gen_data['swampmonster'] = [
@@ -2173,6 +2184,7 @@ gen_data['swampadjective'] = [
     'GHOUL {swampbeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    'a{hydratotem} HYDRA',
   ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2650,6 +2662,7 @@ gen_data['jungleadjective'] = [
     'plagued',    
     'royal',    
     'goblinoid',    
+    'muddy',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2695,6 +2708,7 @@ gen_data['jungleadjective'] = [
     'boneyard',
     'town',
     'keep',
+    'streams',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2739,6 +2753,7 @@ gen_data['jungleadjective'] = [
     'flies',
     'GUARD patrols',
     'crossbow traps',
+    'wide rivers',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2783,6 +2798,7 @@ gen_data['jungleadjective'] = [
     'attract scavengers',
     'are from a nearby town',
     'are controlled by HOBGOBLINS',
+    'hiding predators',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2827,6 +2843,7 @@ gen_data['jungleadjective'] = [
     'GHOUL {junglebeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    'a{hydratotem} HYDRA',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3129,6 +3146,7 @@ gen_data['forestadjective'] = [
     'plagued',
     'royal',
     'goblinoid',
+    'flooded',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3165,6 +3183,7 @@ gen_data['forestadjective'] = [
     'dens',
     'town',
     'keep',
+    'lake',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3201,6 +3220,7 @@ gen_data['forestadjective'] = [
     'rotting carcasses',  
     'GUARD patrols',  
     'crossbow traps',  
+    'mud puddles',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3237,6 +3257,7 @@ gen_data['forestadjective'] = [
     'carry rabies',
     'are from the nearby town',  
     'are controlled by the DARK LEGION',  
+    'could make you stuck',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3273,6 +3294,7 @@ gen_data['forestadjective'] = [
     'GHOUL {forestbeast} {ghoulbeastwants}',    
     '{humanculture} HUMANS {humanproblem}',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    'a{hydratotem} HYDRA',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5044,7 +5066,15 @@ gen_data['arcticadjective'] = [
     'stampeding',
     'sacred',
   ];
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   gen_data['hydratotem'] = [
+    'n unkillable',
+    'n unstoppable',
+    ' regenerating',
+    ' cave-dwelling',
+    'n aquatic',
+    ' sacred',
+  ];
+ // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>
   <body>
