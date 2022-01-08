@@ -3303,7 +3303,7 @@ gen_data['forestadjective'] = [
     'This {2d6hexes}-hex DESERT is known for its {desertadjective} {desertfeature}. Beware, for there are {desertobstacle} that {deserthazard} in the area. It is inhabited by {desertmonster}, and also {desertmonster}.'
   ];
 gen_data['desertbeast'] = [
-    'CAMELS', 'HYENAS', 'ANTELOPES', 'BASILISKS', 'BATS', 'BEETLES', 'VULTURES', 'OSTRICHES', 'CENTIPEDES', 'CATS', 'WARTHOGS', 'HAWKS'
+    'CAMELS', 'HYENAS', 'ANTELOPES', 'BASILISKS', 'BATS', 'BEETLES', 'VULTURES', 'OSTRICHES', 'CENTIPEDES', 'CATS', 'WARTHOGS', 'HAWKS', 'HORSES'
   ];
 gen_data['desertadjective'] = [
     'wind-swept',
