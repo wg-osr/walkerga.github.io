@@ -1669,7 +1669,7 @@ gen_data['seaadjective'] = [
     'attract more PIRATES',
     'carry diseases',
     'could give you sunburns',
-    'marking the border of a kingdom',
+    'mark the border of a kingdom',
       
   ];
   gen_data['seamonster'] = [
