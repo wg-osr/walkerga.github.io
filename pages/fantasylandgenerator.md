@@ -3939,7 +3939,7 @@ gen_data['arcticadjective'] = [
     'control all the livestock',
     'train promising athletes',
     'lead a famous crime family',
-    'are oil wrestling champions',
+    'oil-wrestle',
     'produce the best oil',
   ];  
    gen_data['cacusproblem'] = [
