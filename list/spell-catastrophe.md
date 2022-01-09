@@ -33,7 +33,7 @@ You are now uncomfortable around humans. You must save vs [fear](/2020/11/10/ext
 </details>
 <details markdown="1">
 <summary><b>7. Zoophobia</b></summary>
-Every animal could be an animorph in disguise! You cannot cast spell in the presence of an animal. You must save vs [fear](/2020/11/10/extra-rules/#conditions) when you witness a creature shapeshifting.
+Every animal could be an animorph in disguise! You cannot cast spells in the presence of an animal. You must save vs [fear](/2020/11/10/extra-rules/#conditions) when you witness a creature shapeshifting.
 </details>
 <details markdown="1">
 <summary><b>8. Lycanthropy</b></summary>
@@ -49,11 +49,11 @@ How is a body made again? Roll a D6: 1, left leg; 2, right leg; 3, left arm; 4, 
 </details>
 <details markdown="1">
 <summary><b>11. Oozification</b></summary>
-You simply do not hold shape anymore. You have become an ooze. You have 3 inventory slots and cant talk.
+You simply do not hold shape anymore. You have become an ooze. You have 3 inventory slots and can't talk.
 </details>
 <details markdown="1">
 <summary><b>12. Abduction</b></summary>
-The next time you go outside, a sickly light will pierce the sky and shine on you. You, and only you, will see the silhouette of strange humanoids reaching out for you. The rest of the world will see you disappear. You will be found naked in a completely different location 1D4 years later with no memories.
+The next time you go outside, a sickly light will pierce the sky and shine on you. You, and only you, will see the silhouettes of strange humanoids reaching out for you. The rest of the world will see you disappear. You will be found naked in a completely different location 1D4 years later with no memories.
 </details>
 
 ### Your Powers Have Become Blasphemous! Catastrophe! Roll a D12.
@@ -69,5 +69,3 @@ The next time you go outside, a sickly light will pierce the sky and shine on yo
 10. **Eternal Hunger.** You are bound to a demon of gluttony. In the future, prior to casting any spell, you must consume two full days of rations. You will never again feel satiated.
 11. **Eldritch Gateway.** Every time you cast a spell in the future, there is a 1 in 6 chance of accidentally also summoning a [greater horror](/list/monsters-aberration), reaction determined as normal.
 12. **Damnation.** The next time you reach 0 HP, you are immediately dragged to hell to be judged.
-
-
