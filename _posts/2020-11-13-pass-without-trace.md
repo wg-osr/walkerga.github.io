@@ -3,9 +3,9 @@ layout: post
 tags: spell cunning
 title: Pass Without Trace
 ---
-R: Touch  D: 30 minutes
+**R**: 30'  **D**: 30 minutes
 
-[dice] creatures you touch receive a bonus to their stealth.  The affected creatures do not leave footprints or any sign they were in an area. They also receive a bonus of +[dice] to their stealth rolls and to checks made to avoid being spotted or detected.
+You prevent the appearance of footprints or traces. You have [sum] points you can spend whenever somebody in range rolls for stealth to add to their result.
 
 ###### no + trace
 ###### From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)
