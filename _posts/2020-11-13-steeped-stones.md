@@ -3,7 +3,7 @@ layout: post
 tags: spell cunning
 title: Steeped Stones
 ---
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
 You place your Sigil on [sum] stones, then cooks them well in abundant milk. They can each be used once to either heal a creature 1 point of damage or flung as a magic sling stone with a + [dice] bonus to hit. 
 
