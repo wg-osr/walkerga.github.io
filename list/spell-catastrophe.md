@@ -4,11 +4,9 @@ permalink: /list/spell-catastrophe
 title: Curses and Catastrophes
 ---
 
-_Every time you roll doubles you gain 1 Doom Point. Every time you gain a Doom Point, roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. Reroll results you already got._
+Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their Spell Dice. But they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll smaller dice than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
 
-###### Many of these catastrophes are adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)
-
-## Animorphic Catastrophes
+## D12 Animorphic Catastrophes
 <details markdown="1">
 <summary><b>1. Last Warning</b></summary>
 You are losing your humanity. For the rest of this session and the next one, you cannot use any tools or say sentences longer than 1 word.
