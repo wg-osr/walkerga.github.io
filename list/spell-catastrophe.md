@@ -8,7 +8,7 @@ _Every time you roll doubles you gain 1 Doom Point. Every time you gain a Doom P
 
 ###### Many of these catastrophes are adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)
 
-#### Animorphic Catastrophes
+## Animorphic Catastrophes
 <details markdown="1">
 <summary><b>1. Last Warning</b></summary>
 You are losing your humanity. For the rest of this session and the next one, you cannot use any tools or say sentences longer than 1 word.
