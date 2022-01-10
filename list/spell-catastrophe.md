@@ -4,7 +4,9 @@ permalink: /list/spell-catastrophe
 title: Curses and Catastrophes
 ---
 
-Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their Spell Dice. But they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll smaller dice than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
+Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll smaller dice than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
+
+With that in mind, a character could roll a D6 the first time they have a mishaps and increase the dice size each time, rerolled results they already had. But you could embrace the chaos and roll a D12 all the time.
 
 ## D12 Animorphic Catastrophes
 <details markdown="1">
@@ -63,7 +65,7 @@ Your forehead is branded with heretical writing, recognizable by the learned as 
 </details>
 <details markdown="1">
 <summary><b>2. Devilish Pride</b></summary>
-You and all allies nearby grow long, curving, goatlike horns. These are permanent, and mark those so affected as traffickers in diabolic magic. Inquisitors are on their way.
+You and all allies nearby grow long, curving, goatlike horns. These are permanent, and mark those so affected as traffickers in diabolic magic. You cannot find respectable housing in towns. A mob will form if you are seen more than a day in the same settled location.
 </details>
 <details markdown="1">
 <summary><b>3. Abyssal Poachers</b></summary>
@@ -91,7 +93,7 @@ An imp familiar is summoned. This familiar has your eyes, which cease to reside 
 </details>
 <details markdown="1">
 <summary><b>9. Revelation</b></summary>
-The skies of far off places open above you. The vista seen contains geometries beyond the abilities of mortals to understand. All witnessing this display stand in awe and must make a saving throw. On success, the insight gained increases all spiritual ability scores by 1 point. On failure, one such score is permanently decreased by 1D8 points.
+The skies of far off places open above you. The vista seen contains geometries beyond the abilities of mortals to understand. All NPCs in the hex permanently become corrupted, most to the point of becoming murderers. You gain a new [Dabolist](/spells/#diabolism) spell and are now cosmically know as the antigod.
 </details>
 <details markdown="1">
 <summary><b>10. Gluttony</b></summary>
