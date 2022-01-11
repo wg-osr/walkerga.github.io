@@ -631,14 +631,15 @@ gen_data['mainelemental'] = [
     'A maelstrom of arcane energy ravages',
     'The astral sea is visible from',
     'A magical fountain floods',
-    'Giant balloons have lifted in the sky the part of the area with the',
-    'Granite obelisks surround the',
-    'Fire lakes simmer under the flying',
-    'An ivory tower rises above the',
-    'A crystal-harvesting open-air mine has dug out the',
-    'A force field protects the idyllic',
-    'A magical lamp has absorbed the',
-    'A WIZARD’s house has been built on the',
+    'Giant balloons have lifted in the sky the part of the area with',
+    'Granite obelisks surround',
+    'Fire lakes simmer under',
+    'An ivory tower rises above',
+    'A crystal-harvesting open-air mine has dug out',
+    'A force field protects the purity of',
+    'A magical lamp has absorbed',
+    'A WIZARD’s house has been built on',
+    'A reckless WIZARD APPRENTICE has destroyed',
   ];
  
  gen_data['magicalhazard'] = [
@@ -677,6 +678,7 @@ gen_data['mainelemental'] = [
     'were placed here by a heroic ARCHMAGE',
     'might be spying for a DJINN',
     'are allergic to magic',
+    'hold powerful magical enhancers',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -715,6 +717,7 @@ gen_data['mainelemental'] = [
     'can speak with all animals',
     'got a wish granted',
     'became allergic to magic',
+    'became multiplied by a reckless WIZARD APPRENTICE',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -753,6 +756,7 @@ gen_data['mainelemental'] = [
     'a rare AUDREENA who {AUDREENAwants}',
     'a DJINN {DJINNwants}',
     'GREMISHKA GREMLINS {gremishkawants}',
+    'IMPS on an evil mission to {impquest}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -986,6 +990,7 @@ gen_data['mainelemental'] = [
     'A humongous temple dwarfs',
     'A pharaonic structure is being built passed',
     'The soul of a terrible sinner is prisoner of',
+    'Secrets are traded like cattled at',
   ];
       
  gen_data['divinechazard'] = [
@@ -1001,6 +1006,7 @@ gen_data['mainelemental'] = [
     'will only let faithful pass',
     'are near the immensely high wall that divides this land',
     'were created to torment sinners',
+    'are manipulated by IMPS',
   ];    
       
   gen_data['divinetaint'] = [
@@ -1016,6 +1022,7 @@ gen_data['mainelemental'] = [
     'joined the Church',
     'became cursed to repeat a sisyphean task',
     'committed a terrible sin',
+    'cant escape the cruel harassment of IMPS',
 
   ];    
  
@@ -1032,6 +1039,7 @@ gen_data['mainelemental'] = [
     'church-owned STONE GOLEMS',
     'ENGINES OF PAIN {engineofpainown}',
     'a GHOST who {GHOSTwants}',
+    'IMPS on an evil mission to {impquest}',
  ];
 
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1064,6 +1072,7 @@ gen_data['mainelemental'] = [
     'A terrible crime was committed at',
     'Most life has left the',
     'A hunger for death has overcome the area around',
+    'Some say you can make a pact with a devil at',
   ];
       
  gen_data['cursedchazard'] = [
@@ -1083,6 +1092,7 @@ gen_data['mainelemental'] = [
     'are haunted',
     'weaken creatures who get too close',
     'could make you feral',
+    'are diabolic',
   ];    
       
   gen_data['cursedtaint'] = [
@@ -1102,6 +1112,7 @@ gen_data['mainelemental'] = [
     'aged unnaturally',
     'got lost and were never found again',
     'became cannibalistic',
+    'got revealed as IMPS in disguise',
   ];    
  
   gen_data['cursedmonster'] = [
@@ -1121,6 +1132,7 @@ gen_data['mainelemental'] = [
     'a GHOST who {GHOSTwants}',
     'a DHAOT who {DHAOTwants}',
     'GHOULS {ghoulwants}',    
+    'IMPS on an evil mission to {impquest}',
  ];
 
 // - - - - - - - - - - C - H - A - O - S - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1753,6 +1765,7 @@ gen_data['cityadjective'] = [
     'steep',
     'militarized',
     'horse',
+    'ambitious',
  
   ];
   gen_data['cityfeature'] = [
@@ -1803,7 +1816,7 @@ gen_data['cityadjective'] = [
     'spires',
     'keep',
     'stables',
- 
+    'wizard academy',
   ];
   gen_data['cityobstacle'] = [
     'vicious mobs',
@@ -1853,6 +1866,7 @@ gen_data['cityadjective'] = [
     'wind-chimes',
     'ballistae',
     'speeding carts in the streets',
+    'mischievous IMPS',
 
   ];
   gen_data['cityhazard'] = [
@@ -1903,6 +1917,7 @@ gen_data['cityadjective'] = [
     'could blind you',
     'are controlled by the DARK LEGION',
     'could cause you to be trampled',
+    'could lead you down a dark path',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1952,6 +1967,7 @@ gen_data['cityadjective'] = [
     '{hawktotem}{giant}HAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     '{horsetotem} HORSES',
+    'IMPS on a divine mission to {impquest}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5073,6 +5089,14 @@ gen_data['arcticadjective'] = [
     ' cave-dwelling',
     'n aquatic',
     ' sacred',
+  ];
+   gen_data['impquest'] = [
+    'steal a spell from an ARCHMAGE',
+    'steal the plan for a magical apparatus',
+    'offer access to more powerful entities',
+    'help desperate students graduate first of their class',
+    'create a new powerful spell',
+    'ruin the reputation of a local WIZARD',
   ];
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
