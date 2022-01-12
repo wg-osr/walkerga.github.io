@@ -48,7 +48,7 @@ Depending on your hunger, you behave differently:
 
 - When you are **rational**, you can use humanoid cadavers and chopped limbs as if they were skilled assistants and quality tools from your old medieval career. A mass grave counts as a well supplied workshop. The result of your work is always functionnal, but repulsive and grotesque.
 - When you are **on the edge**, you always hit a creature who hasn't seen you and they always fail their first save against you.
-- When you are **feral**, creatures hit with your claws must save or become [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutez.
+- When you are **feral**, creatures hit with your claws must save or become [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutes.
 - When you are **catatonic**, you cannot die.
 
 ## Regeneration
