@@ -4,7 +4,7 @@ title: Ghoul
 permalink: /class/fighter/ghoul
 ---
 
-<img align="right" width=200px src="https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg">
+<img align="right" width=220px src="https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg">
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
