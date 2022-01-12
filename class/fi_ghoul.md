@@ -6,7 +6,7 @@ permalink: /class/fighter/ghoul
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
-*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). Art by Guy Davis for Vampire the Masquerade. — SaltyGoo*
+*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg). Art by Guy Davis for Vampire the Masquerade. — SaltyGoo*
 </details>
 
 <img align="right" width=250px src="https://static.wikia.nocookie.net/whitewolf/images/5/5e/Nosferatu_Ghouls.jpg">
