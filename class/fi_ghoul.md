@@ -8,7 +8,7 @@ permalink: /class/fighter/ghoul
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
-*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). Art by Guy Davis. — SaltyGoo*
+*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). Art by Guy Davis.*
 </details>
 
 <ins>Starting Equipment</ins><br>
