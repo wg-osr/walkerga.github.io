@@ -24,16 +24,18 @@ For every Ghoul template you have, your movement increases by 1.
 <br>
 
 ## The Hunger
-You are infected by ghoul rabies and cannot be cured. Yet you cannot die from hunger or other diseases. 
+You are infected by ghoul rabies and cannot be cured, yet cannot die from hunger or diseases. 
 
 <span class="alchemy">
 **Ghoul Rabies**. Disease. Save after every rest to add or remove a cumulative symptom. Symptom: requires to eat 1 extra ration per day. You can only feed from humanoid flesh.
 </span>
 
+Depending on your hunger, you behave differently:
+
 - If you have eaten your daily fill, you are **rational**: You can use the skill from the medieval career you had when you were alive.
-- If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby.
+- If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby and track them.
 - If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without risk.
-- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1. You cant run.
+- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1. You can't run.
 
 ## The Hunger II
 
@@ -44,13 +46,13 @@ You are infected by ghoul rabies and cannot be cured. Yet you cannot die from hu
 
 ## The Hunger III
 
-- When you are **rational**, you can use humanoid bones and limbs as if they were skilled assistants and quality tools from your old medieval career. A mass grave counts as a well supplied workshop. The result of your work is always functionnal, but repulsive and grotesque.
+- When you are **rational**, you can use humanoid cadavers and chopped limbs as if they were skilled assistants and quality tools from your old medieval career. A mass grave counts as a well supplied workshop. The result of your work is always functionnal, but repulsive and grotesque.
 - When you are **on the edge**, you always hit a creature who hasn't seen you and they always fail their first save against you.
-- When you are **feral**, creatures hit with your claws must save or become [poisoned](/2020/11/10/extra-rules/#conditions).
+- When you are **feral**, creatures hit with your claws must save or become [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutez.
 - When you are **catatonic**, you cannot die.
 
 ## Regeneration
 
-You can recover 1D6 HP on your turn. If you do, you need to eat one extra ration this day.
+You can recover 1D6 HP on your turn. Each time you do, you need to eat one extra ration this day.
 
 
