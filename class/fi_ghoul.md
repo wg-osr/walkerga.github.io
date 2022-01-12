@@ -4,7 +4,7 @@ title: Ghoul
 permalink: /class/fighter/ghoul
 ---
 
-<img align="right" width=250px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1603945096009-P0JIIPMBIVPDTKILA139/image-asset.jpeg">
+<img align="right" width=200px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1603945096009-P0JIIPMBIVPDTKILA139/image-asset.jpeg">
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
