@@ -32,4 +32,4 @@ You are infected by ghoul rabies and cannot be cured. Yet you cannot die from hu
 
 Instead, for each day you cannot sustain yourself completely, you move down one step the symptom scale. As soon as you eat enough, you move up one step.
 
-**Catatonic** > **Sluggish** > **Feral** > **Rational** > **Refined**
+**Catatonic** > **Sluggish** > **Feral** > **Rational**
