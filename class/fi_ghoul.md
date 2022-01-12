@@ -15,12 +15,12 @@ Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2
 <ins>Starting Skills (+5)</ins><br>
 The Hunger (see below).
 
-For every Ghoul template you have, your climbing skill increases by 1.
+For every Ghoul template you have, your movement increases by 1.
 
 **A:** The Hunger I<br>
 **B:** The Hunger II<br>
 **C:** The Hunger III<br>
-**D:** The Hunger IV
+**D:** Regeneration
 <br>
 
 ## The Hunger
@@ -30,17 +30,27 @@ You are infected by ghoul rabies and cannot be cured. Yet you cannot die from hu
 **Ghoul Rabies**. Disease. Save after every rest to add or remove a cumulative symptom. Symptom: requires to eat 1 extra ration per day. You can only feed from humanoid flesh.
 </span>
 
-- If you have eaten your daily fill, you are **rational**: You can use your skill from the medieval career you had when you were alive.
+- If you have eaten your daily fill, you are **rational**: You can use the skill from the medieval career you had when you were alive.
 - If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby.
-- If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without rolling.
-- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1.
+- If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without risk.
+- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1. You cant run.
 
 ## The Hunger II
 
-- When you are **rational**: You can use your skill from the medieval career you had when you were alive.
-- If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby.
-- If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without rolling.
-- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1.
+- When you are **rational**, you can talk with cadavers as if they were alive, although you are the only one who seems to hear them. Each body will answer two questions, one answer will be false.
+- When you are **on the edge**, you are skilled in stealth.
+- When you are **feral**, you can attack twice with your claws.
+- When you are **catatonic**, once per day when you see an humanoid, you can become feral 10 minutes.
 
+## The Hunger III
+
+- When you are **rational**, you can use humanoid bones and limbs as if they were skilled assistants and quality tools from your old medieval career. A mass grave counts as a well supplied workshop. The result of your work is always functionnal, but repulsive and grotesque.
+- When you are **on the edge**, you always hit a creature who hasn't seen you and they always fail their first save against you.
+- When you are **feral**, creatures hit with your claws must save or become [poisoned](/2020/11/10/extra-rules/#conditions).
+- When you are **catatonic**, you cannot die.
+
+## Regeneration
+
+You can recover 1D6 HP on your turn. If you do, you need to eat one extra ration this day.
 
 
