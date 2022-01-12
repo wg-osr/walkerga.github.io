@@ -10,26 +10,37 @@ permalink: /class/fighter/ghoul
 </details>
 
 <ins>Starting Equipment</ins><br>
-Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) but make it worn and tattered.
+Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). They are remnants from your past
 
 <ins>Starting Skills (+5)</ins><br>
-Your failed career. Stealth and Climbing.
+The Hunger (see below).
 
 For every Ghoul template you have, your climbing skill increases by 1.
 
-**A:** The Hunger, Numbing Saliva<br>
-**B:** Rotten Teeth<br>
-**C:** Tail<br>
-**D:** Lizard Brute
+**A:** The Hunger I<br>
+**B:** The Hunger II<br>
+**C:** The Hunger III<br>
+**D:** The Hunger IV
 <br>
 
 ## The Hunger
 You are infected by ghoul rabies and cannot be cured. Yet you cannot die from hunger or other diseases. 
 
 <span class="alchemy">
-**Ghoul Rabies**. Disease. Save every night to add or remove a cumulative symptom. Symptom: requires to eat 1 extra ration per day. You can only eat flesh from intelligent beings.
+**Ghoul Rabies**. Disease. Save after every rest to add or remove a cumulative symptom. Symptom: requires to eat 1 extra ration per day. You can only feed from humanoid flesh.
 </span>
 
-Instead, for each day you cannot sustain yourself completely, you move down one step the symptom scale. As soon as you eat enough, you move up one step.
+- If you have eaten your daily fill, you are **rational**: You can use your skill from the medieval career you had when you were alive.
+- If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby.
+- If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without rolling.
+- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1.
 
-**Catatonic** > **Sluggish** > **Feral** > **Rational**
+## The Hunger II
+
+- When you are **rational**: You can use your skill from the medieval career you had when you were alive.
+- If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby.
+- If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without rolling.
+- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1.
+
+
+
