@@ -12,7 +12,7 @@ permalink: /class/fighter/ghoul
 </details>
 
 <ins>Starting Equipment</ins><br>
-Roll for your past [Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). 
+Roll for your past [Medieval Career](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). 
 
 <ins>Starting Skills (+5)</ins><br>
 The Hunger (see below).
