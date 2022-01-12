@@ -6,10 +6,10 @@ permalink: /class/fighter/ghoul
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
-*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg). Art by Guy Davis for Vampire the Masquerade. — SaltyGoo*
+*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg). Art by Tom Baxa. — SaltyGoo*
 </details>
 
-<img align="right" width=250px src="https://static.wikia.nocookie.net/whitewolf/images/5/5e/Nosferatu_Ghouls.jpg">
+<img align="right" width=250px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1603945096009-P0JIIPMBIVPDTKILA139/image-asset.jpeg">
 
 <ins>Starting Equipment</ins><br>
 Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). They are remnants from your past
