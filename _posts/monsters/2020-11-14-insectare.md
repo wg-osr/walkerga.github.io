@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration lesser city chaos enchanted astral
+tags: monster aberration lesser enchanted astral
 permalink: /monsters/insectare
 title: Insectare
 ---
