@@ -6,8 +6,10 @@ permalink: /class/fighter/ghoul
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
-*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). — SaltyGoo*
+*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). Art by Guy Davis for Vampire the Masquerade. — SaltyGoo*
 </details>
+
+<img align="right" width=250px src="https://static.wikia.nocookie.net/monster/images/f/fa/9EAD418C-BA89-4B94-B1E5-029EE0E0D86B.jpeg/revision/latest?cb=20180814161450">
 
 <ins>Starting Equipment</ins><br>
 Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html). They are remnants from your past
