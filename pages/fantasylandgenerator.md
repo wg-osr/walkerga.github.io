@@ -143,6 +143,7 @@
     'sandstorms',
     'astral waves',
     'space',
+    'stars',
   ];      
    
    gen_data['astralfeature'] = [
@@ -180,6 +181,7 @@
     '{astraladjective} mirages appear',
     'a {astraladjective} spelljammer port floats',
     'a {astraladjective} giant brain floats',
+    'a {astraladjective} hollow planet orbits',
  ];
       
    gen_data['astraladjective'] = [
@@ -217,6 +219,7 @@
     'sand',
     'chaotic',
     'pulsing',
+    'insectoid',
   ];
 
    gen_data['astralobstacle'] = [
@@ -253,6 +256,7 @@
     'solar rays',
     'ASTRAL PIRATES',
     'psychic waves',
+    'high-pitched vibrations',
   ];
       
    gen_data['astralhazard'] = [
@@ -290,6 +294,7 @@
     'draining humidity',
     'chasing travelers',
     'pushing you around',
+    'communicating with HORRORS from beyond',
   ];
 
    gen_data['astralmonster'] = [
@@ -327,6 +332,7 @@
     'a DHAOT who {DHAOTwants}',
     'GITHYANKI {githyankiculture} {githyankiproblem}',
     '{braingolemown} BRAIN GOLEMS',
+    'INSECTARES {insectareculture} {insectareproblem}',
   ];
       
       
@@ -808,6 +814,7 @@ gen_data['mainelemental'] = [
     'gorgeous',
     'glittering',
     'townhouses built on the',
+    'elven palace built around the',
   ];
  
  gen_data['enchantedchazard'] = [
@@ -846,6 +853,7 @@ gen_data['mainelemental'] = [
     'ivory',
     'too idyllic',
     'pickpocketing',
+    'impersonating',
    ];    
       
  gen_data['enchantedobstacle'] = [
@@ -885,6 +893,7 @@ gen_data['mainelemental'] = [
     'spires',
     'windows',
     'cracked floorboards',
+    'crickets',
   ];
       
   gen_data['enchantedtaint'] = [
@@ -923,6 +932,7 @@ gen_data['mainelemental'] = [
     'started to worship ELVES',
     'saw a mysterious creature',
     'started seeing tiny creatures hiding in every crack',
+    'became puppets',
   ];    
  
   gen_data['enchantedmonster'] = [
@@ -962,6 +972,7 @@ gen_data['mainelemental'] = [
     'HIGH ELVES who {highelfculture} {highelfproblem}',
     'a rare AUDREENA who {AUDREENAwants}',
     'GREMISHKA GREMLINS {gremishkawants}',
+    'INSECTARES {insectareculture} {insectareproblem}',
 
       ];
 // - - - - - - - - - - D - I - V - I - N - E - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5097,6 +5108,22 @@ gen_data['arcticadjective'] = [
     'help desperate students graduate first of their class',
     'create a new powerful spell',
     'ruin the reputation of a local WIZARD',
+  ];
+ gen_data['insectareculture'] = [
+    'hiding among ELVES',
+    'coming from an hollow astral planet',
+    'who replaced the local ELVES long ago',
+    'on a covert mission',
+    'trading goods from their sky-ships',
+    'aiming to consume all the crops from this world',
+  ];
+   gen_data['insectareproblem'] = [
+    'as agents of an astral alliance of species',
+    'and garding their nearby queen',
+    'to assassinate an important person',
+    'to summon a plague of astral locusts',
+    'with their articial puppet ELVES',
+    'after travelling back in time',
   ];
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
