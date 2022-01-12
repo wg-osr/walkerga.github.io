@@ -4,11 +4,11 @@ title: Ghoul
 permalink: /class/fighter/ghoul
 ---
 
-<img align="right" width=200px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1603945096009-P0JIIPMBIVPDTKILA139/image-asset.jpeg">
+<img align="right" width=200px src="https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg">
 
 <details markdown="1">
 <summary>Design Notes and credits</summary>
-*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://64.media.tumblr.com/c7f508f74f68782474ac5daa0963af41/tumblr_nqfia3e9YA1tb087ko8_r1_540.jpg). Art by Tom Baxa. — SaltyGoo*
+*This is a monster class for the [ghoul](/monsters/ghoul). It is an edited version of Coins and Scrolls's [original](https://coinsandscrolls.blogspot.com/2018/03/osr-class-ghoul-and-bonus-goblin.html). Art by Tom Baxa. — SaltyGoo*
 </details>
 
 <ins>Starting Equipment</ins><br>
