@@ -1777,6 +1777,7 @@ gen_data['cityadjective'] = [
     'militarized',
     'horse',
     'ambitious',
+    'noble',
  
   ];
   gen_data['cityfeature'] = [
@@ -1828,6 +1829,7 @@ gen_data['cityadjective'] = [
     'keep',
     'stables',
     'wizard academy',
+    'knightly order',
   ];
   gen_data['cityobstacle'] = [
     'vicious mobs',
@@ -1878,6 +1880,7 @@ gen_data['cityadjective'] = [
     'ballistae',
     'speeding carts in the streets',
     'mischievous IMPS',
+    'noble houses',
 
   ];
   gen_data['cityhazard'] = [
@@ -1929,6 +1932,7 @@ gen_data['cityadjective'] = [
     'are controlled by the DARK LEGION',
     'could cause you to be trampled',
     'could lead you down a dark path',
+    'are protected by oath-sworn KNIGHTS',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1979,6 +1983,7 @@ gen_data['cityadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     '{horsetotem} HORSES',
     'IMPS on a divine mission to {impquest}',
+    'KNIGHTS {knightwants}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5125,7 +5130,15 @@ gen_data['arcticadjective'] = [
     'with their articial puppet ELVES',
     'after travelling back in time',
   ];
- // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    gen_data['knightwants'] = [
+    'hunting a dangerous monster',
+    'on a quest to impress a {noble}',
+    'preparing for a tournament',
+    'protecting a sacred site',
+    'training for war',
+    'searching for a legendary weapon',
+  ];
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>
   <body>
