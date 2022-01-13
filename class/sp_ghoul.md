@@ -37,7 +37,7 @@ Depending on your hunger, you behave differently:
 - If you have eaten your daily fill, you are **rational**: You can use the skill from the medieval career you had when you were alive.
 - If you are hungry for 1 ration, you are **on the edge**: You can smell if there are humanoids nearby and track them.
 - If you are hungry for 2 or 3 rations, you are **feral**: Your claws inflict 1D6 damage and you can climb any climbable surface without risk.
-- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1. You can't run.
+- If you are hungry for 4 or more rations, you are **catatonic**: All your stats become 1. You can't use your legs.
 
 ## The Hunger II
 
