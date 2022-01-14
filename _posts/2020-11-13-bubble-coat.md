@@ -1,11 +1,11 @@
 ---
 layout: post
 tags: spell elementalism
-title: Bubble Helmet
+title: Foam Veil
 ---
-R: Touch  D: [dice] * 10 minutes
+**R**: Touch  **D**: 1 day
 
-One creature you touch gains a bubble of air around their head.  This bubble contains [dice] * 10 minutes of clean air and can be used to breathe underwater.  It can also be used above water to protect from noxious fumes or inhaled poisons. There's 1D4 chance it bursts each time the creature takes damage.
+You spin [dice] foam veils from your frothing saliva.  The veils can be used as floatation devices for as many people, or can be consumed over 10 minutes to breath clean air or to protect from noxious fumes or inhaled poisons. There's 1/4 chance it bursts each time the wearer takes damage.
 
 ###### bubble + helmet
 ###### From Remixes and Revelations's [Spider Wizard](http://www.remixesandrevelations.com/2021/03/osr-spider-wizard.html)
