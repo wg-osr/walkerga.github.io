@@ -1,11 +1,11 @@
 ---
 layout: post
-tags: spell elementalism
-title: Aura of Warmth
+tags: spell physiurgy
+title: Inner Hearth
 ---
-D:  [sum] hours
+**D**:  [sum] hours
 
-The caster is immune to cold environmental conditions and takes half damage from freezing attacks.
+You swallow a piece of coal and your insides get comfortably warm. You become immune to cold environmental conditions and take half damage from freezing attacks.
  
-###### Aura + Heat
+###### Warm + Heart
 ###### From Throne of Salt's [Adipomancer](http://throneofsalt.blogspot.com/2018/02/class-adipomancer.html)
