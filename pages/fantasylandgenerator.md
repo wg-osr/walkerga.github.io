@@ -144,6 +144,7 @@
     'astral waves',
     'space',
     'stars',
+    'arcane energy',
   ];      
    
    gen_data['astralfeature'] = [
@@ -182,6 +183,7 @@
     'a {astraladjective} spelljammer port floats',
     'a {astraladjective} giant brain floats',
     'a {astraladjective} hollow planet orbits',
+    'a {astraladjective} WIZARD tower floats',
  ];
       
    gen_data['astraladjective'] = [
@@ -220,6 +222,7 @@
     'chaotic',
     'pulsing',
     'insectoid',
+    'arcane',
   ];
 
    gen_data['astralobstacle'] = [
@@ -257,6 +260,7 @@
     'ASTRAL PIRATES',
     'psychic waves',
     'high-pitched vibrations',
+    'scrying devices',
   ];
       
    gen_data['astralhazard'] = [
@@ -295,6 +299,7 @@
     'chasing travelers',
     'pushing you around',
     'communicating with HORRORS from beyond',
+    'summoned by a WIZARD',
   ];
 
    gen_data['astralmonster'] = [
@@ -333,6 +338,7 @@
     'GITHYANKI {githyankiculture} {githyankiproblem}',
     '{braingolemown} BRAIN GOLEMS',
     'INSECTARES {insectareculture} {insectareproblem}',
+    'a WIZARD {wizardwants}',
   ];
       
       
