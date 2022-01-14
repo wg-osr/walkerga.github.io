@@ -389,6 +389,7 @@ gen_data['mainelemental'] = [
     'The earth has become muddy around the',
     'Coral is growing all over the',
     'People and objects lost at sea seem to be transported to the',
+    'A tower made of ice has been built by the',
   ];
  
  gen_data['waterhazard'] = [
@@ -400,6 +401,7 @@ gen_data['mainelemental'] = [
     'are hidden by mud',
     'spit foam everywhere',
     'might cause the floor collapse',
+    'channel energy to a water portal',
   ];    
             
   gen_data['watertaint'] = [
@@ -411,7 +413,8 @@ gen_data['mainelemental'] = [
     'became harassed by OOZE MEPHITS',
     'became thralls of a NEREID',
     'could be an illusion caused by an eerie song heard',
-  ];    
+    'started to serve a curious WIZARD',
+ ];    
  
   gen_data['watermonster'] = [
     'an ELEMENTAL CULT that {cultwants}',
@@ -422,6 +425,7 @@ gen_data['mainelemental'] = [
     'OOZE MEPHITS who {oozemephitwants}',
     'NEREIDS who {nereidwants}',
     'an UNDINE who {UNDINEwants}',
+    'a WIZARD {wizardwants}',
      ];
 
    gen_data['fireadjective'] = [
@@ -433,6 +437,7 @@ gen_data['mainelemental'] = [
     'Dancing flames have swallowed the',
     'Brass towers surround the magma',
     'Inextinguishable flames engulf the',
+    'A tower made of magma has been built by the',
   ];
  
  gen_data['firehazard'] = [
@@ -444,6 +449,7 @@ gen_data['mainelemental'] = [
     'are set up by a fire {noble}',
     'create magma bubbles',
     'set everything they touch ablaze',
+    'channel energy to a flaming portal',
   ];    
             
   gen_data['firetaint'] = [
@@ -455,6 +461,7 @@ gen_data['mainelemental'] = [
     'turned out to be illusions',
     'became enslaved by SALAMANDERS',
     'are ablaze',
+    'started to serve a curious WIZARD',
   ];    
  
   gen_data['firemonster'] = [
@@ -466,6 +473,7 @@ gen_data['mainelemental'] = [
     'FIRE MEPHITS who {firemephitwants}',
     'SALAMANDERS who {salamanderwants}',
     'FIRE ELEMENTALS who {fireelementalwants}',
+    'a WIZARD {wizardwants}',
       ];
 
    gen_data['earthadjective'] = [
@@ -481,6 +489,7 @@ gen_data['mainelemental'] = [
     'A giant earth maw has swallowed the',
     'A permanent sandstorm engulfs the',
     'A DESERT.surrounds the petrified',
+    'A tower of ebony has been built by the',
   ];
  
  gen_data['earthhazard'] = [
@@ -496,6 +505,7 @@ gen_data['mainelemental'] = [
     'cause earthquakes',
     'turn water into sand',
     'slowly petrify things',
+    'channel energy to an earth portal',
   ];    
             
   gen_data['earthtaint'] = [
@@ -511,6 +521,7 @@ gen_data['mainelemental'] = [
     'became displaced here because of an earthquake in their homeland',
     'got lost in a sandstorm',
     'turned to stone',
+    'started to serve a curious WIZARD',
   ];    
  
   gen_data['earthmonster'] = [
@@ -526,6 +537,7 @@ gen_data['mainelemental'] = [
     'EARTH ELEMENTALS who {earthelementalwants}',
     'a DHAOT who {DHAOTwants}',
     'DESERT GIANTS {desertgiantculture} {desertgiantproblem}',
+    'a WIZARD {wizardwants}',
       ];
 
    gen_data['airadjective'] = [
@@ -543,6 +555,7 @@ gen_data['mainelemental'] = [
     'Cloud roads lead to the hovering',
     'Sky-Ships are docked at the',
     'Dancing winds have cleared the sky above the',
+    'A tower made of clouds has been built by the',
   ];
  
  gen_data['airhazard'] = [
@@ -560,6 +573,7 @@ gen_data['mainelemental'] = [
     'belonging to the pasha',
     'are set up by SKY PIRATES',
     'are very high in the sky',
+    'channel energy to an air portal',
 
   ];    
             
@@ -578,6 +592,7 @@ gen_data['mainelemental'] = [
     'became enrolled by the pasha',
     'became captured by sky pirates',
     'are preyed by GIANT BIRDS',
+    'started to serve a curious WIZARD',
   ];    
  
   gen_data['airmonster'] = [
@@ -595,6 +610,7 @@ gen_data['mainelemental'] = [
     'a DJINN {DJINNwants}',
     'GITHYANKI {githyankiculture} {githyankiproblem}',
     '{griffontotem} GRIFFONS',
+    'a WIZARD {wizardwants}',
       ];
 // - - - - - - - - - - M - A - G - I - C - A - L - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -646,6 +662,7 @@ gen_data['mainelemental'] = [
     'A magical lamp has absorbed',
     'A WIZARD’s house has been built on',
     'A reckless WIZARD APPRENTICE has destroyed',
+    'A WIZARD is leading an archeological expedition at',
   ];
  
  gen_data['magicalhazard'] = [
@@ -685,6 +702,7 @@ gen_data['mainelemental'] = [
     'might be spying for a DJINN',
     'are allergic to magic',
     'hold powerful magical enhancers',
+    'are used for a spell ritual',
   ];    
             
   gen_data['magicaltaint'] = [
@@ -724,6 +742,7 @@ gen_data['mainelemental'] = [
     'got a wish granted',
     'became allergic to magic',
     'became multiplied by a reckless WIZARD APPRENTICE',
+    'started to serve a WIZARD',
   ];    
  
   gen_data['magicalmonster'] = [
@@ -763,6 +782,7 @@ gen_data['mainelemental'] = [
     'a DJINN {DJINNwants}',
     'GREMISHKA GREMLINS {gremishkawants}',
     'IMPS on an evil mission to {impquest}',
+    'a WIZARD {wizardwants}',
       ];
 // - - - - - - - - - - E - N - C - H - A - N - T - E - D - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1778,13 +1798,14 @@ gen_data['cityadjective'] = [
     'horse',
     'ambitious',
     'noble',
+    'arcane',
  
   ];
   gen_data['cityfeature'] = [
     'battle royale',
     'spell vault',
     'mutants',
-    'magic sentries',
+    'sentries',
     'bazaar',
     'manor',
     'sinners',
@@ -1830,6 +1851,7 @@ gen_data['cityadjective'] = [
     'stables',
     'wizard academy',
     'knightly order',
+    'wizard tower',
   ];
   gen_data['cityobstacle'] = [
     'vicious mobs',
@@ -1881,6 +1903,7 @@ gen_data['cityadjective'] = [
     'speeding carts in the streets',
     'mischievous IMPS',
     'noble houses',
+    'arcane wards',
 
   ];
   gen_data['cityhazard'] = [
@@ -1933,6 +1956,7 @@ gen_data['cityadjective'] = [
     'could cause you to be trampled',
     'could lead you down a dark path',
     'are protected by oath-sworn KNIGHTS',
+    'controlled by a WIZARD',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1984,6 +2008,7 @@ gen_data['cityadjective'] = [
     '{horsetotem} HORSES',
     'IMPS on a divine mission to {impquest}',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2037,6 +2062,7 @@ gen_data['swampadjective'] = [
     'royal',
     'goblinoid',
     'quiet',
+    'mystical',
 
   ];
   gen_data['swampfeature'] = [
@@ -2082,6 +2108,7 @@ gen_data['swampadjective'] = [
     'town',
     'keep',
     'cavern',
+    'wizard tower',
  
   ];
   gen_data['swampobstacle'] = [
@@ -2127,6 +2154,7 @@ gen_data['swampadjective'] = [
     'GUARD patrols',
     'crossbow traps',
     'mud pits',
+    'mystical wards',
 
   ];
   gen_data['swamphazard'] = [
@@ -2172,6 +2200,7 @@ gen_data['swampadjective'] = [
     'are from the nearby town',
     'are controlled by HOBGOBLINS',
     'pepper the land',
+    'protecting a dungeon',
       
   ];
   gen_data['swampmonster'] = [
@@ -2217,6 +2246,7 @@ gen_data['swampadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
+    'a WIZARD {wizardwants}',
   ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2266,6 +2296,7 @@ gen_data['plainsadjective'] = [
     'militarized',
     'grassy',
     'legendary',
+    'mystical',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2306,6 +2337,7 @@ gen_data['plainsadjective'] = [
     'keep',
     'weed',
     'castle',
+    'wizard tower',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2347,6 +2379,7 @@ gen_data['plainsadjective'] = [
     'ballistae',
     'vast herds',
     'sacred steles',
+    'mystical wards',
 
   ];
   gen_data['plainshazard'] = [
@@ -2388,6 +2421,7 @@ gen_data['plainsadjective'] = [
     'are controlled by the DARK LEGION',
     'require mounts to cross easily',
     'protecting holy sites',
+    'protecting a dungeon',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2428,6 +2462,7 @@ gen_data['plainsadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     '{horsetotem} HORSES',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2479,6 +2514,7 @@ gen_data['mountainadjective'] = [
     'open',
     'scarlet',
     'militarized',
+    'mystical',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2521,6 +2557,7 @@ gen_data['mountainadjective'] = [
     'vista',
     'cliffs',
     'keep',
+    'wizard tower',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2563,6 +2600,7 @@ gen_data['mountainadjective'] = [
     'sun glares',
     'unstable rubbles',
     'ballistae',
+    'mystical wards',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2605,6 +2643,7 @@ gen_data['mountainadjective'] = [
     'could blind you',
     'are set up by HOBGOBLINS',
     'are controlled by the DARK LEGION',
+    'protecting a dungeon',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2647,6 +2686,7 @@ gen_data['mountainadjective'] = [
     '{hawktotem}{giant}HAWKS',
     '{bloodhawktotem} BLOODHAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
+    'a WIZARD {wizardwants}',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2700,6 +2740,7 @@ gen_data['jungleadjective'] = [
     'royal',    
     'goblinoid',    
     'muddy',    
+    'mystical',    
 
   ];
   gen_data['junglefeature'] = [
@@ -2746,6 +2787,7 @@ gen_data['jungleadjective'] = [
     'town',
     'keep',
     'streams',
+    'wizard tower',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2791,6 +2833,7 @@ gen_data['jungleadjective'] = [
     'GUARD patrols',
     'crossbow traps',
     'wide rivers',
+    'mystical wards',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2836,6 +2879,7 @@ gen_data['jungleadjective'] = [
     'are from a nearby town',
     'are controlled by HOBGOBLINS',
     'hiding predators',
+    'protecting a dungeon',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2881,6 +2925,7 @@ gen_data['jungleadjective'] = [
     '{humanculture} HUMANS {humanproblem}',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
+    'a WIZARD {wizardwants}',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2940,6 +2985,7 @@ gen_data['rockyadjective'] = [
     'scarlet',
     'militarized',
     'legendary',
+    'mystical',
 
   ];
   gen_data['rockyfeature'] = [
@@ -2991,6 +3037,7 @@ gen_data['rockyadjective'] = [
     'cliffs',
     'keep',
     'castle',
+    'wizard tower',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -3042,6 +3089,7 @@ gen_data['rockyadjective'] = [
     'rubbles',
     'ballistae',
     'sacred steles',
+    'mystical wards',
     
   ];
   gen_data['rockyhazard'] = [
@@ -3093,6 +3141,7 @@ gen_data['rockyadjective'] = [
     'are set up by HOBGOBLINS',  
     'are controlled by the DARK LEGION',  
     'protecting a holy site',  
+    'protecting a dungeon',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3143,6 +3192,7 @@ gen_data['rockyadjective'] = [
     '{bloodhawktotem} BLOODHAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3190,6 +3240,7 @@ gen_data['forestadjective'] = [
     'goblinoid',
     'flooded',
     'legendary',
+    'mystical',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3228,6 +3279,7 @@ gen_data['forestadjective'] = [
     'keep',
     'lake',
     'castle',
+    'wizard tower',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3266,6 +3318,7 @@ gen_data['forestadjective'] = [
     'crossbow traps',  
     'mud puddles',  
     'sacred steles',  
+    'mystical wards',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3304,6 +3357,7 @@ gen_data['forestadjective'] = [
     'are controlled by the DARK LEGION',  
     'could make you stuck',  
     'protecting holy sites',  
+    'protectinga dungeon',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3342,6 +3396,7 @@ gen_data['forestadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3402,6 +3457,7 @@ gen_data['desertadjective'] = [
     'militarized',
     'flat',
     'legendary',
+    'mystical',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3452,6 +3508,7 @@ gen_data['desertadjective'] = [
     'cliffs',
     'pastures',
     'castle',
+    'wizard tower',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3503,6 +3560,7 @@ gen_data['desertadjective'] = [
     'ballistae',  
     'tumbleweed',  
     'sacred steles',  
+    'mystical wards',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3553,6 +3611,7 @@ gen_data['desertadjective'] = [
     'are controlled by the DARK LEGION',  
     'could provoke a stampede',  
     'protecting holy sites',  
+    'protecting a dungeon',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3604,6 +3663,7 @@ gen_data['desertadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     '{horsetotem} HORSES',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3653,6 +3713,7 @@ gen_data['arcticadjective'] = [
     'open',
     'militarized',
     'legendary',
+    'mystical',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3693,6 +3754,7 @@ gen_data['arcticadjective'] = [
     'vista',
     'keep',
     'castle',
+    'wizard tower',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3733,6 +3795,7 @@ gen_data['arcticadjective'] = [
     'sun glares',  
     'ballistae',  
     'sacred steles',  
+    'mystical wards',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3773,6 +3836,7 @@ gen_data['arcticadjective'] = [
     'could blind you',  
     'are controlled by the DARK LEGION',  
     'protecting holy sites',  
+    'protecting a dungeon',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3813,6 +3877,7 @@ gen_data['arcticadjective'] = [
     '{hawktotem}{giant}HAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'KNIGHTS {knightwants}',
+    'a WIZARD {wizardwants}',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -5162,6 +5227,22 @@ gen_data['arcticadjective'] = [
     'protecting a sacred site',
     'training for war',
     'searching for a legendary weapon',
+  ];
+    gen_data['wizardwants'] = [
+    'looking for extremely rare ingredients',
+    'studying the monsters here',
+    'seeking isolation for its research',
+    'tracking a mysterious magic item',
+    'building a portal to {dimension}',
+    'scheming',
+  ];
+    gen_data['dimension'] = [
+    'hell',
+    'the dream world',
+    'beyond the stars',
+    'the elemental planes',
+    'the astral sea',
+    'the land of the dead',
   ];
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
