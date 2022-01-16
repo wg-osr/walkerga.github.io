@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell trick
+tags: spell tricks
 title: Command Iron
 ---
 
