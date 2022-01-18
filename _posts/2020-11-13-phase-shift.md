@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell elementalism
-title: Phase Shift
+title: Phase Element
 ---
 **R**: 60'  **D**: [sum] rounds
 
