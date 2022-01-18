@@ -3,7 +3,7 @@ layout: post
 tags: spell elementalism
 title: Trap Lightning
 ---
-R: 120’		D: Sigil
+**R**: 120’		**D**: [Sigil](/spells/#lexicon)
 
 You must first have prepared a trap, such as a bottle or copper rod, with your Sigil and then set out under an open sky in a cosmically enticing manner, which will draw the lightning. 
 
