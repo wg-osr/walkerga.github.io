@@ -10,5 +10,8 @@ You sit completely still, close your eyes and attune to the land. As long as you
 
 While in that state, you are aware of elemental anomalies within [sum] x 10 feet.
 
+If you invest 4 dice or more in this spell and scribe your [Sigil](/spells/#lexicon), the spell lasts as long as you want and you dont age or need food for the whole duration.
+
+
 ###### ignore + element
 ###### by SaltyGoo
