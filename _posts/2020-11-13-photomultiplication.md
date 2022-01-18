@@ -1,11 +1,13 @@
 ---
 layout: post
-tags: spell elementalism
-title: Photomultiplication
+tags: spell spiritualism
+title: Radiance
 ---
-R: 60'  D: [dice] rounds
+**R**: 60'  **D**: [dice] rounds
 
-You absorb the light of a light source and multiply it into a vast swathe of electrons, blast all adjacent creatures: they takes [sum] damage and must save or be stunned for [dice] rounds. The light source is dimmed an unusable for [dice] rounds. 
+You transform a light source into a radiating ball of astral light blasting all creatures near it. They takes [sum] damage and must save or be stunned for [dice] rounds. The light source is dimmed an unusable for [dice] rounds.
+
+If 4 or more dice are invested in this spell, the blast becomes permanent and can be used as a portal to the astral plane if one survives the irradiation.
  
 ###### photon + multiplication
 ###### From The Unlawful Games's [Radiomancer](http://unlawfulgames.blogspot.com/2018/08/osr-radiomancer.html)
