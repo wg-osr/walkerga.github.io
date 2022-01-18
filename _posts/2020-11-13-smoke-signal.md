@@ -4,7 +4,7 @@ tags: spell elementalism
 title: Smoke Signal
 ---
 
-T: 30'  D: [dice] hours
+**T**: 30'  **D**: [dice] hours
 
 You target a flame no smaller than a bonfire and animate its smoke, which paints across the sky directly above your head. The signal can be made of up to [sum] words and symbols. 
 
