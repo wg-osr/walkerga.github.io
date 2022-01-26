@@ -46,7 +46,7 @@ Your stats and skills cannot be higher than 10.
 
 <ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurence-related feats.
 
-<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and runnning away, and also to dodge attacks, and hit things.
+<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and runnning away, and also to dodge attacks0 and hit things.
 
 <ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
 
@@ -101,9 +101,9 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 <details markdown="1">
 <summary><i>Example: Combat</i></summary>
-*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.
+*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
 
-It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
+*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
 </details>
 
 ---
@@ -112,13 +112,20 @@ It's the troll's turn! The referee announces that the monster chases her to the 
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
-You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP.
+You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP. You also stop dying if you recover HP any other way.
 
-This does not heal your accumulated Wounds. At the end of a session, if you have gained a Wounds, you gain a **Scar**. A scar takes either an inventory slot or a psyche slot and cannot be removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
+This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose wether the scar will take an Inventory slot or a Psyche slot. It  cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
 
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
-Medical care heals all Wounds. Medical care requires you to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
+Medical care heals all Wounds. Medical happens when you end an adventure in a safe location with healers.
+
+<details markdown="1">
+<summary><i>Example: Dying</i></summary>
+*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound. Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
+
+*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
+</details>
 
 ---
 
