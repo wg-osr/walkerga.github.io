@@ -133,8 +133,8 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 # Equipment
 
-**Melee Weapons:**
-
+<details markdown="1">
+<summary><b>Melee Weapons</b></summary>
 <ins>Improvised (wine bottle, chair)</ins>
 1D4 damage, can be thrown
 
@@ -150,9 +150,10 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 <ins>Pole (spear, halberd)</ins>
 1D8 damage, needs two hands,
 Dodging attacks from creatures you've hit becomes easy
+</details>
 
-**Ranged Weapons:**
-
+<details markdown="1">
+<summary><b>Ranged Weapons</b></summary>
 <ins>Light (darts)</ins>
 1 damage, can attack twice
 
@@ -165,13 +166,17 @@ Dodging attacks from creatures you've hit becomes easy
 <ins>Mechanical (crossbow, musket)</ins>
 1D12 damage, needs two hands,
 must take one action to recharge
+</details>
 
-**Armor:**
+<details markdown="1">
+<summary><b>Armor</b></summary>
+Each worn piece of armor reduces damage by 1. You cant swim while wearing 3 or more pieces of armor.
 
-Each worn piece of armor reduces damage by 1. You cant swim with 3 or more pieces of armor.
+<details markdown="1">
+<summary><b>Torches, Ammunitions, & Consumables</b></summary>
+Some items like **torches** have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item before its depleted.
 
-**Ammunition and Consumables:**
-
+This system can be used for **ammunitions** too, in that case, instead of 10 minutes of usage, you roll after each battle where it was used.
 
 ---
 
