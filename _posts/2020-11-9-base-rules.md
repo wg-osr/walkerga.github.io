@@ -122,7 +122,9 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
-*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound. Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
+*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
+
+*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
 
 *Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
 </details>
@@ -147,7 +149,7 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 <ins>Pole (spear, halberd)</ins>
 1D8 damage, needs two hands,
-free attack if a monster charges you
+Dodging attacks from creatures you've hit becomes easy
 
 **Ranged Weapons:**
 
@@ -166,7 +168,10 @@ must take one action to recharge
 
 **Armor:**
 
-All armor pieces reduce damage by 1, but lower your dexterity by 1 (down to 1). You can stack 3 pieces of armor.
+Each worn piece of armor reduces damage by 1. You cant swim with 3 or more pieces of armor.
+
+**Ammunition and Consumables:**
+
 
 ---
 
