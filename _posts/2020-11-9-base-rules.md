@@ -99,6 +99,13 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 <ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on an dodge means double damage.
 
+<details markdown="1">
+<summary><i>Example: Combat</i></summary>
+*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.
+
+It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
+</details>
+
 ---
 
 # Dying & Healing
