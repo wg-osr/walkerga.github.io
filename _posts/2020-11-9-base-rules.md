@@ -72,11 +72,11 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 
 # Inventory & Psyche
 
-You have as many **Inventory** slots as twice your Fortitude. Inventory slots can be filled with objects you find in your travels, but also with scars and mutations you gain along the way. You gain scars when you get [Wounded](#dying--healing) and cant get rid of them.
+<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects you find in your travels, but also with scars and mutations you gain along the way. You gain scars when you get [Wounded](#dying--healing) and cant get rid of them.
 
 Each inventory slot filled above your limit lowers your Reflex by 1. Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
-You have as many **Psyche** slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
+<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
 
 You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar like that.
 
@@ -91,33 +91,25 @@ You can have as many **Beliefs** as you want, and can change and add more of the
 
 # Combat
 
-<ins>Turn Order:</ins> You act before the monsters unless they have surprised you.
+<ins>**Turn Order:**</ins> You act before the monsters unless they have surprised you.
 
-<ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one combat action, which can be moving further.
+<ins>**Your Turn:**</ins> You can move nearby, speak and do one other action, like casting a spell or attacking.
 
-<ins>Attacking:</ins> To attack, roll Strength (or Dexterity for ranged weapons).
+<ins>**Attacking:**</ins> To attack, roll Dexterity. If you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. Rolling 20 on attack means double damage.
 
-If you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it.
-
-Rolling 20 on attack means double damage.
-
-<ins>Dodging:</ins> To avoid an attack, roll Dexterity. Rolling 20 means you get a free attack.
+<ins>**Dodging:**</ins> To avoid an attack, roll Dexterity. Rolling 20 means you get a free attack.
 
 ---
 
 # Dying & Healing
 
-Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. If you reach 10 wounds, you die.
+<ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
-When you are dying, you must roll Constitution on each of your turns.
-- On a roll of 1, your character dies.
-- On a failure, you gain 1 Wound.
-- On success, nothing changes.
-- On a roll of 20 or on a result of 24 or higher, you stabilize and stop dying.
+You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP.
 
-Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives advantage to that roll. Stabilizing does not remove wounds.
+This does not heal your accumulated Wounds. At the end of a session, if you have gained a Wounds, you gain a **Scar**. A scar takes either an inventory slot or a psyche slot and cannot be removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
 
-<ins>Healing:</ins> A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
+<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
 Medical care heals all Wounds. Medical care requires you to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
 
@@ -128,7 +120,7 @@ Medical care heals all Wounds. Medical care requires you to play another charact
 **Melee Weapons:**
 
 <ins>Improvised (wine bottle, chair)</ins>
-1D4 damage, can be throw
+1D4 damage, can be thrown
 
 <ins>Light (dagger, javelin)</ins>
 1D6 damage, can be thrown
