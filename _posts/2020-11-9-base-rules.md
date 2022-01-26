@@ -3,7 +3,17 @@ layout: post
 title: Base Rules
 ---
 
-DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord.
+DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord, particularly [Locheil](https://nothicseye.blogspot.com/).
+
+- [How to Play](#how-to-play)
+- [Creating a Character](#creating-a-character)
+- [Stats & Skills](#stats--skills)
+- [Combat](#combat)
+- [Dying & Healing](#dying--healing)
+- [Inventory & Equipment](#inventory)
+- [Leveling Up](#leveling-up)
+
+---
 
 # **How to Play**
 
@@ -12,14 +22,6 @@ Simply, the referee describes a situation, and you tell what your character woul
 Sometimes, the referee might tell you that the situation gives you **advantage** or **disadvantage**. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
 
 That's it!
-
-- [Creating a Character](#creating-a-character)
-- [Stats & Skills](#stats--skills)
-- [Rolling](#rolling)
-- [Combat](#combat)
-- [Dying & Healing](#dying--healing)
-- [Inventory & Equipment](#inventory)
-- [Leveling Up](#leveling-up)
 
 ---
 
@@ -68,6 +70,20 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 
 ---
 
+# Inventory & Psyche
+
+You have as many **Inventory** slots as twice your Fortitude. Inventory slots can be filled with objects you find in your travels, but also with scars and mutations you gain along the way. You gain scars when you get [Wounded](#dying--healing) and cant get rid of them.
+
+Each inventory slot filled above your limit lowers your Reflex by 1. Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
+
+You have as many **Psyche** slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
+
+You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar.
+
+You can have as many **Beliefs** as you want, and can change and add more of them each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
+
+---
+
 # Combat
 
 <ins>Turn Order:</ins> You act before the monsters unless they have surprised you.
@@ -99,16 +115,6 @@ Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives adva
 <ins>Healing:</ins> A 8 hours rest heals all HP and stat losses and consumes 1 ration for the team.
 
 Medical care heals all Wounds. Medical care requires you to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
-
----
-
-# Inventory
-
-You have as many inventory slots as twice your strength. Small items like potions and daggers can be stacked in packs of 3. Ammunition, in stacks of 12. Each item above your limit lowers your Movement by 1.
-
-It takes an action to retrieve an item unless it is in your first 3 slots.
-
-In town, you can trade items for other items with the same value: Trash, Mundane, Valuable, and Treasure.
 
 ---
 
