@@ -7,7 +7,11 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 
 # **How to Play**
 
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. That's it!
+Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. 
+
+Sometimes, the referee might tell you that the situation gives you **advantage** or **disadvantage**. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
+
+That's it!
 
 - [Creating a Character](#creating-a-character)
 - [Stats & Skills](#stats--skills)
@@ -21,11 +25,11 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 # **Creating a Character**
 
-You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll 1D6+2 for each. The result is your starting score.
+You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll 1D6+2 for each to determine their value.
 
-You also have as many **Hit Points** as your **Fortitude** score.
+You also have as many **Hit Points** as your Fortitude score.
 
-You can have as many things in your **Inventory** as twice your Fortitude score.
+You can have as many things in your **Inventory** as twice your Fortitude score. <br>
 You can have as many things in your **Psyche** as twice your Willpower score.
 
 Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class' _Template A_ abilities to your character sheet.
@@ -38,22 +42,22 @@ Voilà!
 
 Your stats and skills cannot be higher than 10.
 
-<ins>**Fortitude**</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, but also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
+<ins>**Fortitude**</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, and also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
 
-<ins>**Dexterity**</ins> represents your grace, movement, and reflexes. You roll it to climb, jump and run away, to dodge traps and monster attacks, but also to hit with your own weapon attacks.
+<ins>**Dexterity**</ins> represents your grace, movement, and reflexes. You roll it for movement related feats like climbing, jumping and runnning away, and also to dodge traps and monster attacks, and hit things with your weapons.
 
-<ins>**Willpower**</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, but also to resist a spell or emotions such as fear.
+<ins>**Willpower**</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, and also to resist spells and overwhelming emotions such as fear.
 
 <details markdown="1">
 <summary><i>Example: Using a Stat</i></summary>
-*Beau is running away from a troll. He rolls a D20 and adds his dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
+*Beau is running away from a troll. He rolls a D20 and adds his Dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
 </details>
 
-A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and start at a value of 5 . When asked to roll for an action, you can use one of your skill scores instead of the stats the referee tells you to use if it would thematically make sense. Your skills are stored in your **Psyche**.
+A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and starts with a value of 5. When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you to use if it would thematically make sense. Your skills are stored in your **Psyche**.
 
 <details markdown="1">
-<summary>Example: Using a Skill</summary>
-*Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
+<summary><i>Example: Using a Skill</i></summary>
+*Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to roll Willpower, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
 </details>
 
 ***other stats***
@@ -61,23 +65,6 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 <ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
 <ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
-
----
-
-# Rolling
-
-When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat, and, if the total is higher than 15, you succeed.
-
-For easy situations, the referee might have you roll higher than 10. For hard situations, 20.
-
-<details markdown="1">
-<summary>Example</summary>
-*A troll is roughly as fast as a human. When trying to escape one, Beau had to roll above 15. He rolled 12 and added his movement score of 5, for a total of 17, and thus escaped the troll. He ran into a bunch of slow zombies and didn't want to fight them. It's going to be an easy escape and the referee decides Beau only has to beat 10 to run away.*
-</details>
-
-A referee should only call for a roll when both success and failure have interesting consequences. Sometimes, failure only means that it takes 10 minutes to achieve the action instead of a few seconds. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
-
-Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacles (shooting from very far, attacking underwater, etc.).
 
 ---
 
