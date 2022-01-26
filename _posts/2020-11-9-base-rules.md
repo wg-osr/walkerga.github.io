@@ -9,6 +9,7 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 - [Creating a Character](#creating-a-character)
 - [Stats & Skills](#stats--skills)
 - [Inventory & Psyche](#inventory--psyche)
+- [Equipment](#equipment)
 - [Combat](#combat)
 - [Dying & Healing](#dying--healing)
 - [Leveling Up](#leveling-up)
@@ -87,50 +88,6 @@ You can have as many **Beliefs** as you want, and can change and add more of the
 
 ---
 
-# Combat
-
-<ins>**Turn Order:**</ins> You act before the monsters unless they have surprised you.
-
-<ins>**Your Turn:**</ins> You can move nearby, speak and do one other action, like casting a spell or attacking.
-
-<ins>**Attacking:**</ins> The referee will tell you if the attack is easy, normal or hard to hit. Roll Dexterity. If you hit, roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. A die roll of 20 on an attack means double damage.
-
-_On the monsters' turn, they might attack you. In this case, you'll have to dodge._
-
-<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on an dodge means double damage.
-
-<details markdown="1">
-<summary><i>Example: Combat</i></summary>
-*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
-
-*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
-</details>
-
----
-
-# Dying & Healing
-
-<ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
-
-You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP. You also stop dying if you recover HP any other way.
-
-This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose wether the scar will take an Inventory slot or a Psyche slot. It  cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
-
-<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
-
-Medical care heals all Wounds. Medical happens when you end an adventure in a safe location with healers.
-
-<details markdown="1">
-<summary><i>Example: Dying</i></summary>
-*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
-
-*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
-
-*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
-</details>
-
----
-
 # Equipment
 
 <details markdown="1">
@@ -177,6 +134,51 @@ Each worn piece of armor reduces damage by 1. You cant swim while wearing 3 or m
 Some items like **torches** have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item before its depleted.
 
 This system can be used for **ammunitions** too, in that case, instead of 10 minutes of usage, you roll after each battle where it was used.
+</details>
+
+---
+
+# Combat
+
+<ins>**Turn Order:**</ins> You act before the monsters unless they have surprised you.
+
+<ins>**Your Turn:**</ins> You can move nearby, speak and do one other action, like casting a spell or attacking.
+
+<ins>**Attacking:**</ins> The referee will tell you if the attack is easy, normal or hard to hit. Roll Dexterity. If you hit, roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. A die roll of 20 on an attack means double damage.
+
+_On the monsters' turn, they might attack you. In this case, you'll have to dodge._
+
+<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on an dodge means double damage.
+
+<details markdown="1">
+<summary><i>Example: Combat</i></summary>
+*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
+
+*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
+</details>
+
+---
+
+# Dying & Healing
+
+<ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
+
+You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP. You also stop dying if you recover HP any other way.
+
+This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose wether the scar will take an Inventory slot or a Psyche slot. It  cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
+
+<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
+
+Medical care heals all Wounds. Medical happens when you end an adventure in a safe location with healers.
+
+<details markdown="1">
+<summary><i>Example: Dying</i></summary>
+*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
+
+*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
+
+*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
+</details>
 
 ---
 
