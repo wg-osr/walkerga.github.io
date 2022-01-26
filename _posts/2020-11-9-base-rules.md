@@ -25,10 +25,10 @@ You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll
 
 You also have as many **Hit Points** as your **Fortitude** score.
 
-You can have as many things in your **Inventory** as twice your **Fortitude** score.
-You can have as many things in your **Psyche** as twice your **Willpower** score.
+You can have as many things in your **Inventory** as twice your Fortitude score.
+You can have as many things in your **Psyche** as twice your Willpower score.
 
-Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your **Inventory**, its skills and spells to your **Psyche** and the class' _Template A_ abilities to your character sheet.
+Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class' _Template A_ abilities to your character sheet.
 
 Voilà!
 
@@ -56,7 +56,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 *Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
 </details>
 
-**other stats**
+***other stats***
 
 <ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
