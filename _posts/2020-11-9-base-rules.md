@@ -8,9 +8,9 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 - [How to Play](#how-to-play)
 - [Creating a Character](#creating-a-character)
 - [Stats & Skills](#stats--skills)
+- [Inventory & Psyche](#inventory--psyche)
 - [Combat](#combat)
 - [Dying & Healing](#dying--healing)
-- [Inventory & Equipment](#inventory)
 - [Leveling Up](#leveling-up)
 
 ---
