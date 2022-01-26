@@ -129,6 +129,7 @@ must take one action to recharge
 <details markdown="1">
 <summary><b>Armor</b></summary>
 Each worn piece of armor reduces damage by 1. You cant swim while wearing 3 or more pieces of armor.
+</details>
 
 <details markdown="1">
 <summary><b>Torches, Ammunitions, & Consumables</b></summary>
