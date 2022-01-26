@@ -78,9 +78,14 @@ Each inventory slot filled above your limit lowers your Reflex by 1. Small items
 
 You have as many **Psyche** slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
 
-You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar.
+You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar like that.
 
 You can have as many **Beliefs** as you want, and can change and add more of them each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
+
+<details markdown="1">
+<summary><i>Example: Using a Belief</i></summary>
+*Gretchen is figthing a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the session, he can increase one of his skills by 1 as a reward for having acted upon his Belief.*
+</details>
 
 ---
 
