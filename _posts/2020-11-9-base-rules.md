@@ -70,7 +70,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 
 # Inventory & Psyche
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the scars and mutations you gain along the way. You gain scars when you get [wounded](#dying--healing) and can only be removed by magic.
+<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the Scars and mutations you gain along the way. You gain Scars when you get [wounded](#dying--healing) and can only be removed by magic.
 
 Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
@@ -93,9 +93,11 @@ You can have as many **Beliefs** as you want, and can change and add more of the
 
 <ins>**Your Turn:**</ins> You can move nearby, speak and do one other action, like casting a spell or attacking.
 
-<ins>**Attacking:**</ins> To attack, roll Dexterity. If you hit, roll your weapon’s damage and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. Rolling 20 on attack means double damage.
+<ins>**Attacking:**</ins> The referee will tell you if the attack is easy, normal or hard to hit. Roll Dexterity. If you hit, roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. A die roll of 20 on an attack means double damage.
 
-<ins>**Dodging:**</ins> To avoid an attack, roll Dexterity. Rolling 20 means you get a free attack.
+_On the monsters' turn, they might attack you. In this case, you'll have to dodge._
+
+<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on an dodge means double damage.
 
 ---
 
