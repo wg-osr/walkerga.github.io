@@ -44,11 +44,11 @@ Voilà!
 
 Your stats and skills cannot be higher than 10.
 
-<ins>**Fortitude**</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, and also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
+<ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurence-related feats.
 
-<ins>**Dexterity**</ins> represents your grace, movement, and reflexes. You roll it for movement related feats like climbing, jumping and runnning away, and also to dodge traps and monster attacks, and hit things with your weapons.
+<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and runnning away, and also to dodge attacks, and hit things.
 
-<ins>**Willpower**</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, and also to resist spells and overwhelming emotions such as fear.
+<ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
 
 <details markdown="1">
 <summary><i>Example: Using a Stat</i></summary>
@@ -62,8 +62,6 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 *Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to roll Willpower, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
 </details>
 
-***other stats***
-
 <ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
 <ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
@@ -72,9 +70,9 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 
 # Inventory & Psyche
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects you find in your travels, but also with scars and mutations you gain along the way. You gain scars when you get [Wounded](#dying--healing) and cant get rid of them.
+<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the scars and mutations you gain along the way. You gain scars when you get [wounded](#dying--healing) and can only be removed by magic.
 
-Each inventory slot filled above your limit lowers your Reflex by 1. Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
+Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
 <ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
 
