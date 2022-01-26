@@ -7,7 +7,7 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 
 # **How to Play**
 
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a 20-faced die and add a number from your character sheet to the roll. If the situation is easy, the result must be above 10 to succeed, if it's normal, you have to beat 15, and if it's hard, 20. Either way, the referee describes the new situation, and so on. That's it!
+Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. That's it!
 
 - [Creating a Character](#creating-a-character)
 - [Stats & Skills](#stats--skills)
@@ -21,14 +21,14 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 # **Creating a Character**
 
-You have three main stats: FORTITUDE, DEXTERITY, and WILLPOWER. Roll 1D6+2 for each. The result is your starting score.
+You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll 1D6+2 for each. The result is your starting score.
 
-You also have as many HIT POINTS as your FORTITUDE score.
+You also have as many **Hit Points** as your **Fortitude** score.
 
-You can have as many things in your INVENTORY as twice your FORTITUDE score.
-You can have as many things in your PSYCHE as twice your WILLPOWER score.
+You can have as many things in your **Inventory** as twice your **Fortitude** score.
+You can have as many things in your **Psyche** as twice your **Willpower** score.
 
-Choose a [CHARACTER CLASS](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your INVENTORY, its skills and spells to your PSYCHE and the class' _Template A_ abilities to your character sheet.
+Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your **Inventory**, its skills and spells to your **Psyche** and the class' _Template A_ abilities to your character sheet.
 
 Voilà!
 
@@ -38,18 +38,18 @@ Voilà!
 
 Your stats and skills cannot be higher than 10.
 
-<ins>FORTITUDE</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, but also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
+<ins>**Fortitude**</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, but also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
 
-<ins>DEXTERITY</ins> represents your grace, movement, and reflexes. You roll it to climb, jump and run away, to dodge traps and monster attacks, but also to hit with your own weapon attacks.
+<ins>**Dexterity**</ins> represents your grace, movement, and reflexes. You roll it to climb, jump and run away, to dodge traps and monster attacks, but also to hit with your own weapon attacks.
 
-<ins>WILLPOWER</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, but also to resist a spell or emotions such as fear.
+<ins>**Willpower**</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, but also to resist a spell or emotions such as fear.
 
 <details markdown="1">
 <summary><i>Example: Using a Stat</i></summary>
 *Beau is running away from a troll. He rolls a D20 and adds his dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
 </details>
 
-A <ins>SKILL</ins> can be anything (flower arrangement, swordplay, etc.) and start at a value of 5 . When asked to roll for an action, you can use one of your skill scores instead of the stats the referee tells you to use if it would thematically make sense. Your skills are stored in your PSYCHE.
+A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and start at a value of 5 . When asked to roll for an action, you can use one of your skill scores instead of the stats the referee tells you to use if it would thematically make sense. Your skills are stored in your **Psyche**.
 
 <details markdown="1">
 <summary>Example: Using a Skill</summary>
@@ -58,9 +58,9 @@ A <ins>SKILL</ins> can be anything (flower arrangement, swordplay, etc.) and sta
 
 **other stats**
 
-<ins>HIT POINTS</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
+<ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
-<ins>ARMOR</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
+<ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
 
 ---
 
