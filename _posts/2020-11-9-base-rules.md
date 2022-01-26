@@ -32,10 +32,8 @@ Voilà!
 
 ---
 
-## Stats & Skills
-
 <details markdown="1">
-<summary><b>What They Do</b></summary>
+<summary><b>Stats & Skills</b></summary>
 
 Your stats and skills cannot be higher than 10.
 
@@ -64,7 +62,8 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 
 ---
 
-# Inventory & Psyche
+<details markdown="1">
+<summary><b>Inventory & Psyche</b></summary>
 
 <ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the Scars and mutations you gain along the way. You gain Scars when you get [wounded](#dying--healing) and can only be removed by magic.
 
@@ -80,10 +79,9 @@ You can have as many **Beliefs** as you want, and can change and add more of the
 <summary><i>Example: Using a Belief</i></summary>
 *Gretchen is figthing a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the session, he can increase one of his skills by 1 as a reward for having acted upon his Belief.*
 </details>
+</details>
 
 ---
-
-# Equipment
 
 <details markdown="1">
 <summary><b>Melee Weapons</b></summary>
@@ -116,7 +114,7 @@ Dodging attacks from creatures you've hit becomes easy
 1D6 damage, needs two hands
 
 <ins>Mechanical (crossbow, musket)</ins>
-1D12 damage, needs two hands,
+1D12 damage, needs two hands, <br>
 must take one action to recharge
 </details>
 
@@ -134,7 +132,8 @@ This system can be used for **ammunitions** too, in that case, instead of 10 min
 
 ---
 
-# Combat
+<details markdown="1">
+<summary><b>Combat</b></summary>
 
 <ins>**Turn Order:**</ins> You act before the monsters unless they have surprised you.
 
@@ -152,10 +151,12 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 *It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
 </details>
+</details>
 
 ---
 
-# Dying & Healing
+<details markdown="1">
+<summary><b>Dying and Healing</b></summary>
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
@@ -175,10 +176,12 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 *Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
 </details>
+</details>
 
 ---
 
-## Treasures
+<details markdown="1">
+<summary><b>Treasures</b></summary>
 
 Each object you find has a certain value assigned by the referee:
 
@@ -188,10 +191,12 @@ Each object you find has a certain value assigned by the referee:
 - treasure (bag of platinum coins)
 
 A bag of coins take an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
+</details>
 
 ---
 
-## Between Adventures
+<details markdown="1">
+<summary><b>Leveling Up</b></summary>
 
 Leveling up is just one way of gaining new powers. This is where you can convert treasures into character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
 
@@ -237,7 +242,6 @@ You could spend treasures to **become undead**.
 
 All these tables are detailed in the monster stat blocks and should be negotiated with the referee.
 
----
 
 # Leveling Up
 
@@ -248,3 +252,4 @@ Choose a stat, increase it by 1 (up to 10).
 After level 4, you get 1 Mastery point instead of any template or bonus.
 
 <ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting a nearby ally at a rate of 1 point for 1 point.
+</details>
