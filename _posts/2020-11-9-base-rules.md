@@ -12,6 +12,7 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 - [Equipment](#equipment)
 - [Combat](#combat)
 - [Dying & Healing](#dying--healing)
+- [Treasures](#treasures)
 - [Leveling Up](#leveling-up)
 
 ---
@@ -179,6 +180,19 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 *Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
 </details>
+
+---
+
+## Treasures
+
+Each object you find has a certain value assigned by the referee:
+
+- trash (worthless)
+- mundane (bag of silver coins)
+- valuable (bag of gold coins)
+- treasure (bag of platinum coins)
+
+A bag of coins take an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
 
 ---
 
