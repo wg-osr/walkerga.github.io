@@ -8,7 +8,6 @@ title: Advanced Rules
 - [Stat Damage](#stat-damage)
 - [Conditions](#conditions)
 - [Rare Metals](#rare-metals) (mithril and shit)
-- [Treasures](#treasures) (alternative to xp and money)
 - [Traveling](#traveling)
 - [Between Adventures](#between-adventures) (ways to spend Treasures)
 
@@ -114,19 +113,6 @@ Fairies, elementals, ghosts and devils resist or ignore damage. But some rare me
 Inside a dungeon, any worthwhile action takes 10 minutes. The referee rolls for random encounters every 30 minutes and asks the players to choose odd or even, if they lose, one torch or lantern is depleted.
 
 On the world map, any worthwhile action like crossing a hex or exploring an hex takes a 4h block (*Dawn, Midday, Afternoon, Dusk, Evening, Night*). Roll for encounters for each location change. Environmental penalties can happen.
-
----
-
-## Treasures
-
-Each object you find has a certain value:
-
-- trash (worthless)
-- mundane (bag of silver coins)
-- valuable (bag of gold coins)
-- treasure (chest of gold coins)
-
-When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
 
 ---
 
