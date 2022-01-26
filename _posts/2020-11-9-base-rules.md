@@ -5,22 +5,8 @@ title: Base Rules
 
 DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord, particularly [Locheil](https://nothicseye.blogspot.com/).
 
-- [How to Play](#how-to-play)
-- [Creating a Character](#creating-a-character)
-- [Stats & Skills](#stats--skills)
-- [Inventory & Psyche](#inventory--psyche)
-- [Equipment](#equipment)
-- [Combat](#combat)
-- [Dying & Healing](#dying--healing)
-- [Treasures](#treasures)
-- [Leveling Up](#leveling-up)
-
----
-
-## **How to Play**
-
 <details markdown="1">
-<summary><b>Easy and Hard rolls</b></summary>
+<summary><b>How to Play</b></summary>
 Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. 
 
 Sometimes, the referee might tell you that the situation gives you **advantage** or **disadvantage**. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
@@ -30,10 +16,8 @@ That's it!
 
 ---
 
-## **Creating a Character**
-
 <details markdown="1">
-<summary><b>3 Easy Steps</b></summary>
+<summary><b>Creating a Character</b></summary>
 You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll 1D6+2 for each to determine their value.
 
 You also have as many **Hit Points** as your Fortitude score.
@@ -48,7 +32,10 @@ Voilà!
 
 ---
 
-# Stats & Skills
+## Stats & Skills
+
+<details markdown="1">
+<summary><b>What They Do</b></summary>
 
 Your stats and skills cannot be higher than 10.
 
@@ -73,6 +60,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 <ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
 
 <ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
+</details>
 
 ---
 
