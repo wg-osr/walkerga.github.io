@@ -3,11 +3,11 @@ layout: post
 title: Base Rules
 ---
 
-OSR DnD rules compiled and adapted from Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).
+DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord.
 
 # **How to Play**
 
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a D20 and add a number from your character sheet to the result. If the total is 16 or above, your character succeeds in what they intended to do. Either way, the referee describes the new situation, and so on.
+Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a 20-faced die and add a number from your character sheet to the roll. If the situation is easy, the result must be above 10 to succeed, if it's normal, you have to beat 15, and if it's hard, 20. Either way, the referee describes the new situation, and so on. That's it!
 
 - [Creating a Character](#creating-a-character)
 - [Stats & Skills](#stats--skills)
@@ -21,45 +21,46 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 # **Creating a Character**
 
-Roll 3D6 six times, halve the results and note them rounded down. These are, in order, your stats: Strength, Dexterity, Constitution, Intelligence, Wisdom and Charisma.
+You have three main stats: FORTITUDE, DEXTERITY, and WILLPOWER. Roll 1D6+2 for each. The result is your starting score.
 
-Your HP is equal to your Constitution. Your Movement is equal to your Strength
+You also have as many HIT POINTS as your FORTITUDE score.
 
-Choose a [class](https://saltygoo.github.io/classes/). Add the class’s starting equipment, skills and its first template (A) abilities to your character sheet.
+You can have as many things in your INVENTORY as twice your FORTITUDE score.
+You can have as many things in your PSYCHE as twice your WILLPOWER score.
+
+Choose a [CHARACTER CLASS](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your INVENTORY, its skills and spells to your PSYCHE and the class' _Template A_ abilities to your character sheet.
+
+Voilà!
 
 ---
 
 # Stats & Skills
 
-<ins>Strength</ins> represents your physical prowess. It affects the number of things you can carry and your melee attacks.
+Your stats and skills cannot be higher than 10.
 
-<ins>Dexterity</ins> represents your balance, precision and reflexes. It affects your ranged attacks and your chances to dodge attacks.
+<ins>FORTITUDE</ins> represents your physical prowess. You roll it for many strength-related feats like lifting boulders, or wrestling an ogre, but also for health related challenges, such as resisting poison, holding your breath and resisting cold weather.
 
-<ins>Constitution</ins> represents your health. It affects your durability and the number of scars you can bear.
+<ins>DEXTERITY</ins> represents your grace, movement, and reflexes. You roll it to climb, jump and run away, to dodge traps and monster attacks, but also to hit with your own weapon attacks.
 
-<ins>Intelligence</ins> represents your knowledge and capacity to learn. It affects the number of skills you can have.
-
-<ins>Wisdom</ins> represents your instinct and willpower. It is used to resist many spells and affects the number of spells you can know.
-
-<ins>Charisma</ins> represents your personality. It is used for social interactions and affects the number of followers you can have.
-
-<ins>HP</ins> (or Hit Points) is the amount of damage you can take before getting [Wounded](#dying--healing).
-
-<ins>Movement</ins> might be for climbing, jumping, or to escape a monster. When trying to escape, failure means the battle has simply moved to another location.
+<ins>WILLPOWER</ins> represents the strength of your mind and personality. You roll it to see if people believe your lies or are positively reacting to your presence, but also to resist a spell or emotions such as fear.
 
 <details markdown="1">
-<summary>Example</summary>
-*Beau is running away from a troll. He rolls his movement and gets 17, this is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
+<summary><i>Example: Using a Stat</i></summary>
+*Beau is running away from a troll. He rolls a D20 and adds his dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
 </details>
 
-<ins>Armor</ins> is the amount of damage you ignore on each attack.
-
-A <ins>Skill</ins> can be anything (flower arrangement, rolling dice, etc). When asked to roll for an action, you can use one of your skills instead of the stats the referee tells you to use if it would thematically make sense. You can have as many Skills as your Intelligence.
+A <ins>SKILL</ins> can be anything (flower arrangement, swordplay, etc.) and start at a value of 5 . When asked to roll for an action, you can use one of your skill scores instead of the stats the referee tells you to use if it would thematically make sense. Your skills are stored in your PSYCHE.
 
 <details markdown="1">
-<summary>Example</summary>
-*Beau has 3 points of Charisma and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
+<summary>Example: Using a Skill</summary>
+*Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to seduce the troll, the referee asks him to roll charisma, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
 </details>
+
+**other stats**
+
+<ins>HIT POINTS</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
+
+<ins>ARMOR</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
 
 ---
 
@@ -71,18 +72,18 @@ For easy situations, the referee might have you roll higher than 10. For hard si
 
 <details markdown="1">
 <summary>Example</summary>
-*A troll is roughly as fast as a human. When trying to escape one, Beau had to roll above 15. He rolled 12 and added his movement score of 5, for a total of 17, and thus escaped the troll. He ran into a bunch of slow zombies and didn't want to fight them. It's gonna be an easy escape and the referee decides Beau only has to beat 10 to run away.*
+*A troll is roughly as fast as a human. When trying to escape one, Beau had to roll above 15. He rolled 12 and added his movement score of 5, for a total of 17, and thus escaped the troll. He ran into a bunch of slow zombies and didn't want to fight them. It's going to be an easy escape and the referee decides Beau only has to beat 10 to run away.*
 </details>
 
 A referee should only call for a roll when both success and failure have interesting consequences. Sometimes, failure only means that it takes 10 minutes to achieve the action instead of a few seconds. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
-Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacles (shooting from very far, attacking underwater, etc).
+Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacles (shooting from very far, attacking underwater, etc.).
 
 ---
 
 # Combat
 
-<ins>Turn Order:</ins> You act before the monsters, unless they have surprised you.
+<ins>Turn Order:</ins> You act before the monsters unless they have surprised you.
 
 <ins>Your Turn:</ins> On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one combat action, which can be moving further.
 
@@ -118,9 +119,9 @@ Medical care heals all Wounds. Medical care requires you to play another charact
 
 You have as many inventory slots as twice your strength. Small items like potions and daggers can be stacked in packs of 3. Ammunition, in stacks of 12. Each item above your limit lowers your Movement by 1.
 
-It takes an action to retrieve an item, unless it is in your first 3 slots.
+It takes an action to retrieve an item unless it is in your first 3 slots.
 
-In town, you can trade items for other items with the same value : Trash, Mundane, Valuable, and Treasure.
+In town, you can trade items for other items with the same value: Trash, Mundane, Valuable, and Treasure.
 
 ---
 
