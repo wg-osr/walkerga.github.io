@@ -8,7 +8,6 @@ title: Advanced Rules
 - [Conditions](#conditions)
 - [Rare Metals](#rare-metals) (mithril and shit)
 - [Traveling](#traveling)
-- [Between Adventures](#between-adventures) (ways to spend Treasures)
 
 ---
 
@@ -27,19 +26,6 @@ If you want to do more with the elements, you can remove a damage dice from your
 <summary>Example</summary>
 *Margh the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but he wants to capture the enemy alive. Instead, he sacrifices the D8. On a hit, he inflicts 0 damage and the monster's feet are frozen to the ground for a round.*
 </details>
-
----
-
-## Stat Damage
-
-Various monsters and spells can damage your stats instead of your HP. Here is what happens when one of your stats reaches 0:
-
-<ins>Strength:</ins> you are Stunned, yet can talk.<br>
-<ins>Dexterity:</ins> you are Prone and can't stand.<br>
-<ins>Constitution:</ins> you are Dying.<br>
-<ins>Intelligence:</ins> you are Dazed and mute.<br>
-<ins>Wisdom:</ins>the referee takes over<br>
-<ins>Charisma:</ins> you are forgotten. Nobody, even friends, can help you in any way.
 
 ---
 
