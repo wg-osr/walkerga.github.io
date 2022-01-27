@@ -203,7 +203,7 @@ When you are back to town after an adventure, it is time to spend your loot. Her
 
 <details markdown="1">
 <summary><ins>Celebrate</ins></summary>
-Get drunk and get known! For each Valuable spend in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!). Followers take Psyche slots.
+Get drunk and get known! For each Valuable spent in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!). Followers take Psyche slots.
 </details>
 
 <details markdown="1">
