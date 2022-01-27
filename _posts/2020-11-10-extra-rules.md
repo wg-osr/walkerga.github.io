@@ -3,7 +3,7 @@ layout: post
 title: Extra Rules
 ---
 
-Rules that are referee-facing or that complexify the game
+Rules that are referee-facing or that add layers to the game.
 
 ## Conditions
 
