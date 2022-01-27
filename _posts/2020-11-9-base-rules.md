@@ -182,6 +182,16 @@ Medical care heals all Wounds. Medical care happens when you end an adventure in
 ---
 
 <details markdown="1">
+<summary><b>Exploring</b></summary>
+
+Time is tracked differently when you travel outdoors or in a dungeon. **Dungeons** are divided in rooms. Inside a dungeon, any worthwhile action like investigating a room or battling takes 10 minutes. You roll to see if your torches deplete every 10 minutes and the referee rolls for random encounters every 30 minutes. You can cross 10 safe rooms you have explored per 10 minutes, or 3 if you want to be discreet.
+
+The **world outside** of a dungeon is divided in hexagons. Any worthwhile action like crossing a hex or exploring an hex takes a 4h block (*Dawn, Midday, Afternoon, Dusk, Evening, or Night*). The referee rolls for encounters each time you enter a new location, explore a location or rest.
+</details>
+
+---
+
+<details markdown="1">
 <summary><b>Treasures</b></summary>
 
 Each object you find has a certain value assigned by the referee:
