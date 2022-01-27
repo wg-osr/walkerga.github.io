@@ -37,9 +37,9 @@ Voilà!
 
 Your stats and skills cannot be higher than 10.
 
-<ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurence-related feats.
+<ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
 
-<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and runnning away, and also to dodge attacks0 and hit things.
+<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and running away, and also to dodge attacks0 and hit things.
 
 <ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
 
@@ -65,19 +65,19 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 <details markdown="1">
 <summary><b>Inventory, Psyche & Beliefs</b></summary>
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and can only be removed by magic.
+<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but also get filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and they can only be removed by magic.
 
 Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
-<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
+<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
 
-You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar like that.
+You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You can’t, however, get rid of a scar like that.
 
 You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
 
 <details markdown="1">
 <summary><i>Example: Using a Belief</i></summary>
-*Gretchen is figthing a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the session, he can increase one of his skills by 1 as a reward for having acted upon his Belief.*
+*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the session, he can increase one of his skills by 1 as a reward for having acted upon his Belief.*
 </details>
 </details>
 
@@ -143,13 +143,13 @@ This system can be used for **ammunitions** too, in that case, instead of 10 min
 
 _On the monsters' turn, they might attack you. In this case, you'll have to dodge._
 
-<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on an dodge means double damage.
+<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on a dodge means double damage.
 
 <details markdown="1">
 <summary><i>Example: Combat</i></summary>
-*Gretchen is figthing a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
+*Gretchen is fighting a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
 
-*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerfull blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
+*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerful blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
 </details>
 </details>
 
@@ -162,7 +162,7 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 You can spend your turn's action to make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
 
-This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose wether the scar will take an Inventory slot or a Psyche slot. It  cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
+This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. It cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
 
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
@@ -170,11 +170,11 @@ Medical care heals all Wounds. Medical happens when you end an adventure in a sa
 
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
-*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and trys to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
+*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and tries to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
 
 *Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
 
-*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she wont be caught off-guard by a troll. All her rolls against them become easy.*
+*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she won’t be caught off-guard by a troll. All her rolls against them become easy.*
 </details>
 </details>
 
@@ -190,7 +190,7 @@ Each object you find has a certain value assigned by the referee:
 - valuable (bag of gold coins)
 - treasure (bag of platinum coins)
 
-A bag of coins take an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
+A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
 </details>
 
 ---
@@ -224,27 +224,27 @@ You need a [Spellbook](/class/wizard#study) and a Treasure worth of materials to
 
 <details markdown="1">
 <summary><ins>Craft with Materials</ins></summary>
-You need raw materials (like the skin of a monster you slayed) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you spend valuable tools, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
+You need raw materials (like the skin of a monster you’ve slain) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you spend valuable tools, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>
 
 <details markdown="1">
 <summary><ins>Tame a Captured Beast</ins></summary>
-You need to have captured a feral [Beast](/list/monsters-beast). You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each further valuable spent teaches it a one-word order. Otherwise it only acts to eat or in self-defense.
+You need to have captured a feral [Beast](/list/monsters-beast). You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each further valuable spent teaches it a one-word order. Otherwise, it only acts to eat or in self-defence.
 </details>
 
 <details markdown="1">
-<summary><ins>Contact an Horror from Beyond</ins></summary>
-You need to have an eldritch book or a way to contact an [Horror](/list/monsters-aberration). For each Valuable spent in this ritual, roll on the [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) table, choose one and add it to your inventory. It cant be removed. The horrors listed on this website have their own mutation tables with benefits.
+<summary><ins>Contact a Horror from Beyond</ins></summary>
+You need to have an eldritch book or a way to contact an [Horror](/list/monsters-aberration). For each Valuable spent in this ritual, roll on the [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) table, choose one and add it to your inventory. It can’t be removed. The horrors listed on this website have their own mutation tables with benefits.
 </details>
 
 <details markdown="1">
 <summary><ins>Make a Pact with a Celestial Being</ins></summary>
-You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature's description and choose among the quests and rewards your rolled. You are bound to both, and lose your soul if you fail.
+You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature's description, and choose among the quests and rewards your rolled. You are bound to both and lose your soul if you fail.
 </details>
 
 <details markdown="1">
 <summary><ins>Build a Construct</ins></summary>
-You must have an instruction manual. Each [Construct](/list/monsters-construct) has specific instructions in their description, but it always requires magic and a lot of Treasures. On a success, you gain a very powerful follower. It is expected the party pools their ressources together to craft a construct.
+You must have an instruction manual. Each [Construct](/list/monsters-construct) has specific instructions in their description, but it always requires magic and a lot of Treasures. On a success, you gain a very powerful follower. It is expected the party pools their resources together to craft a construct.
 </details>
 
 <details markdown="1">
@@ -259,10 +259,10 @@ You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and
 <details markdown="1">
 <summary><b>Leveling Up</b></summary>
 
-You level up when you spend the equivalent of a Treasure in any of the carousing activities mentionned above. When you level up:
+You level up when you spend the equivalent of a Treasure in any of the carousing activities mentioned above. When you level up:
 
 - Increase your HP by 2 (up to 20 total).
 - Increase one of your stats by 1 (up to 10).
-- Gain the next template of your class, or take the first template of another class (up to 4 templates total).
+- Gain the next template of your class or take the first template of another class (up to 4 templates total).
 
 </details>
