@@ -7,7 +7,7 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 
 <details markdown="1">
 <summary><b>How to Play</b></summary>
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. 
+The referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll to see if you succeed in your action. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. 
 
 Sometimes, the referee might tell you that the situation gives you **advantage** or **disadvantage**. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
 
