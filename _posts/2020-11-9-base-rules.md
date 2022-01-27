@@ -259,7 +259,7 @@ You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and
 <details markdown="1">
 <summary><b>Leveling Up</b></summary>
 
-You level up when you spend the equivalent of a Treasure in any of the activities above. When you level up:
+You level up when you spend the equivalent of a Treasure in any of the carousing activities mentionned above. When you level up:
 
 - Increase your HP by 2 (up to 20 total).
 - Increase one of your stats by 1 (up to 10).
