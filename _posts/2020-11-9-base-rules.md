@@ -63,17 +63,17 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 ---
 
 <details markdown="1">
-<summary><b>Inventory & Psyche</b></summary>
+<summary><b>Inventory, Psyche & Beliefs</b></summary>
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the Scars and mutations you gain along the way. You gain Scars when you get [wounded](#dying--healing) and can only be removed by magic.
+<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but is also filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and can only be removed by magic.
 
 Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
-<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get [Wounded](#dying--healing).
+<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
 
 You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You cant, however get rid of a scar like that.
 
-You can have as many **Beliefs** as you want, and can change and add more of them each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
+You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
 
 <details markdown="1">
 <summary><i>Example: Using a Belief</i></summary>
@@ -156,11 +156,11 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 ---
 
 <details markdown="1">
-<summary><b>Dying and Healing</b></summary>
+<summary><b>Dying, Wounds & Healing</b></summary>
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
-You can spend your turn's action to make a hard Fortitude roll, and any ally that can reach you with the appropriate Skill or tool can spend theirs making a hard Willpower roll to stabilize you. On a success, you stop dying and have 1 HP. You also stop dying if you recover HP any other way.
+You can spend your turn's action to make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
 
 This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose wether the scar will take an Inventory slot or a Psyche slot. It  cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
 
