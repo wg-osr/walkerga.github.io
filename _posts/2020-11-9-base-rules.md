@@ -239,28 +239,30 @@ You need to have an eldritch book or a way to contact an [Horror](/list/monsters
 
 <details markdown="1">
 <summary><ins>Make a Pact with a Celestial Being</ins></summary>
-You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature and choose among the quests and rewards your rolled. You are bound to both, and lose your soul if you fail.
+You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature's description and choose among the quests and rewards your rolled. You are bound to both, and lose your soul if you fail.
 </details>
 
-<ins>Do you have a manual about constructs? or access to real specimens?</ins><br>
-Spend Treasures to **build one**. 1 treasure equals 1 HD of construct.
+<details markdown="1">
+<summary><ins>Build a Construct</ins></summary>
+You must have an instruction manual. Each [Construct](/list/monsters-construct) has specific instructions in their description, but it always requires magic and a lot of Treasures. On a success, you gain a very powerful follower. It is expected the party pools their ressources together to craft a construct.
+</details>
 
-<ins>Have you captured an elemental spirit?</ins><br>
-Spend a Treasure to **bind it to you**: you'll get the power to cast more spells, at a price. Each treasure gives you advantage when rolling the price.
+<details markdown="1">
+<summary><ins>Bind an Elemental to You</ins></summary>
+You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and spend a Treasure in arcane materials. Roll on the binding table in the elemental's description. You also gain a Spell Dice.
+</details>
 
-<ins>Have you access to necromantic tomes?</ins><br>
-You could spend treasures to **become undead**.
+</details>
 
-All these tables are detailed in the monster stat blocks and should be negotiated with the referee.
+---
 
+<details markdown="1">
+<summary><b>Leveling Up</b></summary>
 
-# Leveling Up
+You level up when you spend the equivalent of a Treasure in any of the activities above. When you level up:
 
-In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up. It gains +2 HP and you can select a new class template (up to 4 total).
+- Increase your HP by 2 (up to 20 total).
+- Increase one of your stats by 1 (up to 10).
+- Gain the next template of your class, or take the first template of another class (up to 4 templates total).
 
-Choose a stat, increase it by 1 (up to 10).
-
-After level 4, you get 1 Mastery point instead of any template or bonus.
-
-<ins>Mastery:</ins> You gain a Mastery point when you level up beyond level 4 or bring a skill or a stat to 10. Once per day, you can spend Mastery points to change the result of a roll affecting a nearby ally at a rate of 1 point for 1 point.
 </details>
