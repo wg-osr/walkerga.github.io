@@ -1,32 +1,9 @@
 ---
 layout: post
-title: Advanced Rules
+title: Extra Rules
 ---
 
-- [Damage Types](#damage-types) (damage combos)
-- [Conditions](#conditions)
-- [Rare Metals](#rare-metals) (mithril and shit)
-- [Traveling](#traveling)
-
----
-
-## Damage Types
-
-If you want to do more with the elements, you can remove a damage dice from your attack to have a powerful on-hit effect instead:
-- <ins>Acid:</ins> negate armor for a round.
-- <ins>Cold:</ins> prevent movement for a round.
-- <ins>Electric:</ins> attack another nearby target for 1 dice.
-- <ins>Fire:</ins> destroy a flammable small object.
-- <ins>Mind:</ins> charm for a round.
-- <ins>Magical:</ins> ignore resistance.
-- <ins>Poison:</ins> poison for a round.
-
-<details markdown="1">
-<summary>Example</summary>
-*Morgana the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but he wants to capture the enemy alive. Instead, he sacrifices the D8. On a hit, he inflicts 0 damage and the monster's feet are frozen to the ground for a round.*
-</details>
-
----
+Rules that are referee-facing or that complexify the game
 
 ## Conditions
 
@@ -64,6 +41,24 @@ If you want to do more with the elements, you can remove a damage dice from your
 
 ---
 
+## Damage Types
+
+If you want to do more with the elements, you can remove a damage dice from your attack to have a powerful on-hit effect instead:
+- <ins>Acid:</ins> negate armor for a round.
+- <ins>Cold:</ins> prevent movement for a round.
+- <ins>Electric:</ins> attack another nearby target for 1 dice.
+- <ins>Fire:</ins> destroy a flammable small object.
+- <ins>Mind:</ins> charm for a round.
+- <ins>Magical:</ins> ignore resistance.
+- <ins>Poison:</ins> poison for a round.
+
+<details markdown="1">
+<summary>Example</summary>
+*Morgana the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but he wants to capture the enemy alive. Instead, he sacrifices the D8. On a hit, he inflicts 0 damage and the monster's feet are frozen to the ground for a round.*
+</details>
+
+---
+
 ## Rare Metals
 
 Fairies, elementals, ghosts and devils resist or ignore damage. But some rare metals overcome that. Additionally, Adamantium and Platinum weapons are very useful for fighters because they don't get destroyed when they use their [parry](https://saltygoo.github.io/class/fighter#parry) ability.
@@ -80,13 +75,4 @@ Fairies, elementals, ghosts and devils resist or ignore damage. But some rare me
 
 <ins>Platinum:</ins> Platinum repairs itself in 1 hour. Platinum weapons ignore the resistances of aberrations as well as their horrid immortality.
 
----
-
-## Traveling
-
-Inside a dungeon, any worthwhile action takes 10 minutes. The referee rolls for random encounters every 30 minutes.
-
-On the world map, any worthwhile action like crossing a hex or exploring an hex takes a 4h block (*Dawn, Midday, Afternoon, Dusk, Evening, Night*). Roll for encounters for each location change. Environmental penalties can happen.
-
----
 
