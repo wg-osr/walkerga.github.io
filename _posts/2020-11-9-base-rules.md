@@ -35,7 +35,7 @@ Voilà!
 <details markdown="1">
 <summary><b>Stats & Skills</b></summary>
 
-Your stats and skills cannot be higher than 10.
+Your stats and skills cannot be higher than 10. If a stat becomes 0, you become paralyzed.
 
 <ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
 
