@@ -39,7 +39,7 @@ Your stats and skills cannot be higher than 10.
 
 <ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
 
-<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for feats like climbing, jumping and running away, and also to dodge attacks0 and hit things.
+<ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for mobility feats like climbing, jumping and running away, and also to dodge attacks and hit things.
 
 <ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
 
@@ -55,7 +55,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and
 *Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to roll Willpower, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
 </details>
 
-<ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting [Wounded](#dying--healing).
+<ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting Wounded.
 
 <ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
 </details>
@@ -98,8 +98,8 @@ You can have as many **Beliefs** as you want, and they can be anything. You can 
 1D12 damage, needs two hands
 
 <ins>Pole (spear, halberd)</ins>
-1D8 damage, needs two hands,
-Dodging attacks from creatures you've hit becomes easy
+1D8 damage, needs two hands, <br>
+You have advantage when dodging melee attacks from creatures you've hit this turn
 </details>
 
 <details markdown="1">
@@ -120,14 +120,15 @@ must take one action to recharge
 
 <details markdown="1">
 <summary><b>Armor</b></summary>
-Each worn piece of armor reduces damage by 1. You can't swim while wearing 3 or more pieces of armor.
+Each worn piece of armor reduces damage by 1. <br> 
+You can't swim while wearing 3 or more pieces of armor.
 </details>
 
 <details markdown="1">
 <summary><b>Torches, Ammunitions, & Consumables</b></summary>
-Some items like **torches** have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item before its depleted.
+Some items like **torches** have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item left before it is depleted.
 
-This system can be used for **ammunitions** too, in that case, instead of 10 minutes of usage, you roll after each battle where it was used.
+This system can be used for **ammunitions** too, in that case, instead of 10 minutes of usage, you roll after each battle where ammunition was used.
 </details>
 
 ---
@@ -139,17 +140,17 @@ This system can be used for **ammunitions** too, in that case, instead of 10 min
 
 <ins>**Your Turn:**</ins> You can move nearby, speak and do one other action, like casting a spell or attacking.
 
-<ins>**Attacking:**</ins> The referee will tell you if the attack is easy, normal or hard to hit. Roll Dexterity. If you hit, roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. A die roll of 20 on an attack means double damage.
+<ins>**Attacking:**</ins> The referee will tell you if the target is easy, normal or hard to hit. Roll Dexterity. If you hit, roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it. A die roll of 20 on an attack means double damage.
 
 _On the monsters' turn, they might attack you. In this case, you'll have to dodge._
 
-<ins>**Dodging:**</ins> The referee will tell you if the attack is easy, normal or hard to dodge. Roll Dexterity. A die roll of 1 on a dodge means double damage.
+<ins>**Dodging:**</ins> The referee will tell you if the monster's attack is easy, normal or hard to dodge. Roll Dexterity to avoid it. A die roll of 1 on a dodge means double damage.
 
 <details markdown="1">
 <summary><i>Example: Combat</i></summary>
-*Gretchen is fighting a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
+*Gretchen is fighting a dangerous troll. She acts first. On her turn, she yells at her teammate Beau to stop being a coward, swings her sword at the troll, and moves to the edge of a pit, hoping to lure the monster into a precarious position. The referee tells her to make a normal attack roll, so she rolls a D20 and adds her Dexterity hoping to get above 15. The result is 18, it's a hit! Her sword inflicts 1D8 points of damage to the troll, who is infuriated.*
 
-*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerful blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, reach 0. She starts dying.*
+*It's the troll's turn! The referee announces that the monster chases her to the edge of the pit and swings its club at her. She must dodge! She rolls a D20 and adds her Dexterity. 15! It is not enough to avoid the troll's powerful blow. The referee rolls the monster's damage: 8. Gretchen loses that many Hit Points, bring her to 0. She starts dying.*
 </details>
 </details>
 
@@ -160,19 +161,19 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
-You can spend your turn's action to make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
+While dying, you can spend your whole turn to attempt to stabilize. Make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
 
-This does not heal your accumulated Wounds. When you stop dying, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. It cannot be easily removed. However, it makes all your rolls against the danger that puts you in that situation easy rolls.
+Stabilizing does not heal your accumulated Wounds. Instead, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. As long as you have it, all your rolls against the danger that puts you in that situation easy rolls.
 
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
-Medical care heals all Wounds. Medical happens when you end an adventure in a safe location with healers.
+Medical care heals all Wounds. Medical care happens when you end an adventure in a safe location with healers.
 
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
 *Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and tries to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
 
-*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there, and one hit from it could kill Gretchen. He decides to try pushing the troll down the pit instead, at least to distract it. Success! But on her next turn, Beau fails her hard Fortitude roll again, she now has 2 wounds. Beau attempts to save her using bandages and succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
+*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there and one hit from it could kill Gretchen. He decides to try to push the troll down the nearby pit instead. Success! On her next turn, Gretchen fails her hard Fortitude roll again. She now has 2 wounds. Beau attempts to save her using bandages. He succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
 
 *Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she won’t be caught off-guard by a troll. All her rolls against them become easy.*
 </details>
@@ -202,7 +203,7 @@ When you are back to town after an adventure, it is time to spend your loot. Her
 
 <details markdown="1">
 <summary><ins>Celebrate</ins></summary>
-Get drunk and get known! For each Valuable spend in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!).
+Get drunk and get known! For each Valuable spend in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!). Followers take Psyche slots.
 </details>
 
 <details markdown="1">
@@ -212,7 +213,7 @@ Spending a Valuable this way will give you 1 piece of mundane furniture. If you 
 
 <details markdown="1">
 <summary><ins>Train a Skill</ins></summary>
-Spending a Valuable this way will let you increase one of your skills by 1. If you end up spending the equivalent of a Treasure, you can learn a new skill of your choice and put 5 points in it.
+Spending a Valuable this way will let you increase one of your skills by 1. If you end up spending the equivalent of a Treasure, you can learn a new skill of your choice instead and put 5 points in it.
 </details>
 
 _Some options open up when you have access to specific things:_
@@ -229,17 +230,17 @@ You need raw materials (like the skin of a monster you’ve slain) to craft and 
 
 <details markdown="1">
 <summary><ins>Tame a Captured Beast</ins></summary>
-You need to have captured a feral [Beast](/list/monsters-beast). You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each further valuable spent teaches it a one-word order. Otherwise, it only acts to eat or in self-defence.
+You need to have captured a feral [Beast](/list/monsters-beast). You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each extra valuable spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence.
 </details>
 
 <details markdown="1">
 <summary><ins>Contact a Horror from Beyond</ins></summary>
-You need to have an eldritch book or a way to contact an [Horror](/list/monsters-aberration). For each Valuable spent in this ritual, roll on the [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) table, choose one and add it to your inventory. It can’t be removed. The horrors listed on this website have their own mutation tables with benefits.
+You need to have an eldritch book or a way to contact an [Horror](/list/monsters-aberration). For each Valuable spent in this ritual, roll on the [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) table, choose one of the results and add it to your Inventory. The specific horrors listed on this website have their own mutation tables with extra potential benefits.
 </details>
 
 <details markdown="1">
 <summary><ins>Make a Pact with a Celestial Being</ins></summary>
-You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature's description, and choose among the quests and rewards your rolled. You are bound to both and lose your soul if you fail.
+You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table in the divine creature's description, then choose among the quests and rewards your rolled. You become bound to both and lose your soul if you fail the quest.
 </details>
 
 <details markdown="1">
