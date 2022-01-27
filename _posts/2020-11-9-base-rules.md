@@ -121,7 +121,7 @@ must take one action to recharge
 <details markdown="1">
 <summary><b>Armor</b></summary>
 Each worn piece of armor reduces damage by 1. <br> 
-You can't swim while wearing 3 or more pieces of armor.
+You can't swim, sneak or jump while wearing 3 or more pieces of armor.
 </details>
 
 <details markdown="1">
