@@ -120,7 +120,7 @@ must take one action to recharge
 
 <details markdown="1">
 <summary><b>Armor</b></summary>
-Each worn piece of armor reduces damage by 1. You cant swim while wearing 3 or more pieces of armor.
+Each worn piece of armor reduces damage by 1. You can't swim while wearing 3 or more pieces of armor.
 </details>
 
 <details markdown="1">
@@ -196,40 +196,51 @@ A bag of coins take an Inventory slot. When in town, you can trade items from on
 ---
 
 <details markdown="1">
-<summary><b>Leveling Up</b></summary>
+<summary><b>Carousing!</b></summary>
 
-Leveling up is just one way of gaining new powers. This is where you can convert treasures into character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
+When you are back to town after an adventure, it is time to spend your loot. Here are a few options:
 
-Spend a Treasure to **carouse**! <br>
-You will attract new (non-combatant) [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html "Coins and Scrolls"), but there is a risk you end up partying a [bit too hard](https://jrients.blogspot.com/2008/12/party-like-its-999.html "Jeff's Gameblog") if you fail a constitution roll. **You level up!**
+<details markdown="1">
+<summary><ins>Celebrate</ins></summary>
+Get drunk and get known! For each Valuable spend in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!).
+</details>
 
-Spend a Treasure to **build a base**!<br>
-1 Treasure can build a basic 30'30' room, and one Valuable can be traded for 1 piece of standard furniture.
+<details markdown="1">
+<summary><ins>Build a Home</ins></summary>
+Spending a Valuable this way will give you 1 piece of mundane furniture. If you end up spending the equivalent of a Treasure, you also become the owner of a 30' x 30' structure of the shape you want.
+</details>
 
-Spend a Treasure to **learn new skills**!<br>
-As long as you can find somebody who is an expert in them. Spend 1 Treasure to learn a new skill (+4) or improve a skill you already know (+2). You can do that once per skill between each adventure. Alternatively, you can spend a Treasure to learn a new attack from a creature you can train with. Ask the referee.
+<details markdown="1">
+<summary><ins>Train a Skill</ins></summary>
+Spending a Valuable this way will let you increase one of your skills by 1. If you end up spending the equivalent of a Treasure, you can learn a new skill of your choice and put 5 points in it.
+</details>
 
-Spend a Treasure to **hire new hirelings**!<br>
-By default you have the choice between a specialist who can sneak and climb, or a fighter who comes equipped with armor and weapons. They have 0 hit points, 5 in all stats and are not suicidal. Each location can have more class options depending on the culture, at the referee's discretion. Hireling spellcasters know 1 spell. Hiring somebody costs 1 treasure, and they expect to be paid 1 treasure per adventure.
+_Some options open up when you have access to specific things:_
 
-<ins>Are you a magic user?</ins><br>
-Spend a Treasure to **research new spells**!<br>
-A Treasure spent in research allows you to copy one spell from a scroll or spell book into your own spell book. Buying a spell scroll also costs 1 treasure.<br>
-A Treasure spent in research allows you to create new spells by combining spells using [spell word](https://saltygoo.github.io/class/magic-user#spell-words).
+<details markdown="1">
+<summary><ins>Study a Spellbook</ins></summary>
+You need a [Spellbook](/class/wizard#study) and a Treasure worth of materials to study magic. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
+</details>
 
-<ins>Do you have access to the dead body of a beast, or other raw materials?</ins><br>
-Spend Treasures to **craft**!<br>
-Ask the referee what makes sense to do with the materials, but don't be afraid to give ideas. If a Treasure is spent crafting an object, it will be magical.
+<details markdown="1">
+<summary><ins>Craft with Materials</ins></summary>
+You need raw materials (like the skin of a monster you slayed) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you spend valuable tools, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
+</details>
 
-<ins>Do you have access to a living beast?</ins><br>
-Spend Treasures to **tame it**!<br>
-1 Treasure makes the creature friendly to 1 person. 1 Treasure teaches it a one-word order.
+<details markdown="1">
+<summary><ins>Tame a Captured Beast</ins></summary>
+You need to have captured a feral [Beast](/list/monsters-beast). You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each further valuable spent teaches it a one-word order. Otherwise it only acts to eat or in self-defense.
+</details>
 
-<ins>Do you have access to forbidden eldritch knowledge?</ins><br>
-Spend a Treasure to **research eldritch knowledge** and roll on their mutation tables. Some are even beneficial! Each Treasure gives you advantage on that roll.
+<details markdown="1">
+<summary><ins>Contact an Horror from Beyond</ins></summary>
+You need to have an eldritch book or a way to contact an [Horror](/list/monsters-aberration). For each Valuable spent in this ritual, roll on the [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) table, choose one and add it to your inventory. It cant be removed. The horrors listed on this website have their own mutation tables with benefits.
+</details>
 
-<ins>Can you talk with a devil or celestial?</ins><br>
-Spend a Treasure to **negotiate a pact**: you'll get a gift and a quest. Each Treasure allows you to choose between more options for your gift and quest.
+<details markdown="1">
+<summary><ins>Make a Pact with a Celestial Being</ins></summary>
+You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table of the divine creature and choose among the quests and rewards your rolled. You are bound to both, and lose your soul if you fail.
+</details>
 
 <ins>Do you have a manual about constructs? or access to real specimens?</ins><br>
 Spend Treasures to **build one**. 1 treasure equals 1 HD of construct.
