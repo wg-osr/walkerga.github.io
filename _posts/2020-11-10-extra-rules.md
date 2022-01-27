@@ -7,17 +7,35 @@ Rules that are referee-facing or that add layers to the game.
 
 ## Conditions
 
-<ins>Blinded:</ins> You can't see or make ranged attacks. Attacking and Dodging are hard rolls.
+<details markdown="1">
+<summary><b>Blindness</b></summary>
+You can't see or make ranged attacks. Attacking and Dodging are hard rolls.
+</details>
 
-<ins>(Not) Breathing:</ins> You can hold your breath for as many rounds as your Fortitude. If you take damage while holding your breath, you must make a Fortitude save. On failure, you start dying.
+<details markdown="1">
+<summary><b>(Not) Breathing</b></summary>
+You can hold your breath for as many rounds as your Fortitude. If you take damage while holding your breath, you must make a Fortitude save. On failure, you start dying.
+</details>
 
-<ins>Charmed:</ins> You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1 mind damage.
+<details markdown="1">
+<summary><b>Charmed</b></summary>
+You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1 mind damage.
+</details>
 
-<ins>Confused:</ins> Roll a D6. You must spend your turn interacting with: 1) the player on your right; 2) the player on your left; 3) yourself; 4) the closest monster; 5) the environment; 6) oblivion.
+<details markdown="1">
+<summary><b>Confused</b></summary>
+Roll a D6. You must spend your turn interacting with: 1) the player on your right; 2) the player on your left; 3) yourself; 4) the closest monster; 5) the environment; 6) oblivion.
+</details>
 
-<ins>Cursed:</ins> You cannot benefit from any magic.
+<details markdown="1">
+<summary><b>Cursed</b></summary>
+You cannot benefit from magic.
+</details>
 
-<ins>Dazed:</ins> You can act OR move on your turn.  
+<details markdown="1">
+<summary><b>Dazed</b></summary>
+You can act OR move on your turn.  
+</details>
 
 <ins>Deafened:</ins> You can't hear. Your teammates cannot talk to you or about you.
 
