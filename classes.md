@@ -14,7 +14,6 @@ permalink: /classes/
 The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
-  - The [Bodybuilder](/class/fighter/cacus)
   - The [Cyclops](/class/fighter/cyclopskin)
   - The [Githyanki](/class/fighter/githyanki)
   - The [Hobgoblin](/class/fighter/hobgoblin)
@@ -41,6 +40,7 @@ The [Wizard](/class/wizard)
 The [Specialist](/class/specialist)
 <details markdown="1">
   <summary>Specialist-Type Classes</summary>
+  - The [Bodybuilder](/class/cacus)
   - The [Dwarf](/class/specialist/dwarf)
   - The [Spiderfolk](/class/ettercap)
   - The [Ghoul](/class/fighter/ghoul)
