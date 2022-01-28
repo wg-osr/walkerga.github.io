@@ -22,8 +22,8 @@ For every Fighter template you have, you gain a bonus of 1 to you attack rolls.
 **D:** Double Attack <br>
 
 ## Weapon Training
-Your weapons have different effects depending on the type of damage you decide to inflict with them:
-- <ins>Bludgeoning:</ins> You can reduce your damage die by 1 size (1D8>1D6>1D4 etc) and attempt to shove as part of your attack.
+Your weapons have different effects depending on the type of damage you inflict with them:
+- <ins>Bludgeoning:</ins> You can roll FOR after you hit to knock the target back or prone.
 - <ins>Piercing:</ins> Hitting a [prone](/2020/11/10/extra-rules/#conditions) or suprised target inflicts 1D6 extra damage.
 - <ins>Slashing:</ins> When you roll max damage, you can make another attack.
 
@@ -36,5 +36,8 @@ You can have as many [Scars](/2020/11/09/base-rules/) as your WIL without them t
 ## Steel Gaze
 You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid angering you at all costs, or focus all their anger on you, ignoring your teammates. Weak creatures are any monster with 2 HD or less.
 
-## Double Attack
-You can attack twice during your turn.
+## Weapon Mastery
+Your weapons have different effects depending on the type of damage you inflict with them:
+- <ins>Bludgeoning:</ins> You knock non-giant targets back or prone with your attacks.
+- <ins>Piercing:</ins> Hitting a [prone](/2020/11/10/extra-rules/#conditions) or suprised unnamed target kills it.
+- <ins>Slashing:</ins> You make two attacks.
