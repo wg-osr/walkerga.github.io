@@ -126,7 +126,7 @@ Silvered weapons ignore all the resistances of undead creatures and of creatures
 ## Elemental Effects
 
 <details markdown="1">
-<summary>When you would roll elemental damage, you can replace a damage die with one of the following effects.</summary>
+<summary>When you would roll elemental damage, you can replace a damage die with one of these effects.</summary>
 
 - <ins>Acid:</ins> negate armor for a round.
 - <ins>Cold:</ins> prevent movement for a round.
