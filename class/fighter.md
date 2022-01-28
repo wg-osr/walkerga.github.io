@@ -4,7 +4,7 @@ title: The Fighter
 permalink: /class/fighter
 ---
 
-###### Adapted from Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter) and Vayra's [Version](https://madqueenscourt.blogspot.com/search?q=fighter)
+###### Adapted from Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter) and Vayra's [Version](https://madqueenscourt.blogspot.com/search?q=fighter). Image by [Eric Lofgren](https://www.dmsguild.com/product/124760/Eric-Lofgren-Presents-Female-Human-Fighter).
 
 <img align="right" width=230px src="http://www.misfit-studios.com/img/EricLofgren_female_human_fighteronline.jpg">
 
