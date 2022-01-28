@@ -6,10 +6,7 @@ permalink: /class/fighter/githyanki
 
 <img align="right" width=250px src="/images/githyanki.jpg">
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*Githyankis are one of the few original cool things from DnD. For me, they are loved for two iconic features: they defined the trope of the fighter-mage, and they are astral pirates that cut the silver threads that bind astral travelers to their physical body. I also tumbled on a yank pun along the way. The result is a wacky hyper-aggressive and hyper-mobile class that bounces around everything. The illustration is by Russ Nicholson. — SaltyGoo*
-</details>
+##### A monster class for the [Githyanki](/monsters/githyanki), magical pirates of the astral sea. Illustration is by Russ Nicholson
 
 <ins>Starting Equipment</ins><br>
 A Silver Weapon, and your choice of a cool Leather Armor, a Grappling Hook with a 60' Rope, or a random [spell scroll](https://saltygoo.github.io/list/spells)
