@@ -37,4 +37,4 @@ Once per encounter, you can give a one-word command to a humanoid that is smalle
 When you eat a ration, you can recover 1D6 HP. If you do, you need to eat an extra ration this day.
 
 ## Strength of Food
-You take half damage from the last thing you ate and your rolls to destroy things like it are easy if it was an object. If it was a magic item, you gain its powers.
+You take half damage from the last thing you ate and, if it was an object, your rolls to destroy things like it are easy. If it was a magic item, you gain its powers.
