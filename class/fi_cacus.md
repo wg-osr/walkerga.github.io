@@ -33,8 +33,8 @@ While you are oiled up, you have advantage when you attempt to seduce or charm.
 ## Oiled Up II
 While you are oiled up, you cannot be grappled.
 ## Scoundrel
-When you succeed in a fighting maneuver, you can plant or steal a small object on your opponent without being notice.
+When you succeed in a wrestling maneuver, you can plant or steal a small object on your opponent without being notice.
 ## Oiled Up III
-When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
+When you are oiled up and an enemy misses a melee attack against you, you can make a wrestling maneuver against it.
 ## Spitfire
 Your _Body Oil_ ability takes 1 action to do instead of 10 minutes and you can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
