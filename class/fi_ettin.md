@@ -8,7 +8,7 @@ permalink: /class/fighter/ettin
 
 ###### A monster class for the [Ettin](/monsters/ettin), a two-headed giant. Image by Jim Holloway.
 
-*THIS IS A CLASS FOR TWO PLAYERS SHARING A BODY*
+**This class if for two players sharing one body!**
 
 <ins>Starting Equipment</ins><br>
 A one-handed weapon of your choice, Half an Outfit, and your choice of a Bag of Bricks, a distinctive Helmet or a Blowhorn.
