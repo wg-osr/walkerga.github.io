@@ -4,10 +4,9 @@ title: Lizardfolk
 permalink: /class/fighter/lizardfolk
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*This is a monster class for the [lizardfolk](https://saltygoo.github.io/monsters/lizardfolk). I wanted to emulate how I remember how the komodo dragon hunts: takes a bite, waits for the wound to fester or the prey to get exhausted, take another bite, repeat. — SaltyGoo*
-</details>
+###### A monster class for the [Lizardfolk](https://saltygoo.github.io/monsters/centaur), designed to fight like a komodo dragon. Illustration by D. A. Trampier.
+
+<img align="right" width=230px  src="https://static.wikia.nocookie.net/forgottenrealms/images/a/a1/Lizardman_1e_mm.jpg/revision/latest?cb=20210202055912">
 
 <ins>Starting Equipment</ins><br>
 A Shield, a Trident and a Net.
