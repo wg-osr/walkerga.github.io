@@ -6,13 +6,10 @@ permalink: /class/fighter/hobgoblin
 
 <img align="right" width=200px src="https://i.pinimg.com/originals/f6/15/11/f61511733e70507edfc2de2f86c33bc7.jpg">
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*Hobgoblins have become so humanized in DnD that they are now indistinguishable from a normal human. I decided to push back a bit against that and play them as the leaders of infinitely multiplying minions. I couldn't find the credit of this image if anybody knows it. — SaltyGoo*
-</details>
+###### A monster class for the [Hobgoblin](/monsters/hobgoblin), the more intelligent and vicious cousins of the goblins. Illustrator unknown.
 
 <ins>Starting Equipment</ins><br>
-A Leather Armor, a Weapon of your choice, and choose one of a 10' Chain, two crappy Shivs (1D4 damage), or a Stink Bomb
+A Leather Breastplate, a Weapon of your choice, and choose one of a 10' Chain, two crappy Shivs (1D4 damage), or a Stink Bomb
 
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Wolf Rider, Legionnaire, Dumpyard Bully, or Goblin Slaver
