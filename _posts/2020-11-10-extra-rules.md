@@ -5,7 +5,7 @@ title: Extra Rules
 
 Rules that are referee-facing or that add layers to the game.
 
-## Conditions
+### Conditions
 
 <details markdown="1">
 <summary><b>Blindness</b></summary>
@@ -37,25 +37,55 @@ You cannot benefit from magic.
 You can act OR move on your turn.  
 </details>
 
-<ins>Deafened:</ins> You can't hear. Your teammates cannot talk to you or about you.
+<details markdown="1">
+<summary><b>Deafened</b></summary>
+You can't hear. Your teammates cannot talk to you or about you.
+</details>
 
-<ins>Dying:</ins> See [Dying, Wounds & Healing](/2020/11/09/base-rules/).
+<details markdown="1">
+<summary><b>Dying</b></summary>
+See [Dying, Wounds & Healing](/2020/11/09/base-rules/) in the base rules.
+</details>
 
-<ins>Fatigued:</ins> -1 to your Inventory and Psyche slots. Cumulative.
+<details markdown="1">
+<summary><b>Exhausted</b></summary>
+-1 Inventory and Psyche slots. Cumulative.
+</details>
 
-<ins>Frightened:</ins> You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop whatever you are holding; 2) scream; 3) fall prone; 4) grapple the closest ally or object; 5) you are stunned for one turn; 6) run away.
+<details markdown="1">
+<summary><b>Frightened</b></summary>
+You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop whatever you are holding; 2) scream; 3) fall prone; 4) grapple the closest ally or object; 5) you are stunned for one turn; 6) run away.
+</details>
 
-<ins>Grappled:</ins> Cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can't breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
+<details markdown="1">
+<summary><b>Grappled</b></summary>
+You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can't breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
+</details>
 
-<ins>Invisible:</ins> Attacking and Dodging are easy rolls. You cannot be seen.
+<details markdown="1">
+<summary><b>Invisible</b></summary>
+Attacking and Dodging are easy rolls. You cannot be seen.
+</details>
 
-<ins>Petrified:</ins> You are stunned. You resist the first 10 damage of each attack.
+<details markdown="1">
+<summary><b>Petrified</b></summary>
+You skip your turn. All rolls are hard. You resist the first 10 damage of each attack.
+</details>
 
-<ins>Poisoned:</ins> You are disadvantaged in all your actions. Specific poisons can have unique additional effects too.
+<details markdown="1">
+<summary><b>Poisoned</b></summary>
+You are disadvantaged in all your actions. Specific poisons can have unique additional effects too.
+</details>
 
-<ins>Prone:</ins> Attacking and dodging in melee is hard. Dodging ranged attacks is easy. Standing up takes all your turn's movement.
+<details markdown="1">
+<summary><b>Prone</b></summary>
+Attacking and dodging in melee is hard. Dodging ranged attacks is easy. Standing up takes all your turn's movement.
+</details>
 
-<ins>Stunned:</ins> You skip your turn. All rolls are hard.
+<details markdown="1">
+<summary><b>Stunned</b></summary>
+You skip your turn. All rolls are hard.
+</details>
 
 ---
 
