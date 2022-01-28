@@ -4,7 +4,7 @@ title: The Centaur
 permalink: /class/centaur
 ---
 
-<img align="right" width=230px  src="https://p7.hiclipart.com/preview/641/88/953/centaur-legendary-creature-greek-mythology-firenze-t-shirt-centaur.jpg">
+<img align="right" width=230px  src="https://free.clipartof.com/676-Free-Clipart-Of-A-Centaur.jpg">
 
 ###### A monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur), half-humans, half horses. But could also be used for a litteral horse.
 
