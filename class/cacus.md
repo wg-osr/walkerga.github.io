@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Bodybuilder
-permalink: /class/fighter/cacus
+permalink: /class/cacus
 ---
 
 ###### A monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus), a greco-roman cattle-stealing, fire-breathing giant who wrestled Hercules.
