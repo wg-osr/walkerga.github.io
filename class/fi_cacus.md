@@ -33,6 +33,6 @@ When you succeed in a fighting maneuver, you can plant or steal a small object o
 ## Oiled Up III
 When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
 ## Font of Shine
-You can use your Body Oil ability twice per day, and it takes 1 action instead of 10 minutes.
+You can use your Body Oil ability twice per day, and it takes 1 action to do instead of 10 minutes.
 ## Spitfire
 You can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
