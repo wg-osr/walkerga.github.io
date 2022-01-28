@@ -9,7 +9,7 @@ permalink: /class/cyclops
 <img align="right" width=200px  src="https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Cyclops-1e.jpg">
 
 <ins>Starting Equipment</ins><br>
-Choose three times: a Club, a Boulder, a Sheep.
+A Club, and choose three times: a Boulder or a Sheep.
 
 <ins>Starting Skills (+5)</ins><br>
 Throwing, and your choice of Island life, Orc Culture, or Mountain Life.
