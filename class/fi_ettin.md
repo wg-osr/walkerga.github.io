@@ -4,7 +4,6 @@ title: The Two-Headed Giant
 permalink: /class/fighter/ettin
 ---
 
-
 <img align="right" width=230px src="https://docplayer.fr/docs-images/103/161384179/images/54-4.jpg">
 
 ###### A monster class for the [Ettin](/monsters/ettin), a two-headed giant. Image by Jim Holloway.
@@ -15,7 +14,7 @@ permalink: /class/fighter/ettin
 A one-handed weapon of your choice, Half an Outfit, and your choice of a Bag of Bricks, a distinctive Helmet or a Blowhorn.
 
 <ins>Starting Skills (+5)</ins><br>
-"Your other half" and your choice of Smashing, Smelling or Arguing
+"Your other half" and your choice of Smashing, Smelling or Arguing.
 
 For every Two-Headed Giant template you have, you gain 1 daily **Collaboration Die** (D6).
 
