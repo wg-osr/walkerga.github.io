@@ -4,7 +4,7 @@ title: The Bodybuilder
 permalink: /class/fighter/cacus
 ---
 
-<img align="right" width=230px src="https://images.fineartamerica.com/images-medium-large/hercules-granger.jpg">
+<img align="right" width=230px src="https://thumbs.dreamstime.com/b/%E5%A4%A7%E5%8A%9B%E7%A5%9E%E4%B8%8E%E5%B0%BC%E6%9B%BC%E7%8B%AE-%E5%A4%A7%E5%8A%9B%E7%A5%9E%E4%B8%8E%E5%B0%BC%E6%A2%85%E6%81%A9%E7%8B%AE%E4%BD%9C%E4%B8%BA%E4%BB%96%E7%9A%84%E5%8D%81%E4%BA%8C%E9%A1%B9%E4%BB%BB%E5%8A%A1%E4%B9%8B%E4%B8%80-%E4%BB%8E%E5%8F%A4%E5%B8%8C%E8%85%8A%E7%A5%9E%E8%AF%9D%E4%B8%AD-170280522.jpg">
 
 <details markdown="1">
 <summary>Design Notes</summary>
