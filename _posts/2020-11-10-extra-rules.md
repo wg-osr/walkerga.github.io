@@ -87,8 +87,6 @@ Attacking and dodging in melee is hard. Dodging ranged attacks is easy. Standing
 You skip your turn. All rolls are hard.
 </details>
 
----
-
 ## Rare Metals
 
 <details markdown="1">
@@ -120,8 +118,6 @@ Radium sheds light like a candle. It ignores the resistances of celestial creatu
 <summary>Silver</summary>
 Silvered weapons ignore all the resistances of undead creatures and of creatures that are not in their true form.
 </details>
-
----
 
 ## Elemental Effects
 
