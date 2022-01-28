@@ -6,6 +6,8 @@ permalink: /class/fighter/cyclopskin
 
 ###### A monster class for the [Cyclops](/monsters/cyclops), a one-eyed, sheep-herding giant blinded by Ulysses.
 
+<img align="right" width=200px  src="https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Cyclops-1e.jpg">
+
 <ins>Starting Equipment</ins><br>
 Club, Boulder, Pteruges Skirt.
 
