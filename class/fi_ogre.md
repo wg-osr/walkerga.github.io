@@ -19,7 +19,7 @@ For every Ogre template you have, you grow 1’ tall and wide, giving you an ext
 
 **A:** Bulk, Smash<br>
 **B:** Bully<br>
-**C:** <br>
+**C:** Lunch<br>
 **D:** Strength of Food<br>
 
 ## Bulk
@@ -33,7 +33,7 @@ Your melee attacks inflict +1 damage per inventory slots you have taken by Fat.
 ## Bully
 Once per encounter, you can give a one-word command to a humanoid that is smaller than you. The creature can choose to fall prone instead of obeying the order.
 
-## Bottomless
+## Lunch
 When you eat a ration, you can recover 1D6 HP. If you do, you need to eat an extra ration this day.
 
 ## Strength of Food
