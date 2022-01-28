@@ -34,7 +34,7 @@ Once per battle, you can destroy a weapon or a shied you are holding to protect 
 You can have as many [Scars](/2020/11/09/base-rules/) as your WIL without them taking inventory slots.
 
 ## Steel Gaze
-You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid angering you at all costs, or focus all their anger on you, ignoring your teammates. Weak creatures are any monster with 2 HD or less.
+You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid fighting you at all costs, or gang up on you, ignoring your teammates. Weak creatures are any monster with 2 HD or less.
 
 ## Weapon Mastery
 Your weapons have different effects depending on the type of damage you inflict with them:
