@@ -39,5 +39,5 @@ You project an intimidating aura that lets people know you are a skilled warrior
 ## Weapon Mastery
 Your weapons have different effects depending on the type of damage you inflict with them:
 - <ins>Bludgeoning:</ins> Damaging a non-gigantic target knocks it [prone](/2020/11/10/extra-rules/#conditions).
-- <ins>Piercing:</ins> Damaging a [prone](/2020/11/10/extra-rules/#conditions) or suprised _unnamed_ target kills it.
+- <ins>Piercing:</ins> Damaging a [prone](/2020/11/10/extra-rules/#conditions) or surprised _unnamed_ living target kills it.
 - <ins>Slashing:</ins> You make two attacks.
