@@ -15,24 +15,24 @@ Choose between your Failed Medieval Career, Sewers Life, or Aberrations.
 For every Mutant template you have, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 **A:** Font of Flesh, Reactive Mutation<br>
-**B:** Regeneration<br>
-**C:** Evolution<br>
+**B:** Evolution<br>
+**C:** Regeneration<br>
 **D:** Gift of Flesh<br>
 
 ## Font of Flesh
-You can have as many mutations as your CON score. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+Your mutations dont take Inventory slots. You can have as many mutations as your FORT score instead. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 ## Reactive Mutation
-Once per game, when you would be hit by something (physical, emotional or magical), you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now have advantage against that specific danger as defined by the Referee as long as you have this mutation. 
-
-## Regeneration
-You can spend your turn gruesomely regenerating. You heal 1D6 Wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+When you would be affected by something, you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now resist that type of danger as defined by the Referee as long as you have this mutation. 
 
 ## Evolution
 Once per game, when you gain a new mutation, you can choose to replace an existing one instead.
 
+## Regeneration
+You can spend your turn gruesomely regenerating. You heal 1D6 Wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+
 ## Gift of Flesh
-You can touch a willing creature and use your regeneration ability on it (*they also explode if they go above their CON score*)
+You can touch a willing creature and use your regeneration ability on it. Their mutations take an inventory slot.
 
 <br>
 
