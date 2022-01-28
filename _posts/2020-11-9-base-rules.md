@@ -277,3 +277,23 @@ You level up when you spend the equivalent of a Treasure in any of the carousing
 - Gain the next template of your class or take the first template of another class (up to 4 templates total).
 
 </details>
+
+---
+
+<details markdown="1">
+<summary><b>Spellcasting</b></summary>
+Some classes can cast spells. They have Spell Dice (SD).
+
+<ins>Casting a Spell</ins><br>
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. 
+
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
+
+Every time you roll doubles you get closer to *Catastrophe*.
+
+<ins>Catastrophe</ins><br>
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They will end your wizardly career if you don’t quest to avoid your doom.
+
+<ins>Sigil</ins><br>
+Some spells mention a Sigil. It's your unique symbol. A spell cast with a Sigil takes 10 minutes to cast, but lasts forever. You can have as many Sigils up as you have templates of a spellcasting class.
+</details>
