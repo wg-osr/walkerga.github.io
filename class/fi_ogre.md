@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Ogre
-permalink: /class/fighter/ogre
+permalink: /class/ogre
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*This was initially a monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), but it could be reflavored as any big hungry bully. It's part of a cycle of classes with the [pigfolk](https://saltygoo.github.io/class/specialist/pigfolk) that explore the fat mechanic. Players taking this class should aim to become as fat as possible. The ogre class is pretty weak when skinny, but has a very high power potential. — SaltyGoo*
-</details>
+
+###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustration by D. A. Trampier.
+
+<img align="right" width=230px  src="https://images.dakkadakka.com/gallery/2010/11/11/154474_sm-80%C2%B4s%2C%20Artwork%2C%20Drawing%2C%20Drawings%2C%20Ogres%2C%20Old%2C%20Old%20Style%2C%20School%2C%20Style.jpg">
 
 <ins>Starting Equipment</ins><br>
 A Club, 2 Rations and a Big Pot.
