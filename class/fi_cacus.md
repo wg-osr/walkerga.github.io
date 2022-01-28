@@ -37,4 +37,4 @@ When you succeed in a fighting maneuver, you can plant or steal a small object o
 ## Oiled Up III
 When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
 ## Spitfire
-Your Body Oil ability takes 1 action to do instead of 10 minutes and you can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
+Your _Body Oil_ ability takes 1 action to do instead of 10 minutes and you can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
