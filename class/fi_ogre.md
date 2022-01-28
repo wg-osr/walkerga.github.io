@@ -15,27 +15,26 @@ A Club, 2 Rations and a Big Pot.
 <ins>Starting Skills (+5)</ins><br>
 Smashing and your choice of Food, Goblins or Bullying.
 
-For every Ogre template you have, you get more fat (it takes one inventory slot), and you grow 1’ .
+For every Ogre template you have, you grow 1’ tall and wide, giving you an extra Inventory slot filled with **Fat**.
 
-**A:** Big, Bulk, Belly<br>
-**B:** Smash<br>
-**C:** Bully<br>
+**A:** Bulk, Smash<br>
+**B:** Bully<br>
+**C:** <br>
 **D:** Strength of Food<br>
 
-## Big
-All objects of the same type in your inventory can be stacked in packs of three, even if they are not small (*three swords take 1 inventory slot*).
-
 ## Bulk
-For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [Treasure](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
+You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat at least two rations per day, you lose 1 layer of fat.
 
-## Belly
-You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat the equivalent of two rations per day, you lose 1 layer of fat.
+For each inventory slot you have taken by Fat, increase your HP by 1. When in town between adventures, if you spend the equivalent of a Treasure [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with Fat.
 
 ## Smash
-You can replace your melee damage rolls with the number of inventory slots you have taken by fat.
+Your melee attacks inflict +1 damage per inventory slots you have taken by Fat.
 
 ## Bully
-Once per encounter, you can give a one-word command to a creature that is smaller than you. The creature can choose to fall prone instead of obeying the order.
+Once per encounter, you can give a one-word command to a humanoid that is smaller than you. The creature can choose to fall prone instead of obeying the order.
+
+## Bottomless
+When you eat a ration, you can recover 1D6 HP. If you do, you need to eat an extra ration this day.
 
 ## Strength of Food
-You take half damage from the last thing you ate and you have advantage on your rolls to destroy it if it was an object. If it was a magic item, you gain its powers.
+You take half damage from the last thing you ate and your rolls to destroy things like it are easy if it was an object. If it was a magic item, you gain its powers.
