@@ -6,7 +6,7 @@ permalink: /class/fighter/cacus
 
 <img align="right" width=250px src="https://klike.net/uploads/posts/2021-05/1620624126_24.jpg">
 
-###### Initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who wrestled Hercules. Illustration by Christos Georghiou.
+###### A monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus), a greco-roman cattle-stealing, fire-breathing giant who wrestled Hercules. Illustration by Christos Georghiou.
 
 <ins>Starting Equipment</ins><br>
 10' Hooked Shepherd staff, Loincloth, Sheep.
