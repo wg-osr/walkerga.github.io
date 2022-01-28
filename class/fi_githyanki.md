@@ -6,7 +6,7 @@ permalink: /class/fighter/githyanki
 
 <img align="right" width=250px src="/images/githyanki.jpg">
 
-##### A monster class for the [Githyanki](/monsters/githyanki), magical pirates of the astral sea. Illustration is by Russ Nicholson
+###### A monster class for the [Githyanki](/monsters/githyanki), magical pirates of the astral sea. Illustration is by Russ Nicholson
 
 <ins>Starting Equipment</ins><br>
 A Silver Weapon, and your choice of a cool Leather Armor, a Grappling Hook with a 60' Rope, or a random [spell scroll](https://saltygoo.github.io/list/spells)
@@ -37,9 +37,9 @@ For every Githyanki template you have, you learn a new spell from the Githyanki 
 You can cast spells using Spell Dice (SD) like a Wizard, except that yours depend on your martial prowess: You gain a Spell Die every time you successfully damage a creature with a melee weapon. The dice are D6s and last 10 minutes before vanishing. You can only have 3 of them at a time.
 
 <details markdown="1">
-<summary>How GLOG spells work</summary>
+<summary>How spells work</summary>
 <ins>Casting a Spell</ins><br>
-Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. You can’t cast without SD.
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. You can’t cast without SD. 
 
 Every time you roll doubles you get closer to *Catastrophe*.
 
