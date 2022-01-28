@@ -20,7 +20,7 @@ The [Fighter](/class/fighter)
   - The [Hobgoblin](/class/fighter/hobgoblin)
   - The [Lizardfolk](/class/fighter/lizardfolk)
   - The [Mutant](/class/fighter/mutant)
-  - The [Ogre](/class/fighter/ogre)
+  - The [Ogre](/class/ogre)
   - The [Two-Headed Giant](/class/fighter/ettin)
 </details>
 
