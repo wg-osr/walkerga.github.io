@@ -41,4 +41,4 @@ You and your rider's melee attacks inflict an extra 1D6 damage if you charged at
 When you gain a skill point for your [belief](/2020/11/09/base-rules/), one of your teammates can also add 1 point to the same skill if they want.
 
 ## Hooves II
-You can make your Hooves attack on top of another attack each round.
+You can make your _Hoof_ attack on top of another attack each round.
