@@ -23,12 +23,12 @@ For every Ogre template you have, you grow 1’ tall and wide, giving you an ext
 **D:** Strength of Food<br>
 
 ## Bulk
-You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat at least two rations per day, you lose 1 layer of fat.
+You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat at least two rations per day, you lose 1 layer of **Fat**.
 
-For each inventory slot you have taken by Fat, increase your HP by 1. When in town between adventures, if you spend the equivalent of a Treasure [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with Fat.
+For each inventory slot you have taken by **Fat**, increase your HP by 1. When in town between adventures, if you spend the equivalent of a Treasure [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with **Fat**.
 
 ## Smash
-Your melee attacks inflict +1 damage per inventory slots you have taken by Fat.
+Your melee attacks inflict +1 damage per inventory slots you have taken by **Fat**.
 
 ## Bully
 Once per encounter, you can give a one-word command to a humanoid that is smaller than you. The creature can choose to fall prone instead of obeying the order.
