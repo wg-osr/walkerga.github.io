@@ -16,23 +16,23 @@ Your choice of Swamp Herbs, Mudcrafting, or Fishing.
 
 For every Lizardfolk template you have, you gain 1 HP.
 
-**A:** Aquatic, Jaw<br>
+**A:** Aquatic, Bite<br>
 **B:** Rotten Teeth<br>
 **C:** Tail<br>
 **D:** Lizard Brute
 <br>
 
 ## Aquatic
-You can [hold your breath](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions) 15 minutes. When you take damage while holding your breath, you dont risk drowning.
+You can [hold your breath](/2020/11/10/extra-rules/#conditions) 15 minutes. When you take damage while holding your breath, you dont risk drowning.
 
-## Jaw
+## Bite
 You have a bite attack (1D6). Once you have bitten something, you can track it. This ability can be impeded by strong odors.
 
 ## Rotten Teeth
-Your bite attack does 1D8 damage. A creature bitten by you will be [poisoned](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions) the following day unless it receives medicinal treatments.
+Your bite attack does 1D8 damage. A creature bitten by you will be [poisoned](/2020/11/10/extra-rules/#conditions) the following day unless it receives medicinal treatments.
 
 ## Tail
-You can attempt to trip or shove all creatures adjacent to you at the same time. Those who fail their save take 1D6 damage.
+You can roll Fortitude to trip or shove all creatures adjacent to you at the same time and inflict 1D6 damage to them.
 
 ## Lizard Brute
-You can use your tail or bite ability in addition to another attack on your turn.
+You can use your _Tail_ or _Bite_ ability in addition to another attack on your turn.
