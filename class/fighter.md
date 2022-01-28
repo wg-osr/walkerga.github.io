@@ -4,7 +4,7 @@ title: The Fighter
 permalink: /class/fighter
 ---
 
-###### Adapted from Arnold K.'s [Version](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter), and Vayra's [Version](https://madqueenscourt.blogspot.com/search?q=fighter)
+###### Adapted from Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter) and Vayra's [Version](https://madqueenscourt.blogspot.com/search?q=fighter)
 
 <ins>Starting Equipment</ins><br>
 Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
@@ -26,7 +26,7 @@ Your weapons have different effects depending on the type of damage you decide t
 - <ins>Slashing:</ins> When you roll max damage, you can make another attack.
 
 ## Parry
-You can choose to destroy a weapon you are holding or a piece of armor you are wearing to reduce damage that would be dealt to you or an adjacent ally by 1D6. If the piece of armor was a shield, reduce damage by 1D12 instead. You can use this ability once per encounter.
+Once per battle, you can destroy a weapon or a shied you are holding to protect yourself or an adjacent ally from an attack's damage. 
 
 ## Grit
 You can have as many [Scars](/2020/11/09/base-rules/) as your WIL without them taking inventory slots.
