@@ -6,7 +6,7 @@ permalink: /class/fighter/lizardfolk
 
 ###### A monster class for the [Lizardfolk](https://saltygoo.github.io/monsters/centaur), designed to fight like a komodo dragon. Illustration by D. A. Trampier.
 
-<img align="right" width=230px  src="https://static.wikia.nocookie.net/forgottenrealms/images/a/a1/Lizardman_1e_mm.jpg/revision/latest?cb=20210202055912">
+<img align="right" width=230px  src="https://www.heavymetal.com/wp-content/uploads/2020/11/lizard-man.jpg">
 
 <ins>Starting Equipment</ins><br>
 A Shield, a Trident and a Net.
