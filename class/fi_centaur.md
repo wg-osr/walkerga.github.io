@@ -4,9 +4,9 @@ title: The Centaur
 permalink: /class/centaur
 ---
 
-###### A monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur), half-humans, half horses. But could also be used for a litteral horse.
+<img align="right" width=230px  src="https://p7.hiclipart.com/preview/641/88/953/centaur-legendary-creature-greek-mythology-firenze-t-shirt-centaur.jpg">
 
-<img align="right" width=230px  src="https://www.clipartkey.com/mpngs/m/200-2009330_centaur-black-and-white.png">
+###### A monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur), half-humans, half horses. But could also be used for a litteral horse.
 
 <ins>Starting Equipment</ins><br>
 A waterskin and two of the following: a Bow (and a quiver of arrows), a Saddle, or a Songbird,
