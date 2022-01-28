@@ -35,6 +35,6 @@ While you are oiled up, you cannot be grappled.
 ## Scoundrel
 When you successfully do a wrestling maneuver, you can plant or steal a small object on your opponent without being noticed.
 ## Oiled Up III
-When you are oiled up and an enemy misses a melee attack against you, you can make a wrestling maneuver against it.
+When you are oiled up and an enemy misses a melee attack against you, you can attempt a wrestling maneuver against it.
 ## Spitfire
 Your _Body Oil_ ability takes 1 action to do instead of 10 minutes and you can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
