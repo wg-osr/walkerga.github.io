@@ -5,7 +5,9 @@ title: Extra Rules
 
 Rules that are referee-facing or that add layers to the game.
 
-### Conditions
+---
+
+## Conditions
 
 <details markdown="1">
 <summary><b>Blindness</b></summary>
@@ -89,20 +91,23 @@ You skip your turn. All rolls are hard.
 
 ---
 
-## Damage Types
+## Elemental Effects
 
-If you want to do more with the elements, you can remove a damage dice from your attack to have a powerful on-hit effect instead:
+When you would roll elemental damage, you can replace a damage die by one of the following effects:
+
 - <ins>Acid:</ins> negate armor for a round.
 - <ins>Cold:</ins> prevent movement for a round.
-- <ins>Electric:</ins> attack another nearby target for 1 dice.
+- <ins>Electric:</ins> inflict 1D4 damage to an adjacent target.
 - <ins>Fire:</ins> destroy a flammable small object.
 - <ins>Mind:</ins> charm for a round.
 - <ins>Magical:</ins> ignore resistance.
 - <ins>Poison:</ins> poison for a round.
 
 <details markdown="1">
-<summary>Example</summary>
-*Morgana the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict 1D6 damage instead and attack another nearby goblin for 1D6 damage. Boo Son of Jean has a sword of frost inflicting 1D8 damage, but he wants to capture the enemy alive. Instead, he sacrifices the D8. On a hit, he inflicts 0 damage and the monster's feet are frozen to the ground for a round.*
+<summary><i>Example: Using Elemental Effects</i></summary>
+*Morgana the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict only 1D6 damage the target and 1D4 damage to another adjacent goblin instead.*
+
+*Jean has a sword of frost inflicting 1D8 damage, but he wants to capture a goblin alive. On a hit, he decides to inflict no damage and freeze the goblin on the spot instead.*
 </details>
 
 ---
@@ -111,16 +116,15 @@ If you want to do more with the elements, you can remove a damage dice from your
 
 Fairies, elementals, ghosts and devils resist or ignore damage. But some rare metals overcome that. Additionally, Adamantium and Platinum weapons are very useful for fighters because they don't get destroyed when they use their [parry](https://saltygoo.github.io/class/fighter#parry) ability.
 
-<ins>Adamantium:</ins> Nothing is more solid than adamantium. You can forgo a damage dice when inflicting damage with it to destroy an object. An adamantium object is unbreakable.
+<ins>Adamantium:</ins> Nothing is more solid than adamantium. Adamantium weapons ignore armor. Adamantium objects are unbreakable.
 
 <ins>Cold Iron:</ins> A fairie that touches cold iron loses all abilities and resistances for a turn. They can smell it.
 
 <ins>Silver:</ins> Silvered weapons ignore all the resistances of undead creatures and of creatures that are not in their true form.
 
-<ins>Mithral:</ins> Is light like cloth. Attacks made with mithral weapons are one step easier than normal but the damage die is one size smaller. Mithral armor doesn't impede movement.
+<ins>Mithral:</ins> Is light like cloth. Attack rolls made with mithral weapons are easy rolls but the damage die is one size smaller. Mithral armor doesn't impede movement.
 
 <ins>Radium:</ins> Radium sheds light like a candle. It ignores the resistances of celestial creatures like angels and devils. After each adventure spent carrying radium, save or gain a [mutation](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
 
 <ins>Platinum:</ins> Platinum repairs itself in 1 hour. Platinum weapons ignore the resistances of aberrations as well as their horrid immortality.
-
 
