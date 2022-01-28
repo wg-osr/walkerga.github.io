@@ -1,21 +1,20 @@
 ---
 layout: page
-title: The Horse
-permalink: /class/fighter/centaur
+title: The Centaur
+permalink: /class/centaur
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*This was initially a monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur) but it seems like it could be used for an actual horse. It's a good fighting class, and it becomes very absurd if you multiclass into a specialist (wall-climbing horse-person!). — SaltyGoo*
-</details>
+###### A monster class for the [Centaur](https://saltygoo.github.io/monsters/centaur), half-humans, half horses. But could also be used for a litteral horse.
+
+<img align="right" width=230px  src="https://www.clipartkey.com/mpngs/m/200-2009330_centaur-black-and-white.png">
 
 <ins>Starting Equipment</ins><br>
-A waterskin and two of the following: a Bow (and 12 arrows), a Saddle, or a Songbird,
+A waterskin and two of the following: a Bow (and a quiver of arrows), a Saddle, or a Songbird,
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of Outdoors, Horse Life or Archery.
+Running, and your choice of Mythology, Great Outdoors or Archery.
 
-For every Horse template you have, increase your HP and Movement by 1.
+For every Centaur template you have, you gain 1 extra HP.
 
 **A:** Horse, Hooves I<br>
 **B:** Ride or Die, Star Map<br>
@@ -23,24 +22,23 @@ For every Horse template you have, increase your HP and Movement by 1.
 **D:** Hooves II<br>
 
 ## Horse
-- You can have one human sized rider OR carry as many extra inventory slots as your STR.
-- You do not add your movement score to climbing, crawling, and swimming rolls.
-- You do not fit in crawl spaces.
+- Running or jumping is easy. Climbing or swimming is hard. Crawling is impossible.
+- You can have one human-sized rider or carry as many extra inventory slots as your FOR.
 
 ## Hooves I
-You can attack with your hooves, inflicting 1D6 damage and shoving on a failed save.
+You can attack with your hooves, inflicting 1D6 damage and shoving the target if you succeed a FOR roll.
 
 ## Ride or Die
 You and your rider can take a hit for one another.
 
 ## Star Map
-Once per day, you and your team can skip through a arctic, desert or grassland hex when you travel.
+You can avoid one encounter per day if you see the sky.
 
 ## Charge
-If you charge in a straight line towards a target, you and your rider's next melee attack against it this turn inflicts an extra 1D6 damage and you can use your MOV score instead of your STR for your attack roll.
+You and your rider's melee attacks inflict an extra 1D6 damage if you charged at least 30' before doing it.
 
 ## Mentor of Heroes
-When you gain a skill point for your [heroic deeds](https://saltygoo.github.io/2020/11/10/extra-rules/#heroism--scars), one of your teammates can also add 1 point to the same skill if they want.
+When you gain a skill point for your [belief](/2020/11/09/base-rules/), one of your teammates can also add 1 point to the same skill if they want.
 
 ## Hooves II
 You can make your Hooves attack on top of another attack each round.
