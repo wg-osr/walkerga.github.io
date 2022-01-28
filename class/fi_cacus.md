@@ -4,7 +4,7 @@ title: The Bodybuilder
 permalink: /class/fighter/cacus
 ---
 
-<img align="right" width=230px src="https://klike.net/uploads/posts/2021-05/1620624126_24.jpg">
+<img align="right" width=250px src="https://klike.net/uploads/posts/2021-05/1620624126_24.jpg">
 
 <details markdown="1">
 <summary>Design Notes</summary>
