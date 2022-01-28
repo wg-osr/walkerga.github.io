@@ -30,10 +30,10 @@ You can have as many minions at a time as you have _Hobgoblin templates_ and the
 You are still a goblin. You and your goblins can see in the dark as if you were carrying torches.
 
 ## Bad Leadership
-You can gruesomely kill one of your minions to reduce incoming damage by 1D4, or to [frighten](/2020/11/10/extra-rules/#conditions) an humanoid who fails its save.
+You can gruesomely kill one of your minions to halve incoming damage, or to [frighten](/2020/11/10/extra-rules/#conditions) a humanoid.
 
 ## Bugbeardom
-When one of your goblins kills something, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP.
+When one of your goblins kills an enemy, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP.
 
 ## Goblin Legion
 You can now find up to 4 replacement goblins each time you rest.
