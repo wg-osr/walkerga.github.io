@@ -14,7 +14,7 @@ A Shield, a Trident and a Net.
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Swamp Herbs, Mudcrafting, or Fishing.
 
-For every Lizardfolk template you have, you gain 1 HP.
+For every Lizardfolk template you have, you have +1 Armor when not wearing armor.
 
 **A:** Aquatic, Bite<br>
 **B:** Rotten Teeth<br>
