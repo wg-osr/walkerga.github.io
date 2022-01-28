@@ -9,12 +9,12 @@ permalink: /class/cyclops
 <img align="right" width=200px  src="https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Cyclops-1e.jpg">
 
 <ins>Starting Equipment</ins><br>
-Club, Boulder, Pteruges Skirt.
+Choose three times: a Club, a Boulder, a Sheep.
 
 <ins>Starting Skills (+5)</ins><br>
 Throwing, and your choice of Island life, Orc Culture, or Mountain Life.
 
-For every Cyclops template you have, increase your HP by 1 and your height by 1'.
+For every Cyclops template you have, you grow 1', increaing your HP by 1 and giving you an extra Inventory slot.
 
 **A:** One Big Eye, Boulder Throw<br>
 **B:** Blind Fury<br>
