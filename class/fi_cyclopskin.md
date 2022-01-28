@@ -4,10 +4,7 @@ title: The Cyclopskin
 permalink: /class/fighter/cyclopskin
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*This was thought as a monster class for the [Cyclopskin](https://saltygoo.github.io/monsters/cyclopskin). I know that one eyed vision doesn't work like that in real life and that its actually the depth of closer things that would be hard to perceive, but I wanted to create a fighting style that replicated Ulysses famous battle with the cyclops. — SaltyGoo*
-</details>
+###### A monster class for the [Cyclops](/monsters/cyclops), a one-eyed, sheep-herding giant blinded by Ulysses.
 
 <ins>Starting Equipment</ins><br>
 Club, Boulder, Pteruges Skirt.
