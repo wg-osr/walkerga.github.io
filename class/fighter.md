@@ -6,6 +6,8 @@ permalink: /class/fighter
 
 ###### Adapted from Princesses & Pioneers’ [Version](https://princesses-and-pioneers.tumblr.com/post/183755011838/fighter) and Vayra's [Version](https://madqueenscourt.blogspot.com/search?q=fighter)
 
+<img align="right" width=200px src="https://www.thearma.org/member-books/0foyles1570s.jpg">
+
 <ins>Starting Equipment</ins><br>
 Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
 
