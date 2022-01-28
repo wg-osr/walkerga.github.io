@@ -23,7 +23,7 @@ For every Lizardfolk template you have, you gain 1 HP.
 <br>
 
 ## Aquatic
-You can [hold your breath](/2020/11/10/extra-rules/#conditions) 15 minutes. When you take damage while holding your breath, you dont risk drowning.
+You can [hold your breath](/2020/11/10/extra-rules/#conditions) 20 minutes. When you take damage while holding your breath, you dont risk drowning.
 
 ## Bite
 You have a bite attack (1D6). Once you have bitten something, you can track it. This ability can be impeded by strong odors.
