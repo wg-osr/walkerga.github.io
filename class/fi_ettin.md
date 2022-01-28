@@ -4,20 +4,20 @@ title: The Two-Headed Giant
 permalink: /class/fighter/ettin
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-I nearly only play with rpg beginners, and even though the GLOG has the advantage of being easy to learn and run, some classes / blog posts can feel very esoteric for people who are new to the genre. I'm trying to make this class a fun way for a player to bring a new friend to the table! The shared HP pool makes it durable and each of them can always multiclass after the first template to differentiate each other, but if both keep leveling in this class, each still becomes a powerful melee fighter.
-</details>
+
+<img align="right" width=230px src="https://docplayer.fr/docs-images/103/161384179/images/54-4.jpg">
+
+###### A monster class for the [Ettin](/monsters/ettin), a two-headed giant. Image by Jim Holloway.
 
 *THIS IS A CLASS FOR TWO PLAYERS PLAYING ONE CHARACTER*
 
 <ins>Starting Equipment</ins><br>
-A one-handed weapon of your choice, half an outfit, and your choice of a bag of bricks, a distinctive helmet or a blow horn.
+A one-handed weapon of your choice, Half an Outfit, and your choice of a Bag of Bricks, a distinctive Helmet or a Blowhorn.
 
 <ins>Starting Skills (+5)</ins><br>
 "Your other half" and your choice of Smashing, Smelling or Arguing
 
-For every Two-Headed Giant template you have, you gain 1 daily collaboration dice (D6).
+For every Two-Headed Giant template you have, you gain 1 daily **Collaboration Die** (D6).
 
 **A:** Half of One, Collaborate<br>
 **B:** Selves-Preservation<br>
