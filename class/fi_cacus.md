@@ -4,9 +4,9 @@ title: The Bodybuilder
 permalink: /class/fighter/cacus
 ---
 
-<img align="right" width=250px src="https://klike.net/uploads/posts/2021-05/1620624126_24.jpg">
+<img align="right" width=250px src="https://media.istockphoto.com/illustrations/hercules-and-the-erymanthian-boar-greek-mythology-published-in-1880-illustration-id534557594?k=20&m=534557594&s=170667a&w=0&h=exFFm9x4qcER0bOOmin5jGEJZb0HqJyGRAL0PKYN-so=">
 
-###### A monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus), a greco-roman cattle-stealing, fire-breathing giant who wrestled Hercules. Illustration by Christos Georghiou.
+###### A monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus), a greco-roman cattle-stealing, fire-breathing giant who wrestled Hercules.
 
 <ins>Starting Equipment</ins><br>
 10' Hooked Shepherd staff, Loincloth, Sheep.
