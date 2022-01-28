@@ -9,7 +9,7 @@ permalink: /class/fighter/cacus
 ###### Initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who wrestled Hercules. Illustration by Christos Georghiou.
 
 <ins>Starting Equipment</ins><br>
-Shepherd staff, Loincloth, Sheep.
+10' Hooked Shepherd staff, Loincloth, Sheep.
 
 <ins>Starting Skills (+5)</ins><br>
 Wrestling, and your choice of Herding, Mythology or Modeling
@@ -24,11 +24,11 @@ For every Bodybuilder template you have, increase your wrestling skill by 1.
 ## Body Oil
 Once per day, you can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable and dries up in 1 hour. It smells like you.
 ## Oiled Up I
-While you are oiled up, you have advantage on your attempts to seduce or charm.
+While you are oiled up, you have advantage when you attempt to seduce or charm.
 ## Oiled Up II
 While you are oiled up, you cannot be grappled.
 ## Scoundrel
-When you succeed in a fighting maneuver, you can plant or steal a small object on your opponent.
+When you succeed in a fighting maneuver, you can plant or steal a small object on your opponent without being notice.
 ## Oiled Up III
 When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
 ## Font of Shine
