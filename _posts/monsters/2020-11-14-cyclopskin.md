@@ -81,7 +81,7 @@ Combine the result of both tables to get the broad lines of this humanoid cultur
 
 <details markdown="1">
 <summary>Player Class</summary>
-Play as a [Cyclopskin](/class/fighter/cyclopskin)!
+Play as a [Cyclops](/class/cyclops)!
 </details>
 
 <br>
