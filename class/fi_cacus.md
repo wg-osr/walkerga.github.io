@@ -6,7 +6,7 @@ permalink: /class/fighter/cacus
 
 ###### A monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus), a greco-roman cattle-stealing, fire-breathing giant who wrestled Hercules.
 
-<img src="/images/Cacus.png"  width="230" >
+<img align="right" width=230px  src="/images/Cacus.png">
 
 
 <ins>Starting Equipment</ins><br>
