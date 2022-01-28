@@ -33,7 +33,7 @@ While you are oiled up, you have advantage when you attempt to seduce or charm.
 ## Oiled Up II
 While you are oiled up, you cannot be grappled.
 ## Scoundrel
-When you succeed in a wrestling maneuver, you can plant or steal a small object on your opponent without being notice.
+When you successfully do a wrestling maneuver, you can plant or steal a small object on your opponent without being noticed.
 ## Oiled Up III
 When you are oiled up and an enemy misses a melee attack against you, you can make a wrestling maneuver against it.
 ## Spitfire
