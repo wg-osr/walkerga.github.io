@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Cyclopskin
-permalink: /class/fighter/cyclopskin
+title: The Cyclops
+permalink: /class/cyclops
 ---
 
 ###### A monster class for the [Cyclops](/monsters/cyclops), a one-eyed, sheep-herding giant blinded by Ulysses.
@@ -14,7 +14,7 @@ Club, Boulder, Pteruges Skirt.
 <ins>Starting Skills (+5)</ins><br>
 Throwing, and your choice of Island life, Orc Culture, or Mountain Life.
 
-For every Cyclopskin template you have, increase your HP by 1 and your height by 1'.
+For every Cyclops template you have, increase your HP by 1 and your height by 1'.
 
 **A:** One Big Eye, Boulder Throw<br>
 **B:** Blind Fury<br>
