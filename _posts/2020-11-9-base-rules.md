@@ -157,7 +157,7 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 ---
 
 <details markdown="1">
-<summary><b>Dying, Wounds & Healing</b></summary>
+<summary><b>Dying, Wounds, Scars & Healing</b></summary>
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
 
