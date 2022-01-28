@@ -14,10 +14,10 @@ permalink: /classes/
 The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
+  - The [Centaur](/class/centaur)
   - The [Cyclops](/class/cyclops)
   - The [Githyanki](/class/fighter/githyanki)
   - The [Hobgoblin](/class/fighter/hobgoblin)
-  - The [Horsefolk](/class/fighter/centaur)
   - The [Lizardfolk](/class/fighter/lizardfolk)
   - The [Mutant](/class/fighter/mutant)
   - The [Ogre](/class/fighter/ogre)
