@@ -125,7 +125,8 @@ Silvered weapons ignore all the resistances of undead creatures and of creatures
 
 ## Elemental Effects
 
-When you would roll elemental damage, you can replace a damage die by one of the following effects:
+<details markdown="1">
+<summary>When you would roll elemental damage, you can replace a damage die by one of the following effects.</summary>
 
 - <ins>Acid:</ins> negate armor for a round.
 - <ins>Cold:</ins> prevent movement for a round.
@@ -140,5 +141,6 @@ When you would roll elemental damage, you can replace a damage die by one of the
 *Morgana the Vile casts a spell inflicting 2D6 electric damage to a goblin. She can choose to inflict only 1D6 damage the target and 1D4 damage to another adjacent goblin instead.*
 
 *Jean has a sword of frost inflicting 1D8 damage, but he wants to capture a goblin alive. On a hit, he decides to inflict no damage and freeze the goblin on the spot instead.*
+</details>
 </details>
 
