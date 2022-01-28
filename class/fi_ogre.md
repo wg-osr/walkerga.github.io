@@ -7,7 +7,7 @@ permalink: /class/ogre
 
 ###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustrator unknown.
 
-<img align="right" width=230px  src="https://images.dakkadakka.com/gallery/2010/11/11/154474_sm-80%C2%B4s%2C%20Artwork%2C%20Drawing%2C%20Drawings%2C%20Ogres%2C%20Old%2C%20Old%20Style%2C%20School%2C%20Style.jpg">
+<img align="right" width=230px  src="/images/ogre.png">
 
 <ins>Starting Equipment</ins><br>
 A Club, 2 Rations and a Big Pot.
