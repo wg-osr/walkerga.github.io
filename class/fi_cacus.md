@@ -23,7 +23,7 @@ For every Bodybuilder template you have, increase your wrestling skill by 1.
 **D:** Font of Shine, Spitfire<br>
 
 ## Body Oil
-Once per day, you can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable and dries up in 1 hour. It smells like you.
+Once per day, you can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable, and dries up in 1 hour. If lit, it burns out in 10 minutes, inflicting 1D6 intiatial damage and 1 damage per turn until extiguished.
 ## Oiled Up I
 While you are oiled up, you have advantage when you attempt to seduce or charm.
 ## Oiled Up II
@@ -33,6 +33,6 @@ When you succeed in a fighting maneuver, you can plant or steal a small object o
 ## Oiled Up III
 When you are oiled up and an enemy misses a melee attack against you, you can make a fighting maneuver against it.
 ## Font of Shine
-You can use your Body Oil ability twice per day.
+You can use your Body Oil ability twice per day, and it takes 1 action instead of 10 minutes.
 ## Spitfire
-You can create a spark by snapping your fingers. Instead of using your Body Oil ability, you can spit a cone of fire and ignite 2 adjacent nearby targets. The cone inflicts 2D6 fire damage, halved on a save. Targets who fail their save continue taking 1 damage every round until they extinguish the flames.
+You can create a spark by snapping your fingers. Your oil inflicts 2D6 damage and 2 damage over time when lit.
