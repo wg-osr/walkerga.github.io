@@ -163,7 +163,7 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 While dying, you can spend your whole turn to attempt to stabilize. Make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
 
-Stabilizing does not heal your accumulated Wounds. Instead, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. As long as you have it, all your rolls against the danger that puts you in that situation easy rolls.
+Stabilizing does not heal your accumulated Wounds. Instead, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. As long as you have it, all your rolls against the danger that puts you in that situation are easy rolls.
 
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
