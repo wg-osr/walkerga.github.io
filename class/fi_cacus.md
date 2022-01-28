@@ -23,7 +23,11 @@ You can use your **Body Oil** ability once per day for each Bodybuilder template
 **D:** Spitfire<br>
 
 ## Body Oil
-You can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable, and dries up in 1 hour. If lit, it burns out in 10 minutes, inflicting 1D6 intiatial damage and 1 damage per turn until extiguished. You can use this ability once per day per Bodybuilder template you have.
+You can take 10 minutes to produce enough oil to cover one human-sized creature or object, or a 10' square flat space. This oil is highly slippery, highly flammable, and dries up in 1 hour. 
+
+If lit, it burns out in 10 minutes, inflicting 1D6 intiatial damage and 1 damage per turn until extiguished. 
+
+You can use this ability once per day per Bodybuilder template you have.
 ## Oiled Up I
 While you are oiled up, you have advantage when you attempt to seduce or charm.
 ## Oiled Up II
