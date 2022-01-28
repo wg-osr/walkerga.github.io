@@ -25,7 +25,7 @@ For every Ogre template you have, you grow 1’ tall and wide, giving you an ext
 ## Bulk
 You can eat any object bigger than a chicken and softer than metal as a ration. If you don't eat at least two rations per day, you lose 1 layer of **Fat**.
 
-For each inventory slot you have taken by **Fat**, increase your HP by 1. If you spend the equivalent of a Treasure [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with **Fat**.
+For each inventory slot you have taken by **Fat**, increase your HP by 1. If you spend the equivalent of a Treasure celebrating while [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with **Fat**.
 
 ## Smash
 Your melee attacks inflict +1 damage per inventory slots you have taken by **Fat**.
