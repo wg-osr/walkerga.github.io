@@ -4,6 +4,8 @@ title: The Bodybuilder
 permalink: /class/fighter/cacus
 ---
 
+https://images.fineartamerica.com/images-medium-large/hercules-granger.jpg
+
 <details markdown="1">
 <summary>Design Notes</summary>
 *This was initially a monster class for the [Cacus](https://saltygoo.github.io/monsters/cacus). In greco-roman mythology, Cacus was a cattle-stealing, fire-breathing giant who fought Hercules. Expending on the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) adaptation of this myth into a DnD monster, I wanted to play on the trope of the handsome ancient greek shepherd who is also an olympian, and make it an asshole jock type of monster. — SaltyGoo*
