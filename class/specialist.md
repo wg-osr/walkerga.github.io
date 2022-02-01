@@ -12,12 +12,12 @@ Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2
 <ins>Starting Skills (+5)</ins><br>
 Your failed career, and your choice of Climbing, Disguises, Lying, or Stealth.
 
-For every Specialist template you have, increase all your skills by 1.
+For every Specialist template you have, you learn a new **Trick**.
 
-**A:** Trick, Scrounge <br>
-**B:** Trick, Expertise<br>
-**C:** Trick, Trick <br>
-**D:** Trick, Mastery<br>
+**A:** Scrounge <br>
+**B:** Expertise<br>
+**C:** Bonus Trick <br>
+**D:** Mastery<br>
 
 
 ## Trick
