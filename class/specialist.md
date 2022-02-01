@@ -21,7 +21,7 @@ For every Specialist template you have, you learn a new **Trick**.
 
 
 ## Trick
-Roll twice on the trick list below and choose one. Reroll tricks you already can do.
+Roll twice on the trick list below and choose one. Reroll tricks you can already do.
 
 ## Scrounge
 Once per session, digging through trash, you can get an item rolled on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table.
