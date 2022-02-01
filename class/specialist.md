@@ -50,6 +50,7 @@ You can achieve things beyond the scope of your skills:
 7. <ins>Cat’s Eyes</ins>: You see in the dark as if you were holding a torch.
 8. <ins>Cat Reflexes</ins>: You have advantage on dodge rolls when not wearing armor.
 9. <ins>Con Artist</ins>: Once per session, you can decide one worthless object is actually valuable if sold by you.
+9. <ins>Coward</ins>: You take half damage if you are crawling or in a fetal position.
 10. <ins>Divine Grunt</ins>: Once per day, issue an irresistible one-word command to (1D4): 1, Undeads, 2, Plants, 3, Animals, 4, Furniture.
 11. <ins>Dog Whisperer</ins>: You have a dog. Dogs you train have advantage on stealth, communicate if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment).
 12. <ins>Escape Artist</ins>: Escaping a grapple is easy. You can crawl through 1' wide holes.
