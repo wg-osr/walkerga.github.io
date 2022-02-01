@@ -15,9 +15,9 @@ Your failed career, and your choice of Climbing, Disguises, Lying, or Stealth.
 For every Specialist template you have, increase all your skills by 1.
 
 **A:** Trick, Scrounge <br>
-**B:** Trick, Specialise<br>
+**B:** Trick, Expertise<br>
 **C:** Trick, Trick <br>
-**D:** Trick, Incredible Feat<br>
+**D:** Trick, Mastery<br>
 
 
 ## Trick
@@ -26,15 +26,16 @@ Roll twice on the trick list below and choose one. Reroll tricks you already can
 ## Scrounge
 Once per session, digging through trash, you can get an item rolled on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table.
 
-## Specialist
+## Expertise
 You dont need to roll on skill checks, as you are an expert.
 
-## Incredible Feat
+## Mastery
 You can achieve things beyond the scope of your skills:
 
 - If you are skilled in **Climbing**, you can climb any surfaces, even upside down.
 - If you are skilled in **Disguises**, you may declare that you are leaving the area then later declare yourself to have been one of other minor NPCs present all along, friend or enemy. You can also just walk back in undisguised.
-- If you are skilled in **Lying**, once per session, you can redo your turn if you are unhappy with the consequences.
+- If you are skilled in **Lying**, once per session, you can redo your turn if you are unhappy with how it went down.
+- If you are skilled in **Stealth**, you can vanish out of thin air if you succeed a stealth roll.
  
 
 ---
