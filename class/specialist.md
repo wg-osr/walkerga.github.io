@@ -41,43 +41,44 @@ You can achieve things beyond the scope of your skills:
 
 # 2D20 Tricks
 
-1. Impossible to roll.
-2. <ins>Acquired Immunity</ins>: You can smell poison. Resisting poisons is an easy roll.
-3. <ins>Acrobat</ins>: Movement rolls are easier. You take 10 less damage from falling.
-4. <ins>Archeologist</ins>: Once per day, you can speak with ancient objects or bones.
-5. <ins>Assassin</ins>: For every non-trivial fact (something you can’t learn from glancing around) you know about your target, you have +1D6 to your attack and damage rolls. Useable once per fact per target.
-6. <ins>Brawler</ins>: Improvised weapons inflict 1D8 damage in your hands.
-7. <ins>Cat’s Eyes</ins>: You see in the dark as if you were holding a torch.
-8. <ins>Cat Reflexes</ins>: You have advantage on dodge rolls when not wearing armor.
-9. <ins>Con Artist</ins>: Once per session, you can decide one worthless object is actually valuable if sold by you.
-9. <ins>Coward</ins>: You take half damage if you are crawling or in a fetal position.
-10. <ins>Divine Grunt</ins>: Once per day, issue an irresistible one-word command to (1D4): 1, Undeads, 2, Plants, 3, Animals, 4, Furniture.
-11. <ins>Dog Whisperer</ins>: You have a dog. Dogs you train have advantage on stealth, communicate if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment).
-12. <ins>Escape Artist</ins>: Escaping a grapple is easy. You can crawl through 1' wide holes.
-13. <ins>Fashionable</ins>: Fancy clothes count as pieces of armor and don’t take up any inventory slots.
-14. <ins>Field Medic</ins>: Rolls to stabilize a dying ally are normal rolls instead of hard rolls.
-15. <ins>Forgery</ins>: Once per session you can take 10 minutes to make a copy of any object. It's unuseable and worthless.
-16. <ins>Getaway Horse</ins>: You have a horse. Horses you train have advantage on stealth, understand abstract directions, and follow a schedule to the minute.
-17. <ins>Gossip</ins>: Once per session you can recall learn an embarrassing secret of a person of your choice, as told by the referee.
-18. <ins>Jester</ins>: You can make yourself appear as the most or least important person of your group at any time.
-19. <ins>Lucky</ins>: 1/day, reroll one of your D20 rolls.
-20. <ins>Multitalented</ins>: Learn a new skill of your choice.
-21. <ins>Network</ins>: Once per session, you can declare you have an ally within any organisation of your choice.
-22. <ins>Open Mind</ins>:  +3 Psyche slots.
-23. <ins>Opportunist</ins>: When you have advantage on attack, deal an extra 1D6 damage.
-24. <ins>Pack Rat</ins>: +3 Inventory slots.
-25. <ins>Poisoner</ins>: You start each adventure with 3 doses of poison.
-26. <ins>Quick Fingers</ins>: You have advantage on rolls to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) dexterity save.
-27. <ins>Recorder Crow</ins>: You have a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart.
-28. <ins>Redirect</ins>: If your dodge roll was above 20, you can redirect the attack to an adjacent creature.
-29. <ins>Saboteur</ins>: You can take 10 minutes to break any nonmagical object.
-30. <ins>Second Chance</ins>: Once per lifetime, cheat death.
-31. <ins>Self-Tought Magic</ins>: By tasting an object, you can tell whether or not it is magical. You have 1 Spell Dice that regenerates overnight.
-32. <ins>Square Meal</ins>: Lunch heals you 1 Wound provided you pair it with alcohol.
-33. <ins>Switcharoo</ins>: You can take out anything from the inventories of your teammates as if it was in yours as long as they are in sight and they consent. Pulling any item from an inventory in battle does not take an action.
-34. <ins>Tinker</ins>: You can take 10 minutes to merge any two nonmagical objects from your Inventory. The new object is only useable by you and otherwise worthless.
-35. <ins>Tongues</ins>: Once per day, you can speak with D4: 1 Weapons, 2 Doors, 3 Birds, 4 Clothing.
-36. <ins>Tricky</ins>: Whenever you roll a 1 on a damage roll, you can also attempte a combat maneuver.
-37. <ins>Urchin</ins>: A street rat demands to learn and join your entourage. They’re very sneaky. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed.
-38. <ins>Watchful</ins>: You are never surprised. In combat, you can take a full turn before anybody.
-39. <ins>Wizkid</ins>: You can take 10 minutes to repair any nonmagical object for 10 minutes.
+
+1. _Impossible_.
+2. **Acquired Immunity**: You can smell poison. Resisting poisons is an easy roll.
+3. **Acrobat**: Movement rolls are easier. You take 10 less damage from falling.
+4. **Archeologist**: Once per day, you can speak with ancient objects or bones.
+5. **Assassin**: For every non-trivial fact (something you can’t learn from glancing around) you know about your target, you have +1D6 to your attack and damage rolls. Useable once per fact per target.
+6. **Brawler**: Improvised weapons inflict 1D8 damage in your hands.
+7. **Cat’s Eyes**: You see in the dark as if you were holding a torch.
+8. **Cat Reflexes**: You have advantage on dodge rolls when not wearing armor.
+9. **Con Artist**: Once per session, you can decide one worthless object is actually valuable if sold by you.
+9. **Coward**: You take half damage if you are crawling or in a fetal position.
+10. **Divine Grunt**: Once per day, issue an irresistible one-word command to (1D4): 1, Undeads, 2, Plants, 3, Animals, 4, Furniture.
+11. **Dog Whisperer**: You have a dog. Dogs you train have advantage on stealth, communicate if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment).
+12. **Escape Artist**: Escaping a grapple is easy. You can crawl through 1' wide holes.
+13. **Fashionable**: Fancy clothes count as pieces of armor and don’t take up any inventory slots.
+14. **Field Medic**: Rolls to stabilize a dying ally are normal rolls instead of hard rolls.
+15. **Forgery**: Once per session you can take 10 minutes to make a copy of any object. It's unuseable and worthless.
+16. **Getaway Horse**: You have a horse. Horses you train have advantage on stealth, understand abstract directions, and follow a schedule to the minute.
+17. **Gossip**: Once per session you can recall learn an embarrassing secret of a person of your choice, as told by the referee.
+18. **Jester**: You can make yourself appear as the most or least important person of your group at any time.
+19. **Lucky**: 1/day, reroll one of your D20 rolls.
+20. **Multitalented**: Learn a new skill of your choice.
+21. **Network**: Once per session, you can declare you have an ally within any organisation of your choice.
+22. **Open Mind**:  +3 Psyche slots.
+23. **Opportunist**: When you have advantage on attack, deal an extra 1D6 damage.
+24. **Pack Rat**: +3 Inventory slots.
+25. **Poisoner**: You start each adventure with 3 doses of poison.
+26. **Quick Fingers**: You have advantage on rolls to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) dexterity save.
+27. **Recorder Crow**: You have a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart.
+28. **Redirect**: If your dodge roll was above 20, you can redirect the attack to an adjacent creature.
+29. **Saboteur**: You can take 10 minutes to break any nonmagical object.
+30. **Second Chance**: Once per lifetime, cheat death.
+31. **Self-Tought Magic**: By tasting an object, you can tell whether or not it is magical. You have 1 Spell Dice that regenerates overnight.
+32. **Square Meal**: Lunch heals you 1 Wound provided you pair it with alcohol.
+33. **Switcharoo**: You can take out anything from the inventories of your teammates as if it was in yours as long as they are in sight and they consent. Pulling any item from an inventory in battle does not take an action.
+34. **Tinker**: You can take 10 minutes to merge any two nonmagical objects from your Inventory. The new object is only useable by you and otherwise worthless.
+35. **Tongues**: Once per day, you can speak with D4: 1 Weapons, 2 Doors, 3 Birds, 4 Clothing.
+36. **Tricky**: Whenever you roll a 1 on a damage roll, you can also attempte a combat maneuver.
+37. **Urchin**: A street rat demands to learn and join your entourage. They’re very sneaky. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed.
+38. **Watchful**: You are never surprised. In combat, you can take a full turn before anybody.
+39. **Wizkid**: You can take 10 minutes to repair any nonmagical object for 10 minutes.
