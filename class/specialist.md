@@ -4,7 +4,7 @@ title: The Specialist
 permalink: /class/specialist
 ---
 
-###### Adapted from Two Goblins in a Trenchcoat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/anything-not-nailed-down-is-legally.html).
+###### Adapted from Two Goblins in a Trenchcoat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/anything-not-nailed-down-is-legally.html) and Building are People's [Version](https://buildingsarepeople.blogspot.com/2019/01/class-specialist-and-specialist-arts.html).
 
 <ins>Starting Equipment</ins><br>
 Roll on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
@@ -41,6 +41,7 @@ You can achieve things beyond the scope of your skills:
 
 # 2D20 Tricks
 
+1. Impossible to roll.
 2. <ins>Acquired Immunity</ins>: You can smell poison. Resisting poisons is an easy roll.
 3. <ins>Acrobat</ins>: Movement rolls are easier. You take 10 less damage from falling.
 4. <ins>Archeologist</ins>: Once per day, you can speak with ancient objects or bones.
