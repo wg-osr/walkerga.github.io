@@ -27,7 +27,7 @@ Roll twice on the trick list below and choose one. Reroll tricks you already can
 Once per session, digging through trash, you can get an item rolled on the [1D200 Failed Medieval Careers](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table.
 
 ## Expertise
-You dont need to roll on skill checks, as you are an expert.
+Choose one skill you have. You automatically succeed on skill rolls with this skill, as you are an expert.
 
 ## Mastery
 You can achieve things beyond the scope of your skills:
