@@ -40,10 +40,9 @@ You can achieve things beyond the scope of your skills:
 
 ---
 
-# 2D20 Tricks
+# 1D40 Tricks
 
-
-1. _Impossible_.
+2. **Rope Master**: You have advantage on all your rolls mainly related to ropes.
 2. **Acquired Immunity**: You can smell poison. Resisting poisons is an easy roll.
 3. **Acrobat**: Movement rolls are easier. You take 10 less damage from falling.
 4. **Archeologist**: Once per day, you can speak with ancient objects or bones.
