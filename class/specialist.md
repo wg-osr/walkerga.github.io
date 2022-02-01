@@ -42,7 +42,6 @@ You can achieve things beyond the scope of your skills:
 
 # 1D40 Tricks
 
-2. **Rope Master**: You have advantage on all your rolls mainly related to ropes.
 2. **Acquired Immunity**: You can smell poison. Resisting poisons is an easy roll.
 3. **Acrobat**: Movement rolls are easier. You take 10 less damage from falling.
 4. **Archeologist**: Once per day, you can speak with ancient objects or bones.
@@ -71,6 +70,7 @@ You can achieve things beyond the scope of your skills:
 26. **Quick Fingers**: You have advantage on rolls to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) dexterity save.
 27. **Recorder Crow**: You have a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart.
 28. **Redirect**: If your dodge roll was above 20, you can redirect the attack to an adjacent creature.
+2. **Rope Master**: You have advantage on all your rolls mainly related to ropes.
 29. **Saboteur**: You can take 10 minutes to break any nonmagical object.
 30. **Second Chance**: Once per lifetime, cheat death.
 31. **Self-Tought Magic**: By tasting an object, you can tell whether or not it is magical. You have 1 Spell Dice that regenerates overnight.
