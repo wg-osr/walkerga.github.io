@@ -34,6 +34,6 @@ You can stay perfectly still for as long as you want. Once hidden, you will not 
 You can shoot your rope like a grappling hook and it will stick to whatever surface is there. You can do this as an attack too.
 
 ## Ettercap Venom
-Instead of producing 30' of rope, you can produce a dose of Ettercap Venom. You can do so as you attack to coat your weapon in venom.
+You start each day with 3 doses of Ettercap Venom. They expire at the end of the day.
 
 <span class="alchemy">**Ettercap Venom.** Save or be poisoned, save again each day to cure. Poisoned fairies lose all their powers.  </span>
