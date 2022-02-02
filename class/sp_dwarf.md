@@ -6,8 +6,6 @@ permalink: /class/specialist/dwarf
 
 ###### Adapted from Buildings Are People's [Version](https://buildingsarepeople.blogspot.com/2018/04/dwarf-glog-class.html)
 
-To take dwarf templates, you must be a dwarf.
-
 <ins>Starting Equipment</ins><br>
 leather armor, axe, rough iron shield.
 
