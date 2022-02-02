@@ -6,8 +6,10 @@ permalink: /class/ettercap
 
 <img align="right" width=230px src="http://www.kaluta.com/pages/games/dnd/ettercaps210.jpg">
 
+###### A monster class for the [Ettercap](https://saltygoo.github.io/monsters/ettercap), spider-people. But could also be used for a litteral spider. Illustratio by [Kaluta](http://www.kaluta.com/).
+
 <ins>Starting Equipment</ins><br>
-A silk bag, A dessicated body.
+A wrapped dessicated Body, a glowing Stone.
 
 <ins>Starting Skills (+5)</ins><br>
 Ropes, and either Fairy Hunting, Canopy Life, or Sewing.
@@ -26,12 +28,12 @@ You always count as having climbing gear. If a climb would be trivial using gear
 You can sense and describe the shape of everything a rope you touch touches.
 
 ## Patience
-You can stay perfectly still. Once hidden, you will not be found unless somebody looks for you.
+You can stay perfectly still for as long as you want. Once hidden, you will not be found unless somebody looks for you.
 
 ## Amazing Spider Person
 You can shoot your rope like a grappling hook and it will stick to whatever surface is there. You can do this as an attack too.
 
 ## Ettercap Venom
-Once per day, you can produce one dose of venom. You can do so as you attack to make it venomous.
+Instead of producing 30' of rope, you can produce a dose of Ettercap Venom. You can do so as you attack to coat your weapon in venom.
 
 <span class="alchemy">**Ettercap Venom.** Save or be poisoned, save again each day to cure. Poisoned fairies lose all their powers.  </span>
