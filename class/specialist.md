@@ -4,6 +4,8 @@ title: The Specialist
 permalink: /class/specialist
 ---
 
+<img align="right" width=250px src="https://64.media.tumblr.com/d41c51619bff265ce977f15ed248e97e/tumblr_oo00l5yXlI1ro2bqto1_1280.jpg">
+
 ###### Adapted from Two Goblins in a Trenchcoat's [Version](https://twogoblinsinatrenchcoat.blogspot.com/2019/04/anything-not-nailed-down-is-legally.html) and Building are People's [Version](https://buildingsarepeople.blogspot.com/2019/01/class-specialist-and-specialist-arts.html).
 
 <ins>Starting Equipment</ins><br>
