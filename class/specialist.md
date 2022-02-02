@@ -57,7 +57,7 @@ You can achieve things beyond the scope of your skills:
 11. **Dog Whisperer**: You have a dog. Dogs you train have advantage on stealth, communicate if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment).
 12. **Escape Artist**: Escaping a grapple is easy. You can crawl through 1' wide holes.
 13. **Fashionable**: Fancy clothes count as pieces of armor and don’t take up any inventory slots.
-14. **Field Medic**: Rolls to stabilize a dying ally are normal rolls instead of hard rolls.
+14. **Field Medic**: Rolls to stabilize a [dying](/2020/11/09/base-rules/) ally are normal rolls instead of hard rolls.
 15. **Forgery**: Once per session you can take 10 minutes to make a copy of any object. It's unuseable and worthless.
 16. **Getaway Horse**: You have a horse. Horses you train have advantage on stealth, understand abstract directions, and follow a schedule to the minute.
 17. **Gossip**: Once per session you can recall an embarrassing secret of a person of your choice, as told by the referee.
@@ -75,8 +75,8 @@ You can achieve things beyond the scope of your skills:
 2. **Rope Master**: You have advantage on all your rolls mainly related to ropes.
 29. **Saboteur**: You can take 10 minutes to break any non magical object.
 30. **Second Chance**: Once per lifetime, cheat death.
-31. **Self-Taught Magic**: By tasting an object, you can tell whether or not it is magical. You have 1 Spell Dice that regenerates overnight.
-32. **Square Meal**: Lunch heals you 1 Wound provided you pair it with alcohol.
+31. **Self-Taught Magic**: By tasting an object, you can tell whether or not it is magical. You have 1 [Spell Dice](/spells/) that regenerates overnight.
+32. **Square Meal**: Lunch heals you 1 [Wound](/2020/11/09/base-rules/) provided you pair it with alcohol.
 33. **Switcharoo**: You can take out anything from the inventories of your teammates as if it was in yours as long as they are in sight and they consent. Pulling any item from an inventory in battle does not take an action.
 34. **Tinker**: You can take 10 minutes to merge any two non magical objects from your Inventory. The new object is only usable by you and otherwise worthless.
 35. **Tongues**: Once per day, you can speak with D4: 1 Weapons, 2 Doors, 3 Birds, 4 Clothing.
