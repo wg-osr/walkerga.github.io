@@ -4,7 +4,7 @@ title: The Dwarf
 permalink: /class/specialist/dwarf
 ---
 
-###### Adapted from Buildings Are People's [Version](https://buildingsarepeople.blogspot.com/2018/04/dwarf-glog-class.html) and Rise Up Comus' [Version](http://riseupcomus.blogspot.com/2020/05/classic-fantasy-races-for-glog.html).
+###### A monster class for the [Dwarf](/monsters/dwarf-hill). Adapted from Buildings Are People's [Version](https://buildingsarepeople.blogspot.com/2018/04/dwarf-glog-class.html) and Rise Up Comus' [Version](http://riseupcomus.blogspot.com/2020/05/classic-fantasy-races-for-glog.html). Illustration by Jean-Baptiste Monge.
 
 <img align="right" width=200px src="/images/dwarf.png">
 
