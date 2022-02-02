@@ -4,6 +4,8 @@ title: The Spiderfolk
 permalink: /class/ettercap
 ---
 
+<img align="right" width=200px src="http://www.kaluta.com/pages/games/dnd/ettercaps210.jpg">
+
 <ins>Starting Equipment</ins><br>
 A silk bag, A dessicated body.
 
