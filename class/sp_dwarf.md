@@ -6,6 +6,8 @@ permalink: /class/specialist/dwarf
 
 ###### Adapted from Buildings Are People's [Version](https://buildingsarepeople.blogspot.com/2018/04/dwarf-glog-class.html)
 
+<img align="right" width=200px src="/images/dwarf.png">
+
 <ins>Starting Equipment</ins><br>
 leather armor, axe, rough iron shield.
 
