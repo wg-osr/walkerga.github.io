@@ -19,7 +19,7 @@ For every Goblins template you have, increase your HP by 2.
 **A:** Many Goblins<br>
 **B:** Goblin Boss<br>
 **C:** +1 Goblin Boss<br>
-**D:** +1 Goblin Boss, Many Scrappy Things<br>
+**D:** +1 Goblin Boss, Loose Gang<br>
 
 ## Many Goblins
 Goblins can see and smell in the dark as if they were holding torches.
@@ -29,9 +29,7 @@ Your HP represents how many goblins are alive. Every point of damage causes a si
 Because goblins eat trash, you only eat as much rations as one humanoid. When performing basic unskilled labor, like digging a trench or carrying buckets, you count as as many people as your HP, but you give up after 1 hour. You can occupy a space as big as 10 square feet.
 
 ## Goblin Boss
-One goblin in the swarm has earned a name. Once per encounter, for one round, the named goblin can do something different than the other Many Goblins, including using items that not all your goblins have. Give it a name and a short description.
+One goblin in the swarm has earned a name. Give it a name and a short description. Once per encounter, the named goblin can do something different than the Many Goblins, giving you an extra turn. Each Goblin boss comes equiped with a different [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) each battle.
 
-If you die, each goblin boss survives as a hireling, until you find more goblins and recombine into many goblins.
-
-## Many Scrappy Things
-You always have one scrappy [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) accessible that only you can use. However, it's different every time you enter a new room, have an encounter, or rest. It's worthless.
+## Loose Gang
+When not in battle, you cannot lose more than 1 HP at a time. In battle, you count as adjacent to all allies and enemies at all time.
