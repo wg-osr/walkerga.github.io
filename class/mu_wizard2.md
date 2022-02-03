@@ -23,10 +23,10 @@ A strange hat, ink and quill, a spellbook (see below)
 <ins>Starting Skills (+5)</ins><br>
 Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
 
-For every Wizard template you have, you gain one extra **Spell Die** (SD) and you **Study**. You can also study if you spend a [Treasure](/2020/11/10/extra-rules/#treasures) when you end a session in town.
+For every Wizard template you have, you gain one extra **Spell Die** (SD) and you **Study**. 
 
 ## Spells
-Wizards get a [random one](/list/spells) for free at level 1. They’re stored in spellbooks and you spend Spell Dice to cast them.
+Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them.
 <details markdown="1">
 <summary>How GLOG spells work</summary>
 <ins>Spell Dice (SD)</ins><br>
@@ -39,7 +39,7 @@ If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They will end your wizardly career if you don’t quest to avoid your doom.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). These might end your wizardly career.
 </details>
 
 ## Study
