@@ -4,7 +4,6 @@ title: The Priest
 permalink: /class/priest
 ---
 
-
 <img align="right" width=230px src="https://images.squarespace-cdn.com/content/v1/5a7a459818b27d32248b6c7d/1519392537451-8B05C1VZDSUQD6BQZH5D/Bishop+%26+Bagg+Illustration+Black.png">
 
 <details markdown="1">
