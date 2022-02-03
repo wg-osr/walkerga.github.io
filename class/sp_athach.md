@@ -6,7 +6,7 @@ permalink: /class/specialist/athach
 
 ###### A monster class for the [Athach](https://saltygoo.github.io/monsters/athach), a three-armed forest giant from gaelic folkore. Illustrated by [Ahmonza](https://www.newgrounds.com/art/view/ahmonza/d-d-athach).
 
-<img align="right" width=210px  src="https://art.ngfiles.com/images/1933000/1933314_ahmonza_d-d-athach.png?f1625560972">
+<img align="right" width=250px  src="https://art.ngfiles.com/images/1933000/1933314_ahmonza_d-d-athach.png?f1625560972">
 
 <ins>Starting Equipment</ins><br>
 Pelt blanket (leather armor), a Cold Iron Apple, and a Blunt Weapon of your choice.
