@@ -32,6 +32,7 @@ Your kind knows of the primeval lines that cross the world. When you stand on su
 - <ins>Magic overflows:</ins> Everybody's [Spell Dice](https://saltygoo.github.io/class/magic-user#spells) are recovered on a roll of 1, 2, 3, or 4.
 - <ins>Life is abundant:</ins> Everybody's death rolls are made with advantage.
 - <ins>You can create shockwaves:</ins> You can attempt to shove anybody in the area you can see from any range.
+
 Ask the referee if the dungeon room or outdoors hex you are in is crossed by a leyline. Unless specified, leylines cross rooms or hexes identified by a prime number. Prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, etc.
 
 ## Feed the Leyline
