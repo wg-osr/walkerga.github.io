@@ -4,6 +4,10 @@ title: The Wizard
 permalink: /class/wizard
 ---
 
+###### Inspired by ALL the wizards of the GLOG community. Image by Larry Elmore.
+
+<img align="right" width=230px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1623279068059-0ATKUP72UNE2HHN5NUUD/Intro_Dragon114_Witch.jpg">
+
 <details markdown="1">
 <summary>Design Notes</summary>
 Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more edible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the literal hundreds of wizard classes! Most of the spellbooks described below are direct conversions of my favorites among them.
