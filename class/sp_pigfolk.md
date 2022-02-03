@@ -4,38 +4,37 @@ title: The Pigfolk
 permalink: /class/specialist/pigfolk
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-This was initially a monster class for the [Calytaur](https://saltygoo.github.io/monsters/calytaur). I really like how many OSR systems represents extra weight as inventory slots and I wanted to play with this mechanic for a class based on the tropes of the pigs. The end result is, I hope, a pretty versatile and fun class with a twist on resource management.
-</details>
+###### A monster class for the [Calytaur](https://saltygoo.github.io/monsters/calytaur), half-human, half pigs. But could easiliy work as a butcher. Illustration by Chad Thorson.
+
+<img align="right" width=230px src="http://1.bp.blogspot.com/-zhj5ZogCG0g/WsNBab6KUXI/AAAAAAAAShw/n2ImAb6HeiYKxBYnn9nyrIO4Y259xYASQCK4BGAYYCw/s1600/3035213377_52549f3f39.jpg">
 
 <ins>Starting Equipment</ins><br>
-Lumberjack axe or meat cleaver, leather armor, jug of mud.
+Lumberjack Axe or Meat Cleaver, Leather Armor, Jug of Mud.
 
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Butchery, Debauchery or Farming.
 
-For every Pigfolk template you have, you get more fat (it takes one inventory slot)*.
+For every Pigfolk template you have, one of your Inventory slot is filled with **Fat**.
 
 **A:** Bulk I, Pig Nose I<br>
-**B:** Bulk II, Iron Stomach<br>
+**B:** Dungeon Cook, Caloric Burn<br>
 **C:** Pig Nose II<br>
-**D:** Stubbornness<br>
+**D:** Butcher<br>
 
 ## Bulk
-For each inventory slot you have taken by fat, increase your maximum HP by 1. When in town between adventures, each [Treasure](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
+For each inventory slot you have taken by **Fat**, increase your HP by 1. If you spend the equivalent of a Treasure celebrating while [carousing](/2020/11/09/base-rules/), you can fill one of your Inventory slots with **Fat**. If you don't eat at least two rations per day, you lose 1 layer of **Fat**.
 
 ## Pig Nose I
 You can smell nearby edible things. This may be hampered by other overwhelming odors and this does not detect diseases and natural poisons.
 
-## Bulk II
-You can use the number of inventory slots you have taken by fat instead of your strength score.  When in town between adventures, each [Valuable](/2020/11/10/extra-rules#treasures) spent carousing can give you more fat if you want.
+## Dungeon Cook
+If you manage to salvage a balanced meal composed of proteins, vegetables, and starch from the dungeon you are in, each party member recovers 1 [Wound](/2020/11/09/base-rules/) and you can fill one of your Inventory slots with **Fat**.
 
-## Iron Stomach
-If you are poisoned, you can burn one inventory slot of fat to recover from it.
+## Caloric Burn
+You can burn a slot of **Fat** to give yourself a bonus of 1D6 on any roll, including damage.
 
 ## Pig Nose II
 After you eat something, you know if there are other things like it in the dungeon and in which general direction they are. This may be hampered by other overwhelming odors.
 
-## Stubbornness
-You can burn one inventory slot of fat to reroll any roll you are unhappy with.
+## Butcher
+When you carry monster meat in your Inventory, all monsters of the same type are [affraid](/2020/11/10/extra-rules/#conditions) of you.
