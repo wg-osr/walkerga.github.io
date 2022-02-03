@@ -8,7 +8,6 @@ permalink: /class/cacus
 
 <img align="right" width=230px  src="/images/Cacus.png">
 
-
 <ins>Starting Equipment</ins><br>
 10' Hooked Shepherd staff, Loincloth, Sheep.
 
