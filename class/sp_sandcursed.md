@@ -4,10 +4,9 @@ title: The Sand-Cursed
 permalink: /class/sandcursed
 ---
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*This was thought of as a monster class for the [Desert Giant](/monsters/giant-desert). I loved the idea of the inevitable death by petrification, so I designed this class to be about survival but at a permanent cost. It's between the inventory management of my "fat classes" ([Ogre](/class/fighter/ogre) and [Pigfolk](/class/specialist/pigfolk)) and my other "doomed" class the [mutant](/fighter/mutant). The last template might look simple, but any sand-cursed character that survived that long will probably need this huge boost in survivability. — SaltyGoo*
-</details>
+###### A monster class for the [Desert Giant](/monsters/giant-desert), cursed to turn into statues. Illustrator unknown.
+
+<img align="right" width=230px  src="https://static.wikia.nocookie.net/forgottenrealms/images/c/c5/Bedine_rogue.png">
 
 <ins>Starting Equipment</ins><br>
 Scimitar, Dusty Robes, Waterskin, Petrified Head of a Lost Friend
