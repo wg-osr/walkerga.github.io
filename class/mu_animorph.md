@@ -4,6 +4,8 @@ title: The Animorph
 permalink: /class/magic-user/animorph
 ---
 
+<img align="right" width=230px src="https://static.wikia.nocookie.net/animorphs/images/0/07/Animorphs_the_threat_book_21_david_mattingly_original_sketch.gif">
+
 <ins>Starting Equipment</ins><br>
 A poncho. A bestiary, a quill, ink. Your choice of a Bug Net, Antivenom or Something Extra from your [daytime career](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html).
 
