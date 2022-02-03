@@ -40,6 +40,7 @@ The [Wizard](/class/wizard)
 The [Specialist](/class/specialist)
 <details markdown="1">
   <summary>Specialist-Type Classes</summary>
+  - The [Athach](/class/specialist/athach) (Three-Armed Giant)
   - The [Bodybuilder](/class/cacus)
   - The [Dwarf](/class/specialist/dwarf)
   - The [Spiderfolk](/class/ettercap)
@@ -48,5 +49,4 @@ The [Specialist](/class/specialist)
   - The [Pigfolk](/class/specialist/pigfolk)
   - The [Salamander](/class/specialist/salamander)
   - The [Sand-Cursed](/class/sandcursed)
-  - The [Three-Armed Giant](/class/specialist/athach)
 </details>
