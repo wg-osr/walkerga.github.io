@@ -6,7 +6,7 @@ permalink: /class/sandcursed
 
 ###### A monster class for the [Desert Giant](/monsters/giant-desert), cursed to turn into statues. Illustrator unknown.
 
-<img align="right" width=230px  src="https://static.wikia.nocookie.net/forgottenrealms/images/c/c5/Bedine_rogue.png">
+<img align="right" width=200px  src="https://static.wikia.nocookie.net/forgottenrealms/images/c/c5/Bedine_rogue.png">
 
 <ins>Starting Equipment</ins><br>
 Scimitar, Dusty Robes, Waterskin, Petrified Head of a Lost Friend
