@@ -23,7 +23,7 @@ For every Three-Armed Giant Baby template you have, you grow 1' and you increase
 **D:** Not a Baby<br>
 
 ## Three-Armed
-You have three arms. Doing different things at the same time with each is clumsy.
+You have three arms. Doing different things at the same time with each is hard.
 
 ## Giant Baby
 You are afraid of creatures bigger than you. Save when you see one.
