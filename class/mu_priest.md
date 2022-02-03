@@ -4,6 +4,9 @@ title: The Priest
 permalink: /class/priest
 ---
 
+
+<img align="right" width=230px src="https://images.squarespace-cdn.com/content/v1/5a7a459818b27d32248b6c7d/1519392537451-8B05C1VZDSUQD6BQZH5D/Bishop+%26+Bagg+Illustration+Black.png">
+
 <details markdown="1">
 <summary>Design Notes</summary>
 *Inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it in my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!*
