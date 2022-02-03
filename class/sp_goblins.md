@@ -4,10 +4,9 @@ title: The Goblins
 permalink: /class/specialist/many-goblins
 ---
 
-<details markdown="1">
-<summary>Adapted from Coins and Scrolls</summary>
-*Edited from Coins and Scrolls's amazing [class](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html). I simplified a bit, merged it with the goblin race (as I don't use races outside of classes). It's a wacky, very survivable class that can act multiple times in the first turn of battle but is very limited by inventory. — SaltyGoo*
-</details>
+<img align="right" width=230px src="https://papik.pro/uploads/posts/2021-12/thumbs/1640327581_29-papik-pro-p-posledovatelnii-risunok-goblina-poetapno-29.jpg">
+
+###### A monster class for the [Goblin](/monsters/goblin) everybody loves. Edited from Coins and Scrolls's amazing [class](https://coinsandscrolls.blogspot.com/2018/04/osr-class-many-goblins.html). Illustratio by Scott Harshbargar.
 
 <ins>Starting Equipment</ins><br>
 Many shanks, many filthy rags, fleas, one [random object](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)
