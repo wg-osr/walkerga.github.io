@@ -22,7 +22,7 @@ Holy Vestments (including Hat), a Censer, your Holy Book
 For every Priest template you have, you gain one new **Sacrament**.
 
 ## Sacrament
-When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represents one facet of your faith. If a sacrament gives you a spell, it functions the same way as a Wizard spell but you can cast it only once between each rest.
+When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represents one facet of your faith. If a sacrament gives you a spell, it is stored in your Psyche and you can cast it _once_ between each rest.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>
@@ -32,7 +32,7 @@ They are D6s and you cannot cast a spell without them. Whenever you cast a spell
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They will end your wizardly career if you don’t quest to avoid your doom.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They might end your adventuring career so be careful.
 </details>
 
 Choices of Sacraments:
