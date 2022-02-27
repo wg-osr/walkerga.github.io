@@ -4,10 +4,8 @@ title: The Tiefling
 permalink: /class/magic-user/tiefling
 ---
 
-The Tiefling is a type of [Magic User](/class/magic-user).
-
 <ins>Starting Equipment</ins><br>
-Edgy black leather Armor, Trident, Spell Book, Blood Quill.
+An Edgy black Leather Armor, a Trident, a Spell Book, a Quill that works only with blood.
 
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, or Dark Commander.
