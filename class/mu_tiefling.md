@@ -5,12 +5,12 @@ permalink: /class/magic-user/tiefling
 ---
 
 <ins>Starting Equipment</ins><br>
-An Edgy black Leather Armor, a Trident, a Spell Book, a Quill that works only with blood.
+An Edgy black Leather Armor, a Trident, a Quill that works only with blood.
 
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, or Dark Commander.
 
-For every Tiefling template you have, you gain a **Devil Trait.**
+For every Tiefling template you have, you gain a **Devil Aspect.**
 
 <details markdown="1">
 <summary>Tiefling Spell List (1D10)</summary>
@@ -25,6 +25,13 @@ For every Tiefling template you have, you gain a **Devil Trait.**
 1. [Thaumaturgy](/2020/11/13/thaumaturgy)
 1. [Transcendence](/2020/11/13/transcendence)
 </details>
+
+**A:** Devil Aspect, Infernal Tongue<br>
+**B:** Consume Soul<br>
+**C:** +1 Sin <br>
+**D:** Dark Reward <br>
+
+## Diabolic Magic
 
 <ins>Perk</ins><br>
 Any time you would roll for a new spell when you level up, you can roll 1D6 on the infernal perks list instead:
@@ -42,4 +49,3 @@ You have horns, vestigial wings and a tail: you cannot wear armors and helmets t
 <ins>Cantrips</ins>
 - You can speak backward, a language only understood by exorcists and divine creatures.
 - Hearts are like cocaine to you. When you eat a fresh heart, you gain advantage on any roll as long as it is for a selfish, cocky and petty action for the next hour. For the following hour, you have disadvantage on all rolls that are not for  a selfish, cocky and petty action.
-- You cannot be burned by flames smaller than a bonfire.
