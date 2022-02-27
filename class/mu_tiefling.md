@@ -10,8 +10,10 @@ An Edgy black Leather Armor, a Trident, a Spell Book, a Quill that works only wi
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, or Dark Commander.
 
-<ins>Spell List</ins><br>
-Roll on this list when you level up:
+For every Tiefling template you have, you gain a **Devil Trait.**
+
+<details markdown="1">
+<summary>Tiefling Spell List (1D10)</summary>
 1. [Command](/2020/11/13/command)
 1. [Conjure](/2020/11/12/conjure)
 1. [Fascinating Gaze](/2020/11/13/fascinating-gaze)
@@ -22,6 +24,7 @@ Roll on this list when you level up:
 1. [Smell Sin](/2020/11/12/smell-sin)
 1. [Thaumaturgy](/2020/11/13/thaumaturgy)
 1. [Transcendence](/2020/11/13/transcendence)
+</details>
 
 <ins>Perk</ins><br>
 Any time you would roll for a new spell when you level up, you can roll 1D6 on the infernal perks list instead:
