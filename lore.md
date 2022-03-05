@@ -8,9 +8,11 @@ permalink: /lore/
 
 ### RELIGION
 <ins>The Basilisks</ins> are two and two-headed. The four heads have argued for hundreds of years.
+
 **SHE** 
   - Lusi - Head of denial
   - Arkh - Head of Deception
+ 
 **HE**
   - Gorgh - Bitter, rank with envy
   - <ins>Verhu</ins> - Damned Truth, whisperer of the prophecy 
