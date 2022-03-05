@@ -12,7 +12,7 @@ permalink: /classes/
 *A fighter-type class is designed to be good in combat situations. A specialist-type class is designed to be good in non-combat situations. A wizard-type class is designed to change the situation.*
 
 <details markdown="1">
-  <summary>Fanged Deserter</summary>
+  <summary>[Fanged Deserter](/class/fanged-deserter)</summary>
   - You have thirty or so friends who never let you down: **Your teeth.** Disloyal, deranged, or simply uncontrollable, and group that didn't boot you out, you left anyway. But your parliament of teeth--enormous, potruding, thick, and sharp--have always been your allies.
 </details>
 
