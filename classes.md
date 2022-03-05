@@ -11,17 +11,9 @@ permalink: /classes/
 
 *A fighter-type class is designed to be good in combat situations. A specialist-type class is designed to be good in non-combat situations. A wizard-type class is designed to change the situation.*
 
-The [Fighter](/class/fighter)
 <details markdown="1">
-  <summary>Fighter-Type Classes</summary>
-  - The [Centaur](/class/centaur)
-  - The [Cyclops](/class/cyclops)
-  - The [Githyanki](/class/fighter/githyanki)
-  - The [Hobgoblin](/class/fighter/hobgoblin)
-  - The [Lizardfolk](/class/fighter/lizardfolk)
-  - The [Mutant](/class/fighter/mutant)
-  - The [Ogre](/class/ogre)
-  - The [Two-Headed Giant](/class/fighter/ettin)
+  <summary>Fanged Deserter</summary>
+  - You have thirty or so friends who never let you down: **Your teeth.** Disloyal, deranged, or simply uncontrollable, and group that didn't boot you out, you left anyway. But your parliament of teeth--enormous, potruding, thick, and sharp--have always been your allies.
 </details>
 
 The [Wizard](/class/wizard)
