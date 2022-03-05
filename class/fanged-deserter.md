@@ -4,7 +4,7 @@ title: Fanged Deserter
 permalink: /class/fanged-deserter
 ---
 
-<img align="right" width=250px src="/images/Fanged_Deserter.png">
+<img align="right" width=350px src="/images/Fanged_Deserter.png">
 
 ###### You have thirty or so friends who never let you down: YOUR TEETH. Disloyal, deranged, or simply uncontrollable any group that didn't boot you out, you left anyway. But your parliament of teeth - enormous, potruding, thick, and sharp - have always been your allies.
 
