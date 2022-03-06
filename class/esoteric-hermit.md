@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Esoteric Hermit
-permalink: /class/Esoteric Hermit
+permalink: /class/esoteric-hermit
 ---
 
 <img align="right" width=350px src="/images/Fanged_Deserter.png">
