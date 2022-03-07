@@ -24,6 +24,3 @@ The **GM** rolls a dice each dawn. A result of 1 activates one misery. The seven
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which word transcribed and then formed into the Nechrubel Calender
 
 
-### Contact me
-
-u/SaltyGoo on reddit? If you are a creator whose content is here and want me to make it private, tell me!
