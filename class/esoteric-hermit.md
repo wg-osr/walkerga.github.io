@@ -4,7 +4,7 @@ title: Esoteric Hermit
 permalink: /class/esoteric-hermit
 ---
 
-<img align="right" width=350px src="/images/Fanged_Deserter.png">
+<img align="right" width=350px src="/images/Esoteric_Hermit.png">
 
 ###### The stone of your cave is one with the stars. Silence and perfection. Now the chaos of a fallen world disturbs your rituals and the caul of night grows blacker than your cavern's gloom. Irritating!
 
