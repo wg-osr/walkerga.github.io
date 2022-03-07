@@ -4,7 +4,7 @@ title: Occult Herbmaster
 permalink: /class/occult-herbmaster
 ---
 
-<img align="right" width=350px src="/images/Occult_Herbmaster.png">
+<img align="right" width=350px padding=5px src="/images/Occult_Herbmaster.png">
 
 ###### Born of the mushroom, raised in the glade, watched by the eye of the moon in a silverblack pool.
 
