@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Magic
-permalink: /Magic/
+permalink: /magic/
 ---
 
 # Powers
