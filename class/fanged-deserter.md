@@ -17,3 +17,7 @@ Striked primitive fear into lesser creatures like goblins, gnomes, and children.
 - d6 damage
 - You must be close to your target
 - 1 - 2 on d6 chance the enemy gets a free attack.
+
+
+<br>
+<br>
