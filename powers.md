@@ -37,3 +37,21 @@ permalink: /powers/
 8. **Hermetic Step** - You find all traps in your path fro 2d10 minutes
 9. **Roskoe's Consuming Glare** - d4 creatures lose d8 HP each
 10. **Enochian Syntax** - One creature blindly obeys a single command
+
+## The Tablets of Ochre Obscurity
+**Made from the clay** of *Thee Valley of the Unfortunate Undead*, these Ochre Tablets are relics of a forgotten mind-cult so rare they can be sold for 100s. Each tablet counts as a normal-sized item. If a PC fumbles an attack/defense one tablet breaks. Otherwise, they follow the same usage rules as scrolls. <br>
+The coded glyphs are challenging to comprehend; PCs wielding their Power must have Presence +3 (minimum) or be a Forlorn Philosopher
+
+1. **Dream Theory** - The target begins to doubt it is real. Attacking and defending against it is -2DR (+2 DR for affected PCs)
+2. **Total Matter Comprehension** - Mends or breaks a normal-sized item, mundane or otherwise, including armor (increase/decrease one tier) and weapons.
+3. **Ping the Shared Subconscious** - You sense the presence of living creatures within 70ft even in adjacent rooms.
+4. **Logical Prognostication** - Using Pure Logic you can deduce the nature of any traps or mechanisms within 30ft <ins>or</ins> of any Powers used within 60ft
+5. **Carno-Organic Speleophagy** - Transmogrifies a child-sized rock into burnt, chewy meat. Feeds d4 famished people.
+6. **Time-Locked Pneumotoxin** - This cracked tablet can be crushed to a coarse powder. If strewn upon a creature it takes d6 damage - on a 6 it chokes and dies. The table reappears each morning in its owner's possession. This Power's Presence test is harmless to the wielder, determing whether or not the powder finds the target
+7. **Induced Irrelevance** - This tablet's code literally removes a creature's essential meaning for d4 rounds. During which enemies will not attack it, even if it attacks them first
+8. **Structural Cryo-condensation (Freezing Moon)** - Water freezes from the air forming a 15ft long bridge or all water within 150ft (unfortunately excluding that within living creatures) freezes
+9. **Meta-Alchemy** - The user may transform a container of liquid one of the following ways:
+    -Transmute it into two doses of Red or Black poison
+    - Create *The Loathing of Vulark*. The imbiber rolls a DR16 Toughness test or jumps from from great heights
+    - Transform poison to water or wine
+10. **Memetic Cognitive Palpitation** - Near-imperceptible body shifts transmit a simple mind-plague which causes one creaturer to dadnce madly for d4 rounds. They may neither attack nor defend during this choreomania
