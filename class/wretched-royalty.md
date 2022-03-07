@@ -4,7 +4,7 @@ title: Wretched Royalty
 permalink: /class/wretched-royalty
 ---
 
-<img align="right" width=350px src="/images/Fanged_Deserter.png">
+<img align="right" width=350px src="/images/Wretched_Royalty.png">
 
 ###### Bowed down only by the memories of your own lost glory, you could never submit to anyone else. Not you, of noble blood! (Not that you expect any of these peons to understand the depths of your sorrow.)
 
