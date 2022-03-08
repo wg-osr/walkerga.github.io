@@ -16,3 +16,8 @@ permalink: /class/gutterborn-scum
 5. Excretal Stealth <br>
 You have an astounding, almost preternatural ability to hide in muck, debris, and filth. When hidden in these conditions a DR16 test is required to notice you.
 
+<br>
+<br>
+
+<br>
+
