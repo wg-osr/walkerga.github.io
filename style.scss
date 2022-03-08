@@ -8,6 +8,10 @@
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
+@font-face {
+	font-family: 'JBLACK';
+	src: url("https://github.com/WalkerGA/walkerga.github.io/blob/master/JBLACK.TTF");
+}
 
 /**************/
 /* BASE RULES */
@@ -54,6 +58,7 @@ h1 {
 h2 {
   font-size: 24px;
   color: #FF3EB5;
+  font-family: 'JBLACK';
 }
 
 h3 {
