@@ -4,7 +4,7 @@ title: Gutterborn Scum
 permalink: /class/gutterborn-scum
 ---
 
-<img align="left" border=2px border-color="white" width=350px src="/images/Gutterborn_Scum.png">
+<img align="left" margin=10px width=350px src="/images/Gutterborn_Scum.png">
 
 ###### An ill star smiled upon your birth. Poverty, crime and bad parenting didn't help either. In your community an honest day's work was never an option. Not that you ever tried, what are you, some kind of mug? A razor blade and a moonless night are worth a week of chump-work.
 
