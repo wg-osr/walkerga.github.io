@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Core Rules
+title: 
 permalink: /rules/
 ---
+
+##### RULES
 
 
 <details markdown="1">
