@@ -16,7 +16,7 @@ permalink: /rules/
 
 ## ABILITIES
 
-- #### Agility - Defend, balance, swim, flee, etc
+- #### Agility  - Defend, balance, swim, flee, etc
 - #### Presence - Perceive, aim, charm, wield Powers
 - #### Strength - Crush, lift, strike, grapple
 - #### Toughness - Resist poison/cold/heat, survive falling
@@ -28,7 +28,15 @@ Tests are made against a **Difficulty Rating** (DR). To succeed roll d20 ± your
 - #### Initiative
     - Roll d6 + Agility for individual initiative or to determine who goes first within the group.
 - #### Melee
-    - Test **Presence** DR12    
+    - Test **Strength** DR12
+- #### Ranged
+    - Test **Presence** DR12
+- #### Defence
+    - Test **Agility** DR12
+- Crit (Natural 20)
+    - <ins>Attack:</ins> Double damage, armor/protection is also reduced one tier.
+    - <ins>Defense:</ins> PC takes double damage and armor is reduced one tier. *When armor is damaged, penalties to Strength and Agility tests are not modified.*<br>
+*Armor reduced **below 1st tier** is ruined and cannot be repaired.*  
 
 
 
