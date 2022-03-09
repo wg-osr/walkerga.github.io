@@ -1,5 +1,7 @@
 ---
-permalink/broken-branches/
+layout: page
+title: 
+permalink: /cults/broken-branches
 ---
 
 ##### The Court of Broken Branches
