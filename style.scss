@@ -12,11 +12,6 @@
 	font-family: 'JBLACK';
 	src: url("../fonts/JBLACK.TTF");
 }
-@font-face {
-	font-family: 'MONARCHI'
-	src: url("../fonts/MONARCHI.TTF");
-}
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -76,7 +71,7 @@ h4 {
 
 h5 {
   font-size: 45px;
-  font-family: 'MONARCHI';
+  font-family: 'JBLACK';
   // font-weight: normal;
   color: #FF3EB5; 
 }
