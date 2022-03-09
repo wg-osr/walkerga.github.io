@@ -35,6 +35,9 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
 </details>
 
+Arch-Priestess Josilfa Migol reins as the current head of **The One True Faith**. <br>
+The Creton Order is responsible for the Cathedral of the Two-Headed Basilisks and carrying out that which is decreed by the Arch-Priestess.
+
  
 
 # TEST
