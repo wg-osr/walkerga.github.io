@@ -18,6 +18,9 @@ The first time the Scum gets better another specialty is rolled. From the second
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## Specialties
 1. <ins>**Coward's Job**</ins> <br>
