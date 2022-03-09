@@ -13,7 +13,7 @@ The **GM** rolls a dice each dawn. A result of 1 activates one misery. The seven
 
 # RELIGION
 
-Most of those in power follow **The One True Faith**, forcing their subjects to follow as well. All other religions, cults, or anything the church deems is heresy and those guilty are subject to death. Lurking in the shadows, loyal followers of dead and lost gods are worshipped and praised.
+The Church of the One True Faith maintains contol over much of this world. While its influence is most powerful within the major kingdoms in the north, it is only slightly less present elsewhere. The basilisk **HE** killed most other gods but those already lost or dying still remain. 
 
 ### One True Faith
 
@@ -35,8 +35,8 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
 </details>
 
-Arch-Priestess Josilfa Migol reins as the current head of **The One True Faith**. <br>
-The Creton Order is responsible for the Cathedral of the Two-Headed Basilisks and carrying out that which is decreed by the Arch-Priestess.
+**The Church of the One True Faith** is headed by Arch-Priestess Josilfa Migol. <br>
+The church's influence is exacted by the Creton Order. Mostly made up of the noble and priestly social class.
 
 ---
 
