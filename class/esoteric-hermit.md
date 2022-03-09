@@ -30,5 +30,8 @@ After the battle they return to their imprisonment
 3. <ins>**Speaker of Truths**</ins> <br>
 Twice per day use your wisdom, knowledge, advice, and inner calm to bring clarity to a creature of your choice. The DR of the next test they undertake is -4.
 4. <ins>**Initiate of the Invisible College**</ins> <br>
-Once per day you may summon d2 scrolls, whose power
+Once per day you may summon d2 scrolls, whose power can only be used one. **Roll 1d4...** <br>
+On a 1 - 2 the scrolls are [**sacred**](https://walkerga.github.io/powers) <br>
+On a 3 - 4 the scrolls are [**unclean**](https://walkerga.github.io/powers) <br>
+If the scrolls are not used before sunrise they turn to ash
 
