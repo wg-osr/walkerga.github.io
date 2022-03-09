@@ -15,9 +15,10 @@ The **GM** rolls a dice each dawn. A result of 1 activates one misery. The seven
 
 Most of those in power follow **The One True Faith**, forcing their subjects to follow as well. All other religions, cults, or anything the church deems is heresy and those guilty are subject to death. Lurking in the shadows, loyal followers of dead and lost gods are worshipped and praised.
 
+## One True Faith
 
-<details markdown=1><summary>## The One True Faith</summary>
-
+<details markdown=1><summary>History</summary>
+In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the basilisk **Verhu** and set down his whispered prophecies. These lost texts became known as the *Nameless Scriptures*. 300 years later, while working on a new cathedral, *The Two-Headed Basilisks*, an orthodox branch of the Creton Order uncovered Schleger's tomb and with it the Scriptures. Since then all events described within have come to pass. The prophecies are absolutely, factually true and have, thus, supplanted all other Scripture.
 </details>
 
  
