@@ -12,6 +12,7 @@ permalink: /lore/
 The **GM** rolls a dice each dawn. A result of 1 activates one misery. The seventh misery is rolled, the world finally dies. The seventh seal is broken for the seventh and final time. The game and your lives end here.
 
 ### RELIGION
+ 
 <ins>The Basilisks</ins> are two and two-headed. The four heads have argued for hundreds of years.
 
 **SHE** 
