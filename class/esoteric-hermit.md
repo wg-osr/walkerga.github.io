@@ -34,4 +34,9 @@ Once per day you may summon d2 scrolls, whose power can only be used one. **Roll
 On a 1 - 2 the scrolls are [**sacred**](https://walkerga.github.io/powers) <br>
 On a 3 - 4 the scrolls are [**unclean**](https://walkerga.github.io/powers) <br>
 If the scrolls are not used before sunrise they turn to ash
+5. <ins>**Bard of the Undying**</ins> <br>
+You learnt your melodies in the Otherworld. The music of your Harp gives +d4 on rection rolls.
+6. <ins>**Hawk as Weapon**</ins> <br>
+Your crafty almost-intelligent hawk is loyal only to you. Even without shared language, you understand its cries as it keeps watch, scouts, and swoops to attack foes. <br>
+**Attacks/Defence DR10 - Claws/Bite 1d4 - HP 8**
 
