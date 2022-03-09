@@ -22,15 +22,15 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
 </details>
 
 <details markdown=1><summary>The Basilisks</summary>
-<ins>The Basilisks</ins> are two and two-headed. The four heads have argued for hundreds of years.
+<ins>The Basilisks</ins> are two and two-headed. Hundreds of years ago **SHE** crawled out of Bergen Chrypt and eventually spawned **HE**. The four heads have argued ever since <br>
 
-**SHE** 
+**SHE** [*First of the Basilisks*]
   - Lusi - Head of denial
-  - Arkh - Head of Deception
+  - Arkh - Head of Deception, claims to be the first prophet of truths now prostituted by Verhu
  
-**HE**
+**HE** [*The piles of gold-gift riches from Verhu's faithful teeter and slide, so tall are they*]
   - Gorgh - Bitter, rank with envy
-  - <ins>Verhu</ins> - Damned Truth, whisperer of the prophecy 
+  - <ins>Verhu</ins> - Damned Truth, whisperer of the prophecy
 
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
 </details>
