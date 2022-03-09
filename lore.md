@@ -19,6 +19,8 @@ The dominant religion in the Dying World is the **Church of The One True Faith**
 
 <details border=1px markdown=1><summary>History</summary>
 In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the basilisk **Verhu** and set down his whispered prophecies. These lost texts became known as the *Nameless Scriptures*. 300 years later, while working on a new cathedral, *The Two-Headed Basilisks*, an orthodox branch of the Creton Order uncovered Schleger's tomb and with it the Scriptures. Since then all events described within have come to pass. The prophecies are absolutely, factually true and have, thus, supplanted all other Scripture.
+
+---
 </details>
 
 <details markdown=1><summary>The Basilisks</summary>
@@ -33,6 +35,8 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
   - <ins>Verhu</ins> - Damned Truth, whisperer of the prophecy
 
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
+
+---
 </details>
 
 **The Church of the One True Faith** answers to the Arch-Priestess Josilfa Migol.<br>
