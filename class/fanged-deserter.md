@@ -26,6 +26,8 @@ Sigûrd was the strongest man whose throat you ever gnawed. Woven from his long 
 5. <ins>**Ancient Gore-Hound**</ins> <br>
 Asthmatic, deluded, and on its last legs, this wizened creature still has a superb nose and can sniffle up treasure in the most disgusting debris. Becomes frenzied around goblins and beserkers. <br>
 **Attack DR10 - Defence DR12 - Bite 1d6 - HP 10**
+6. <ins>**The Shoe of Death's Horse**</ins> <br>
+It looks normal but since finding it in an obscure crypt you are conviced this shoe came from the horse of Death itself. In your hands it hits with a **DR10, 1d4 damage.** 1 in 6 chance this shoe smashes the skull, instantly killing small-to-medium sized creatures. The shoe returns to your hand like a boomerang.
 
 
 
