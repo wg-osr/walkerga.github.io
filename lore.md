@@ -6,7 +6,7 @@ permalink: /lore/
 
 *The wind from the west. From the sundered land. Rot rides it, and the stench of **blood**. Cursed walker, will you travel there? To **The valley of the Unfortunate Undead**? Our young ones are taken by the child-thief **Tergol**, known for his vile crimes and alchemy of flesh.*
 
-
+[test map](https://walkerga.github.io/world/)
 
 ## The Calender of Nechrubel
 *The world trembles. One can feel it in ways sharp and subtle, mysterious and clear. One by one, inevitable events demaind their place.*<br>
