@@ -21,7 +21,7 @@ Most of those in power follow **The One True Faith**, forcing their subjects to 
 In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the basilisk **Verhu** and set down his whispered prophecies. These lost texts became known as the *Nameless Scriptures*. 300 years later, while working on a new cathedral, *The Two-Headed Basilisks*, an orthodox branch of the Creton Order uncovered Schleger's tomb and with it the Scriptures. Since then all events described within have come to pass. The prophecies are absolutely, factually true and have, thus, supplanted all other Scripture.
 </details>
 
- 
+<details markdown=1><summary>The Basilisks</summary>
 <ins>The Basilisks</ins> are two and two-headed. The four heads have argued for hundreds of years.
 
 **SHE** 
@@ -32,7 +32,10 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
   - Gorgh - Bitter, rank with envy
   - <ins>Verhu</ins> - Damned Truth, whisperer of the prophecy 
 
-It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which word transcribed and then formed into the Nechrubel Calender
+It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
+</details>
+
+ 
 
 # TEST
 ## TEST
