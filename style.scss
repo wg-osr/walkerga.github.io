@@ -20,6 +20,11 @@ html {
   font-size: 100%;
 }
 
+details {
+	border-color: $white;
+	border: 5px;
+}
+
 body {
 	background: $black; //white
   font: 16px/1.4 $futura;
