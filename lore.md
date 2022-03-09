@@ -7,13 +7,13 @@ permalink: /lore/
 *The wind from the west. From the sundered land. Rot rides it, and the stench of **blood**. Cursed walker, will you travel there? To **The valley of the Unfortunate Undead**? Our young ones are taken by the child-thief **Tergol**, known for his vile crimes and alchemy of flesh.*
 
 
-## The Calender of Nechrubel
+#### The Calender of Nechrubel
 *The world trembles. One can feel it in ways sharp and subtle, mysterious and clear. One by one, inevitable events demaind their place.*<br>
-The **GM** rolls a dice each dawn. A result of 1 activates one misery. The seventh misery is rolled, the world finally dies. The seventh seal is broken for the seventh and final time. The game and your lives end here.
+The **GM** rolls a dice each dawn. A result of 1 activates one misery. When the seventh misery is rolled, the world finally dies. The seventh seal is broken for the seventh and final time. The game and your lives end here.
 
 # RELIGION
 
-The Church of the One True Faith maintains contol over much of this world. While its influence is most powerful within the major kingdoms in the north, it is only slightly less present elsewhere. The basilisk **HE** killed most other gods but those already lost or dying still remain. 
+The dominant religion in the Dying World is the **Church of The One True Faith**. This faith, which took hold 300 years ago, dominates most of the known world. **HE** killed most gods, except for those already lost or dying, and wiped their memories from the world. It is those lost and dying gods who are secretly worshipped and praised behind closed doors.
 
 ### One True Faith
 
@@ -35,8 +35,8 @@ In the year 565 **Anuk Schleger**, a monk of the Creton Order, encountered the b
 It is Verhu who prophesized the seven miseries and the inevitable end of the world. It is his words which were transcribed and then formed into the Nechrubel Calender
 </details>
 
-**The Church of the One True Faith** is headed by Arch-Priestess Josilfa Migol. <br>
-The church's influence is exacted by the Creton Order. Mostly made up of the noble and priestly social class.
+**The Church of the One True Faith** answers to the Arch-Priestess Josilfa Migol.<br>
+Directly under her command are **The Creton Order**, an elite order comprised of those who have decided to dedicate their lives to the church. They are responsible for spreading influence, maintaining control, rooting out heresy, among other "noble" quests.
 
 ---
 
