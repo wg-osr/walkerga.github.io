@@ -5,10 +5,7 @@ permalink: /rules/
 ---
 
 ##### RULES
-- [Abilities](##ABILITIES)
-- [Tests](##TESTS)
-- [Violence](##VIOLENCE)
-- [Rest](##REST)
+
 
 
 
@@ -34,10 +31,11 @@ Tests are made against a **Difficulty Rating** (DR). To succeed roll d20 ± your
 - #### Ranged
     - Test **Presence** DR12
 - #### Defence
-    - Test **Agility** DR12
+    - Test **Agility** DR12<br>
+    
  <br>
-- Crit (Natural 20)
-    - <ins>Attack:</ins> Double damage, armor/protection is also reduced one tier.
+- Crit (Natural 20)<br>
+    - <ins>Attack:</ins> Double damage, armor/protection is also reduced one tier.<br>
     - <ins>Defense:</ins> PC takes double damage and armor is reduced one tier. *When armor is damaged, penalties to Strength and Agility tests are not modified.*<br>
 *Armor reduced **below 1st tier** is ruined and cannot be repaired.*  
 
